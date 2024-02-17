@@ -1,1 +1,13 @@
 
+{
+  "categories": [
+    {
+      "name": "Aile Üyeleri",
+      "id": "1"
+    },
+    {
+      "name": "Renkler",
+      "id": "2"
+    }
+  ]
+}
