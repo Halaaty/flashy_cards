@@ -1,10 +1,6 @@
 {
   "categories": [
     {
-      "name": "Günlük Nesneler",
-      "id": "1"
-    },
-    {
       "name": "Aile Üyeleri",
       "id": "2"
     },
@@ -23,66 +19,6 @@
     {
       "name": "Giyim",
       "id": "6"
-    },
-    {
-      "name": "Ulaşım",
-      "id": "7"
-    },
-    {
-      "name": "Fiiller",
-      "id": "8"
-    },
-    {
-      "name": "Sıfatlar",
-      "id": "9"
-    },
-    {
-      "name": "Yerler",
-      "id": "10"
-    },
-    {
-      "name": "Selamlama ve İfadeler",
-      "id": "11"
-    },
-    {
-      "name": "Meslekler",
-      "id": "12"
-    },
-    {
-      "name": "Hobiler ve Aktiviteler",
-      "id": "13"
-    },
-    {
-      "name": "Doğa ve Çevre",
-      "id": "14"
-    },
-    {
-      "name": "Mutfak Araçları",
-      "id": "15"
-    },
-    {
-      "name": "Okul Malzemeleri",
-      "id": "16"
-    },
-    {
-      "name": "Meyve ve Sebzeler",
-      "id": "17"
-    },
-    {
-      "name": "Gövde Parçaları",
-      "id": "18"
-    },
-    {
-      "name": "Mevsimler",
-      "id": "19"
-    },
-    {
-      "name": "Ev İşleri",
-      "id": "20"
-    },
-    {
-      "name": "Sağlık",
-      "id": "21"
     },
     {
       "name": "Hayvanlar",
