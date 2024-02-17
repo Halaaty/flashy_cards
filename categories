@@ -1,31 +1,31 @@
 {
   "categories": [
     {
-      "name": "Günlük Kelimeler (Everyday Vocabulary)",
+      "name": "Günlük Kelimeler",
       "id": "1"
     },
     {
-      "name": "Aile ve İlişkiler (Family and Relationships)",
+      "name": "Aile ve İlişkiler",
       "id": "2"
     },
     {
-      "name": "Ev ve Günlük Hayat (Home and Daily Life)",
+      "name": "Ev ve Günlük Hayat",
       "id": "3"
     },
     {
-      "name": "Yemek (Food and Dining)",
+      "name": "Yemek",
       "id": "4"
     },
     {
-      "name": "Seyahat ve Ulaşım (Travel and Transportation)",
+      "name": "Seyahat ve Ulaşım",
       "id": "5"
     },
     {
-      "name": "İş ve Meslek (Work and Occupation)",
+      "name": "İş ve Meslek",
       "id": "6"
     },
     {
-      "name": "Eğitim (Education)",
+      "name": "Eğitim",
       "id": "7"
     }
   ]
