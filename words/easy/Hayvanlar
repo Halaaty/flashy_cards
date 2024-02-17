@@ -1,1 +1,29 @@
+{
+  "words": [
+    {
+      "word_en": "dog",
+      "example_en": "The dog chased the cat.",
+      "word_tr": "köpek",
+      "example_tr": "Köpek kediye koştu."
+    },
+    {
+      "word_en": "cat",
+      "example_en": "The cat is sleeping on the couch.",
+      "word_tr": "kedi",
+      "example_tr": "Kedi koltukta uyuyor."
+    },
+    {
+      "word_en": "bird",
+      "example_en": "The bird is singing in the tree.",
+      "word_tr": "kuş",
+      "example_tr": "Kuş ağaçta şarkı söylüyor."
+    },
+    {
+      "word_en": "horse",
+      "example_en": "She likes to ride horses.",
+      "word_tr": "at",
+      "example_tr": "At sürmekten hoşlanıyor."
+    }
+  ]
+}
 
