@@ -26,67 +26,67 @@
     },
     {
       "name": "Ulaşım",
-      "id": "5"
+      "id": "7"
     },
     {
       "name": "Fiiller",
-      "id": "5"
+      "id": "8"
     },
     {
       "name": "Sıfatlar",
-      "id": "5"
+      "id": "9"
     },
     {
       "name": "Yerler",
-      "id": "5"
+      "id": "10"
     },
     {
       "name": "Selamlama ve İfadeler",
-      "id": "5"
+      "id": "11"
     },
     {
       "name": "Meslekler",
-      "id": "5"
+      "id": "12"
     },
     {
       "name": "Hobiler ve Aktiviteler",
-      "id": "5"
+      "id": "13"
     },
     {
       "name": "Doğa ve Çevre",
-      "id": "5"
+      "id": "14"
     },
     {
       "name": "Mutfak Araçları",
-      "id": "5"
+      "id": "15"
     },
     {
       "name": "Okul Malzemeleri",
-      "id": "5"
+      "id": "16"
     },
     {
       "name": "Meyve ve Sebzeler",
-      "id": "5"
+      "id": "17"
     },
     {
       "name": "Gövde Parçaları",
-      "id": "5"
+      "id": "18"
     },
     {
       "name": "Mevsimler",
-      "id": "5"
+      "id": "19"
     },
     {
       "name": "Ev İşleri",
-      "id": "5"
+      "id": "20"
     },
     {
       "name": "Sağlık",
-      "id": "5"
+      "id": "21"
     },
     {
       "name": "Hayvanlar",
-      "id": "7"
+      "id": "22"
     }
   ]
 }
