@@ -1,31 +1,91 @@
 {
   "categories": [
     {
-      "name": "Günlük Kelimeler",
+      "name": "Günlük Nesneler",
       "id": "1"
     },
     {
-      "name": "Aile ve İlişkiler",
+      "name": "Aile Üyeleri",
       "id": "2"
     },
     {
-      "name": "Ev ve Günlük Hayat",
+      "name": "Yiyecek ve İçecek",
       "id": "3"
     },
     {
-      "name": "Yemek",
+      "name": "Renkler",
       "id": "4"
     },
     {
-      "name": "Seyahat ve Ulaşım",
+      "name": "Sayılar",
       "id": "5"
     },
     {
-      "name": "İş ve Meslek",
+      "name": "Giyim",
       "id": "6"
     },
     {
-      "name": "Eğitim",
+      "name": "Ulaşım",
+      "id": "5"
+    },
+    {
+      "name": "Fiiller",
+      "id": "5"
+    },
+    {
+      "name": "Sıfatlar",
+      "id": "5"
+    },
+    {
+      "name": "Yerler",
+      "id": "5"
+    },
+    {
+      "name": "Selamlama ve İfadeler",
+      "id": "5"
+    },
+    {
+      "name": "Meslekler",
+      "id": "5"
+    },
+    {
+      "name": "Hobiler ve Aktiviteler",
+      "id": "5"
+    },
+    {
+      "name": "Doğa ve Çevre",
+      "id": "5"
+    },
+    {
+      "name": "Mutfak Araçları",
+      "id": "5"
+    },
+    {
+      "name": "Okul Malzemeleri:",
+      "id": "5"
+    },
+    {
+      "name": "Meyve ve Sebzeler",
+      "id": "5"
+    },
+    {
+      "name": "Gövde Parçaları",
+      "id": "5"
+    },
+    {
+      "name": "Mevsimler",
+      "id": "5"
+    },
+    {
+      "name": "Ev İşleri",
+      "id": "5"
+    },
+    {
+      "name": "Sağlık",
+      "id": "5"
+    },
+    {
+      "name": "Hayvanlar",
       "id": "7"
     }
   ]
