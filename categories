@@ -1,31 +1,31 @@
 {
   "categories": [
     {
-      "name": "love",
+      "name": "Günlük Kelimeler (Everyday Vocabulary)",
       "id": "1"
     },
     {
-      "name": "wolfer",
+      "name": "Aile ve İlişkiler (Family and Relationships)",
       "id": "2"
     },
     {
-      "name": "google",
+      "name": "Ev ve Günlük Hayat (Home and Daily Life)",
       "id": "3"
     },
     {
-      "name": "translater",
+      "name": "Yemek (Food and Dining)",
       "id": "4"
     },
     {
-      "name": "samirts",
+      "name": "Seyahat ve Ulaşım (Travel and Transportation)",
       "id": "5"
     },
     {
-      "name": "frlaoer",
+      "name": "İş ve Meslek (Work and Occupation)",
       "id": "6"
     },
     {
-      "name": "vfrloer",
+      "name": "Eğitim (Education)",
       "id": "7"
     }
   ]
