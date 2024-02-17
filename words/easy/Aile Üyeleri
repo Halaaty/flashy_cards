@@ -1,1 +1,156 @@
+{
+  "words": [
+    {
+      "word_en": "father",
+      "example_en": "My father works in an office.",
+      "word_tr": "baba",
+      "example_tr": "Babam bir ofiste çalışıyor."
+    },
+    {
+      "word_en": "mother",
+      "example_en": "My mother is a teacher.",
+      "word_tr": "anne",
+      "example_tr": "Annem bir öğretmen."
+    },
+    {
+      "word_en": "brother",
+      "example_en": "I have a younger brother.",
+      "word_tr": "erkek kardeş",
+      "example_tr": "Küçük bir erkek kardeşim var."
+    },
+    {
+      "word_en": "sister",
+      "example_en": "My sister is studying abroad.",
+      "word_tr": "kız kardeş",
+      "example_tr": "Kız kardeşim yurtdışında okuyor."
+    },
+    {
+      "word_en": "grandmother",
+      "example_en": "My grandmother bakes delicious cookies.",
+      "word_tr": "büyükanne",
+      "example_tr": "Büyükanne leziz kurabiyeler pişirir."
+    },
+    {
+      "word_en": "grandfather",
+      "example_en": "My grandfather tells interesting stories.",
+      "word_tr": "büyükbaba",
+      "example_tr": "Büyükbaba ilginç hikayeler anlatır."
+    },
+    {
+      "word_en": "uncle",
+      "example_en": "My uncle is a doctor.",
+      "word_tr": "amca",
+      "example_tr": "Amcam bir doktor."
+    },
+    {
+      "word_en": "aunt",
+      "example_en": "My aunt is a talented artist.",
+      "word_tr": "teyze",
+      "example_tr": "Teyzem yetenekli bir sanatçı."
+    },
+    {
+      "word_en": "cousin",
+      "example_en": "I often play games with my cousin.",
+      "word_tr": "kuzen",
+      "example_tr": "Kuzenimle sık sık oyun oynarım."
+    },
+    {
+      "word_en": "nephew",
+      "example_en": "My nephew is learning to ride a bike.",
+      "word_tr": "yeğen",
+      "example_tr": "Yeğenim bisiklet sürmeyi öğreniyor."
+    },
+    {
+      "word_en": "niece",
+      "example_en": "I bought a gift for my niece's birthday.",
+      "word_tr": "yeğen kız",
+      "example_tr": "Yeğen kızımın doğum günü için bir hediye aldım."
+    },
+    {
+      "word_en": "son",
+      "example_en": "My son loves playing soccer.",
+      "word_tr": "oğul",
+      "example_tr": "Oğlum futbol oynamayı çok sever."
+    },
+    {
+      "word_en": "daughter",
+      "example_en": "My daughter wants to be a doctor when she grows up.",
+      "word_tr": "kız evlat",
+      "example_tr": "Kızım büyüyünce doktor olmak istiyor."
+    },
+    {
+      "word_en": "husband",
+      "example_en": "My husband is an engineer.",
+      "word_tr": "koca",
+      "example_tr": "Kocam bir mühendis."
+    },
+    {
+      "word_en": "wife",
+      "example_en": "My wife is a talented musician.",
+      "word_tr": "eş",
+      "example_tr": "Eşim yetenekli bir müzisyen."
+    },
+    {
+      "word_en": "sibling",
+      "example_en": "My sibling and I used to play together in our childhood.",
+      "word_tr": "kardeş",
+      "example_tr": "Kardeşimle çocukluğumuzda birlikte oynardık."
+    },
+    {
+      "word_en": "parent",
+      "example_en": "My parents are coming to visit us next week.",
+      "word_tr": "ebeveyn",
+      "example_tr": "Ebeveynlerimiz gelecek hafta bizi ziyarete geliyorlar."
+    },
+    {
+      "word_en": "child",
+      "example_en": "Every child deserves love and care.",
+      "word_tr": "çocuk",
+      "example_tr": "Her çocuk sevgi ve ilgiyi hak eder."
+    },
+    {
+      "word_en": "grandchild",
+      "example_en": "My grandmother adores her grandchild.",
+      "word_tr": "torun",
+      "example_tr": "Büyükanne torununu çok seviyor."
+    },
+    {
+      "word_en": "in-law",
+      "example_en": "My sister-in-law is a wonderful cook.",
+      "word_tr": "kayın",
+      "example_tr": "Kayınbiraderim harika bir aşçı."
+    },
+    {
+      "word_en": "aunt",
+      "example_en": "My aunt is coming to visit us next weekend.",
+      "word_tr": "hala",
+      "example_tr": "Halam gelecek hafta sonu bizi ziyarete gelecek."
+    },
+    {
+      "word_en": "uncle",
+      "example_en": "My uncle is a pilot.",
+      "word_tr": "dayı",
+      "example_tr": "Dayım bir pilot."
+    },
+    {
+      "word_en": "cousin",
+      "example_en": "I'm going to meet my cousin for lunch.",
+      "word_tr": "kuzen",
+      "example_tr": "Öğle yemeği için kuzenimle buluşacağım."
+    },
+    {
+      "word_en": "in-law",
+      "example_en": "My brother-in-law is an architect.",
+      "word_tr": "bacanak",
+      "example_tr": "Bacanağım bir mimardır."
+    },
+    {
+      "word_en": "step",
+      "example_en": "My stepmother treats me like her own child.",
+      "word_tr": "üvey",
+      "example_tr": "Üvey annem beni kendi çocuğu gibi sever."
+    }
+  ]
+}
+
 
