@@ -1,43 +1,43 @@
 {
   "categories": [
     {
-      "name": "Günlük Objeler",
+      "name": "Sanat ve Edebiyat",
       "id": "1"
     },
     {
-      "name": "Sayılar ve Sayma",
+      "name": "Felsefe ve Düşünce",
       "id": "2"
     },
     {
-      "name": "Yiyecek ve İçecek",
+      "name": "Bilim ve Teknoloji",
       "id": "3"
     },
     {
-      "name": "Aile Üyeleri",
+      "name": "Tarih ve Kültür",
       "id": "4"
     },
     {
-      "name": "Renkler",
+      "name": "Politika ve Toplum",
       "id": "5"
     },
     {
-      "name": "Selamlaşma ve İfadeler",
+      "name": "Psikoloji ve Davranış",
       "id": "6"
     },
     {
-      "name": "Hayvanlar",
+      "name": "Ekonomi ve Finans",
       "id": "7"
     },
     {
-      "name": "Giyim",
+      "name": "Sağlık ve Tıp",
       "id": "8"
     },
     {
-      "name": "Ulaşım",
+      "name": "Çevre ve Doğal",
       "id": "9"
     },
     {
-      "name": "Hava Durumu",
+      "name": "Eğitim ve Öğretim",
       "id": "10"
     }
   ]
