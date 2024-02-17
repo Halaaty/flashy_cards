@@ -1,43 +1,43 @@
 {
   "categories": [
     {
-      "name": "Günlük Objeler",
+      "name": "Günlük Aktiviteler",
       "id": "1"
     },
     {
-      "name": "Sayılar ve Sayma",
+      "name": "Sosyal İnteraksiyonlar",
       "id": "2"
     },
     {
-      "name": "Yiyecek ve İçecek",
+      "name": "İş ve İstihdam",
       "id": "3"
     },
     {
-      "name": "Aile Üyeleri",
+      "name": "Eğitim",
       "id": "4"
     },
     {
-      "name": "Renkler",
+      "name": "Sağlık ve Wellness",
       "id": "5"
     },
     {
-      "name": "Selamlaşma ve İfadeler",
+      "name": "Eğlence",
       "id": "6"
     },
     {
-      "name": "Hayvanlar",
+      "name": "Teknoloji ve Cihazlar",
       "id": "7"
     },
     {
-      "name": "Giyim",
+      "name": "Seyahat ve Turizm",
       "id": "8"
     },
     {
-      "name": "Ulaşım",
+      "name": "Kültür ve Toplum",
       "id": "9"
     },
     {
-      "name": "Hava Durumu",
+      "name": "Çevre ve Doğa",
       "id": "10"
     }
   ]
