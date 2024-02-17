@@ -1,13 +1,44 @@
-
 {
   "categories": [
     {
-      "name": "Aile Üyeleri",
+      "name": "Günlük Objeler",
       "id": "1"
     },
     {
-      "name": "Renkler",
+      "name": "Sayılar ve Sayma",
       "id": "2"
+    },
+    {
+      "name": "Yiyecek ve İçecek",
+      "id": "3"
+    },
+    {
+      "name": "Aile Üyeleri",
+      "id": "4"
+    },
+    {
+      "name": "Renkler",
+      "id": "5"
+    },
+    {
+      "name": "Selamlaşma ve İfadeler",
+      "id": "6"
+    },
+    {
+      "name": "Hayvanlar",
+      "id": "7"
+    },
+    {
+      "name": "Giyim",
+      "id": "8"
+    },
+    {
+      "name": "Ulaşım",
+      "id": "9"
+    },
+    {
+      "name": "Hava Durumu",
+      "id": "10"
     }
   ]
 }
