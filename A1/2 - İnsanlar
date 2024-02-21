@@ -1,1 +1,71 @@
+{
+  "words": [
+    {
+      "word_en": "man",
+      "word_tr": "adam",
+      "example_en": "The man was walking down the street.",
+      "example_tr": "Adam sokakta yürüyordu."
+    },
+    {
+      "word_en": "woman",
+      "word_tr": "kadın",
+      "example_en": "The woman is reading a book in the park.",
+      "example_tr": "Kadın parkta kitap okuyor."
+    },
+    {
+      "word_en": "boy",
+      "word_tr": "erkek çocuk",
+      "example_en": "The boy is playing with his toy car.",
+      "example_tr": "Erkek çocuk oyuncak arabasıyla oynuyor."
+    },
+    {
+      "word_en": "girl",
+      "word_tr": "kız çocuk",
+      "example_en": "The girl is riding her bicycle in the park.",
+      "example_tr": "Kız çocuk parkta bisiklet sürüyor."
+    },
+    {
+      "word_en": "friend",
+      "word_tr": "arkadaş",
+      "example_en": "He's my best friend.",
+      "example_tr": "O benim en iyi arkadaşım."
+    },
+    {
+      "word_en": "boyfriend",
+      "word_tr": "erkek arkadaş",
+      "example_en": "She's going out with her boyfriend tonight.",
+      "example_tr": "Bu akşam erkek arkadaşıyla dışarı çıkıyor."
+    },
+    {
+      "word_en": "girlfriend",
+      "word_tr": "kız arkadaş",
+      "example_en": "He's meeting his girlfriend for lunch.",
+      "example_tr": "Öğle yemeği için kız arkadaşıyla buluşuyor."
+    },
+    {
+      "word_en": "person",
+      "word_tr": "kişi",
+      "example_en": "Each person has their own story.",
+      "example_tr": "Her kişinin kendi hikayesi vardır."
+    },
+    {
+      "word_en": "people",
+      "word_tr": "insanlar",
+      "example_en": "The park was filled with people enjoying the sunshine.",
+      "example_tr": "Park, güneşin tadını çıkaran insanlarla doluydu."
+    },
+    {
+      "word_en": "adult",
+      "word_tr": "yetişkin",
+      "example_en": "As an adult, you have certain responsibilities.",
+      "example_tr": "Yetişkin olarak, belirli sorumluluklarınız vardır."
+    },
+    {
+      "word_en": "baby",
+      "word_tr": "bebek",
+      "example_en": "The baby is sleeping peacefully.",
+      "example_tr": "Bebek huzurlu bir şekilde uyuyor."
+    }
+  ]
+}
 
