@@ -1,1 +1,65 @@
+{
+  "words": [
+    {
+      "word_en": "body",
+      "word_tr": "vücut",
+      "example_en": "The human body is a complex organism.",
+      "example_tr": "İnsan vücudu karmaşık bir organizmadır."
+    },
+    {
+      "word_en": "hand",
+      "word_tr": "el",
+      "example_en": "She waved her hand to say hello.",
+      "example_tr": "Merhaba demek için elini salladı."
+    },
+    {
+      "word_en": "finger",
+      "word_tr": "parmak",
+      "example_en": "She wore a ring on her finger.",
+      "example_tr": "Parmaklarında bir yüzük taktı."
+    },
+    {
+      "word_en": "arm",
+      "word_tr": "kol",
+      "example_en": "He broke his arm while playing football.",
+      "example_tr": "Futbol oynarken kolunu kırdı."
+    },
+    {
+      "word_en": "foot",
+      "word_tr": "ayak",
+      "example_en": "She hurt her foot while hiking.",
+      "example_tr": "Doğa yürüyüşü yaparken ayağına zarar verdi."
+    },
+    {
+      "word_en": "leg",
+      "word_tr": "bacak",
+      "example_en": "He injured his leg in a skiing accident.",
+      "example_tr": "Kayak kazasında bacağını incitti."
+    },
+    {
+      "word_en": "knee",
+      "word_tr": "diz",
+      "example_en": "She fell and scraped her knee.",
+      "example_tr": "Düştü ve dizi yaralandı."
+    },
+    {
+      "word_en": "back",
+      "word_tr": "sırt",
+      "example_en": "He carries a heavy backpack on his back.",
+      "example_tr": "Sırtında ağır bir sırt çantası taşıyor."
+    },
+    {
+      "word_en": "heart",
+      "word_tr": "kalp",
+      "example_en": "Exercise is good for the heart.",
+      "example_tr": "Egzersiz kalp için iyidir."
+    },
+    {
+      "word_en": "stomach",
+      "word_tr": "mide",
+      "example_en": "Her stomach hurt after eating too much.",
+      "example_tr": "Çok fazla yedikten sonra midem ağrıdı."
+    }
+  ]
+}
 
