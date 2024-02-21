@@ -1,1 +1,89 @@
+{
+  "words": [
+    {
+      "word_en": "head",
+      "word_tr": "baş",
+      "example_en": "She rested her head on the pillow.",
+      "example_tr": "Başını yastığa koydu."
+    },
+    {
+      "word_en": "hair",
+      "word_tr": "saç",
+      "example_en": "She has long, brown hair.",
+      "example_tr": "Uzun, kahverengi saçları var."
+    },
+    {
+      "word_en": "brain",
+      "word_tr": "beyin",
+      "example_en": "The brain is the center of the nervous system.",
+      "example_tr": "Beyin, sinir sisteminin merkezidir."
+    },
+    {
+      "word_en": "neck",
+      "word_tr": "boyun",
+      "example_en": "She wore a necklace around her neck.",
+      "example_tr": "Boyun etrafına bir kolye taktı."
+    },
+    {
+      "word_en": "face",
+      "word_tr": "yüz",
+      "example_en": "She has a beautiful face.",
+      "example_tr": "Güzel bir yüzü var."
+    },
+    {
+      "word_en": "eye",
+      "word_tr": "göz",
+      "example_en": "Her eyes sparkled with joy.",
+      "example_tr": "Gözleri sevinçle parladı."
+    },
+    {
+      "word_en": "eyebrow",
+      "word_tr": "kaş",
+      "example_en": "She raised her eyebrow in surprise.",
+      "example_tr": "Şaşkınlıkla kaşlarını kaldırdı."
+    },
+    {
+      "word_en": "nose",
+      "word_tr": "burun",
+      "example_en": "He has a small nose.",
+      "example_tr": "Küçük bir burnu var."
+    },
+    {
+      "word_en": "ear",
+      "word_tr": "kulak",
+      "example_en": "She whispered in his ear.",
+      "example_tr": "Kulağına fısıldadı."
+    },
+    {
+      "word_en": "cheek",
+      "word_tr": "yanak",
+      "example_en": "She kissed him on the cheek.",
+      "example_tr": "Ona yanaktan öptü."
+    },
+    {
+      "word_en": "chin",
+      "word_tr": "çene",
+      "example_en": "Rest your chin on your hand.",
+      "example_tr": "Çeneni eline daya."
+    },
+    {
+      "word_en": "mouth",
+      "word_tr": "ağız",
+      "example_en": "She smiled, showing her teeth.",
+      "example_tr": "Dişlerini göstererek gülümsedi."
+    },
+    {
+      "word_en": "tooth",
+      "word_tr": "diş",
+      "example_en": "She had a tooth pulled.",
+      "example_tr": "Dişi çektirdi."
+    },
+    {
+      "word_en": "lip",
+      "word_tr": "dudak",
+      "example_en": "She applied lip balm to her dry lips.",
+      "example_tr": "Kuru dudaklarına dudak kremi sürdü."
+    }
+  ]
+}
 
