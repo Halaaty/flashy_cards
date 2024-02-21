@@ -1,1 +1,197 @@
+{
+  "words": [
+    {
+      "word_en": "comment",
+      "word_tr": "yorum",
+      "example_en": "She left a comment on the blog post.",
+      "example_tr": "Blog yazısına bir yorum bıraktı."
+    },
+    {
+      "word_en": "address",
+      "word_tr": "adres",
+      "example_en": "He typed in the website's address.",
+      "example_tr": "Websitesinin adresini yazdı."
+    },
+    {
+      "word_en": "website",
+      "word_tr": "web sitesi",
+      "example_en": "They created a website for their business.",
+      "example_tr": "İşleri için bir web sitesi oluşturdular."
+    },
+    {
+      "word_en": "download",
+      "word_tr": "indirme",
+      "example_en": "She clicked the download button to save the file.",
+      "example_tr": "Dosyayı kaydetmek için indirme düğmesine tıkladı."
+    },
+    {
+      "word_en": "message",
+      "word_tr": "mesaj",
+      "example_en": "He sent a message to his friend.",
+      "example_tr": "Arkadaşına bir mesaj gönderdi."
+    },
+    {
+      "word_en": "click",
+      "word_tr": "tıkla",
+      "example_en": "She clicked on the link to open the webpage.",
+      "example_tr": "Web sayfasını açmak için bağlantıya tıkladı."
+    },
+    {
+      "word_en": "upload",
+      "word_tr": "yüklemek",
+      "example_en": "He uploaded the photos to his social media account.",
+      "example_tr": "Fotoğrafları sosyal medya hesabına yükledi."
+    },
+    {
+      "word_en": "mouse",
+      "word_tr": "fare",
+      "example_en": "She moved the mouse to navigate the computer.",
+      "example_tr": "Bilgisayarı kullanmak için fareyi hareket ettirdi."
+    },
+    {
+      "word_en": "information",
+      "word_tr": "bilgi",
+      "example_en": "The website provided useful information.",
+      "example_tr": "Web sitesi faydalı bilgiler sağladı."
+    },
+    {
+      "word_en": "web page",
+      "word_tr": "web sayfası",
+      "example_en": "They designed a new web page for the company.",
+      "example_tr": "Şirket için yeni bir web sayfası tasarladılar."
+    },
+    {
+      "word_en": "laptop",
+      "word_tr": "dizüstü bilgisayar",
+      "example_en": "She brought her laptop to the coffee shop.",
+      "example_tr": "Kafeye dizüstü bilgisayarını getirdi."
+    },
+    {
+      "word_en": "screen",
+      "word_tr": "ekran",
+      "example_en": "He cleaned the screen of his computer.",
+      "example_tr": "Bilgisayarının ekranını temizledi."
+    },
+    {
+      "word_en": "post",
+      "word_tr": "gönderi",
+      "example_en": "She shared a new post on her social media profile.",
+      "example_tr": "Sosyal medya profilinde yeni bir gönderi paylaştı."
+    },
+    {
+      "word_en": "online",
+      "word_tr": "çevrimiçi",
+      "example_en": "He spent most of his time online.",
+      "example_tr": "Zamanının çoğunu çevrimiçi olarak geçirdi."
+    },
+    {
+      "word_en": "keyboard",
+      "word_tr": "klavye",
+      "example_en": "She typed quickly on the keyboard.",
+      "example_tr": "Klavyede hızlıca yazı yazdı."
+    },
+    {
+      "word_en": "document",
+      "word_tr": "belge",
+      "example_en": "He saved the document to his computer.",
+      "example_tr": "Belgeyi bilgisayarına kaydetti."
+    },
+    {
+      "word_en": "calculator",
+      "word_tr": "hesap makinesi",
+      "example_en": "She used the calculator to do her math homework.",
+      "example_tr": "Matematik ödevini yapmak için hesap makinesini kullandı."
+    },
+    {
+      "word_en": "to draw",
+      "word_tr": "çizmek",
+      "example_en": "He used a drawing program to draw a picture.",
+      "example_tr": "Bir resim çizmek için bir çizim programı kullandı."
+    },
+    {
+      "word_en": "username",
+      "word_tr": "kullanıcı adı",
+      "example_en": "She forgot her username and couldn't log in.",
+      "example_tr": "Kullanıcı adını unuttu ve giriş yapamadı."
+    },
+    {
+      "word_en": "printer",
+      "word_tr": "yazıcı",
+      "example_en": "They printed out the documents for the meeting.",
+      "example_tr": "Toplantı için belgeleri yazdırdılar."
+    },
+    {
+      "word_en": "to color",
+      "word_tr": "renklendirmek",
+      "example_en": "She used markers to color the drawing.",
+      "example_tr": "Resmi renklendirmek için kalemler kullandı."
+    },
+    {
+      "word_en": "the Internet",
+      "word_tr": "İnternet",
+      "example_en": "The Internet connects people from all over the world.",
+      "example_tr": "İnternet dünyanın dört bir yanındaki insanları birbirine bağlar."
+    },
+    {
+      "word_en": "to change",
+      "word_tr": "değiştirmek",
+      "example_en": "He changed the settings on his computer.",
+      "example_tr": "Bilgisayarındaki ayarları değiştirdi."
+    },
+    {
+      "word_en": "to sign out",
+      "word_tr": "çıkış yapmak",
+      "example_en": "She forgot to sign out of her email account.",
+      "example_tr": "E-posta hesabından çıkış yapmayı unuttu."
+    },
+    {
+      "word_en": "copy",
+      "word_tr": "kopya",
+      "example_en": "She made a copy of the document for her records.",
+      "example_tr": "Kayıtları için belgenin bir kopyasını çıkardı."
+    },
+    {
+      "word_en": "digital",
+      "word_tr": "dijital",
+      "example_en": "They stored their photos in digital format.",
+      "example_tr": "Fotoğraflarını dijital formatta sakladılar."
+    },
+    {
+      "word_en": "news",
+      "word_tr": "haber",
+      "example_en": "She checked the news online every morning.",
+      "example_tr": "Her sabah haberleri çevrimiçi kontrol etti."
+    },
+    {
+      "word_en": "email",
+      "word_tr": "e-posta",
+      "example_en": "He sent an email to his boss.",
+      "example_tr": "Patronuna bir e-posta gönderdi."
+    },
+    {
+      "word_en": "google",
+      "word_tr": "aramak",
+      "example_en": "She googled the answer to her question.",
+      "example_tr": "Sorusunun cevabını aradı."
+    },
+    {
+      "word_en": "to sign in",
+      "word_tr": "giriş yapmak",
+      "example_en": "He forgot his password and couldn't sign in.",
+      "example_tr": "Şifresini unuttu ve giriş yapamadı."
+    },
+    {
+      "word_en": "to make",
+      "word_tr": "yapmak",
+      "example_en": "She made a new document for the project.",
+      "example_tr": "Projeye yeni bir belge oluşturdu."
+    },
+    {
+      "word_en": "video",
+      "word_tr": "video",
+      "example_en": "They watched a funny video on the Internet.",
+      "example_tr": "İnternette komik bir video izlediler."
+    }
+  ]
+}
 
