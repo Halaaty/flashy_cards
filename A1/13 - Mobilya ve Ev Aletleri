@@ -1,1 +1,77 @@
+{
+  "words": [
+    {
+      "word_en": "table",
+      "word_tr": "masa",
+      "example_en": "They gathered around the table for dinner.",
+      "example_tr": "Akşam yemeği için masanın etrafında toplandılar."
+    },
+    {
+      "word_en": "sofa",
+      "word_tr": "kanepe",
+      "example_en": "She lounged on the sofa, reading a book.",
+      "example_tr": "Kanepeye uzanmış, kitap okuyordu."
+    },
+    {
+      "word_en": "cabinet",
+      "word_tr": "dolap",
+      "example_en": "She stored her dishes in the cabinet.",
+      "example_tr": "Tabaklarını dolaba yerleştirdi."
+    },
+    {
+      "word_en": "chair",
+      "word_tr": "sandalye",
+      "example_en": "He pulled up a chair and sat down at the table.",
+      "example_tr": "Bir sandalye çekti ve masanın yanına oturdu."
+    },
+    {
+      "word_en": "refrigerator",
+      "word_tr": "buzdolabı",
+      "example_en": "She put the groceries in the refrigerator.",
+      "example_tr": "Market alışverişini buzdolabına koydu."
+    },
+    {
+      "word_en": "carpet",
+      "word_tr": "halı",
+      "example_en": "They rolled out a new carpet in the living room.",
+      "example_tr": "Oturma odasına yeni bir halı serdiler."
+    },
+    {
+      "word_en": "television",
+      "word_tr": "televizyon",
+      "example_en": "They watched a movie together on television.",
+      "example_tr": "Birlikte televizyonda film izlediler."
+    },
+    {
+      "word_en": "desk",
+      "word_tr": "masa",
+      "example_en": "She sat at her desk, ready to start her work.",
+      "example_tr": "İşi başlatmaya hazır olarak masasına oturdu."
+    },
+    {
+      "word_en": "rug",
+      "word_tr": "kilim",
+      "example_en": "They bought a colorful rug for the hallway.",
+      "example_tr": "Koridora renkli bir kilim satın aldılar."
+    },
+    {
+      "word_en": "bed",
+      "word_tr": "yatak",
+      "example_en": "She crawled into bed and fell asleep quickly.",
+      "example_tr": "Yatağa girdi ve hızlıca uyudu."
+    },
+    {
+      "word_en": "stove",
+      "word_tr": "ocak",
+      "example_en": "She cooked dinner on the stove.",
+      "example_tr": "Akşam yemeğini ocakta pişirdi."
+    },
+    {
+      "word_en": "furniture",
+      "word_tr": "mobilya",
+      "example_en": "They moved the furniture around to make more space.",
+      "example_tr": "Daha fazla alan yaratmak için mobilyaları yerinden oynattılar."
+    }
+  ]
+}
 
