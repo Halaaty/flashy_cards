@@ -1,1 +1,149 @@
+{
+  "words": [
+    {
+      "word_en": "clock",
+      "word_tr": "saat",
+      "example_en": "The clock on the wall shows the wrong time.",
+      "example_tr": "Duvardaki saat yanlış zamanı gösteriyor."
+    },
+    {
+      "word_en": "year",
+      "word_tr": "yıl",
+      "example_en": "Next year, we're planning to travel abroad.",
+      "example_tr": "Gelecek yıl, yurtdışına seyahat etmeyi planlıyoruz."
+    },
+    {
+      "word_en": "time",
+      "word_tr": "zaman",
+      "example_en": "Time flies when you're having fun.",
+      "example_tr": "Eğlenirken zaman hızla geçer."
+    },
+    {
+      "word_en": "date",
+      "word_tr": "tarih",
+      "example_en": "What's the date today?",
+      "example_tr": "Bugünün tarihi nedir?"
+    },
+    {
+      "word_en": "day",
+      "word_tr": "gün",
+      "example_en": "Today is a beautiful day.",
+      "example_tr": "Bugün güzel bir gün."
+    },
+    {
+      "word_en": "hour",
+      "word_tr": "saat",
+      "example_en": "The meeting will start in an hour.",
+      "example_tr": "Toplantı bir saat içinde başlayacak."
+    },
+    {
+      "word_en": "o'clock",
+      "word_tr": "saat",
+      "example_en": "Let's meet at 3 o'clock.",
+      "example_tr": "3'te buluşalım."
+    },
+    {
+      "word_en": "minute",
+      "word_tr": "dakika",
+      "example_en": "I'll be there in a few minutes.",
+      "example_tr": "Birkaç dakika içinde orada olacağım."
+    },
+    {
+      "word_en": "second",
+      "word_tr": "saniye",
+      "example_en": "She counted to ten in just a few seconds.",
+      "example_tr": "Sadece birkaç saniyede ona kadar saydı."
+    },
+    {
+      "word_en": "morning",
+      "word_tr": "sabah",
+      "example_en": "I like to take a walk in the morning.",
+      "example_tr": "Sabahları yürüyüş yapmayı severim."
+    },
+    {
+      "word_en": "afternoon",
+      "word_tr": "öğleden sonra",
+      "example_en": "Let's meet for coffee in the afternoon.",
+      "example_tr": "Öğleden sonra kahve için buluşalım."
+    },
+    {
+      "word_en": "evening",
+      "word_tr": "akşam",
+      "example_en": "We usually have dinner together in the evening.",
+      "example_tr": "Akşamları genellikle birlikte akşam yemeği yeriz."
+    },
+    {
+      "word_en": "night",
+      "word_tr": "gece",
+      "example_en": "The stars shine bright in the night sky.",
+      "example_tr": "Yıldızlar gece gökyüzünde parlaklık kazanır."
+    },
+    {
+      "word_en": "week",
+      "word_tr": "hafta",
+      "example_en": "We go grocery shopping once a week.",
+      "example_tr": "Haftada bir market alışverişi yapıyoruz."
+    },
+    {
+      "word_en": "Sunday",
+      "word_tr": "Pazar",
+      "example_en": "We have a family brunch every Sunday.",
+      "example_tr": "Her Pazar ailece brunch yapıyoruz."
+    },
+    {
+      "word_en": "Monday",
+      "word_tr": "Pazartesi",
+      "example_en": "I have a meeting every Monday morning.",
+      "example_tr": "Her Pazartesi sabahı bir toplantım var."
+    },
+    {
+      "word_en": "Tuesday",
+      "word_tr": "Salı",
+      "example_en": "We usually go out for tacos on Tuesday nights.",
+      "example_tr": "Salı geceleri genellikle taco yemeye çıkarız."
+    },
+    {
+      "word_en": "Wednesday",
+      "word_tr": "Çarşamba",
+      "example_en": "Wednesday is the middle of the workweek.",
+      "example_tr": "Çarşamba iş haftasının ortasıdır."
+    },
+    {
+      "word_en": "Thursday",
+      "word_tr": "Perşembe",
+      "example_en": "We have a weekly team meeting on Thursday afternoons.",
+      "example_tr": "Perşembe öğleden sonraları haftalık takım toplantımız var."
+    },
+    {
+      "word_en": "Friday",
+      "word_tr": "Cuma",
+      "example_en": "We're going out for dinner this Friday.",
+      "example_tr": "Bu Cuma akşam yemeği için dışarı çıkıyoruz."
+    },
+    {
+      "word_en": "Saturday",
+      "word_tr": "Cumartesi",
+      "example_en": "We like to relax and watch movies on Saturdays.",
+      "example_tr": "Cumartesi günleri dinlenip film izlemeyi severiz."
+    },
+    {
+      "word_en": "weekend",
+      "word_tr": "hafta sonu",
+      "example_en": "Let's plan a trip for the weekend.",
+      "example_tr": "Hafta sonu için bir gezi planlayalım."
+    },
+    {
+      "word_en": "next",
+      "word_tr": "sonraki",
+      "example_en": "We'll discuss it at the next meeting.",
+      "example_tr": "Bunu bir sonraki toplantıda tartışacağız."
+    },
+    {
+      "word_en": "half",
+      "word_tr": "yarım",
+      "example_en": "We're leaving in half an hour.",
+      "example_tr": "Yarım saat içinde ayrılacağız."
+    }
+  ]
+}
 
