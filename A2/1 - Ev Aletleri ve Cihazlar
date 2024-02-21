@@ -1,1 +1,191 @@
+{
+  "words": [
+    {
+      "word_en": "smoke detector",
+      "word_tr": "duman dedektörü",
+      "example_en": "The smoke detector went off when it sensed smoke.",
+      "example_tr": "Duman dedektörü, duman algıladığında çalışmaya başladı."
+    },
+    {
+      "word_en": "toaster oven",
+      "word_tr": "tost makinesi",
+      "example_en": "She toasted some bread in the toaster oven.",
+      "example_tr": "Tost makinesinde biraz ekmek kızarttı."
+    },
+    {
+      "word_en": "radio",
+      "word_tr": "radyo",
+      "example_en": "They listened to the news on the radio.",
+      "example_tr": "Haberleri radyoda dinlediler."
+    },
+    {
+      "word_en": "loudspeaker",
+      "word_tr": "hoparlör",
+      "example_en": "The loudspeaker projected the sound across the room.",
+      "example_tr": "Hoparlör sesi odanın dört bir yanına yansıttı."
+    },
+    {
+      "word_en": "DVD player",
+      "word_tr": "DVD oynatıcı",
+      "example_en": "They watched a movie on the DVD player.",
+      "example_tr": "DVD oynatıcıda bir film izlediler."
+    },
+    {
+      "word_en": "alarm clock",
+      "word_tr": "çalar saat",
+      "example_en": "She set her alarm clock for 6 AM.",
+      "example_tr": "Çalar saatinin alarmını sabah 6'ya kurdu."
+    },
+    {
+      "word_en": "air conditioner",
+      "word_tr": "klima",
+      "example_en": "They turned on the air conditioner to cool the room.",
+      "example_tr": "Odayı soğutmak için klimaları açtılar."
+    },
+    {
+      "word_en": "telephone",
+      "word_tr": "telefon",
+      "example_en": "She answered the telephone when it rang.",
+      "example_tr": "Telefon çaldığında cevapladı."
+    },
+    {
+      "word_en": "equipment",
+      "word_tr": "ekipman",
+      "example_en": "The equipment was stored in the garage.",
+      "example_tr": "Ekipman garajda saklandı."
+    },
+    {
+      "word_en": "iron",
+      "word_tr": "ütü",
+      "example_en": "She ironed her clothes before going to work.",
+      "example_tr": "İşe gitmeden önce kıyafetlerini ütüledi."
+    },
+    {
+      "word_en": "device",
+      "word_tr": "cihaz",
+      "example_en": "The device stopped working suddenly.",
+      "example_tr": "Cihaz aniden çalışmayı durdurdu."
+    },
+    {
+      "word_en": "fan",
+      "word_tr": "fan",
+      "example_en": "They turned on the fan to cool the room.",
+      "example_tr": "Odayı serinletmek için fana çevirdiler."
+    },
+    {
+      "word_en": "hair dryer",
+      "word_tr": "saç kurutma makinesi",
+      "example_en": "She dried her hair with the hair dryer.",
+      "example_tr": "Saçlarını saç kurutma makinesiyle kuruttu."
+    },
+    {
+      "word_en": "remote control",
+      "word_tr": "uzaktan kumanda",
+      "example_en": "He used the remote control to change the channel.",
+      "example_tr": "Kanalı değiştirmek için uzaktan kumandayı kullandı."
+    },
+    {
+      "word_en": "oven",
+      "word_tr": "fırın",
+      "example_en": "She baked cookies in the oven.",
+      "example_tr": "Fırında kurabiye pişirdi."
+    },
+    {
+      "word_en": "washing machine",
+      "word_tr": "çamaşır makinesi",
+      "example_en": "She put her clothes in the washing machine.",
+      "example_tr": "Kıyafetlerini çamaşır makinesine koydu."
+    },
+    {
+      "word_en": "line",
+      "word_tr": "hat",
+      "example_en": "She waited for someone to answer on the line.",
+      "example_tr": "Hatta birinin cevaplamasını bekledi."
+    },
+    {
+      "word_en": "coffee maker",
+      "word_tr": "kahve makinesi",
+      "example_en": "She brewed some coffee in the coffee maker.",
+      "example_tr": "Kahve makinesinde biraz kahve demledi."
+    },
+    {
+      "word_en": "electrical",
+      "word_tr": "elektrikli",
+      "example_en": "The electrical outlet wasn't working.",
+      "example_tr": "Elektrik prizi çalışmıyordu."
+    },
+    {
+      "word_en": "camera",
+      "word_tr": "kamera",
+      "example_en": "She took a photo with her camera.",
+      "example_tr": "Kamerasıyla bir fotoğraf çekti."
+    },
+    {
+      "word_en": "dishwasher",
+      "word_tr": "bulaşık makinesi",
+      "example_en": "They loaded the dishes into the dishwasher.",
+      "example_tr": "Bulaşıkları bulaşık makinesine yerleştirdiler."
+    },
+    {
+      "word_en": "system",
+      "word_tr": "sistem",
+      "example_en": "The security system was installed last month.",
+      "example_tr": "Güvenlik sistemi geçen ay kuruldu."
+    },
+    {
+      "word_en": "broken",
+      "word_tr": "arızalı",
+      "example_en": "The TV was broken and needed repair.",
+      "example_tr": "Televizyon arızalıydı ve tamir edilmeliydi."
+    },
+    {
+      "word_en": "vacuum cleaner",
+      "word_tr": "elektrikli süpürge",
+      "example_en": "She vacuumed the carpets with the vacuum cleaner.",
+      "example_tr": "Elektrikli süpürge ile halıları süpürdü."
+    },
+    {
+      "word_en": "flashlight",
+      "word_tr": "el feneri",
+      "example_en": "She used a flashlight to find her way in the dark.",
+      "example_tr": "Karanlıkta yolunu bulmak için el feneri kullandı."
+    },
+    {
+      "word_en": "heater",
+      "word_tr": "ısıtıcı",
+      "example_en": "They turned on the heater to warm up the room.",
+      "example_tr": "Odayı ısıtmak için ısıtıcıyı açtılar."
+    },
+    {
+      "word_en": "to use",
+      "word_tr": "kullanmak",
+      "example_en": "She used the computer to write her report.",
+      "example_tr": "Raporunu yazmak için bilgisayarı kullandı."
+    },
+    {
+      "word_en": "to repair",
+      "word_tr": "tamir etmek",
+      "example_en": "They called a technician to repair the broken appliance.",
+      "example_tr": "Arızalı cihazı tamir etmek için bir teknisyen çağırdılar."
+    },
+    {
+      "word_en": "work",
+      "word_tr": "çalışmak",
+      "example_en": "The machine stopped working suddenly.",
+      "example_tr": "Makine aniden çalışmayı durdurdu."
+    },
+    {
+      "word_en": "to turn on",
+      "word_tr": "açmak",
+      "example_en": "He turned on the light when it got dark.",
+      "example_tr": "Karanlıkta olduğunda ışığı açtı."
+    },
+    {
+      "word_en": "to turn off",
+      "word_tr": "kapatmak",
+      "example_en": "She turned off the TV before going to bed.",
+      "example_tr": "Yatmadan önce televizyonu kapattı."
+    }
+  ]
+}
 
