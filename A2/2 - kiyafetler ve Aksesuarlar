@@ -1,1 +1,161 @@
+{
+  "words": [
+    {
+      "word_en": "bracelet",
+      "word_tr": "bilezik",
+      "example_en": "She wore a gold bracelet on her wrist.",
+      "example_tr": "Bileği üzerinde altın bir bilezik takıyordu."
+    },
+    {
+      "word_en": "to put on",
+      "word_tr": "giymek",
+      "example_en": "He put on his coat before going outside.",
+      "example_tr": "Dışarı çıkmadan önce palto giydi."
+    },
+    {
+      "word_en": "umbrella",
+      "word_tr": "şemsiye",
+      "example_en": "She carried an umbrella to protect herself from the rain.",
+      "example_tr": "Yağmurdan korunmak için bir şemsiye taşıyordu."
+    },
+    {
+      "word_en": "jewelry",
+      "word_tr": "mücevher",
+      "example_en": "She admired the sparkling jewelry in the display case.",
+      "example_tr": "Vitrinde parlayan mücevherlere hayran kaldı."
+    },
+    {
+      "word_en": "cap",
+      "word_tr": "kapak",
+      "example_en": "He wore a baseball cap to shield his eyes from the sun.",
+      "example_tr": "Gözlerini güneşten korumak için bir beyzbol şapkası taktı."
+    },
+    {
+      "word_en": "to try on",
+      "word_tr": "denemek",
+      "example_en": "She tried on several dresses before choosing one.",
+      "example_tr": "Bir tane seçmeden önce birkaç elbise denedi."
+    },
+    {
+      "word_en": "to change",
+      "word_tr": "değiştirmek",
+      "example_en": "He changed into his pajamas before going to bed.",
+      "example_tr": "Yatmaya gitmeden önce pijamalarını değiştirdi."
+    },
+    {
+      "word_en": "to take off",
+      "word_tr": "çıkarmak",
+      "example_en": "She took off her shoes before entering the house.",
+      "example_tr": "Eve girmeden önce ayakkabılarını çıkardı."
+    },
+    {
+      "word_en": "glasses",
+      "word_tr": "gözlük",
+      "example_en": "He wore glasses to improve his vision.",
+      "example_tr": "Görüşünü düzeltmek için gözlük takıyordu."
+    },
+    {
+      "word_en": "pocket",
+      "word_tr": "cep",
+      "example_en": "He kept his keys in his pocket.",
+      "example_tr": "Anahtarlarını cebinde tutuyordu."
+    },
+    {
+      "word_en": "watch",
+      "word_tr": "saat",
+      "example_en": "She checked her watch to see the time.",
+      "example_tr": "Zamanı görmek için saatinde kontrol etti."
+    },
+    {
+      "word_en": "button",
+      "word_tr": "düğme",
+      "example_en": "She sewed the button back onto her shirt.",
+      "example_tr": "Düğmeyi gömleğine yeniden dikti."
+    },
+    {
+      "word_en": "to change",
+      "word_tr": "değiştirmek",
+      "example_en": "She changed her outfit three times before deciding on one.",
+      "example_tr": "Bir tane seçmeden önce kıyafetini üç kez değiştirdi."
+    },
+    {
+      "word_en": "necklace",
+      "word_tr": "kolye",
+      "example_en": "She wore a diamond necklace to the gala.",
+      "example_tr": "Baloya elmas bir kolye taktı."
+    },
+    {
+      "word_en": "perfume",
+      "word_tr": "parfüm",
+      "example_en": "He sprayed some perfume on before going out.",
+      "example_tr": "Dışarı çıkmadan önce biraz parfüm sıktı."
+    },
+    {
+      "word_en": "accessory",
+      "word_tr": "aksesuar",
+      "example_en": "She liked to wear bold accessories with her outfits.",
+      "example_tr": "Kıyafetleriyle cesur aksesuarlar takmayı seviyordu."
+    },
+    {
+      "word_en": "shorts",
+      "word_tr": "şort",
+      "example_en": "He wore shorts and a T-shirt in the hot weather.",
+      "example_tr": "Sıcak havada şort ve tişört giyiyordu."
+    },
+    {
+      "word_en": "blouse",
+      "word_tr": "bluz",
+      "example_en": "She wore a silk blouse to the party.",
+      "example_tr": "Partiye ipek bir bluz giydi."
+    },
+    {
+      "word_en": "wallet",
+      "word_tr": "cüzdan",
+      "example_en": "He kept his money and cards in his wallet.",
+      "example_tr": "Parasını ve kartlarını cüzdanında tutuyordu."
+    },
+    {
+      "word_en": "tights",
+      "word_tr": "tayt",
+      "example_en": "She wore black tights under her skirt.",
+      "example_tr": "Eteğinin altına siyah tayt giydi."
+    },
+    {
+      "word_en": "loose",
+      "word_tr": "gevşek",
+      "example_en": "She preferred to wear loose-fitting clothes in the summer.",
+      "example_tr": "Yazın gevşek giysiler giymeyi tercih ediyordu."
+    },
+    {
+      "word_en": "ring",
+      "word_tr": "yüzük",
+      "example_en": "She wore a diamond ring on her finger.",
+      "example_tr": "Parmagında elmas bir yüzük takıyordu."
+    },
+    {
+      "word_en": "to fit",
+      "word_tr": "uygun olmak",
+      "example_en": "The dress didn't fit her properly.",
+      "example_tr": "Elbise ona uygun değildi."
+    },
+    {
+      "word_en": "uniform",
+      "word_tr": "üniforma",
+      "example_en": "He wore a uniform to work every day.",
+      "example_tr": "Her gün işe üniforma giyiyordu."
+    },
+    {
+      "word_en": "earring",
+      "word_tr": "küpe",
+      "example_en": "She wore silver earrings with her evening gown.",
+      "example_tr": "Akşam elbisesiyle gümüş küpe taktı."
+    },
+    {
+      "word_en": "broken",
+      "word_tr": "kırık",
+      "example_en": "Her necklace was broken and needed repair.",
+      "example_tr": "Onun kolyesi kırıktı ve tamir edilmeliydi."
+    }
+  ]
+}
 
