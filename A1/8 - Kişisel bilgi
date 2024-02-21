@@ -1,1 +1,77 @@
+{
+  "words": [
+    {
+      "word_en": "name",
+      "word_tr": "isim",
+      "example_en": "What is your name?",
+      "example_tr": "İsminiz nedir?"
+    },
+    {
+      "word_en": "last name",
+      "word_tr": "soyadı",
+      "example_en": "Please write your last name here.",
+      "example_tr": "Lütfen soyadınızı buraya yazın."
+    },
+    {
+      "word_en": "age",
+      "word_tr": "yaş",
+      "example_en": "She is six years old.",
+      "example_tr": "O, altı yaşında."
+    },
+    {
+      "word_en": "address",
+      "word_tr": "adres",
+      "example_en": "Can you give me your address?",
+      "example_tr": "Adresinizi verebilir misiniz?"
+    },
+    {
+      "word_en": "birthday",
+      "word_tr": "doğum günü",
+      "example_en": "We're celebrating her birthday on Saturday.",
+      "example_tr": "Cumartesi günü doğum gününü kutluyoruz."
+    },
+    {
+      "word_en": "birthdate",
+      "word_tr": "doğum tarihi",
+      "example_en": "Her birthdate is in the official records.",
+      "example_tr": "Doğum tarihi resmi kayıtlarda bulunuyor."
+    },
+    {
+      "word_en": "single",
+      "word_tr": "bekar",
+      "example_en": "He is currently single.",
+      "example_tr": "Şu anda bekar."
+    },
+    {
+      "word_en": "married",
+      "word_tr": "evli",
+      "example_en": "They have been happily married for ten years.",
+      "example_tr": "Onlar on yıldır mutlu bir şekilde evli."
+    },
+    {
+      "word_en": "passport",
+      "word_tr": "pasaport",
+      "example_en": "Please provide your passport for verification.",
+      "example_tr": "Lütfen doğrulama için pasaportunuzu sağlayın."
+    },
+    {
+      "word_en": "phone number",
+      "word_tr": "telefon numarası",
+      "example_en": "Can I have your phone number, please?",
+      "example_tr": "Telefon numaranızı alabilir miyim, lütfen?"
+    },
+    {
+      "word_en": "question",
+      "word_tr": "soru",
+      "example_en": "Do you have any questions?",
+      "example_tr": "Herhangi bir sorunuz var mı?"
+    },
+    {
+      "word_en": "answer",
+      "word_tr": "cevap",
+      "example_en": "Please write your answer in the space provided.",
+      "example_tr": "Lütfen cevabınızı sağlanan alana yazın."
+    }
+  ]
+}
 
