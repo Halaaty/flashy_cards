@@ -1,0 +1,95 @@
+
+{
+  "words": [
+    {
+      "word_en": "employee",
+      "word_tr": "çalışan",
+      "example_en": "She is a dedicated employee.",
+      "example_tr": "O, özverili bir çalışandır."
+    },
+    {
+      "word_en": "work",
+      "word_tr": "iş",
+      "example_en": "He has a lot of work to do.",
+      "example_tr": "Yapması gereken çok işi var."
+    },
+    {
+      "word_en": "money",
+      "word_tr": "para",
+      "example_en": "She earns a lot of money.",
+      "example_tr": "Çok para kazanıyor."
+    },
+    {
+      "word_en": "nurse",
+      "word_tr": "hemşire",
+      "example_en": "The nurse took care of the patients.",
+      "example_tr": "Hemşire hastalarla ilgilendi."
+    },
+    {
+      "word_en": "teacher",
+      "word_tr": "öğretmen",
+      "example_en": "The teacher explained the lesson clearly.",
+      "example_tr": "Öğretmen dersi açık bir şekilde anlattı."
+    },
+    {
+      "word_en": "actor",
+      "word_tr": "aktör",
+      "example_en": "The actor performed brilliantly in the play.",
+      "example_tr": "Aktör, oyunda harika bir performans sergiledi."
+    },
+    {
+      "word_en": "waitress",
+      "word_tr": "garson",
+      "example_en": "The waitress brought the drinks to the table.",
+      "example_tr": "Garson içecekleri masaya getirdi."
+    },
+    {
+      "word_en": "job",
+      "word_tr": "iş",
+      "example_en": "She's looking for a new job.",
+      "example_tr": "Yeni bir iş arıyor."
+    },
+    {
+      "word_en": "engineer",
+      "word_tr": "mühendis",
+      "example_en": "The engineer designed the new bridge.",
+      "example_tr": "Mühendis yeni köprüyü tasarladı."
+    },
+    {
+      "word_en": "actress",
+      "word_tr": "aktris",
+      "example_en": "The actress played the lead role in the movie.",
+      "example_tr": "Aktris, filmde başrolü oynadı."
+    },
+    {
+      "word_en": "police officer",
+      "word_tr": "polis memuru",
+      "example_en": "The police officer arrested the suspect.",
+      "example_tr": "Polis memuru şüpheliyi tutukladı."
+    },
+    {
+      "word_en": "dentist",
+      "word_tr": "dişçi",
+      "example_en": "She visited the dentist for a checkup.",
+      "example_tr": "Kontrol için dişçiye gitti."
+    },
+    {
+      "word_en": "driver",
+      "word_tr": "sürücü",
+      "example_en": "The driver stopped the bus at the station.",
+      "example_tr": "Sürücü otobüsü istasyonda durdurdu."
+    },
+    {
+      "word_en": "waiter",
+      "word_tr": "garson",
+      "example_en": "The waiter took their orders.",
+      "example_tr": "Garson siparişlerini aldı."
+    },
+    {
+      "word_en": "doctor",
+      "word_tr": "doktor",
+      "example_en": "The doctor treated the patient's illness.",
+      "example_tr": "Doktor hastalığı tedavi etti."
+    }
+  ]
+}
