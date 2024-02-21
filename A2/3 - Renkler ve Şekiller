@@ -1,1 +1,190 @@
-
+{
+  "words": [
+    {
+      "word_en": "gold",
+      "word_tr": "altın",
+      "example_en": "She wore a necklace made of pure gold.",
+      "example_tr": "Saf altından yapılmış bir kolye taktı."
+    },
+    {
+      "word_en": "star",
+      "word_tr": "yıldız",
+      "example_en": "They gazed at the stars in the night sky.",
+      "example_tr": "Gece gökyüzündeki yıldızlara baktılar."
+    },
+    {
+      "word_en": "brightness",
+      "word_tr": "parlaklık",
+      "example_en": "The brightness of the sun hurt her eyes.",
+      "example_tr": "Güneşin parlaklığı gözlerini acıttı."
+    },
+    {
+      "word_en": "darkness",
+      "word_tr": "karanlık",
+      "example_en": "She was afraid of the darkness.",
+      "example_tr": "Karanlıktan korkuyordu."
+    },
+    {
+      "word_en": "cream",
+      "word_tr": "krema",
+      "example_en": "She applied some cream to her dry skin.",
+      "example_tr": "Kuru cildine biraz krem sürdü."
+    },
+    {
+      "word_en": "round",
+      "word_tr": "yuvarlak",
+      "example_en": "She liked the round shape of the table.",
+      "example_tr": "Masaın yuvarlak şeklini beğendi."
+    },
+    {
+      "word_en": "to color",
+      "word_tr": "renklendirmek",
+      "example_en": "They used crayons to color the picture.",
+      "example_tr": "Resmi renklendirmek için pastel kalemler kullandılar."
+    },
+    {
+      "word_en": "to draw",
+      "word_tr": "çizmek",
+      "example_en": "She drew a portrait of her friend.",
+      "example_tr": "Arkadaşının portresini çizdi."
+    },
+    {
+      "word_en": "line",
+      "word_tr": "çizgi",
+      "example_en": "He drew a straight line with a ruler.",
+      "example_tr": "Cetvelle düz bir çizgi çizdi."
+    },
+    {
+      "word_en": "diamond",
+      "word_tr": "elmas",
+      "example_en": "She wore diamond earrings to the party.",
+      "example_tr": "Partiye elmas küpe taktı."
+    },
+    {
+      "word_en": "center",
+      "word_tr": "merkez",
+      "example_en": "The town square was at the center of the city.",
+      "example_tr": "Şehrin merkezindeki meydan şehrin ortasındaydı."
+    },
+    {
+      "word_en": "pale",
+      "word_tr": "soluk",
+      "example_en": "Her face turned pale when she heard the news.",
+      "example_tr": "Haberleri duyduğunda yüzü soluklaştı."
+    },
+    {
+      "word_en": "silver",
+      "word_tr": "gümüş",
+      "example_en": "She wore a silver bracelet on her wrist.",
+      "example_tr": "Bileği üzerinde gümüş bir bilezik takıyordu."
+    },
+    {
+      "word_en": "square",
+      "word_tr": "kare",
+      "example_en": "The room had a square-shaped window.",
+      "example_tr": "Odanın kare şeklinde bir penceresi vardı."
+    },
+    {
+      "word_en": "side",
+      "word_tr": "kenar",
+      "example_en": "He stood by her side during the difficult times.",
+      "example_tr": "Zor zamanlarında onun yanında durdu."
+    },
+    {
+      "word_en": "surface",
+      "word_tr": "yüzey",
+      "example_en": "The surface of the water was calm.",
+      "example_tr": "Su yüzeyi sakin idi."
+    },
+    {
+      "word_en": "bright",
+      "word_tr": "parlak",
+      "example_en": "She wore a bright yellow dress to the party.",
+      "example_tr": "Partiye parlak sarı bir elbise giydi."
+    },
+    {
+      "word_en": "to fit",
+      "word_tr": "uygun olmak",
+      "example_en": "The shoes didn't fit her properly.",
+      "example_tr": "Ayakkabılar ona uygun değildi."
+    },
+    {
+      "word_en": "to take off",
+      "word_tr": "çıkarmak",
+      "example_en": "She took off her coat when she entered the house.",
+      "example_tr": "Eve girdiğinde ceketini çıkardı."
+    },
+    {
+      "word_en": "to change",
+      "word_tr": "değiştirmek",
+      "example_en": "He changed his clothes after getting wet in the rain.",
+      "example_tr": "Yağmurda ıslanınca kıyafetlerini değiştirdi."
+    },
+    {
+      "word_en": "colored",
+      "word_tr": "renkli",
+      "example_en": "She liked to wear brightly colored clothes.",
+      "example_tr": "Parlak renkli kıyafetleri giymeyi seviyordu."
+    },
+    {
+      "word_en": "whole",
+      "word_tr": "tüm",
+      "example_en": "She ate the whole cake by herself.",
+      "example_tr": "Tüm pastayı tek başına yedi."
+    },
+    {
+      "word_en": "shape",
+      "word_tr": "şekil",
+      "example_en": "The clouds formed interesting shapes in the sky.",
+      "example_tr": "Bulutlar gökyüzünde ilginç şekiller oluşturdu."
+    },
+    {
+      "word_en": "paint",
+      "word_tr": "boya",
+      "example_en": "He used watercolor paint to create his masterpiece.",
+      "example_tr": "Başyapıtını oluşturmak için suluboya kullandı."
+    },
+    {
+      "word_en": "dot",
+      "word_tr": "nokta",
+      "example_en": "She placed a dot on the paper with a pen.",
+      "example_tr": "Kalemiyle kağıda bir nokta koydu."
+    },
+    {
+      "word_en": "to color",
+      "word_tr": "renklendirmek",
+      "example_en": "She colored the walls of her room pink.",
+      "example_tr": "Odasının duvarlarını pembe renge boyadı."
+    },
+    {
+      "word_en": "to draw",
+      "word_tr": "çizmek",
+      "example_en": "He drew a picture of a house with crayons.",
+      "example_tr": "Pastel kalemlerle bir ev resmi çizdi."
+    },
+    {
+      "word_en": "flat",
+      "word_tr": "düz",
+      "example_en": "The road was flat and straight for miles.",
+      "example_tr": "Yol mil boyunca düz ve düzdü."
+    },
+    {
+      "word_en": "to draw",
+      "word_tr": "çizmek",
+      "example_en": "She drew a picture of her family.",
+      "example_tr": "Ailesinin resmini çizdi."
+    },
+    {
+      "word_en": "cross",
+      "word_tr": "haç",
+      "example_en": "The cross was a symbol of Christianity.",
+      "example_tr": "Haç, Hristiyanlığın bir sembolüydü."
+    },
+    {
+      "word_en": "to draw",
+      "word_tr": "çizmek",
+      "example_en": "He drew a map to show the way.",
+      "example_tr": "Yolu göstermek için bir harita çizdi."
+    }
+  ]
+}
