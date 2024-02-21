@@ -1,1 +1,209 @@
+{
+  "words": [
+    {
+      "word_en": "good",
+      "word_tr": "iyi",
+      "example_en": "She did a good job on her project.",
+      "example_tr": "Projesinde iyi bir iş çıkardı."
+    },
+    {
+      "word_en": "bad",
+      "word_tr": "kötü",
+      "example_en": "It was a bad experience.",
+      "example_tr": "Bu kötü bir deneyimdi."
+    },
+    {
+      "word_en": "high",
+      "word_tr": "yüksek",
+      "example_en": "The mountain peak is very high.",
+      "example_tr": "Dağın zirvesi çok yüksek."
+    },
+    {
+      "word_en": "low",
+      "word_tr": "düşük",
+      "example_en": "The temperature is low in winter.",
+      "example_tr": "Kışın sıcaklık düşüktür."
+    },
+    {
+      "word_en": "big",
+      "word_tr": "büyük",
+      "example_en": "He has a big house.",
+      "example_tr": "Büyük bir evi var."
+    },
+    {
+      "word_en": "small",
+      "word_tr": "küçük",
+      "example_en": "She has a small car.",
+      "example_tr": "Küçük bir arabası var."
+    },
+    {
+      "word_en": "heavy",
+      "word_tr": "ağır",
+      "example_en": "The box is too heavy to lift.",
+      "example_tr": "Kutu kaldırmak için çok ağırdır."
+    },
+    {
+      "word_en": "light",
+      "word_tr": "hafif",
+      "example_en": "The feather is very light.",
+      "example_tr": "Tüy çok hafiftir."
+    },
+    {
+      "word_en": "expensive",
+      "word_tr": "pahalı",
+      "example_en": "The jewelry was very expensive.",
+      "example_tr": "Mücevher çok pahalıydı."
+    },
+    {
+      "word_en": "cheap",
+      "word_tr": "ucuz",
+      "example_en": "He bought a cheap watch.",
+      "example_tr": "Ucuz bir saat satın aldı."
+    },
+    {
+      "word_en": "old",
+      "word_tr": "eski",
+      "example_en": "The house is very old.",
+      "example_tr": "Ev çok eski."
+    },
+    {
+      "word_en": "new",
+      "word_tr": "yeni",
+      "example_en": "She got a new phone.",
+      "example_tr": "Yeni bir telefon aldı."
+    },
+    {
+      "word_en": "beautiful",
+      "word_tr": "güzel",
+      "example_en": "The sunset was beautiful.",
+      "example_tr": "Günbatımı çok güzeldi."
+    },
+    {
+      "word_en": "ugly",
+      "word_tr": "çirkin",
+      "example_en": "The building is ugly.",
+      "example_tr": "Bina çirkin."
+    },
+    {
+      "word_en": "clean",
+      "word_tr": "temiz",
+      "example_en": "She likes to keep her house clean.",
+      "example_tr": "Evini temiz tutmayı sever."
+    },
+    {
+      "word_en": "dirty",
+      "word_tr": "kirli",
+      "example_en": "The room was dirty.",
+      "example_tr": "Oda kirliydi."
+    },
+    {
+      "word_en": "easy",
+      "word_tr": "kolay",
+      "example_en": "The test was easy.",
+      "example_tr": "Sınav kolaydı."
+    },
+    {
+      "word_en": "difficult",
+      "word_tr": "zor",
+      "example_en": "The puzzle was difficult to solve.",
+      "example_tr": "Bulmacayı çözmek zordu."
+    },
+    {
+      "word_en": "fast",
+      "word_tr": "hızlı",
+      "example_en": "He ran fast to catch the bus.",
+      "example_tr": "Otobüsü yakalamak için hızlı koştu."
+    },
+    {
+      "word_en": "slow",
+      "word_tr": "yavaş",
+      "example_en": "The traffic was moving slow.",
+      "example_tr": "Trafik yavaş ilerliyordu."
+    },
+    {
+      "word_en": "different",
+      "word_tr": "farklı",
+      "example_en": "They have different tastes in music.",
+      "example_tr": "Müzik zevkleri farklı."
+    },
+    {
+      "word_en": "similar",
+      "word_tr": "benzer",
+      "example_en": "The two paintings are very similar.",
+      "example_tr": "İki resim birbirine çok benziyor."
+    },
+    {
+      "word_en": "right",
+      "word_tr": "doğru",
+      "example_en": "His answer was right.",
+      "example_tr": "Cevabı doğruydu."
+    },
+    {
+      "word_en": "wrong",
+      "word_tr": "yanlış",
+      "example_en": "She gave the wrong directions.",
+      "example_tr": "Yanlış yönlendirmeler verdi."
+    },
+    {
+      "word_en": "open",
+      "word_tr": "açık",
+      "example_en": "The window was open.",
+      "example_tr": "Pencere açıktı."
+    },
+    {
+      "word_en": "closed",
+      "word_tr": "kapalı",
+      "example_en": "The door was closed.",
+      "example_tr": "Kapı kapalıydı."
+    },
+    {
+      "word_en": "true",
+      "word_tr": "doğru",
+      "example_en": "What he said was true.",
+      "example_tr": "Söylediği doğruydu."
+    },
+    {
+      "word_en": "false",
+      "word_tr": "yanlış",
+      "example_en": "The statement was false.",
+      "example_tr": "Açıklama yanlıştı."
+    },
+    {
+      "word_en": "rich",
+      "word_tr": "zengin",
+      "example_en": "He became rich after winning the lottery.",
+      "example_tr": "Lotoyu kazandıktan sonra zengin oldu."
+    },
+    {
+      "word_en": "poor",
+      "word_tr": "fakir",
+      "example_en": "The family was poor and struggled to make ends meet.",
+      "example_tr": "Aile fakirdi ve geçim sıkıntısı çekiyordu."
+    },
+    {
+      "word_en": "sure",
+      "word_tr": "emin",
+      "example_en": "Are you sure about your decision?",
+      "example_tr": "Kararından emin misin?"
+    },
+    {
+      "word_en": "unsure",
+      "word_tr": "emin olmayan",
+      "example_en": "He was unsure whether to accept the job offer.",
+      "example_tr": "İş teklifini kabul etmek konusunda emin değildi."
+    },
+    {
+      "word_en": "correct",
+      "word_tr": "doğru",
+      "example_en": "Her answer was correct.",
+      "example_tr": "Cevabı doğruydu."
+    },
+    {
+      "word_en": "incorrect",
+      "word_tr": "yanlış",
+      "example_en": "The spelling of the word was incorrect.",
+      "example_tr": "Kelimenin yazımı yanlıştı."
+    }
+  ]
+}
 
