@@ -1,1 +1,119 @@
+{
+  "words": [
+    {
+      "word_en": "pants",
+      "word_tr": "pantolon",
+      "example_en": "He wore black pants and a white shirt.",
+      "example_tr": "Siyah pantolon ve beyaz bir gömlek giydi."
+    },
+    {
+      "word_en": "boot",
+      "word_tr": "çizme",
+      "example_en": "She bought a new pair of boots for the winter.",
+      "example_tr": "Kış için yeni bir çift çizme aldı."
+    },
+    {
+      "word_en": "dress",
+      "word_tr": "elbise",
+      "example_en": "She wore a beautiful red dress to the party.",
+      "example_tr": "Partiye güzel bir kırmızı elbise giydi."
+    },
+    {
+      "word_en": "sweater",
+      "word_tr": "kazak",
+      "example_en": "He put on a warm sweater before going outside.",
+      "example_tr": "Dışarı çıkmadan önce sıcak bir kazak giydi."
+    },
+    {
+      "word_en": "jacket",
+      "word_tr": "ceket",
+      "example_en": "She hung her jacket on the coat rack.",
+      "example_tr": "Ceketini askıya astı."
+    },
+    {
+      "word_en": "shirt",
+      "word_tr": "gömlek",
+      "example_en": "He ironed his shirt before going to work.",
+      "example_tr": "İşe gitmeden önce gömleğini ütüledi."
+    },
+    {
+      "word_en": "swimsuit",
+      "word_tr": "mayo",
+      "example_en": "She packed her swimsuit for the beach vacation.",
+      "example_tr": "Plaj tatili için mayo paketledi."
+    },
+    {
+      "word_en": "tie",
+      "word_tr": "kravat",
+      "example_en": "He wore a blue tie with his suit.",
+      "example_tr": "Takım elbisesiyle mavi bir kravat taktı."
+    },
+    {
+      "word_en": "T-shirt",
+      "word_tr": "tişört",
+      "example_en": "She bought a plain white T-shirt.",
+      "example_tr": "Düz beyaz bir tişört aldı."
+    },
+    {
+      "word_en": "purse",
+      "word_tr": "çanta",
+      "example_en": "She carried her wallet in her purse.",
+      "example_tr": "Cüzdanını çantasında taşıdı."
+    },
+    {
+      "word_en": "skirt",
+      "word_tr": "etek",
+      "example_en": "She wore a floral skirt to the picnic.",
+      "example_tr": "Pikniğe çiçek desenli bir etek giydi."
+    },
+    {
+      "word_en": "sock",
+      "word_tr": "çorap",
+      "example_en": "She put on a pair of warm socks.",
+      "example_tr": "Sıcak bir çift çorap giydi."
+    },
+    {
+      "word_en": "shoe",
+      "word_tr": "ayakkabı",
+      "example_en": "She bought new running shoes for her marathon.",
+      "example_tr": "Maratonu için yeni koşu ayakkabısı aldı."
+    },
+    {
+      "word_en": "coat",
+      "word_tr": "palto",
+      "example_en": "He hung his coat on the hook by the door.",
+      "example_tr": "Paltonu kapının yanındaki kanca üzerine astı."
+    },
+    {
+      "word_en": "suit",
+      "word_tr": "takım elbise",
+      "example_en": "He wore a black suit to the wedding.",
+      "example_tr": "Düğüne siyah bir takım elbise giydi."
+    },
+    {
+      "word_en": "underwear",
+      "word_tr": "iç çamaşırı",
+      "example_en": "She packed clean underwear for her trip.",
+      "example_tr": "Yolculuğu için temiz iç çamaşırı paketledi."
+    },
+    {
+      "word_en": "pajamas",
+      "word_tr": "pijama",
+      "example_en": "He changed into his pajamas before bed.",
+      "example_tr": "Yatmadan önce pijamasını giydi."
+    },
+    {
+      "word_en": "jeans",
+      "word_tr": "jean",
+      "example_en": "She wore ripped jeans and a graphic T-shirt.",
+      "example_tr": "Yırtık jean ve grafik tişört giydi."
+    },
+    {
+      "word_en": "police officer",
+      "word_tr": "polis memuru",
+      "example_en": "The police officer arrested the suspect.",
+      "example_tr": "Polis memuru şüpheliyi tutukladı."
+    }
+  ]
+}
 
