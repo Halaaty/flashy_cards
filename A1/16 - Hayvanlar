@@ -1,1 +1,101 @@
+{
+  "words": [
+    {
+      "word_en": "snake",
+      "word_tr": "yılan",
+      "example_en": "The snake slithered silently through the grass.",
+      "example_tr": "Yılan sessizce çimenler arasından süzüldü."
+    },
+    {
+      "word_en": "chicken",
+      "word_tr": "tavuk",
+      "example_en": "They roasted a whole chicken for dinner.",
+      "example_tr": "Akşam yemeği için bütün bir tavuk kızarttılar."
+    },
+    {
+      "word_en": "fish",
+      "word_tr": "balık",
+      "example_en": "He caught a big fish while fishing.",
+      "example_tr": "Balık avlarken büyük bir balık yakaladı."
+    },
+    {
+      "word_en": "bear",
+      "word_tr": "ayı",
+      "example_en": "They saw a bear in the woods.",
+      "example_tr": "Ormanda bir ayı gördüler."
+    },
+    {
+      "word_en": "cat",
+      "word_tr": "kedi",
+      "example_en": "The cat stretched lazily in the sun.",
+      "example_tr": "Kedi güneşte tembellik yaptı."
+    },
+    {
+      "word_en": "rabbit",
+      "word_tr": "tavşan",
+      "example_en": "They saw a rabbit hopping in the field.",
+      "example_tr": "Tarlamızda hoplayan bir tavşan gördüler."
+    },
+    {
+      "word_en": "dog",
+      "word_tr": "köpek",
+      "example_en": "The dog wagged its tail happily.",
+      "example_tr": "Köpek kuyruğunu mutlu bir şekilde salladı."
+    },
+    {
+      "word_en": "elephant",
+      "word_tr": "fil",
+      "example_en": "The elephant sprayed itself with water.",
+      "example_tr": "Fil kendini suyla sıvazladı."
+    },
+    {
+      "word_en": "horse",
+      "word_tr": "at",
+      "example_en": "She rode her horse through the countryside.",
+      "example_tr": "Atıyla kırsalda gezdi."
+    },
+    {
+      "word_en": "lion",
+      "word_tr": "aslan",
+      "example_en": "The lion roared loudly in the jungle.",
+      "example_tr": "Aslan ormanda yüksek sesle kükredi."
+    },
+    {
+      "word_en": "mouse",
+      "word_tr": "fare",
+      "example_en": "The mouse scurried across the kitchen floor.",
+      "example_tr": "Fare mutfak zemininde hızla koştu."
+    },
+    {
+      "word_en": "bird",
+      "word_tr": "kuş",
+      "example_en": "They heard the birds chirping in the trees.",
+      "example_tr": "Kuşların ağaçlarda cıvıldadığını duydular."
+    },
+    {
+      "word_en": "sheep",
+      "word_tr": "koyun",
+      "example_en": "The sheep grazed peacefully in the meadow.",
+      "example_tr": "Koyunlar çayırda huzurlu bir şekilde otlatıldı."
+    },
+    {
+      "word_en": "cow",
+      "word_tr": "inek",
+      "example_en": "The cow chewed its cud in the pasture.",
+      "example_tr": "İnek otlakta çiğnemeye devam etti."
+    },
+    {
+      "word_en": "monkey",
+      "word_tr": "maymun",
+      "example_en": "The monkey swung from branch to branch in the jungle.",
+      "example_tr": "Maymun ormanda dal üzerinden dala sallandı."
+    },
+    {
+      "word_en": "pig",
+      "word_tr": "domuz",
+      "example_en": "The pig rolled in the mud.",
+      "example_tr": "Domuz çamurda yuvarlandı."
+    }
+  ]
+}
 
