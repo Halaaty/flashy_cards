@@ -1,1 +1,143 @@
+{
+  "words": [
+    {
+      "word_en": "building",
+      "word_tr": "bina",
+      "example_en": "The building was made of red bricks.",
+      "example_tr": "Bina kırmızı tuğlalardan yapılmıştı."
+    },
+    {
+      "word_en": "house",
+      "word_tr": "ev",
+      "example_en": "They have a beautiful house in the countryside.",
+      "example_tr": "Kırsalda güzel bir evleri var."
+    },
+    {
+      "word_en": "home",
+      "word_tr": "ev",
+      "example_en": "There's no place like home.",
+      "example_tr": "Ev gibisi yok."
+    },
+    {
+      "word_en": "apartment",
+      "word_tr": "daire",
+      "example_en": "She lives in a small apartment in the city.",
+      "example_tr": "Şehirde küçük bir dairede yaşıyor."
+    },
+    {
+      "word_en": "floor",
+      "word_tr": "kat",
+      "example_en": "Their apartment is on the fifth floor.",
+      "example_tr": "Daireleri beşinci katta."
+    },
+    {
+      "word_en": "door",
+      "word_tr": "kapı",
+      "example_en": "Please close the door behind you.",
+      "example_tr": "Lütfen arkandan kapıyı kapat."
+    },
+    {
+      "word_en": "window",
+      "word_tr": "pencere",
+      "example_en": "She opened the window to let in some fresh air.",
+      "example_tr": "Biraz temiz hava almak için pencereyi açtı."
+    },
+    {
+      "word_en": "wall",
+      "word_tr": "duvar",
+      "example_en": "They painted the walls white.",
+      "example_tr": "Duvarları beyaza boyadılar."
+    },
+    {
+      "word_en": "room",
+      "word_tr": "oda",
+      "example_en": "Her room is tidy and organized.",
+      "example_tr": "Odası temiz ve düzenli."
+    },
+    {
+      "word_en": "roof",
+      "word_tr": "çatı",
+      "example_en": "The snow was melting on the roof.",
+      "example_tr": "Çatıdaki kar eriyordu."
+    },
+    {
+      "word_en": "ceiling",
+      "word_tr": "tavan",
+      "example_en": "The spider crawled across the ceiling.",
+      "example_tr": "Örümcek tavana doğru tırmandı."
+    },
+    {
+      "word_en": "living room",
+      "word_tr": "oturma odası",
+      "example_en": "We spent the evening in the living room.",
+      "example_tr": "Akşamı oturma odasında geçirdik."
+    },
+    {
+      "word_en": "dining room",
+      "word_tr": "yemek odası",
+      "example_en": "They had a family dinner in the dining room.",
+      "example_tr": "Yemek odasında aile yemeği yediler."
+    },
+    {
+      "word_en": "kitchen",
+      "word_tr": "mutfak",
+      "example_en": "She's cooking dinner in the kitchen.",
+      "example_tr": "Mutfakta akşam yemeği pişiriyor."
+    },
+    {
+      "word_en": "bedroom",
+      "word_tr": "yatak odası",
+      "example_en": "Their bedroom is painted blue.",
+      "example_tr": "Yatak odaları maviye boyalı."
+    },
+    {
+      "word_en": "bathroom",
+      "word_tr": "banyo",
+      "example_en": "The bathroom sink is leaking.",
+      "example_tr": "Banyo lavabosu sızıyor."
+    },
+    {
+      "word_en": "garden",
+      "word_tr": "bahçe",
+      "example_en": "They have a beautiful garden with flowers and trees.",
+      "example_tr": "Çiçekler ve ağaçlarla dolu güzel bir bahçeleri var."
+    },
+    {
+      "word_en": "upstairs",
+      "word_tr": "üst katta",
+      "example_en": "The bedrooms are upstairs.",
+      "example_tr": "Yatak odaları üst katta."
+    },
+    {
+      "word_en": "downstairs",
+      "word_tr": "alt katta",
+      "example_en": "The kitchen is downstairs.",
+      "example_tr": "Mutfak alt katta."
+    },
+    {
+      "word_en": "closet",
+      "word_tr": "dolap",
+      "example_en": "She hung her clothes in the closet.",
+      "example_tr": "Kıyafetlerini dolaba astı."
+    },
+    {
+      "word_en": "part",
+      "word_tr": "bölüm",
+      "example_en": "The house has a separate part for guests.",
+      "example_tr": "Evde misafirler için ayrı bir bölüm var."
+    },
+    {
+      "word_en": "elevator",
+      "word_tr": "asansör",
+      "example_en": "Take the elevator to the tenth floor.",
+      "example_tr": "Onuncu kata asansörle çıkın."
+    },
+    {
+      "word_en": "yard",
+      "word_tr": "avlu",
+      "example_en": "They had a barbecue in the yard.",
+      "example_tr": "Bahçede mangal yaptılar."
+    }
+  ]
+}
 
