@@ -1,1 +1,101 @@
+{
+  "words": [
+    {
+      "word_en": "hello",
+      "word_tr": "merhaba",
+      "example_en": "Hello, how are you?",
+      "example_tr": "Merhaba, nasılsınız?"
+    },
+    {
+      "word_en": "goodbye",
+      "word_tr": "hoşça kal",
+      "example_en": "She waved goodbye as the train pulled out of the station.",
+      "example_tr": "Tren istasyondan ayrılırken el sallayarak hoşça kal dedi."
+    },
+    {
+      "word_en": "hi",
+      "word_tr": "merhaba",
+      "example_en": "Hi there, nice to meet you!",
+      "example_tr": "Merhaba, tanıştığımıza memnun oldum!"
+    },
+    {
+      "word_en": "bye",
+      "word_tr": "hoşça kal",
+      "example_en": "Okay, bye for now. See you later!",
+      "example_tr": "Tamam, şimdilik hoşça kal. Sonra görüşürüz!"
+    },
+    {
+      "word_en": "good morning",
+      "word_tr": "günaydın",
+      "example_en": "Good morning, it's a beautiful day!",
+      "example_tr": "Günaydın, harika bir gün!"
+    },
+    {
+      "word_en": "good afternoon",
+      "word_tr": "iyi öğlenler",
+      "example_en": "Good afternoon, how can I assist you today?",
+      "example_tr": "İyi öğlenler, bugün size nasıl yardımcı olabilirim?"
+    },
+    {
+      "word_en": "good evening",
+      "word_tr": "iyi akşamlar",
+      "example_en": "Good evening, may I take your order?",
+      "example_tr": "İyi akşamlar, siparişinizi alabilir miyim?"
+    },
+    {
+      "word_en": "good night",
+      "word_tr": "iyi geceler",
+      "example_en": "I'm off to bed. Good night, everyone!",
+      "example_tr": "Yatmaya gidiyorum. Herkese iyi geceler!"
+    },
+    {
+      "word_en": "thank you",
+      "word_tr": "teşekkür ederim",
+      "example_en": "Thank you for your help!",
+      "example_tr": "Yardımınız için teşekkür ederim!"
+    },
+    {
+      "word_en": "thanks",
+      "word_tr": "teşekkürler",
+      "example_en": "Thanks a lot for the birthday gift!",
+      "example_tr": "Doğum günü hediyesi için çok teşekkür ederim!"
+    },
+    {
+      "word_en": "please",
+      "word_tr": "lütfen",
+      "example_en": "Can you pass me the salt, please?",
+      "example_tr": "Bana lütfen tuzu uzatabilir misin?"
+    },
+    {
+      "word_en": "OK",
+      "word_tr": "tamam",
+      "example_en": "OK, let's proceed with the plan.",
+      "example_tr": "Tamam, plana devam edelim."
+    },
+    {
+      "word_en": "yes",
+      "word_tr": "evet",
+      "example_en": "Yes, I'd like a cup of tea, please.",
+      "example_tr": "Evet, bir fincan çay istiyorum, lütfen."
+    },
+    {
+      "word_en": "no",
+      "word_tr": "hayır",
+      "example_en": "No, thank you. I'm not interested.",
+      "example_tr": "Hayır, teşekkür ederim. İlgilenmiyorum."
+    },
+    {
+      "word_en": "sorry",
+      "word_tr": "üzgünüm",
+      "example_en": "I'm sorry for the mistake I made.",
+      "example_tr": "Yaptığım hatadan dolayı üzgünüm."
+    },
+    {
+      "word_en": "welcome",
+      "word_tr": "hoş geldiniz",
+      "example_en": "Welcome to our home!",
+      "example_tr": "Evimize hoş geldiniz!"
+    }
+  ]
+}
 
