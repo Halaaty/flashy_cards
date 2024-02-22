@@ -1,1 +1,198 @@
+{
+  "words": [
+    {
+      "word_en": "container",
+      "example_en": "The goods were stored in a large container.",
+      "word_tr": "konteyner",
+      "example_tr": "Mallar büyük bir konteynerde depolanmıştı."
+    },
+    {
+      "word_en": "mug",
+      "example_en": "He sipped his coffee from a ceramic mug.",
+      "word_tr": "kupa",
+      "example_tr": "Kahvesini seramik bir kupa bardaktan yudumladı."
+    },
+    {
+      "word_en": "basket",
+      "example_en": "She carried a basket filled with fresh fruits.",
+      "word_tr": "sepet",
+      "example_tr": "Taze meyvelerle dolu bir sepet taşıyordu."
+    },
+    {
+      "word_en": "packet",
+      "example_en": "He tore open the packet of crisps.",
+      "word_tr": "paket",
+      "example_tr": "Cips paketini yırttı."
+    },
+    {
+      "word_en": "case",
+      "example_en": "The fragile items were packed carefully in a wooden case.",
+      "word_tr": "kasa",
+      "example_tr": "Kırılgan eşyalar dikkatlice bir ahşap kasa içine paketlenmişti."
+    },
+    {
+      "word_en": "tray",
+      "example_en": "The waiter brought their drinks on a silver tray.",
+      "word_tr": "tepsi",
+      "example_tr": "Garson içeceklerini gümüş bir tepsi üzerinde getirdi."
+    },
+    {
+      "word_en": "edge",
+      "example_en": "The book was lying on the edge of the table.",
+      "word_tr": "kenar",
+      "example_tr": "Kitap masanın kenarında duruyordu."
+    },
+    {
+      "word_en": "row",
+      "example_en": "She planted flowers in neat rows in her garden.",
+      "word_tr": "sıra",
+      "example_tr": "Bahçesine düzenli sıralar halinde çiçekler dikti."
+    },
+    {
+      "word_en": "tube",
+      "example_en": "He squeezed toothpaste from a tube onto his toothbrush.",
+      "word_tr": "tüp",
+      "example_tr": "Diş fırçasının üzerine bir tüpten diş macunu sıktı."
+    },
+    {
+      "word_en": "pack",
+      "example_en": "She helped pack the groceries into the car.",
+      "word_tr": "paketlemek",
+      "example_tr": "Market alışverişlerini arabaya paketlemeye yardım etti."
+    },
+    {
+      "word_en": "bucket",
+      "example_en": "He filled the bucket with water from the well.",
+      "word_tr": "kova",
+      "example_tr": "Kuyudan kovayı suyla doldurdu."
+    },
+    {
+      "word_en": "jug",
+      "example_en": "She poured fresh milk from the jug into her coffee.",
+      "word_tr": "sürahi",
+      "example_tr": "Sürahiden taze sütünü kahvesine döktü."
+    },
+    {
+      "word_en": "carton",
+      "example_en": "The eggs were packaged in a cardboard carton.",
+      "word_tr": "karton",
+      "example_tr": "Yumurtalar bir karton kutuda paketlenmişti."
+    },
+    {
+      "word_en": "extra",
+      "example_en": "He always keeps an extra pen in his bag.",
+      "word_tr": "ekstra",
+      "example_tr": "Her zaman çantasında ekstra bir kalem bulundurur."
+    },
+    {
+      "word_en": "limited",
+      "example_en": "The store had a limited supply of the special edition.",
+      "word_tr": "sınırlı",
+      "example_tr": "Mağazanın özel baskıdan sınırlı bir stoku vardı."
+    },
+    {
+      "word_en": "jar",
+      "example_en": "She stored homemade jam in a glass jar.",
+      "word_tr": "kavanoz",
+      "example_tr": "Ev yapımı reçeli bir cam kavanozda sakladı."
+    },
+    {
+      "word_en": "slice",
+      "example_en": "She cut a slice of cake for each guest.",
+      "word_tr": "dilim",
+      "example_tr": "Her misafir için bir dilim pasta kesti."
+    },
+    {
+      "word_en": "celsius",
+      "example_en": "Water freezes at zero degrees Celsius.",
+      "word_tr": "santigrat",
+      "example_tr": "Su, sıfır derece Santigrat'ta donar."
+    },
+    {
+      "word_en": "container",
+      "example_en": "The cookies were stored in an airtight container.",
+      "word_tr": "konteyner",
+      "example_tr": "Kurabiyeler hava geçirmez bir konteynerde saklandı."
+    },
+    {
+      "word_en": "bunch",
+      "example_en": "She picked a bunch of flowers from the garden.",
+      "word_tr": "demet",
+      "example_tr": "Bahçeden bir demet çiçek topladı."
+    },
+    {
+      "word_en": "bar",
+      "example_en": "He broke off a piece of chocolate bar.",
+      "word_tr": "bar",
+      "example_tr": "Çikolata barından bir parça kopardı."
+    },
+    {
+      "word_en": "packet",
+      "example_en": "He bought a packet of crisps from the vending machine.",
+      "word_tr": "paket",
+      "example_tr": "Makineden bir paket cips aldı."
+    },
+    {
+      "word_en": "edge",
+      "example_en": "The cat was sitting on the edge of the table.",
+      "word_tr": "kenar",
+      "example_tr": "Kedi masanın kenarında oturuyordu."
+    },
+    {
+      "word_en": "roll",
+      "example_en": "She wrapped the sandwiches in a roll of foil.",
+      "word_tr": "rulo",
+      "example_tr": "Sandviçleri folyo rulosuna sardı."
+    },
+    {
+      "word_en": "ounce",
+      "example_en": "The recipe calls for two ounces of chocolate.",
+      "word_tr": "ons",
+      "example_tr": "Tarifte iki ons çikolata isteniyor."
+    },
+    {
+      "word_en": "bucket",
+      "example_en": "He filled the bucket with water from the well.",
+      "word_tr": "kova",
+      "example_tr": "Kuyudan kovayı suyla doldurdu."
+    },
+    {
+      "word_en": "high",
+      "example_en": "The mountain was very high and covered in snow.",
+      "word_tr": "yüksek",
+      "example_tr": "Dağ çok yüksekti ve karla kaplıydı."
+    },
+    {
+      "word_en": "mug",
+      "example_en": "She drank her coffee from a large mug.",
+      "word_tr": "bardak",
+      "example_tr": "Kahvesini büyük bir bardaktan içti."
+    },
+    {
+      "word_en": "jar",
+      "example_en": "She stored the jam in a glass jar.",
+      "word_tr": "kavanoz",
+      "example_tr": "Reçeli cam bir kavanozda sakladı."
+    },
+    {
+      "word_en": "Fahrenheit",
+      "example_en": "Water boils at 212 degrees Fahrenheit.",
+      "word_tr": "Fahrenheit",
+      "example_tr": "Su, 212 derece Fahrenheit'ta kaynar."
+    },
+    {
+      "word_en": "pack",
+      "example_en": "He helped her pack her suitcase.",
+      "word_tr": "paketlemek",
+      "example_tr": "Ona valizini paketlemesinde yardım etti."
+    },
+    {
+      "word_en": "piece",
+      "example_en": "She tore off a piece of paper from the notebook.",
+      "word_tr": "parça",
+      "example_tr": "Defterden bir kağıt parçası kopardı."
+    }
+
+  ]
+}
 
