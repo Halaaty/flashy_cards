@@ -1,1 +1,239 @@
+{
+  "words": [
+    {
+      "word_en": "for",
+      "word_tr": "için",
+      "example_en": "He bought flowers for his mother.",
+      "example_tr": "Annesi için çiçekler aldı."
+    },
+    {
+      "word_en": "from",
+      "word_tr": "itibaren",
+      "example_en": "She will be on vacation from Monday.",
+      "example_tr": "Pazartesiden itibaren tatilde olacak."
+    },
+    {
+      "word_en": "whether",
+      "word_tr": "olup olmadığı",
+      "example_en": "He didn't know whether to laugh or cry.",
+      "example_tr": "Gülüp ağlamak arasında ne yapacağını bilmiyordu."
+    },
+    {
+      "word_en": "whereas",
+      "word_tr": "halbuki",
+      "example_en": "She likes coffee whereas he prefers tea.",
+      "example_tr": "O kahveyi severken, o ise çayı tercih eder."
+    },
+    {
+      "word_en": "until",
+      "word_tr": "kadar",
+      "example_en": "The store is open until 9 PM.",
+      "example_tr": "Mağaza akşam 9'a kadar açık."
+    },
+    {
+      "word_en": "about",
+      "word_tr": "hakkında",
+      "example_en": "She told me a story about her trip.",
+      "example_tr": "Bana seyahatiyle ilgili bir hikaye anlattı."
+    },
+    {
+      "word_en": "through",
+      "word_tr": "arasından",
+      "example_en": "They walked through the forest.",
+      "example_tr": "Ormanın arasından yürüdüler."
+    },
+    {
+      "word_en": "during",
+      "word_tr": "sırasında",
+      "example_en": "He fell asleep during the movie.",
+      "example_tr": "Film sırasında uyuya kaldı."
+    },
+    {
+      "word_en": "when",
+      "word_tr": "ne zaman",
+      "example_en": "When will they arrive?",
+      "example_tr": "Ne zaman gelecekler?"
+    },
+    {
+      "word_en": "except",
+      "word_tr": "hariç",
+      "example_en": "Everyone came except John.",
+      "example_tr": "Herkes geldi ama John hariç."
+    },
+    {
+      "word_en": "during",
+      "word_tr": "süresince",
+      "example_en": "During the summer, they went to the beach.",
+      "example_tr": "Yaz süresince plaja gittiler."
+    },
+    {
+      "word_en": "like",
+      "word_tr": "gibi",
+      "example_en": "She looks like her mother.",
+      "example_tr": "Annesine benziyor."
+    },
+    {
+      "word_en": "against",
+      "word_tr": "karşısında",
+      "example_en": "They played against each other.",
+      "example_tr": "Birbirlerine karşı oynadılar."
+    },
+    {
+      "word_en": "apart from",
+      "word_tr": "dışında",
+      "example_en": "Apart from the noise, it was a peaceful evening.",
+      "example_tr": "Gürültü dışında, huzurlu bir akşamdı."
+    },
+    {
+      "word_en": "inside",
+      "word_tr": "içinde",
+      "example_en": "She found her keys inside the drawer.",
+      "example_tr": "Anahtarı çekmece içinde buldu."
+    },
+    {
+      "word_en": "around",
+      "word_tr": "etrafında",
+      "example_en": "They sat around the campfire.",
+      "example_tr": "Kamp ateşinin etrafına oturdular."
+    },
+    {
+      "word_en": "by",
+      "word_tr": "tarafından",
+      "example_en": "The book was written by a famous author.",
+      "example_tr": "Kitap ünlü bir yazar tarafından yazılmıştı."
+    },
+    {
+      "word_en": "where",
+      "word_tr": "nerede",
+      "example_en": "Where is the nearest gas station?",
+      "example_tr": "En yakın benzin istasyonu nerede?"
+    },
+    {
+      "word_en": "of",
+      "word_tr": "nin",
+      "example_en": "The color of the sky was blue.",
+      "example_tr": "Gökyüzünün rengi maviydi."
+    },
+    {
+      "word_en": "nor",
+      "word_tr": "ne de",
+      "example_en": "Neither Peter nor Mary could attend.",
+      "example_tr": "Ne Peter ne de Mary katılamadı."
+    },
+    {
+      "word_en": "whenever",
+      "word_tr": "her zaman",
+      "example_en": "You can call me whenever you need help.",
+      "example_tr": "Yardıma ihtiyacın olduğunda her zaman beni arayabilirsin."
+    },
+    {
+      "word_en": "than",
+      "word_tr": "daha",
+      "example_en": "She's taller than her sister.",
+      "example_tr": "Kız kardeşinden daha uzun."
+    },
+    {
+      "word_en": "now",
+      "word_tr": "şimdi",
+      "example_en": "We can leave now.",
+      "example_tr": "Şimdi gidebiliriz."
+    },
+    {
+      "word_en": "because",
+      "word_tr": "çünkü",
+      "example_en": "She stayed home because she was sick.",
+      "example_tr": "Eve hasta olduğu için kaldı."
+    },
+    {
+      "word_en": "so",
+      "word_tr": "bu yüzden",
+      "example_en": "It was raining, so we stayed indoors.",
+      "example_tr": "Yağmur yağıyordu, bu yüzden içerde kaldık."
+    },
+    {
+      "word_en": "or",
+      "word_tr": "veya",
+      "example_en": "Would you like tea or coffee?",
+      "example_tr": "Çay mı kahve mi istersiniz?"
+    },
+    {
+      "word_en": "though",
+      "word_tr": "rağmen",
+      "example_en": "She went out though it was raining.",
+      "example_tr": "Yağmur yağmasına rağmen dışarı çıktı."
+    },
+    {
+      "word_en": "and",
+      "word_tr": "ve",
+      "example_en": "She likes tea and I like coffee.",
+      "example_tr": "O çayı sever, ben ise kahveyi."
+    },
+    {
+      "word_en": "if",
+      "word_tr": "eğer",
+      "example_en": "If it rains, we'll stay home.",
+      "example_tr": "Eğer yağmur yağarsa, evde kalacağız."
+    },
+    {
+      "word_en": "but",
+      "word_tr": "ama",
+      "example_en": "She is tired but happy.",
+      "example_tr": "O yorgun ama mutlu."
+    },
+    {
+      "word_en": "as",
+      "word_tr": "olarak",
+      "example_en": "He works as a teacher.",
+      "example_tr": "O bir öğretmen olarak çalışıyor."
+    },
+    {
+      "word_en": "after",
+      "word_tr": "sonra",
+      "example_en": "She arrived home after dark.",
+      "example_tr": "Karanlıkta evine geldi."
+    },
+    {
+      "word_en": "before",
+      "word_tr": "önce",
+      "example_en": "Please wash your hands before eating.",
+      "example_tr": "Yemek yemeden önce ellerinizi yıkayın lütfen."
+    },
+    {
+      "word_en": "once",
+      "word_tr": "bir kez",
+      "example_en": "She visited Paris once.",
+      "example_tr": "Bir kez Paris'i ziyaret etti."
+    },
+    {
+      "word_en": "although",
+      "word_tr": "olsa da",
+      "example_en": "Although it was cold, she went for a walk.",
+      "example_tr": "Soğuk olsa da, yürüyüşe çıktı."
+    },
+    {
+      "word_en": "since",
+      "word_tr": "çünkü",
+      "example_en": "She has been there since yesterday.",
+      "example_tr": "Dünden beri orada."
+    },
+    {
+      "word_en": "after",
+      "word_tr": "ardından",
+      "example_en": "After the meeting, they went for lunch.",
+      "example_tr": "Toplantıdan sonra öğle yemeğine gittiler."
+    },
+    {
+      "word_en": "or",
+      "word_tr": "ya da",
+      "example_en": "Would you like cake or ice cream?",
+      "example_tr": "Kek mi yoksa dondurma mı istersiniz?"
+    },
+    {
+      "word_en": "that",
+      "word_tr": "ki",
+      "example_en": "He said that he would come.",
+      "example_tr": "Geliceğini söyledi."
+    }
+  ]
+}
 
