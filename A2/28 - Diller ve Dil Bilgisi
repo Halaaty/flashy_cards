@@ -1,1 +1,263 @@
+{
+  "words": [
+    {
+      "word_en": "adjective",
+      "example_en": "She has a beautiful voice.",
+      "word_tr": "sıfat",
+      "example_tr": "Onun güzel bir sesi var."
+    },
+    {
+      "word_en": "Japanese",
+      "example_en": "I'm learning Japanese.",
+      "word_tr": "Japonca",
+      "example_tr": "Japonca öğreniyorum."
+    },
+    {
+      "word_en": "Portuguese",
+      "example_en": "He speaks Portuguese fluently.",
+      "word_tr": "Portekizce",
+      "example_tr": "O, Portekizce akıcı bir şekilde konuşur."
+    },
+    {
+      "word_en": "noun",
+      "example_en": "The cat is on the mat.",
+      "word_tr": "isim",
+      "example_tr": "Kedi halının üstünde."
+    },
+    {
+      "word_en": "Chinese",
+      "example_en": "Chinese cuisine is delicious.",
+      "word_tr": "Çince",
+      "example_tr": "Çin mutfağı lezzetlidir."
+    },
+    {
+      "word_en": "German",
+      "example_en": "I can speak German.",
+      "word_tr": "Almanca",
+      "example_tr": "Almanca konuşabiliyorum."
+    },
+    {
+      "word_en": "grammar",
+      "example_en": "Good grammar is essential for clear communication.",
+      "word_tr": "gramer",
+      "example_tr": "İyi gramer, açık iletişim için önemlidir."
+    },
+    {
+      "word_en": "Hindi",
+      "example_en": "She is fluent in Hindi.",
+      "word_tr": "Hintçe",
+      "example_tr": "O, Hintçe konusunda akıcıdır."
+    },
+    {
+      "word_en": "Russian",
+      "example_en": "I want to learn Russian.",
+      "word_tr": "Rusça",
+      "example_tr": "Rusça öğrenmek istiyorum."
+    },
+    {
+      "word_en": "vocabulary",
+      "example_en": "Expand your vocabulary by reading.",
+      "word_tr": "kelime dağarcığı",
+      "example_tr": "Okuyarak kelime dağarcığınızı genişletin."
+    },
+    {
+      "word_en": "French",
+      "example_en": "She is studying French.",
+      "word_tr": "Fransızca",
+      "example_tr": "O, Fransızca çalışıyor."
+    },
+    {
+      "word_en": "adverb",
+      "example_en": "He ran quickly.",
+      "word_tr": "zarf",
+      "example_tr": "O, hızlıca koştu."
+    },
+    {
+      "word_en": "Italian",
+      "example_en": "Italian food is delicious.",
+      "word_tr": "İtalyanca",
+      "example_tr": "İtalyan yemeği lezzetlidir."
+    },
+    {
+      "word_en": "Dutch",
+      "example_en": "I speak a little Dutch.",
+      "word_tr": "Hollandaca",
+      "example_tr": "Biraz Hollandaca konuşuyorum."
+    },
+    {
+      "word_en": "Persian",
+      "example_en": "She can speak Persian fluently.",
+      "word_tr": "Farsça",
+      "example_tr": "O, Farsça akıcı bir şekilde konuşabilir."
+    },
+    {
+      "word_en": "Arabic",
+      "example_en": "Arabic is spoken in many countries.",
+      "word_tr": "Arapça",
+      "example_tr": "Arapça birçok ülkede konuşulur."
+    },
+    {
+      "word_en": "clause",
+      "example_en": "The main clause is followed by a subordinate clause.",
+      "word_tr": "cümlecik",
+      "example_tr": "Ana cümle bir yan cümle ile takip edilir."
+    },
+    {
+      "word_en": "Vietnamese",
+      "example_en": "She's learning Vietnamese.",
+      "word_tr": "Vietnamca",
+      "example_tr": "Vietnamca öğreniyor."
+    },
+    {
+      "word_en": "word",
+      "example_en": "Please write down this word.",
+      "word_tr": "kelime",
+      "example_tr": "Lütfen bu kelimeyi yazın."
+    },
+    {
+      "word_en": "American",
+      "example_en": "She is from American.",
+      "word_tr": "Amerikan",
+      "example_tr": "O, Amerikalıdır."
+    },
+    {
+      "word_en": "English",
+      "example_en": "English is spoken worldwide.",
+      "word_tr": "İngilizce",
+      "example_tr": "İngilizce dünya çapında konuşulur."
+    },
+    {
+      "word_en": "phrase",
+      "example_en": "The phrase 'time flies' means time passes quickly.",
+      "word_tr": "deyim",
+      "example_tr": "'Zaman uçar' deyimi, zamanın hızlıca geçtiği anlamına gelir."
+    },
+    {
+      "word_en": "British English",
+      "example_en": "She speaks British English.",
+      "word_tr": "İngiliz İngilizcesi",
+      "example_tr": "O, İngiliz İngilizcesi konuşur."
+    },
+    {
+      "word_en": "letter",
+      "example_en": "I received a letter from my friend.",
+      "word_tr": "mektup",
+      "example_tr": "Arkadaşımdan bir mektup aldım."
+    },
+    {
+      "word_en": "grammar",
+      "example_en": "Good grammar is essential for clear communication.",
+      "word_tr": "gramer",
+      "example_tr": "İyi gramer, açık iletişim için önemlidir."
+    },
+    {
+      "word_en": "Spanish",
+      "example_en": "She is studying Spanish.",
+      "word_tr": "İspanyolca",
+      "example_tr": "O, İspanyolca çalışıyor."
+    },
+    {
+      "word_en": "noun",
+      "example_en": "The cat is on the mat.",
+      "word_tr": "isim",
+      "example_tr": "Kedi halının üstünde."
+    },
+    {
+      "word_en": "vocabulary",
+      "example_en": "Expand your vocabulary by reading.",
+      "word_tr": "kelime dağarcığı",
+      "example_tr": "Okuyarak kelime dağarcığınızı genişletin."
+    },
+    {
+      "word_en": "adverb",
+      "example_en": "He ran quickly.",
+      "word_tr": "zarf",
+      "example_tr": "O, hızlıca koştu."
+    },
+    {
+      "word_en": "Russian",
+      "example_en": "I want to learn Russian.",
+      "word_tr": "Rusça",
+      "example_tr": "Rusça öğrenmek istiyorum."
+    },
+    {
+      "word_en": "French",
+      "example_en": "She is studying French.",
+      "word_tr": "Fransızca",
+      "example_tr": "O, Fransızca çalışıyor."
+    },
+    {
+      "word_en": "Italian",
+      "example_en": "Italian food is delicious.",
+      "word_tr": "İtalyanca",
+      "example_tr": "İtalyan yemeği lezzetlidir."
+    },
+    {
+      "word_en": "Dutch",
+      "example_en": "I speak a little Dutch.",
+      "word_tr": "Hollandaca",
+      "example_tr": "Biraz Hollandaca konuşuyorum."
+    },
+    {
+      "word_en": "Persian",
+      "example_en": "She can speak Persian fluently.",
+      "word_tr": "Farsça",
+      "example_tr": "O, Farsça akıcı bir şekilde konuşabilir."
+    },
+    {
+      "word_en": "Arabic",
+      "example_en": "Arabic is spoken in many countries.",
+      "word_tr": "Arapça",
+      "example_tr": "Arapça birçok ülkede konuşulur."
+    },
+    {
+      "word_en": "clause",
+      "example_en": "The main clause is followed by a subordinate clause.",
+      "word_tr": "cümlecik",
+      "example_tr": "Ana cümle bir yan cümle ile takip edilir."
+    },
+    {
+      "word_en": "Vietnamese",
+      "example_en": "She's learning Vietnamese.",
+      "word_tr": "Vietnamca",
+      "example_tr": "Vietnamca öğreniyor."
+    },
+    {
+      "word_en": "word",
+      "example_en": "Please write down this word.",
+      "word_tr": "kelime",
+      "example_tr": "Lütfen bu kelimeyi yazın."
+    },
+    {
+      "word_en": "American",
+      "example_en": "She is from American.",
+      "word_tr": "Amerikan",
+      "example_tr": "O, Amerikalıdır."
+    },
+    {
+      "word_en": "English",
+      "example_en": "English is spoken worldwide.",
+      "word_tr": "İngilizce",
+      "example_tr": "İngilizce dünya çapında konuşulur."
+    },
+    {
+      "word_en": "phrase",
+      "example_en": "The phrase 'time flies' means time passes quickly.",
+      "word_tr": "deyim",
+      "example_tr": "'Zaman uçar' deyimi, zamanın hızlıca geçtiği anlamına gelir."
+    },
+    {
+      "word_en": "British English",
+      "example_en": "She speaks British English.",
+      "word_tr": "İngiliz İngilizcesi",
+      "example_tr": "O, İngiliz İngilizcesi konuşur."
+    },
+    {
+      "word_en": "letter",
+      "example_en": "I received a letter from my friend.",
+      "word_tr": "mektup",
+      "example_tr": "Arkadaşımdan bir mektup aldım."
+    }
+  ]
+}
 
