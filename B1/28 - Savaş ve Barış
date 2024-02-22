@@ -1,1 +1,214 @@
-
+{
+  "words": [
+    {
+      "word_en": "fire",
+      "example_en": "The soldiers opened fire on the enemy.",
+      "word_tr": "ateş etmek",
+      "example_tr": "Askerler düşmana ateş açtı."
+    },
+    {
+      "word_en": "damage",
+      "example_en": "The bomb caused extensive damage to the city.",
+      "word_tr": "zarar",
+      "example_tr": "Bomba şehre geniş çapta zarar verdi."
+    },
+    {
+      "word_en": "defeat",
+      "example_en": "The nation suffered a humiliating defeat.",
+      "word_tr": "yenilgi",
+      "example_tr": "Ulke aşağılayıcı bir yenilgiye uğradı."
+    },
+    {
+      "word_en": "dogfighter",
+      "example_en": "The dogfighter pilot engaged the enemy in a dogfight.",
+      "word_tr": "köpek dövüşçüsü",
+      "example_tr": "Köpek dövüşçüsü pilotu düşmanla bir köpek dövüşünde buluştu."
+    },
+    {
+      "word_en": "victory",
+      "example_en": "Their victory was celebrated throughout the country.",
+      "word_tr": "zafer",
+      "example_tr": "Zaferleri ülke genelinde kutlandı."
+    },
+    {
+      "word_en": "guard",
+      "example_en": "The guards patrolled the perimeter of the base.",
+      "word_tr": "muhafız",
+      "example_tr": "Muhafızlar üssün çevresinde devriye geziyordu."
+    },
+    {
+      "word_en": "fire",
+      "example_en": "The bomb exploded with a deafening roar.",
+      "word_tr": "patlama",
+      "example_tr": "Bomba kulakları sağır eden bir gürültüyle patladı."
+    },
+    {
+      "word_en": "battle",
+      "example_en": "The historic battle changed the course of the war.",
+      "word_tr": "savaş",
+      "example_tr": "Tarihi savaş savaşın seyrini değiştirdi."
+    },
+    {
+      "word_en": "enemy",
+      "example_en": "The soldiers engaged the enemy in fierce combat.",
+      "word_tr": "düşman",
+      "example_tr": "Askerler düşmanla şiddetli çatışmaya girdi."
+    },
+    {
+      "word_en": "bomb",
+      "example_en": "The bomb exploded with a deafening roar.",
+      "word_tr": "bomba",
+      "example_tr": "Bomba kulakları sağır eden bir gürültüyle patladı."
+    },
+    {
+      "word_en": "weapon",
+      "example_en": "The soldiers were equipped with advanced weapons.",
+      "word_tr": "silah",
+      "example_tr": "Askerler ileri teknoloji silahlarla donatılmıştı."
+    },
+    {
+      "word_en": "obey",
+      "example_en": "Soldiers are expected to obey their commanding officer.",
+      "word_tr": "itaat etmek",
+      "example_tr": "Askerler komutanlarına itaat etmeleri beklenir."
+    },
+    {
+      "word_en": "conflict",
+      "example_en": "The conflict arose from territorial disputes.",
+      "word_tr": "çatışma",
+      "example_tr": "Çatışma toprak anlaşmazlıklarından kaynaklandı."
+    },
+    {
+      "word_en": "explosion",
+      "example_en": "The explosion rocked the entire building.",
+      "word_tr": "patlama",
+      "example_tr": "Patlama binayı salladı."
+    },
+    {
+      "word_en": "force",
+      "example_en": "The army advanced with overwhelming force.",
+      "word_tr": "kuvvet",
+      "example_tr": "Ordu ezici bir kuvvetle ilerledi."
+    },
+    {
+      "word_en": "bloody",
+      "example_en": "The battle left a bloody trail.",
+      "word_tr": "kanlı",
+      "example_tr": "Savaş kanlı bir iz bıraktı."
+    },
+    {
+      "word_en": "missile",
+      "example_en": "The missile struck the enemy base.",
+      "word_tr": "füze",
+      "example_tr": "Füze düşman üssüne çarptı."
+    },
+    {
+      "word_en": "question",
+      "example_en": "There were many questions about the strategy.",
+      "word_tr": "soru",
+      "example_tr": "Strateji hakkında birçok soru vardı."
+    },
+    {
+      "word_en": "force",
+      "example_en": "The army advanced with overwhelming force.",
+      "word_tr": "kuvvet",
+      "example_tr": "Ordu ezici bir kuvvetle ilerledi."
+    },
+    {
+      "word_en": "peace",
+      "example_en": "They signed a treaty to bring about lasting peace.",
+      "word_tr": "barış",
+      "example_tr": "Kalıcı bir barış sağlamak için bir antlaşma imzaladılar."
+    },
+    {
+      "word_en": "dogfighter",
+      "example_en": "The dogfighter pilot engaged the enemy in a dogfight.",
+      "word_tr": "köpek dövüşçüsü",
+      "example_tr": "Köpek dövüşçüsü pilotu düşmanla bir köpek dövüşünde buluştu."
+    },
+    {
+      "word_en": "gunfire",
+      "example_en": "The gunfire intensified as the battle raged on.",
+      "word_tr": "silah sesi",
+      "example_tr": "Savaş sürerken silah sesleri arttı."
+    },
+    {
+      "word_en": "target",
+      "example_en": "The soldiers identified the enemy target.",
+      "word_tr": "hedef",
+      "example_tr": "Askerler düşman hedefini belirledi."
+    },
+    {
+      "word_en": "question",
+      "example_en": "The soldiers raised a question about the strategy.",
+      "word_tr": "soru",
+      "example_tr": "Askerler strateji hakkında bir soru sordu."
+    },
+    {
+      "word_en": "gunshot",
+      "example_en": "The gunshot echoed through the forest.",
+      "word_tr": "ates",
+      "example_tr": "Ateş ormanda yankılandı."
+    },
+    {
+      "word_en": "combat",
+      "example_en": "They engaged in hand-to-hand combat.",
+      "word_tr": "savaş",
+      "example_tr": "El ele savaşa girdiler."
+    },
+    {
+      "word_en": "army",
+      "example_en": "The army marched towards the enemy lines.",
+      "word_tr": "ordu",
+      "example_tr": "Ordu düşman hatlarına doğru yürüdü."
+    },
+    {
+      "word_en": "obey",
+      "example_en": "Soldiers are expected to obey their commanding officer.",
+      "word_tr": "itaat etmek",
+      "example_tr": "Askerler komutanlarına itaat etmeleri beklenir."
+    },
+    {
+      "word_en": "shotgun",
+      "example_en": "The soldier carried a shotgun for close combat.",
+      "word_tr": "tüfek",
+      "example_tr": "Asker yakın savaş için bir tüfek taşıdı."
+    },
+    {
+      "word_en": "victory",
+      "example_en": "Their victory was celebrated throughout the country.",
+      "word_tr": "zafer",
+      "example_tr": "Zaferleri ülke genelinde kutlandı."
+    },
+    {
+      "word_en": "bomb",
+      "example_en": "The bomb exploded with a deafening roar.",
+      "word_tr": "bomba",
+      "example_tr": "Bomba kulakları sağır eden bir gürültüyle patladı."
+    },
+    {
+      "word_en": "force",
+      "example_en": "The army advanced with overwhelming force.",
+      "word_tr": "kuvvet",
+      "example_tr": "Ordu ezici bir kuvvetle ilerledi."
+    },
+    {
+      "word_en": "explode",
+      "example_en": "The bomb exploded with a deafening roar.",
+      "word_tr": "patlamak",
+      "example_tr": "Bomba kulakları sağır eden bir gürültüyle patladı."
+    },
+    {
+      "word_en": "enemy",
+      "example_en": "The troops encountered heavy enemy resistance.",
+      "word_tr": "düşman",
+      "example_tr": "Askerler yoğun düşman direnişiyle karşı karşıya kaldı."
+    },
+    {
+      "word_en": "bloody",
+      "example_en": "The battle left a bloody trail.",
+      "word_tr": "kanlı",
+      "example_tr": "Savaş kanlı bir iz bıraktı."
+    }
+  ]
+}
