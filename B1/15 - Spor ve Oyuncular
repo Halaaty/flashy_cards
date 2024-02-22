@@ -1,1 +1,214 @@
-
+{
+  "words": [
+    {
+      "word_en": "stadium",
+      "example_en": "The new stadium can accommodate over 50,000 spectators.",
+      "word_tr": "stadyum",
+      "example_tr": "Yeni stadyum 50.000'den fazla seyirciye ev sahipliği yapabilir."
+    },
+    {
+      "word_en": "league",
+      "example_en": "Their team is leading the league standings.",
+      "word_tr": "lig",
+      "example_tr": "Takımları lig sıralamasında önde."
+    },
+    {
+      "word_en": "horse racing",
+      "example_en": "The Kentucky Derby is a famous horse racing event.",
+      "word_tr": "at yarışı",
+      "example_tr": "Kentucky Derby ünlü bir at yarışı etkinliğidir."
+    },
+    {
+      "word_en": "away game",
+      "example_en": "They lost their away game against their rivals.",
+      "word_tr": "deplasman maçı",
+      "example_tr": "Rakiplerine karşı deplasman maçlarını kaybettiler."
+    },
+    {
+      "word_en": "basket",
+      "example_en": "He made a perfect basket from the three-point line.",
+      "word_tr": "basket",
+      "example_tr": "Üçlük çizgisinden mükemmel bir basket attı."
+    },
+    {
+      "word_en": "captain",
+      "example_en": "She was chosen as the team captain.",
+      "word_tr": "kaptan",
+      "example_tr": "Takım kaptanı olarak seçildi."
+    },
+    {
+      "word_en": "cyclist",
+      "example_en": "He's a professional cyclist and competes in international races.",
+      "word_tr": "bisikletçi",
+      "example_tr": "Profesyonel bir bisikletçi ve uluslararası yarışmalarda yarışıyor."
+    },
+    {
+      "word_en": "catch",
+      "example_en": "He made a spectacular catch in the outfield.",
+      "word_tr": "yakala",
+      "example_tr": "Dış sahada muhteşem bir yakalama yaptı."
+    },
+    {
+      "word_en": "Super Bowl",
+      "example_en": "The Super Bowl is one of the most-watched sporting events in the United States.",
+      "word_tr": "Süper Kase",
+      "example_tr": "Süper Kase Amerika Birleşik Devletleri'nde en çok izlenen spor etkinliklerinden biridir."
+    },
+    {
+      "word_en": "disqualify",
+      "example_en": "The athlete was disqualified for breaking the rules.",
+      "word_tr": "diskalifiye",
+      "example_tr": "Kuralları ihlal ettiği için sporcu diskalifiye edildi."
+    },
+    {
+      "word_en": "racket",
+      "example_en": "She forgot her tennis racket at home.",
+      "word_tr": "raket",
+      "example_tr": "Tenis raketini evde unuttu."
+    },
+    {
+      "word_en": "olympic",
+      "example_en": "She dreams of competing in the Olympic Games one day.",
+      "word_tr": "Olimpiyat",
+      "example_tr": "Bir gün Olimpiyat Oyunları'nda yarışmayı hayal ediyor."
+    },
+    {
+      "word_en": "goalkeeper",
+      "example_en": "The goalkeeper made a spectacular save.",
+      "word_tr": "kaleci",
+      "example_tr": "Kaleci muhteşem bir kurtarış yaptı."
+    },
+    {
+      "word_en": "league",
+      "example_en": "Their team is leading the league standings.",
+      "word_tr": "lig",
+      "example_tr": "Takımları lig sıralamasında önde."
+    },
+    {
+      "word_en": "squash",
+      "example_en": "He plays squash competitively.",
+      "word_tr": "squash",
+      "example_tr": "Rekabetçi olarak squash oynar."
+    },
+    {
+      "word_en": "result",
+      "example_en": "The final result was unexpected.",
+      "word_tr": "sonuç",
+      "example_tr": "Final sonucu beklenmedikti."
+    },
+    {
+      "word_en": "diver",
+      "example_en": "She's an experienced diver and has won several competitions.",
+      "word_tr": "dalıcı",
+      "example_tr": "Deneyimli bir dalıcı ve birkaç yarışma kazanmış."
+    },
+    {
+      "word_en": "home game",
+      "example_en": "They won their home game by a narrow margin.",
+      "word_tr": "ev sahibi maçı",
+      "example_tr": "Ev sahibi maçlarını dar bir farkla kazandılar."
+    },
+    {
+      "word_en": "tournament",
+      "example_en": "The tennis tournament attracts top players from around the world.",
+      "word_tr": "turnuva",
+      "example_tr": "Tenis turnuvası dünya genelinden üst düzey oyuncuları çekiyor."
+    },
+    {
+      "word_en": "match",
+      "example_en": "The match ended in a tie.",
+      "word_tr": "maç",
+      "example_tr": "Maç berabere sonuçlandı."
+    },
+    {
+      "word_en": "pool",
+      "example_en": "He enjoys swimming in the pool.",
+      "word_tr": "havuz",
+      "example_tr": "Havuzda yüzmekten keyif alır."
+    },
+    {
+      "word_en": "half-time",
+      "example_en": "At half-time, the score was tied.",
+      "word_tr": "devre arası",
+      "example_tr": "Devre arasında skor berabereydi."
+    },
+    {
+      "word_en": "competitive",
+      "example_en": "He's known for his competitive spirit.",
+      "word_tr": "rekabetçi",
+      "example_tr": "Rekabetçi ruhuyla tanınıyor."
+    },
+    {
+      "word_en": "referee",
+      "example_en": "The referee blew the whistle to signal the end of the game.",
+      "word_tr": "hakem",
+      "example_tr": "Hakem oyunun sonunu belirtmek için düdük çaldı."
+    },
+    {
+      "word_en": "horseback riding",
+      "example_en": "She enjoys horseback riding in her free time.",
+      "word_tr": "at binme",
+      "example_tr": "Boş zamanlarında at binmekten hoşlanır."
+    },
+    {
+      "word_en": "catch",
+      "example_en": "He made a spectacular catch in the outfield.",
+      "word_tr": "yakala",
+      "example_tr": "Dış sahada muhteşem bir yakalama yaptı."
+    },
+    {
+      "word_en": "champion",
+      "example_en": "She's a former champion in gymnastics.",
+      "word_tr": "şampiyon",
+      "example_tr": "Eski bir jimnastik şampiyonu."
+    },
+    {
+      "word_en": "court",
+      "example_en": "They played tennis on the court.",
+      "word_tr": "mahkeme",
+      "example_tr": "Mahkemede tenis oynadılar."
+    },
+    {
+      "word_en": "result",
+      "example_en": "The final result was unexpected.",
+      "word_tr": "sonuç",
+      "example_tr": "Final sonucu beklenmedikti."
+    },
+    {
+      "word_en": "pass",
+      "example_en": "He made a precise pass to his teammate.",
+      "word_tr": "pas",
+      "example_tr": "Takım arkadaşına hassas bir pas yaptı."
+    },
+    {
+      "word_en": "save",
+      "example_en": "The goalkeeper made a crucial save in the last minute.",
+      "word_tr": "kurtar",
+      "example_tr": "Kaleci son dakikada kritik bir kurtarış yaptı."
+    },
+    {
+      "word_en": "contest",
+      "example_en": "The spelling contest will be held next week.",
+      "word_tr": "yarışma",
+      "example_tr": "İmla yarışması önümüzdeki hafta yapılacak."
+    },
+    {
+      "word_en": "opponent",
+      "example_en": "He faced a tough opponent in the boxing match.",
+      "word_tr": "rakip",
+      "example_tr": "Boks maçında zorlu bir rakiple karşılaştı."
+    },
+    {
+      "word_en": "final",
+      "example_en": "The final match will determine the champion.",
+      "word_tr": "final",
+      "example_tr": "Final maçı şampiyonu belirleyecek."
+    },
+    {
+      "word_en": "disqualify",
+      "example_en": "The athlete was disqualified for breaking the rules.",
+      "word_tr": "diskalifiye",
+      "example_tr": "Kuralları ihlal ettiği için sporcu diskalifiye edildi."
+    }
+  ]
+}
