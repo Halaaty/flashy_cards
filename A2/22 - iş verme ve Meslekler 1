@@ -1,1 +1,191 @@
+{
+  "words": [
+    {
+      "word_en": "pilot",
+      "word_tr": "pilot",
+      "example_en": "The pilot announced that we would be landing shortly.",
+      "example_tr": "Pilot kısa bir süre içinde iniş yapacağımızı duyurdu."
+    },
+    {
+      "word_en": "boss",
+      "word_tr": "patron",
+      "example_en": "My boss gave me a bonus for my hard work.",
+      "example_tr": "Patronum çalışmam için bana bir bonus verdi."
+    },
+    {
+      "word_en": "business",
+      "word_tr": "iş",
+      "example_en": "She runs her own business.",
+      "example_tr": "Kendi işini yönetiyor."
+    },
+    {
+      "word_en": "businessman",
+      "word_tr": "işadamı",
+      "example_en": "The businessman negotiated a deal with the investors.",
+      "example_tr": "İşadamı yatırımcılarla bir anlaşma için pazarlık yaptı."
+    },
+    {
+      "word_en": "businesswoman",
+      "word_tr": "işkadını",
+      "example_en": "The businesswoman is known for her successful leadership.",
+      "example_tr": "İşkadını başarılı liderliğiyle tanınıyor."
+    },
+    {
+      "word_en": "expert",
+      "word_tr": "uzman",
+      "example_en": "He's an expert in computer programming.",
+      "example_tr": "O, bilgisayar programlamada uzmandır."
+    },
+    {
+      "word_en": "manager",
+      "word_tr": "yönetici",
+      "example_en": "The manager is responsible for the daily operations of the company.",
+      "example_tr": "Yönetici şirketin günlük işleyişinden sorumludur."
+    },
+    {
+      "word_en": "assistant",
+      "word_tr": "asistan",
+      "example_en": "She works as an assistant to the CEO.",
+      "example_tr": "CEO'nun asistanı olarak çalışıyor."
+    },
+    {
+      "word_en": "receptionist",
+      "word_tr": "resepsiyonist",
+      "example_en": "The receptionist greeted guests as they entered the hotel.",
+      "example_tr": "Resepsiyonist, misafirleri otele girdiklerinde karşıladı."
+    },
+    {
+      "word_en": "detective",
+      "word_tr": "dedektif",
+      "example_en": "The detective solved the mystery.",
+      "example_tr": "Dedektif gizemi çözdü."
+    },
+    {
+      "word_en": "model",
+      "word_tr": "model",
+      "example_en": "She works as a fashion model.",
+      "example_tr": "Moda modeli olarak çalışıyor."
+    },
+    {
+      "word_en": "cook",
+      "word_tr": "aşçı",
+      "example_en": "The cook prepared a delicious meal.",
+      "example_tr": "Aşçı lezzetli bir yemek hazırladı."
+    },
+    {
+      "word_en": "pharmacist",
+      "word_tr": "eczacı",
+      "example_en": "The pharmacist filled the prescription for the patient.",
+      "example_tr": "Eczacı, hastanın reçetesini doldurdu."
+    },
+    {
+      "word_en": "journalist",
+      "word_tr": "gazeteci",
+      "example_en": "The journalist interviewed the politician.",
+      "example_tr": "Gazeteci politikacıyla röportaj yaptı."
+    },
+    {
+      "word_en": "writer",
+      "word_tr": "yazar",
+      "example_en": "She's a talented writer.",
+      "example_tr": "O, yetenekli bir yazardır."
+    },
+    {
+      "word_en": "singer",
+      "word_tr": "şarkıcı",
+      "example_en": "The singer performed at the concert.",
+      "example_tr": "Şarkıcı konserde sahne aldı."
+    },
+    {
+      "word_en": "professor",
+      "word_tr": "profesör",
+      "example_en": "The professor gave a lecture on biology.",
+      "example_tr": "Profesör biyoloji üzerine bir ders verdi."
+    },
+    {
+      "word_en": "researcher",
+      "word_tr": "araştırmacı",
+      "example_en": "The researcher conducted experiments in the lab.",
+      "example_tr": "Araştırmacı laboratuvarda deneyler yaptı."
+    },
+    {
+      "word_en": "hairdresser",
+      "word_tr": "kuaför",
+      "example_en": "She works as a hairdresser at the salon.",
+      "example_tr": "Kuaför salonunda çalışıyor."
+    },
+    {
+      "word_en": "designer",
+      "word_tr": "tasarımcı",
+      "example_en": "The designer created a stunning dress.",
+      "example_tr": "Tasarımcı muhteşem bir elbise tasarladı."
+    },
+    {
+      "word_en": "cleaner",
+      "word_tr": "temizlikçi",
+      "example_en": "The cleaner mopped the floors.",
+      "example_tr": "Temizlikçi zeminleri sildi."
+    },
+    {
+      "word_en": "painter",
+      "word_tr": "ressam",
+      "example_en": "The painter used bold colors in his artwork.",
+      "example_tr": "Ressam, eserinde cesur renkler kullandı."
+    },
+    {
+      "word_en": "instructor",
+      "word_tr": "eğitmen",
+      "example_en": "She works as an instructor at the gym.",
+      "example_tr": "Spor salonunda eğitmen olarak çalışıyor."
+    },
+    {
+      "word_en": "employment",
+      "word_tr": "istihdam",
+      "example_en": "The company offers various employment opportunities.",
+      "example_tr": "Şirket çeşitli istihdam fırsatları sunuyor."
+    },
+    {
+      "word_en": "department",
+      "word_tr": "departman",
+      "example_en": "He heads the marketing department.",
+      "example_tr": "Pazarlama departmanının başında."
+    },
+    {
+      "word_en": "payment",
+      "word_tr": "ödeme",
+      "example_en": "She made a payment for the goods.",
+      "example_tr": "Malzemeler için bir ödeme yaptı."
+    },
+    {
+      "word_en": "shift",
+      "word_tr": "vardiya",
+      "example_en": "He works the night shift.",
+      "example_tr": "Gece vardiyasında çalışıyor."
+    },
+    {
+      "word_en": "employ",
+      "word_tr": "işe almak",
+      "example_en": "The company plans to employ new staff next month.",
+      "example_tr": "Şirket gelecek ay yeni personel işe almayı planlıyor."
+    },
+    {
+      "word_en": "retire",
+      "word_tr": "emekli olmak",
+      "example_en": "He retired after working for thirty years.",
+      "example_tr": "Otuz yıl çalıştıktan sonra emekli oldu."
+    },
+    {
+      "word_en": "successful",
+      "word_tr": "başarılı",
+      "example_en": "She's a successful businesswoman.",
+      "example_tr": "O, başarılı bir işkadınıdır."
+    },
+    {
+      "word_en": "company",
+      "word_tr": "şirket",
+      "example_en": "The company manufactures electronic devices.",
+      "example_tr": "Şirket elektronik cihazlar üretir."
+    }
+  ]
+}
 
