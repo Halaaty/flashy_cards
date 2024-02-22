@@ -1,1 +1,101 @@
+{
+  "words": [
+    {
+      "word_en": "Cantonese",
+      "example_en": "Cantonese is spoken in Guangdong province.",
+      "word_tr": "Kantonezce",
+      "example_tr": "Kantonezce Guangdong eyaletinde konuşulur."
+    },
+    {
+      "word_en": "Danish",
+      "example_en": "She learned Danish during her time in Denmark.",
+      "word_tr": "Danca",
+      "example_tr": "Danimarka'daki zamanında Danca öğrendi."
+    },
+    {
+      "word_en": "Scot",
+      "example_en": "Scots speak the Scots language.",
+      "word_tr": "İskoç",
+      "example_tr": "İskoçlar İskoçça konuşurlar."
+    },
+    {
+      "word_en": "Urdu",
+      "example_en": "Urdu is the national language of Pakistan.",
+      "word_tr": "Urduca",
+      "example_tr": "Urdu Pakistan'ın ulusal dilidir."
+    },
+    {
+      "word_en": "Norwegian",
+      "example_en": "Norwegian fjords are famous for their beauty.",
+      "word_tr": "Norveççe",
+      "example_tr": "Norveç fjordları güzellikleriyle ünlüdür."
+    },
+    {
+      "word_en": "Hebrew",
+      "example_en": "Hebrew is the official language of Israel.",
+      "word_tr": "İbranice",
+      "example_tr": "İbranice İsrail'in resmi dilidir."
+    },
+    {
+      "word_en": "Thai",
+      "example_en": "Thai cuisine is known for its spicy flavors.",
+      "word_tr": "Tayca",
+      "example_tr": "Tay mutfağı baharatlı tatlarıyla bilinir."
+    },
+    {
+      "word_en": "Slovak",
+      "example_en": "She traveled to Slovakia to learn Slovak.",
+      "word_tr": "Slovakça",
+      "example_tr": "Slovakça öğrenmek için Slovakya'ya seyahat etti."
+    },
+    {
+      "word_en": "Finnish",
+      "example_en": "Finnish is a Finno-Ugric language.",
+      "word_tr": "Fince",
+      "example_tr": "Fince bir Finno-Ugor dilidir."
+    },
+    {
+      "word_en": "Mandarin",
+      "example_en": "Mandarin is the most spoken language in the world.",
+      "word_tr": "Mandarin",
+      "example_tr": "Mandarin dünyada en çok konuşulan dildir."
+    },
+    {
+      "word_en": "Pashto",
+      "example_en": "Pashto is one of the official languages of Afghanistan.",
+      "word_tr": "Peştuca",
+      "example_tr": "Peştuca Afganistan'ın resmi dillerinden biridir."
+    },
+    {
+      "word_en": "Welsh",
+      "example_en": "She studied Welsh literature at university.",
+      "word_tr": "Galce",
+      "example_tr": "Üniversitede Galce edebiyatı okudu."
+    },
+    {
+      "word_en": "Bulgarian",
+      "example_en": "Bulgarian uses the Cyrillic alphabet.",
+      "word_tr": "Bulgarca",
+      "example_tr": "Bulgarca Kiril alfabesini kullanır."
+    },
+    {
+      "word_en": "Iranian",
+      "example_en": "Farsi is an Iranian language.",
+      "word_tr": "İranca",
+      "example_tr": "Farsça bir İran dilidir."
+    },
+    {
+      "word_en": "Czech",
+      "example_en": "She took Czech language classes in Prague.",
+      "word_tr": "Çekçe",
+      "example_tr": "Prag'da Çekçe dersleri aldı."
+    },
+    {
+      "word_en": "Irish",
+      "example_en": "Irish Gaelic is spoken in Ireland.",
+      "word_tr": "İrlandaca",
+      "example_tr": "İrlanda'da İrlanda Galyacası konuşulur."
+    }
+  ]
+}
 
