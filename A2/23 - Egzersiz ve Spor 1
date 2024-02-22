@@ -1,1 +1,179 @@
+{
+  "words": [
+    {
+      "word_en": "exercise",
+      "word_tr": "egzersiz",
+      "example_en": "She does regular exercise to stay fit.",
+      "example_tr": "Formunu korumak için düzenli egzersiz yapar."
+    },
+    {
+      "word_en": "field",
+      "word_tr": "alan",
+      "example_en": "The soccer match will be held at the field.",
+      "example_tr": "Futbol maçı alanında yapılacak."
+    },
+    {
+      "word_en": "kick",
+      "word_tr": "tekme",
+      "example_en": "He scored a goal with a powerful kick.",
+      "example_tr": "Güçlü bir tekmeyle gol attı."
+    },
+    {
+      "word_en": "throw",
+      "word_tr": "atmak",
+      "example_en": "He can throw the ball very far.",
+      "example_tr": "Topu çok uzağa atabiliyor."
+    },
+    {
+      "word_en": "baseball",
+      "word_tr": "beyzbol",
+      "example_en": "They play baseball in the park.",
+      "example_tr": "Parkta beyzbol oynarlar."
+    },
+    {
+      "word_en": "hit",
+      "word_tr": "vurmak",
+      "example_en": "She hit the ball with a tennis racket.",
+      "example_tr": "Tenis raketiyle topa vurdu."
+    },
+    {
+      "word_en": "catch",
+      "word_tr": "yakalamak",
+      "example_en": "He caught the ball with one hand.",
+      "example_tr": "Topu bir eliyle yakaladı."
+    },
+    {
+      "word_en": "hockey",
+      "word_tr": "hokey",
+      "example_en": "They practice hockey on the ice.",
+      "example_tr": "Buzda hokey antrenmanı yaparlar."
+    },
+    {
+      "word_en": "golf",
+      "word_tr": "golf",
+      "example_en": "He enjoys playing golf on the weekends.",
+      "example_tr": "Hafta sonları golf oynamaktan keyif alır."
+    },
+    {
+      "word_en": "rugby",
+      "word_tr": "ragbi",
+      "example_en": "Rugby is a popular sport in many countries.",
+      "example_tr": "Ragbi birçok ülkede popüler bir spor."
+    },
+    {
+      "word_en": "cricket",
+      "word_tr": "kriket",
+      "example_en": "They play cricket in the backyard.",
+      "example_tr": "Arka bahçede kriket oynarlar."
+    },
+    {
+      "word_en": "diving",
+      "word_tr": "dalış",
+      "example_en": "She enjoys scuba diving in the ocean.",
+      "example_tr": "Okyanusta tüplü dalış yapmaktan keyif alır."
+    },
+    {
+      "word_en": "dive",
+      "word_tr": "dalış",
+      "example_en": "He made a graceful dive into the pool.",
+      "example_tr": "Havuza zarif bir dalış yaptı."
+    },
+    {
+      "word_en": "training",
+      "word_tr": "eğitim",
+      "example_en": "He undergoes rigorous training for the marathon.",
+      "example_tr": "Maraton için sıkı bir eğitimden geçiyor."
+    },
+    {
+      "word_en": "train",
+      "word_tr": "eğitmek",
+      "example_en": "She trains hard to improve her skills.",
+      "example_tr": "Becerilerini geliştirmek için sıkı antrenman yapar."
+    },
+    {
+      "word_en": "competition",
+      "word_tr": "yarışma",
+      "example_en": "She won the competition with her outstanding performance.",
+      "example_tr": "Olağanüstü performansıyla yarışmayı kazandı."
+    },
+    {
+      "word_en": "compete",
+      "word_tr": "yarışmak",
+      "example_en": "They compete in the annual marathon.",
+      "example_tr": "Yıllık maratonda yarışıyorlar."
+    },
+    {
+      "word_en": "jogging",
+      "word_tr": "koşu",
+      "example_en": "She enjoys morning jogging to stay fit.",
+      "example_tr": "Formunu korumak için sabahları koşmayı sever."
+    },
+    {
+      "word_en": "jog",
+      "word_tr": "koşmak",
+      "example_en": "He likes to jog in the park.",
+      "example_tr": "Parkta koşmayı sever."
+    },
+    {
+      "word_en": "climbing",
+      "word_tr": "tırmanma",
+      "example_en": "They practice climbing on the mountain.",
+      "example_tr": "Dağda tırmanma pratiği yapıyorlar."
+    },
+    {
+      "word_en": "climb",
+      "word_tr": "tırmanmak",
+      "example_en": "He can climb to the top of the tree.",
+      "example_tr": "Ağacın tepesine tırmanabilir."
+    },
+    {
+      "word_en": "player",
+      "word_tr": "oyuncu",
+      "example_en": "He is a talented basketball player.",
+      "example_tr": "O, yetenekli bir basketbol oyuncusu."
+    },
+    {
+      "word_en": "goal",
+      "word_tr": "hedef",
+      "example_en": "She scored a goal in the soccer match.",
+      "example_tr": "Futbol maçında gol attı."
+    },
+    {
+      "word_en": "score",
+      "word_tr": "gol atmak",
+      "example_en": "He scored the winning goal in the final.",
+      "example_tr": "Finalde kazanan golü attı."
+    },
+    {
+      "word_en": "coach",
+      "word_tr": "antrenör",
+      "example_en": "The coach motivates the team before the match.",
+      "example_tr": "Antrenör maç öncesinde takımı motive eder."
+    },
+    {
+      "word_en": "athlete",
+      "word_tr": "atlet",
+      "example_en": "She is a professional athlete.",
+      "example_tr": "O, profesyonel bir atlet."
+    },
+    {
+      "word_en": "cup",
+      "word_tr": "kupa",
+      "example_en": "They won the championship cup.",
+      "example_tr": "Şampiyonluk kupasını kazandılar."
+    },
+    {
+      "word_en": "tired",
+      "word_tr": "yorgun",
+      "example_en": "After the race, he felt very tired.",
+      "example_tr": "Yarıştan sonra çok yorgun hissetti."
+    },
+    {
+      "word_en": "join",
+      "word_tr": "katılmak",
+      "example_en": "She decided to join the marathon.",
+      "example_tr": "Maratona katılmaya karar verdi."
+    }
+  ]
+}
 
