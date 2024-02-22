@@ -1,1 +1,227 @@
+{
+  "words": [
+    {
+      "word_en": "bean",
+      "word_tr": "fasulye",
+      "example_en": "She likes to add beans to her salad.",
+      "example_tr": "Salatasına fasulye eklemeyi sever."
+    },
+    {
+      "word_en": "order",
+      "word_tr": "sipariş",
+      "example_en": "I'd like to place an order for delivery, please.",
+      "example_tr": "Lütfen teslimat için bir sipariş vermek istiyorum."
+    },
+    {
+      "word_en": "fresh",
+      "word_tr": "taze",
+      "example_en": "I prefer to buy fresh produce from the market.",
+      "example_tr": "Pazardan taze ürün almayı tercih ederim."
+    },
+    {
+      "word_en": "mushroom",
+      "word_tr": "mantar",
+      "example_en": "He's cooking a dish with mushrooms.",
+      "example_tr": "Mantarlı bir yemek pişiriyor."
+    },
+    {
+      "word_en": "flavor",
+      "word_tr": "lezzet",
+      "example_en": "The ice cream has a delicious flavor.",
+      "example_tr": "Dondurmanın harika bir lezzeti var."
+    },
+    {
+      "word_en": "pea",
+      "word_tr": "bezelye",
+      "example_en": "She doesn't like peas.",
+      "example_tr": "Bezelyeyi sevmez."
+    },
+    {
+      "word_en": "noodle",
+      "word_tr": "erişte",
+      "example_en": "He's cooking noodles for dinner.",
+      "example_tr": "Akşam yemeği için erişte pişiriyor."
+    },
+    {
+      "word_en": "sauce",
+      "word_tr": "sos",
+      "example_en": "She made a delicious sauce for the pasta.",
+      "example_tr": "Makarna için harika bir sos yaptı."
+    },
+    {
+      "word_en": "dessert",
+      "word_tr": "tatlı",
+      "example_en": "They ordered dessert after dinner.",
+      "example_tr": "Akşam yemeğinden sonra tatlı sipariş ettiler."
+    },
+    {
+      "word_en": "hot dog",
+      "word_tr": "sosisli",
+      "example_en": "She loves to eat hot dogs at baseball games.",
+      "example_tr": "Beyzbol oyunlarında sosisli yemeyi sever."
+    },
+    {
+      "word_en": "hot chocolate",
+      "word_tr": "sıcak çikolata",
+      "example_en": "She enjoys a cup of hot chocolate on cold days.",
+      "example_tr": "Soğuk günlerde sıcak çikolata içmeyi sever."
+    },
+    {
+      "word_en": "pie",
+      "word_tr": "turta",
+      "example_en": "She baked an apple pie for dessert.",
+      "example_tr": "Tatlı için elma turta pişirdi."
+    },
+    {
+      "word_en": "sausage",
+      "word_tr": "sosis",
+      "example_en": "He grilled sausages for the barbecue.",
+      "example_tr": "Mangal için sosisleri ızgara yaptı."
+    },
+    {
+      "word_en": "fast food",
+      "word_tr": "fast food",
+      "example_en": "She grabbed some fast food on her way home.",
+      "example_tr": "Eve giderken biraz fast food aldı."
+    },
+    {
+      "word_en": "toast",
+      "word_tr": "tost",
+      "example_en": "He likes to have toast with his breakfast.",
+      "example_tr": "Kahvaltısında tost yapmayı sever."
+    },
+    {
+      "word_en": "delicious",
+      "word_tr": "lezzetli",
+      "example_en": "The cake was delicious.",
+      "example_tr": "Pasta lezzetliydi."
+    },
+    {
+      "word_en": "French fries",
+      "word_tr": "patates kızartması",
+      "example_en": "I ordered a burger with French fries.",
+      "example_tr": "Patates kızartması ile bir burger söyledim."
+    },
+    {
+      "word_en": "snack",
+      "word_tr": "atıştırmalık",
+      "example_en": "I like to have a snack in the afternoon.",
+      "example_tr": "Öğleden sonra atıştırmalık bir şeyler yemeyi severim."
+    },
+    {
+      "word_en": "taste",
+      "word_tr": "tat",
+      "example_en": "The soup has a unique taste.",
+      "example_tr": "Çorbanın benzersiz bir tadı var."
+    },
+    {
+      "word_en": "hot dog",
+      "word_tr": "sosisli sandviç",
+      "example_en": "He bought a hot dog from the food truck.",
+      "example_tr": "Sosisli sandviç arabasından bir sosisli aldı."
+    },
+    {
+      "word_en": "serve",
+      "word_tr": "sunmak",
+      "example_en": "They serve breakfast until 11 AM.",
+      "example_tr": "Kahvaltıyı sabah 11'e kadar sunuyorlar."
+    },
+    {
+      "word_en": "potato chip",
+      "word_tr": "patates cipsi",
+      "example_en": "I enjoy eating potato chips while watching movies.",
+      "example_tr": "Filmler izlerken patates cipsi yemekten hoşlanırım."
+    },
+    {
+      "word_en": "sweet",
+      "word_tr": "tatlı",
+      "example_en": "I have a sweet tooth.",
+      "example_tr": "Tatlı bir dişim var."
+    },
+    {
+      "word_en": "salty",
+      "word_tr": "tuzlu",
+      "example_en": "I prefer salty snacks over sweet ones.",
+      "example_tr": "Tatlılara kıyasla tuzlu atıştırmalıkları tercih ederim."
+    },
+    {
+      "word_en": "dessert",
+      "word_tr": "tatlı",
+      "example_en": "I'll have the chocolate cake for dessert.",
+      "example_tr": "Tatlı olarak çikolata pastayı alacağım."
+    },
+    {
+      "word_en": "sour",
+      "word_tr": "ekşi",
+      "example_en": "The lemonade was too sour for my taste.",
+      "example_tr": "Limonata tadım için çok ekşiydi."
+    },
+    {
+      "word_en": "junk food",
+      "word_tr": "abur cubur",
+      "example_en": "He tries to avoid eating junk food.",
+      "example_tr": "Abur cubur yemekten kaçınmaya çalışıyor."
+    },
+    {
+      "word_en": "fresh",
+      "word_tr": "taze",
+      "example_en": "I love the smell of fresh bread.",
+      "example_tr": "Taze ekmek kokusunu severim."
+    },
+    {
+      "word_en": "order",
+      "word_tr": "sipariş",
+      "example_en": "I'd like to place an order for delivery.",
+      "example_tr": "Teslim için bir sipariş vermek istiyorum."
+    },
+    {
+      "word_en": "toast",
+      "word_tr": "tost",
+      "example_en": "I usually have toast and coffee for breakfast.",
+      "example_tr": "Genellikle kahvaltıda tost ve kahve içerim."
+    },
+    {
+      "word_en": "coffee shop",
+      "word_tr": "kahve dükkanı",
+      "example_en": "Let's meet at the coffee shop tomorrow.",
+      "example_tr": "Yarın kahve dükkanında buluşalım."
+    },
+    {
+      "word_en": "flavor",
+      "word_tr": "lezzet",
+      "example_en": "This ice cream has a unique flavor.",
+      "example_tr": "Bu dondurmanın benzersiz bir lezzeti var."
+    },
+    {
+      "word_en": "bean",
+      "word_tr": "fasulye",
+      "example_en": "She likes to add beans to her salad.",
+      "example_tr": "Salatasına fasulye eklemeyi sever."
+    },
+    {
+      "word_en": "mushroom",
+      "word_tr": "mantar",
+      "example_en": "I'm not a fan of mushrooms.",
+      "example_tr": "Mantarın hayranı değilim."
+    },
+    {
+      "word_en": "sauce",
+      "word_tr": "sos",
+      "example_en": "The pasta sauce was delicious.",
+      "example_tr": "Makarna sosu çok lezzetliydi."
+    },
+    {
+      "word_en": "fast food",
+      "word_tr": "fast food",
+      "example_en": "He grabbed some fast food for lunch.",
+      "example_tr": "Öğle yemeği için hızlı bir yemek aldı."
+    },
+    {
+      "word_en": "hot chocolate",
+      "word_tr": "sıcak çikolata",
+      "example_en": "I like to drink hot chocolate on cold days.",
+      "example_tr": "Soğuk günlerde sıcak çikolata içmeyi severim."
+    }
+  ]
+}
 
