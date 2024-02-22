@@ -1,1 +1,245 @@
+{
+  "words": [
+    {
+      "word_en": "understand",
+      "word_tr": "anlamak",
+      "example_en": "She couldn't understand why he was upset.",
+      "example_tr": "Neden sinirli olduğunu anlayamadı."
+    },
+    {
+      "word_en": "social",
+      "word_tr": "sosyal",
+      "example_en": "She enjoys being social and meeting new people.",
+      "example_tr": "Sosyal olmaktan ve yeni insanlarla tanışmaktan keyif alıyor."
+    },
+    {
+      "word_en": "misunderstand",
+      "word_tr": "yanlış anlamak",
+      "example_en": "They often misunderstand each other's intentions.",
+      "example_tr": "Genellikle birbirlerinin niyetlerini yanlış anlarlar."
+    },
+    {
+      "word_en": "mail",
+      "word_tr": "posta",
+      "example_en": "She received an important mail today.",
+      "example_tr": "Bugün önemli bir posta aldı."
+    },
+    {
+      "word_en": "argue",
+      "word_tr": "tartışmak",
+      "example_en": "They always argue about politics.",
+      "example_tr": "Her zaman siyaset hakkında tartışırlar."
+    },
+    {
+      "word_en": "receive",
+      "word_tr": "almak",
+      "example_en": "He received a package in the mail.",
+      "example_tr": "Postayla bir paket aldı."
+    },
+    {
+      "word_en": "tell",
+      "word_tr": "söylemek",
+      "example_en": "She told him about her plans.",
+      "example_tr": "Planları hakkında ona söyledi."
+    },
+    {
+      "word_en": "visit",
+      "word_tr": "ziyaret etmek",
+      "example_en": "They plan to visit their grandparents next weekend.",
+      "example_tr": "Gelecek hafta sonu büyükannelerini ve büyükbabalarını ziyaret etmeyi planlıyorlar."
+    },
+    {
+      "word_en": "reply",
+      "word_tr": "cevaplamak",
+      "example_en": "He replied to her message promptly.",
+      "example_tr": "Mesajına hızlı bir şekilde cevap verdi."
+    },
+    {
+      "word_en": "note",
+      "word_tr": "not",
+      "example_en": "She left him a note on the kitchen counter.",
+      "example_tr": "Mutfak tezgahının üstüne ona bir not bıraktı."
+    },
+    {
+      "word_en": "together",
+      "word_tr": "birlikte",
+      "example_en": "They like to spend time together.",
+      "example_tr": "Birlikte vakit geçirmeyi seviyorlar."
+    },
+    {
+      "word_en": "agree",
+      "word_tr": "katılmak",
+      "example_en": "They finally agreed on a movie to watch.",
+      "example_tr": "Nihayet izlemek için bir film konusunda anlaştılar."
+    },
+    {
+      "word_en": "statement",
+      "word_tr": "ifade",
+      "example_en": "His statement caused a stir in the media.",
+      "example_tr": "Onun ifadesi medyada bir dalgalanma yarattı."
+    },
+    {
+      "word_en": "hey",
+      "word_tr": "hey",
+      "example_en": "Hey, how are you doing?",
+      "example_tr": "Hey, nasılsın?"
+    },
+    {
+      "word_en": "envelope",
+      "word_tr": "zarf",
+      "example_en": "She sealed the letter in the envelope.",
+      "example_tr": "Mektubu zarfa kapattı."
+    },
+    {
+      "word_en": "reject",
+      "word_tr": "reddetmek",
+      "example_en": "They had to reject the proposal.",
+      "example_tr": "Teklifi reddetmek zorunda kaldılar."
+    },
+    {
+      "word_en": "say",
+      "word_tr": "demek",
+      "example_en": "She didn't know what to say.",
+      "example_tr": "Ne söyleyeceğini bilmiyordu."
+    },
+    {
+      "word_en": "so",
+      "word_tr": "bu yüzden",
+      "example_en": "It's raining, so we should take umbrellas.",
+      "example_tr": "Yağmur yağıyor, bu yüzden şemsiyelerimizi almalıyız."
+    },
+    {
+      "word_en": "after",
+      "word_tr": "ardından",
+      "example_en": "After the meeting, they went for lunch.",
+      "example_tr": "Toplantıdan sonra öğle yemeğine gittiler."
+    },
+    {
+      "word_en": "but",
+      "word_tr": "ama",
+      "example_en": "She likes chocolate but not vanilla.",
+      "example_tr": "Çikolatayı sever ama vanilyayı sevmez."
+    },
+    {
+      "word_en": "as",
+      "word_tr": "olarak",
+      "example_en": "He works as a software engineer.",
+      "example_tr": "Bir yazılım mühendisi olarak çalışıyor."
+    },
+    {
+      "word_en": "now",
+      "word_tr": "şimdi",
+      "example_en": "Now is the time to act.",
+      "example_tr": "Şimdi harekete geçme zamanı."
+    },
+    {
+      "word_en": "although",
+      "word_tr": "olsa da",
+      "example_en": "Although it was raining, they went for a walk.",
+      "example_tr": "Yağmur yağmasına rağmen yürüyüşe çıktılar."
+    },
+    {
+      "word_en": "or",
+      "word_tr": "veya",
+      "example_en": "Would you like tea or coffee?",
+      "example_tr": "Çay mı yoksa kahve mi istersiniz?"
+    },
+    {
+      "word_en": "before",
+      "word_tr": "önce",
+      "example_en": "He wanted to finish his work before lunch.",
+      "example_tr": "Öğle yemeğinden önce işini bitirmek istedi."
+    },
+    {
+      "word_en": "once",
+      "word_tr": "bir kez",
+      "example_en": "Once you understand the rules, it's easy.",
+      "example_tr": "Kuralları anladığınızda, kolaydır."
+    },
+    {
+      "word_en": "because",
+      "word_tr": "çünkü",
+      "example_en": "She stayed inside because of the rain.",
+      "example_tr": "Yağmur nedeniyle içerde kaldı."
+    },
+    {
+      "word_en": "though",
+      "word_tr": "olsa da",
+      "example_en": "It was cold, though the sun was shining.",
+      "example_tr": "Güneş parlıyordu, ama hava soğuktu."
+    },
+    {
+      "word_en": "right",
+      "word_tr": "doğru",
+      "example_en": "She always tries to do what's right.",
+      "example_tr": "Her zaman doğru olanı yapmaya çalışır."
+    },
+    {
+      "word_en": "if",
+      "word_tr": "eğer",
+      "example_en": "If it rains, we'll stay indoors.",
+      "example_tr": "Yağmur yağarsa içeride kalacağız."
+    },
+    {
+      "word_en": "conversation",
+      "word_tr": "konuşma",
+      "example_en": "Their conversation lasted for hours.",
+      "example_tr": "Onların konuşması saatlerce sürdü."
+    },
+    {
+      "word_en": "opinion",
+      "word_tr": "fikir",
+      "example_en": "Everyone has their own opinion.",
+      "example_tr": "Herkesin kendi fikri vardır."
+    },
+    {
+      "word_en": "argument",
+      "word_tr": "tartışma",
+      "example_en": "They had an argument about politics.",
+      "example_tr": "Siyaset hakkında bir tartışmaları vardı."
+    },
+    {
+      "word_en": "mail",
+      "word_tr": "posta",
+      "example_en": "She sent the invitation by mail.",
+      "example_tr": "Davetiyesini postayla gönderdi."
+    },
+    {
+      "word_en": "call",
+      "word_tr": "aramak",
+      "example_en": "He decided to call his friend.",
+      "example_tr": "Arkadaşını aramaya karar verdi."
+    },
+    {
+      "word_en": "discussion",
+      "word_tr": "tartışma",
+      "example_en": "The discussion became heated.",
+      "example_tr": "Tartışma kızıştı."
+    },
+    {
+      "word_en": "fight",
+      "word_tr": "kavga",
+      "example_en": "They had a fight over the remote control.",
+      "example_tr": "Uzaktan kumanda yüzünden bir kavga ettiler."
+    },
+    {
+      "word_en": "letter",
+      "word_tr": "mektup",
+      "example_en": "She received a love letter from her admirer.",
+      "example_tr": "Hayranından bir aşk mektubu aldı."
+    },
+    {
+      "word_en": "talk",
+      "word_tr": "konuşmak",
+      "example_en": "They talked about their future plans.",
+      "example_tr": "Gelecek planları hakkında konuştular."
+    },
+    {
+      "word_en": "cell phone",
+      "word_tr": "cep telefonu",
+      "example_en": "She always carries her cell phone with her.",
+      "example_tr": "Her zaman cep telefonunu yanında taşır."
+    }
+  ]
+}
 
