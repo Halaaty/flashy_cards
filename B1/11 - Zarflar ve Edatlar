@@ -1,1 +1,245 @@
+{
+  "words": [
+    {
+      "word_en": "unlike",
+      "example_en": "Unlike her sister, she prefers savory foods.",
+      "word_tr": "ona benzemeyen",
+      "example_tr": "Kız kardeşinin aksine, o tuzlu yiyecekleri tercih eder."
+    },
+    {
+      "word_en": "plus",
+      "example_en": "Two plus two equals four.",
+      "word_tr": "eksi",
+      "example_tr": "İki artı iki dört eder."
+    },
+    {
+      "word_en": "per",
+      "example_en": "The cost per person is $10.",
+      "word_tr": "başına",
+      "example_tr": "Kişi başına maliyet 10 dolardır."
+    },
+    {
+      "word_en": "including",
+      "example_en": "The package includes a variety of snacks.",
+      "word_tr": "dahil olmak üzere",
+      "example_tr": "Paket çeşitli atıştırmalıkları içerir."
+    },
+    {
+      "word_en": "close",
+      "example_en": "The store is close to the train station.",
+      "word_tr": "yakın",
+      "example_tr": "Mağaza tren istasyonuna yakın."
+    },
+    {
+      "word_en": "off",
+      "example_en": "He got off the bus at the next stop.",
+      "word_tr": "kapalı",
+      "example_tr": "Bir sonraki durakta otobüsten indi."
+    },
+    {
+      "word_en": "onto",
+      "example_en": "He climbed onto the roof to fix the antenna.",
+      "word_tr": "üzerine",
+      "example_tr": "Anteni tamir etmek için çatıya tırmandı."
+    },
+    {
+      "word_en": "into",
+      "example_en": "She dropped her keys into the basket.",
+      "word_tr": "içine",
+      "example_tr": "Anahtarlarını sepetin içine düşürdü."
+    },
+    {
+      "word_en": "among",
+      "example_en": "He found his book among the others on the shelf.",
+      "word_tr": "arasında",
+      "example_tr": "Rafın üzerindekiler arasında kitabını buldu."
+    },
+    {
+      "word_en": "underground",
+      "example_en": "The subway travels underground.",
+      "word_tr": "yer altı",
+      "example_tr": "Metro yer altında seyahat eder."
+    },
+    {
+      "word_en": "up",
+      "example_en": "She walked up the stairs to the second floor.",
+      "word_tr": "yukarı",
+      "example_tr": "İkinci kata çıkmak için merdivenlerden yukarı yürüdü."
+    },
+    {
+      "word_en": "down",
+      "example_en": "He walked down the hill to the river.",
+      "word_tr": "aşağı",
+      "example_tr": "Nehre doğru tepeden aşağı yürüdü."
+    },
+    {
+      "word_en": "directly",
+      "example_en": "The road leads directly to the beach.",
+      "word_tr": "doğrudan",
+      "example_tr": "Yol doğrudan plaja gider."
+    },
+    {
+      "word_en": "by",
+      "example_en": "He passed by the store on his way home.",
+      "word_tr": "tarafından",
+      "example_tr": "Eve giderken mağazanın yanından geçti."
+    },
+    {
+      "word_en": "behind",
+      "example_en": "The cat hid behind the sofa.",
+      "word_tr": "arkasında",
+      "example_tr": "Kedi koltuğun arkasına saklandı."
+    },
+    {
+      "word_en": "away",
+      "example_en": "He walked away from the crowd.",
+      "word_tr": "uzakta",
+      "example_tr": "Kalabalıktan uzaklaştı."
+    },
+    {
+      "word_en": "somewhere",
+      "example_en": "She left her keys somewhere in the house.",
+      "word_tr": "bir yerde",
+      "example_tr": "Anahtarlarını evin bir yerinde bıraktı."
+    },
+    {
+      "word_en": "nowhere",
+      "example_en": "He searched everywhere but found the book nowhere.",
+      "word_tr": "hiçbir yerde",
+      "example_tr": "Her yerde aradı ama kitabı hiçbir yerde bulamadı."
+    },
+    {
+      "word_en": "everywhere",
+      "example_en": "The children's toys are scattered everywhere.",
+      "word_tr": "her yerde",
+      "example_tr": "Çocukların oyuncakları her yerde dağınık."
+    },
+    {
+      "word_en": "anywhere",
+      "example_en": "You can sit anywhere you like.",
+      "word_tr": "herhangi bir yerde",
+      "example_tr": "Hoşuna giden herhangi bir yere oturabilirsin."
+    },
+    {
+      "word_en": "along",
+      "example_en": "They strolled along the beach at sunset.",
+      "word_tr": "boyunca",
+      "example_tr": "Günbatımında plaj boyunca yürüdüler."
+    },
+    {
+      "word_en": "high",
+      "example_en": "The kite flew high in the sky.",
+      "word_tr": "yüksek",
+      "example_tr": "Uçurtma gökyüzünde yüksek uçtu."
+    },
+    {
+      "word_en": "upward",
+      "example_en": "The elevator moved upward to the top floor.",
+      "word_tr": "yukarıya",
+      "example_tr": "Asansör en üst kata yukarı doğru hareket etti."
+    },
+    {
+      "word_en": "nearby",
+      "example_en": "There's a park nearby where we can have a picnic.",
+      "word_tr": "yakında",
+      "example_tr": "Piknik yapabileceğimiz bir park yakınlarda."
+    },
+    {
+      "word_en": "downward",
+      "example_en": "The plane began its downward descent.",
+      "word_tr": "aşağıya",
+      "example_tr": "Uçak aşağıya inişine başladı."
+    },
+    {
+      "word_en": "backward",
+      "example_en": "He walked backward to see if he had dropped anything.",
+      "word_tr": "geriye",
+      "example_tr": "Düşürdüğü bir şey olup olmadığını görmek için geriye doğru yürüdü."
+    },
+    {
+      "word_en": "underneath",
+      "example_en": "The keys were underneath the pile of papers.",
+      "word_tr": "altında",
+      "example_tr": "Anahtarlar kağıt yığınının altındaydı."
+    },
+    {
+      "word_en": "below",
+      "example_en": "The temperature dropped below freezing.",
+      "word_tr": "aşağıda",
+      "example_tr": "Sıcaklık donma noktasının altına düştü."
+    },
+    {
+      "word_en": "within",
+      "example_en": "The store is within walking distance.",
+      "word_tr": "içinde",
+      "example_tr": "Mağaza yürüme mesafesindedir."
+    },
+    {
+      "word_en": "like",
+      "example_en": "He talks like he knows everything.",
+      "word_tr": "gibi",
+      "example_tr": "Her şeyi bildiğini sanarak konuşuyor."
+    },
+    {
+      "word_en": "as",
+      "example_en": "He sings as if he were on stage.",
+      "word_tr": "gibi",
+      "example_tr": "Sahne gibi şarkı söylüyor."
+    },
+    {
+      "word_en": "according to",
+      "example_en": "According to the weather forecast, it will rain tomorrow.",
+      "word_tr": "göre",
+      "example_tr": "Hava tahminine göre, yarın yağmur yağacak."
+    },
+    {
+      "word_en": "but",
+      "example_en": "She likes apples but not oranges.",
+      "word_tr": "ama",
+      "example_tr": "Elmayı sever ama portakalı sevmez."
+    },
+    {
+      "word_en": "without",
+      "example_en": "He couldn't imagine life without music.",
+      "word_tr": "olmadan",
+      "example_tr": "Müzik olmadan hayatı düşünemezdi."
+    },
+    {
+      "word_en": "badly",
+      "example_en": "He needed the job badly.",
+      "word_tr": "çok",
+      "example_tr": "İşi çok ihtiyacı vardı."
+    },
+    {
+      "word_en": "via",
+      "example_en": "You can send the file via email.",
+      "word_tr": "üzerinden",
+      "example_tr": "Dosyayı e-posta üzerinden gönderebilirsiniz."
+    },
+    {
+      "word_en": "toward",
+      "example_en": "He walked toward the city center.",
+      "word_tr": "doğru",
+      "example_tr": "Şehir merkezine doğru yürüdü."
+    },
+    {
+      "word_en": "till",
+      "example_en": "The store is open till midnight.",
+      "word_tr": "kadar",
+      "example_tr": "Mağaza gece yarısına kadar açık."
+    },
+    {
+      "word_en": "plus",
+      "example_en": "Two plus two equals four.",
+      "word_tr": "eksi",
+      "example_tr": "İki artı iki dört eder."
+    },
+    {
+      "word_en": "per",
+      "example_en": "The cost per person is $10.",
+      "word_tr": "başına",
+      "example_tr": "Kişi başına maliyet 10 dolardır."
+    }
+  ]
+}
 
