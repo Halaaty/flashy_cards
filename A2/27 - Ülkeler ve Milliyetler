@@ -1,1 +1,125 @@
+{
+  "words": [
+    {
+      "word_en": "Egypt",
+      "word_tr": "Mısır",
+      "example_en": "The pyramids are located in Egypt.",
+      "example_tr": "Piramitler Mısır'da bulunur."
+    },
+    {
+      "word_en": "Saudi Arabia",
+      "word_tr": "Suudi Arabistan",
+      "example_en": "Saudi Arabia is known for its oil reserves.",
+      "example_tr": "Suudi Arabistan, petrol rezervleriyle bilinir."
+    },
+    {
+      "word_en": "Vietnam",
+      "word_tr": "Vietnam",
+      "example_en": "I've always wanted to visit Vietnam.",
+      "example_tr": "Her zaman Vietnam'ı ziyaret etmek istemişimdir."
+    },
+    {
+      "word_en": "Greece",
+      "word_tr": "Yunanistan",
+      "example_en": "Greece has a rich history.",
+      "example_tr": "Yunanistan'ın zengin bir tarihi var."
+    },
+    {
+      "word_en": "Poland",
+      "word_tr": "Polonya",
+      "example_en": "Krakow is a popular city in Poland.",
+      "example_tr": "Krakow, Polonya'da popüler bir şehirdir."
+    },
+    {
+      "word_en": "Sweden",
+      "word_tr": "İsveç",
+      "example_en": "Sweden is known for its quality of life.",
+      "example_tr": "İsveç, yaşam kalitesiyle bilinir."
+    },
+    {
+      "word_en": "Norway",
+      "word_tr": "Norveç",
+      "example_en": "The fjords in Norway are breathtaking.",
+      "example_tr": "Norveç'teki fiyortlar nefes kesici."
+    },
+    {
+      "word_en": "the Netherlands",
+      "word_tr": "Hollanda",
+      "example_en": "The Netherlands is famous for its windmills.",
+      "example_tr": "Hollanda, rüzgar değirmenleriyle ünlüdür."
+    },
+    {
+      "word_en": "Austria",
+      "word_tr": "Avusturya",
+      "example_en": "Vienna is the capital city of Austria.",
+      "example_tr": "Viyana, Avusturya'nın başkenti."
+    },
+    {
+      "word_en": "Switzerland",
+      "word_tr": "İsviçre",
+      "example_en": "Switzerland is known for its beautiful landscapes.",
+      "example_tr": "İsviçre, güzel manzaralarıyla bilinir."
+    },
+    {
+      "word_en": "Australia",
+      "word_tr": "Avustralya",
+      "example_en": "Kangaroos are native to Australia.",
+      "example_tr": "Kangurular, Avustralya'ya özgüdür."
+    },
+    {
+      "word_en": "Saudi",
+      "word_tr": "Suudi",
+      "example_en": "I have a friend from Saudi Arabia.",
+      "example_tr": "Suudi Arabistan'dan bir arkadaşım var."
+    },
+    {
+      "word_en": "Vietnamese",
+      "word_tr": "Vietnam",
+      "example_en": "I love Vietnamese cuisine.",
+      "example_tr": "Vietnam mutfağını seviyorum."
+    },
+    {
+      "word_en": "Greek",
+      "word_tr": "Yunan",
+      "example_en": "Greek mythology is fascinating.",
+      "example_tr": "Yunan mitolojisi büyüleyicidir."
+    },
+    {
+      "word_en": "Norwegian",
+      "word_tr": "Norveç",
+      "example_en": "My favorite author is Norwegian.",
+      "example_tr": "En sevdiğim yazar Norveçli."
+    },
+    {
+      "word_en": "Swiss",
+      "word_tr": "İsviçreli",
+      "example_en": "Swiss chocolate is delicious.",
+      "example_tr": "İsviçreli çikolata çok lezzetlidir."
+    },
+    {
+      "word_en": "Dutch",
+      "word_tr": "Hollandalı",
+      "example_en": "I have a Dutch friend.",
+      "example_tr": "Hollandalı bir arkadaşım var."
+    },
+    {
+      "word_en": "Australian",
+      "word_tr": "Avustralyalı",
+      "example_en": "Sydney is an Australian city.",
+      "example_tr": "Sydney bir Avustralya şehridir."
+    },
+    {
+      "word_en": "Egyptian",
+      "word_tr": "Mısırlı",
+      "example_en": "I've always been fascinated by Egyptian history.",
+      "example_tr": "Mısır tarihi beni her zaman büyülemiştir."
+    },
+    {
+      "word_en": "Austrian",
+      "word_tr": "Avusturyalı",
+      "example_en": "Mozart was Austrian.",
+      "example_tr": "Mozart Avusturyalıydı."
+    }
+  ]
+}
 
