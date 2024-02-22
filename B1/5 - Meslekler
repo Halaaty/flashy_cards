@@ -1,1 +1,203 @@
+{
+  "words": [
+    {
+      "word_en": "agent",
+      "word_tr": "ajan",
+      "example_en": "The agent negotiated a deal on behalf of the actor.",
+      "example_tr": "Ajan, oyuncunun adına bir anlaşma müzakere etti."
+    },
+    {
+      "word_en": "firefighter",
+      "word_tr": "itfaiyeci",
+      "example_en": "The firefighter bravely entered the burning building.",
+      "example_tr": "İtfaiyeci cesurca yanmakta olan binaya girdi."
+    },
+    {
+      "word_en": "photographer",
+      "word_tr": "fotoğrafçı",
+      "example_en": "The photographer captured stunning images of the landscape.",
+      "example_tr": "Fotoğrafçı, manzaranın etkileyici görüntülerini yakaladı."
+    },
+    {
+      "word_en": "barber",
+      "word_tr": "berber",
+      "example_en": "The barber gave him a stylish haircut.",
+      "example_tr": "Berber, ona şık bir saç kesimi yaptı."
+    },
+    {
+      "word_en": "sailor",
+      "word_tr": "denizci",
+      "example_en": "The sailor navigated through stormy waters.",
+      "example_tr": "Denizci, fırtınalı sulardan geçti."
+    },
+    {
+      "word_en": "reporter",
+      "word_tr": "muhabir",
+      "example_en": "The reporter covered the breaking news story.",
+      "example_tr": "Muhabir, önemli haber hikayesini kapsadı."
+    },
+    {
+      "word_en": "guard",
+      "word_tr": "bekçi",
+      "example_en": "The guard patrolled the premises to ensure security.",
+      "example_tr": "Bekçi, güvenliği sağlamak için yerleri devriye gezdi."
+    },
+    {
+      "word_en": "babysitter",
+      "word_tr": "çocuk bakıcısı",
+      "example_en": "The babysitter entertained the children with games and stories.",
+      "example_tr": "Çocuk bakıcısı, çocukları oyunlar ve hikayelerle eğlendirdi."
+    },
+    {
+      "word_en": "tailor",
+      "word_tr": "terzi",
+      "example_en": "The tailor altered the suit to fit perfectly.",
+      "example_tr": "Terzi, takım elbiseyi mükemmel uyum sağlaması için değiştirdi."
+    },
+    {
+      "word_en": "servant",
+      "word_tr": "hizmetçi",
+      "example_en": "The servant attended to the needs of the household.",
+      "example_tr": "Hizmetçi, evin ihtiyaçlarına baktı."
+    },
+    {
+      "word_en": "builder",
+      "word_tr": "inşaatçı",
+      "example_en": "The builder constructed a sturdy house.",
+      "example_tr": "İnşaatçı, sağlam bir ev inşa etti."
+    },
+    {
+      "word_en": "butcher",
+      "word_tr": "kasap",
+      "example_en": "The butcher sliced the meat to order.",
+      "example_tr": "Kasap, eti isteğe göre dilimledi."
+    },
+    {
+      "word_en": "astronaut",
+      "word_tr": "astronot",
+      "example_en": "The astronaut floated in zero gravity.",
+      "example_tr": "Astronot, sıfır yerçekiminde süzüldü."
+    },
+    {
+      "word_en": "bodyguard",
+      "word_tr": "muhafız",
+      "example_en": "The bodyguard escorted the VIP safely to the event.",
+      "example_tr": "Muhafız, VIP'yi etkinliğe güvenli bir şekilde eskort etti."
+    },
+    {
+      "word_en": "gardener",
+      "word_tr": "bahçıvan",
+      "example_en": "The gardener planted colorful flowers in the garden.",
+      "example_tr": "Bahçıvan, bahçeye renkli çiçekler dikti."
+    },
+    {
+      "word_en": "housewife",
+      "word_tr": "ev hanımı",
+      "example_en": "The housewife managed the household affairs efficiently.",
+      "example_tr": "Ev hanımı, ev işlerini verimli bir şekilde yönetti."
+    },
+    {
+      "word_en": "editor",
+      "word_tr": "editör",
+      "example_en": "The editor reviewed the manuscript before publication.",
+      "example_tr": "Editör, yayımlanmadan önce el yazmasını inceledi."
+    },
+    {
+      "word_en": "president",
+      "word_tr": "başkan",
+      "example_en": "The president addressed the nation in a televised speech.",
+      "example_tr": "Başkan, televizyonda yayımlanan bir konuşmada ulusa seslendi."
+    },
+    {
+      "word_en": "adviser",
+      "word_tr": "danışman",
+      "example_en": "The adviser provided valuable insights into the market trends.",
+      "example_tr": "Danışman, piyasa trendleri hakkında değerli içgörüler sağladı."
+    },
+    {
+      "word_en": "flight attendant",
+      "word_tr": "uçuş görevlisi",
+      "example_en": "The flight attendant demonstrated safety procedures to passengers.",
+      "example_tr": "Uçuş görevlisi, yolculara güvenlik prosedürlerini gösterdi."
+    },
+    {
+      "word_en": "director",
+      "word_tr": "yönetmen",
+      "example_en": "The director brought the script to life with vivid imagery.",
+      "example_tr": "Yönetmen, canlı imgelerle senaryoyu hayata geçirdi."
+    },
+    {
+      "word_en": "translator",
+      "word_tr": "çevirmen",
+      "example_en": "The translator rendered the text into multiple languages.",
+      "example_tr": "Çevirmen, metni birden fazla dile aktardı."
+    },
+    {
+      "word_en": "programmer",
+      "word_tr": "programcı",
+      "example_en": "The programmer developed innovative software solutions.",
+      "example_tr": "Programcı, yenilikçi yazılım çözümleri geliştirdi."
+    },
+    {
+      "word_en": "judge",
+      "word_tr": "hakim",
+      "example_en": "The judge presided over the courtroom proceedings.",
+      "example_tr": "Hakim, mahkeme sürecinin başkanlığını yaptı."
+    },
+    {
+      "word_en": "songwriter",
+      "word_tr": "şarkı yazarı",
+      "example_en": "The songwriter penned chart-topping hits for famous artists.",
+      "example_tr": "Şarkı yazarı, ünlü sanatçılar için liste başı parçalar yazdı."
+    },
+    {
+      "word_en": "freelancer",
+      "word_tr": "serbest çalışan",
+      "example_en": "As a freelancer, she enjoyed the flexibility of her work schedule.",
+      "example_tr": "Serbest çalışan olarak, iş programının esnekliğinden memnundu."
+    },
+    {
+      "word_en": "veterinarian",
+      "word_tr": "veteriner",
+      "example_en": "The veterinarian treated injured animals with care and compassion.",
+      "example_tr": "Veteriner, yaralı hayvanları özenle tedavi etti."
+    },
+    {
+      "word_en": "technician",
+      "word_tr": "teknisyen",
+      "example_en": "The technician repaired the malfunctioning equipment.",
+      "example_tr": "Teknisyen, arızalı ekipmanı tamir etti."
+    },
+    {
+      "word_en": "sportsman",
+      "word_tr": "sporcu",
+      "example_en": "The sportsman trained rigorously for the upcoming competition.",
+      "example_tr": "Sporcu, yaklaşan yarışma için sıkı bir şekilde antrenman yaptı."
+    },
+    {
+      "word_en": "trader",
+      "word_tr": "tüccar",
+      "example_en": "The trader bought and sold stocks on the stock exchange.",
+      "example_tr": "Tüccar, borsada hisse senetleri alıp sattı."
+    },
+    {
+      "word_en": "gardener",
+      "word_tr": "bahçıvan",
+      "example_en": "The gardener tended to the plants in the botanical garden.",
+      "example_tr": "Bahçıvan, botanik bahçesindeki bitkilere bakıyordu."
+    },
+    {
+      "word_en": "butcher",
+      "word_tr": "kasap",
+      "example_en": "The butcher prepared cuts of meat for the customers.",
+      "example_tr": "Kasap, müşteriler için et kesimleri hazırladı."
+    },
+    {
+      "word_en": "tutor",
+      "word_tr": "öğretmen",
+      "example_en": "The tutor helped the student with difficult math problems.",
+      "example_tr": "Öğretmen, öğrenciye zor matematik sorunlarıyla yardımcı oldu."
+    }
+  ]
+}
 
