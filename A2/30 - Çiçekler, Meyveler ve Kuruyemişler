@@ -1,1 +1,185 @@
+{
+  "words": [
+    {
+      "word_en": "hazelnut",
+      "example_en": "She likes hazelnuts in her chocolate spread.",
+      "word_tr": "fındık",
+      "example_tr": "Çikolata kremasında fındıkları sever."
+    },
+    {
+      "word_en": "soft",
+      "example_en": "The fabric of the blanket was soft to the touch.",
+      "word_tr": "yumuşak",
+      "example_tr": "Battaniyenin kumaşı dokunmaya yumuşaktı."
+    },
+    {
+      "word_en": "pecan",
+      "example_en": "Pecan pie is a traditional Southern dessert.",
+      "word_tr": "ceviz",
+      "example_tr": "Cevizli tart geleneksel Güney tatlısıdır."
+    },
+    {
+      "word_en": "hard",
+      "example_en": "The apple was too hard to bite into.",
+      "word_tr": "sert",
+      "example_tr": "Elma ısırılmak için çok sertti."
+    },
+    {
+      "word_en": "almond",
+      "example_en": "Almonds are a popular ingredient in baking.",
+      "word_tr": "badem",
+      "example_tr": "Bademler fırıncılıkta popüler bir malzemedir."
+    },
+    {
+      "word_en": "walnut",
+      "example_en": "Walnuts are a good source of omega-3 fatty acids.",
+      "word_tr": "ceviz",
+      "example_tr": "Cevizler omega-3 yağ asitlerinin iyi bir kaynağıdır."
+    },
+    {
+      "word_en": "peanut",
+      "example_en": "She enjoys peanut butter on her toast.",
+      "word_tr": "fıstık",
+      "example_tr": "Tostunda fıstık ezmesinden keyif alır."
+    },
+    {
+      "word_en": "nut",
+      "example_en": "Nuts are a nutritious snack.",
+      "word_tr": "fındık",
+      "example_tr": "Fındık sağlıklı bir atıştırmalıktır."
+    },
+    {
+      "word_en": "cactus",
+      "example_en": "Cacti are well-suited to dry climates.",
+      "word_tr": "kaktüs",
+      "example_tr": "Kaktüsler kuru iklimlere uygun."
+    },
+    {
+      "word_en": "sunflower",
+      "example_en": "Sunflowers sway gently in the breeze.",
+      "word_tr": "ayçiçeği",
+      "example_tr": "Ayçiçekleri hafif rüzgarla nazikçe sallanır."
+    },
+    {
+      "word_en": "orchid",
+      "example_en": "She received a potted orchid as a gift.",
+      "word_tr": "orkide",
+      "example_tr": "Hediyelik olarak bir saksıda orkide aldı."
+    },
+    {
+      "word_en": "lily",
+      "example_en": "The lilies in the pond bloomed beautifully.",
+      "word_tr": "nilüfer",
+      "example_tr": "Göldeki nilüferler güzelce açtı."
+    },
+    {
+      "word_en": "rose",
+      "example_en": "The garden is full of beautiful roses.",
+      "word_tr": "gül",
+      "example_tr": "Bahçe güzel gül dolu."
+    },
+    {
+      "word_en": "grapefruit",
+      "example_en": "She enjoys grapefruit juice with breakfast.",
+      "word_tr": "greyfurt",
+      "example_tr": "Kahvaltıda greyfurt suyu içmekten hoşlanır."
+    },
+    {
+      "word_en": "avocado",
+      "example_en": "Avocados are a good source of healthy fats.",
+      "word_tr": "avokado",
+      "example_tr": "Avokadolar sağlıklı yağların iyi bir kaynağıdır."
+    },
+    {
+      "word_en": "kiwi",
+      "example_en": "Kiwi is a delicious and nutritious fruit.",
+      "word_tr": "kiwi",
+      "example_tr": "Kiwi lezzetli ve besleyici bir meyvedir."
+    },
+    {
+      "word_en": "mango",
+      "example_en": "She enjoys eating ripe mangoes in the summer.",
+      "word_tr": "mango",
+      "example_tr": "Yazın olgun mango yemekten keyif alır."
+    },
+    {
+      "word_en": "pineapple",
+      "example_en": "Pineapples grow in tropical regions.",
+      "word_tr": "ananas",
+      "example_tr": "Ananaslar tropikal bölgelerde yetişir."
+    },
+    {
+      "word_en": "pear",
+      "example_en": "He enjoys biting into a juicy pear.",
+      "word_tr": "armut",
+      "example_tr": "Sulu bir armudu ısırmaktan keyif alır."
+    },
+    {
+      "word_en": "watermelon",
+      "example_en": "Watermelon is a refreshing summer fruit.",
+      "word_tr": "karpuz",
+      "example_tr": "Karpuz yazın serinletici bir meyvedir."
+    },
+    {
+      "word_en": "blueberry",
+      "example_en": "She likes to sprinkle blueberries on her cereal.",
+      "word_tr": "yaban mersini",
+      "example_tr": "Kahvaltısına yaban mersini serpmekten hoşlanır."
+    },
+    {
+      "word_en": "strawberry",
+      "example_en": "Strawberries are ripe and ready to be picked.",
+      "word_tr": "çilek",
+      "example_tr": "Çilekler olgunlaştı ve toplanmaya hazır."
+    },
+    {
+      "word_en": "feed",
+      "example_en": "They feed the cattle hay and grain.",
+      "word_tr": "beslemek",
+      "example_tr": "Sığırı saman ve tahıl ile beslerler."
+    },
+    {
+      "word_en": "produce",
+      "example_en": "The farm produces a variety of fruits and vegetables.",
+      "word_tr": "üretmek",
+      "example_tr": "Çiftlik çeşitli meyve ve sebzeler üretir."
+    },
+    {
+      "word_en": "grow",
+      "example_en": "These tomatoes grow well in warm climates.",
+      "word_tr": "büyümek",
+      "example_tr": "Bu domatesler sıcak iklimlerde iyi büyür."
+    },
+    {
+      "word_en": "water",
+      "example_en": "They water the crops every morning.",
+      "word_tr": "sulamak",
+      "example_tr": "Her sabah mahsulleri suluyorlar."
+    },
+    {
+      "word_en": "plant",
+      "example_en": "They plant new seeds in the spring.",
+      "word_tr": "dikmek",
+      "example_tr": "Bahar aylarında yeni tohumlar dikerler."
+    },
+    {
+      "word_en": "pick",
+      "example_en": "They pick apples from the orchard in the fall.",
+      "word_tr": "toplamak",
+      "example_tr": "Sonbaharda meyve bahçesinden elma toplarlar."
+    },
+    {
+      "word_en": "farming",
+      "example_en": "She enjoys learning about organic farming practices.",
+      "word_tr": "çiftçilik",
+      "example_tr": "Organik çiftçilik uygulamaları hakkında öğrenmeyi sever."
+    },
+    {
+      "word_en": "farm",
+      "example_en": "The family owns a small farm in the countryside.",
+      "word_tr": "çiftlik",
+      "example_tr": "Aile kırsalda küçük bir çiftliğe sahiptir."
+    }
+  ]
+}
 
