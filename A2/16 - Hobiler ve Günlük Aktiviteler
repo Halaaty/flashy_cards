@@ -1,1 +1,227 @@
+{
+  "words": [
+    {
+      "word_en": "tent",
+      "word_tr": "çadır",
+      "example_en": "We pitched our tent near the lake.",
+      "example_tr": "Çadırımızı gölün yakınına kurduk."
+    },
+    {
+      "word_en": "card game",
+      "word_tr": "kart oyunu",
+      "example_en": "We played a fun card game with friends last night.",
+      "example_tr": "Dün gece arkadaşlarla eğlenceli bir kart oyunu oynadık."
+    },
+    {
+      "word_en": "bath",
+      "word_tr": "banyo",
+      "example_en": "He likes to take a hot bath after a long day.",
+      "example_tr": "Uzun bir günün ardından sıcak bir banyo yapmayı sever."
+    },
+    {
+      "word_en": "picnic",
+      "word_tr": "piknik",
+      "example_en": "We had a lovely picnic in the park last weekend.",
+      "example_tr": "Geçen hafta sonu parkta harika bir piknik yaptık."
+    },
+    {
+      "word_en": "fish",
+      "word_tr": "balık",
+      "example_en": "We caught a lot of fish on our fishing trip.",
+      "example_tr": "Balık tutma gezimizde çok balık yakaladık."
+    },
+    {
+      "word_en": "walk",
+      "word_tr": "yürüyüş",
+      "example_en": "Let's go for a walk in the woods.",
+      "example_tr": "Ormana yürüyüşe gidelim."
+    },
+    {
+      "word_en": "ball game",
+      "word_tr": "top oyunu",
+      "example_en": "We had a blast playing ball games at the beach.",
+      "example_tr": "Sahilde top oyunları oynamak çok eğlenceliydi."
+    },
+    {
+      "word_en": "club",
+      "word_tr": "klüp",
+      "example_en": "He's a member of the local fishing club.",
+      "example_tr": "Yerel balıkçılık kulübünün bir üyesidir."
+    },
+    {
+      "word_en": "shower",
+      "word_tr": "duş",
+      "example_en": "I'll take a quick shower before dinner.",
+      "example_tr": "Akşam yemeğinden önce hızlı bir duş alacağım."
+    },
+    {
+      "word_en": "campsite",
+      "word_tr": "kamp alanı",
+      "example_en": "The campsite was surrounded by beautiful scenery.",
+      "example_tr": "Kamp alanı güzel manzaralarla çevriliydi."
+    },
+    {
+      "word_en": "camping",
+      "word_tr": "kamp yapma",
+      "example_en": "Camping in the mountains is always an adventure.",
+      "example_tr": "Dağlarda kamp yapmak her zaman bir maceradır."
+    },
+    {
+      "word_en": "barbecue",
+      "word_tr": "barbekü",
+      "example_en": "We had a barbecue in the backyard last Sunday.",
+      "example_tr": "Geçen Pazar arka bahçede bir barbekü yaptık."
+    },
+    {
+      "word_en": "yoga",
+      "word_tr": "yoga",
+      "example_en": "She practices yoga every morning to relax.",
+      "example_tr": "Rahatlamak için her sabah yoga yapar."
+    },
+    {
+      "word_en": "laundry",
+      "word_tr": "çamaşır",
+      "example_en": "She's doing the laundry right now.",
+      "example_tr": "Şu anda çamaşırları yıkıyor."
+    },
+    {
+      "word_en": "table tennis",
+      "word_tr": "masa tenisi",
+      "example_en": "We played table tennis at the community center.",
+      "example_tr": "Toplum merkezinde masa tenisi oynadık."
+    },
+    {
+      "word_en": "relax",
+      "word_tr": "rahatlamak",
+      "example_en": "She likes to relax by reading a book.",
+      "example_tr": "Kitap okuyarak rahatlamayı sever."
+    },
+    {
+      "word_en": "bored",
+      "word_tr": "sıkılmış",
+      "example_en": "He felt bored after finishing all his tasks.",
+      "example_tr": "Tüm işlerini bitirdikten sonra sıkıldı."
+    },
+    {
+      "word_en": "party",
+      "word_tr": "parti",
+      "example_en": "They threw a big party for her birthday.",
+      "example_tr": "Doğum günü için büyük bir parti düzenlediler."
+    },
+    {
+      "word_en": "water park",
+      "word_tr": "su parkı",
+      "example_en": "We spent the day at the water park.",
+      "example_tr": "Günü su parkında geçirdik."
+    },
+    {
+      "word_en": "fun",
+      "word_tr": "eğlence",
+      "example_en": "Playing games with friends is always fun.",
+      "example_tr": "Arkadaşlarla oyun oynamak her zaman eğlencelidir."
+    },
+    {
+      "word_en": "cleaning",
+      "word_tr": "temizlik",
+      "example_en": "She finds cleaning therapeutic.",
+      "example_tr": "Temizliği terapötik buluyor."
+    },
+    {
+      "word_en": "begin",
+      "word_tr": "başlamak",
+      "example_en": "Let's begin the game.",
+      "example_tr": "Oyunu başlatalım."
+    },
+    {
+      "word_en": "smoke",
+      "word_tr": "duman",
+      "example_en": "Smoke rose from the chimney.",
+      "example_tr": "Bacadan duman yükseldi."
+    },
+    {
+      "word_en": "cooking",
+      "word_tr": "yemek pişirme",
+      "example_en": "She enjoys cooking new recipes.",
+      "example_tr": "Yeni tarifler yapmaktan hoşlanır."
+    },
+    {
+      "word_en": "surprising",
+      "word_tr": "şaşırtıcı",
+      "example_en": "The ending of the movie was surprising.",
+      "example_tr": "Filmin sonu şaşırtıcıydı."
+    },
+    {
+      "word_en": "enjoyable",
+      "word_tr": "keyifli",
+      "example_en": "It was an enjoyable evening with friends.",
+      "example_tr": "Arkadaşlarla keyifli bir akşamdı."
+    },
+    {
+      "word_en": "delightful",
+      "word_tr": "hoş",
+      "example_en": "The garden is a delightful place to relax.",
+      "example_tr": "Bahçe rahatlamak için hoş bir yerdir."
+    },
+    {
+      "word_en": "pleased",
+      "word_tr": "memnun",
+      "example_en": "She was pleased with the results.",
+      "example_tr": "Sonuçlardan memnun kaldı."
+    },
+    {
+      "word_en": "cooking",
+      "word_tr": "pişirme",
+      "example_en": "She enjoys cooking new recipes.",
+      "example_tr": "Yeni tarifler yapmaktan hoşlanır."
+    },
+    {
+      "word_en": "ball game",
+      "word_tr": "top oyunu",
+      "example_en": "They played a ball game in the park.",
+      "example_tr": "Parkta top oynadılar."
+    },
+    {
+      "word_en": "yoga",
+      "word_tr": "yoga",
+      "example_en": "She practices yoga every morning.",
+      "example_tr": "Her sabah yoga yapıyor."
+    },
+    {
+      "word_en": "tent",
+      "word_tr": "çadır",
+      "example_en": "They set up their tent by the lake.",
+      "example_tr": "Çadırlarını gölün yanına kurdular."
+    },
+    {
+      "word_en": "shower",
+      "word_tr": "duş",
+      "example_en": "She took a quick shower before dinner.",
+      "example_tr": "Akşam yemeğinden önce hızlı bir duş aldı."
+    },
+    {
+      "word_en": "picnic",
+      "word_tr": "piknik",
+      "example_en": "They had a picnic in the park.",
+      "example_tr": "Parkta piknik yaptılar."
+    },
+    {
+      "word_en": "ball game",
+      "word_tr": "top oyunu",
+      "example_en": "They played a ball game in the park.",
+      "example_tr": "Parkta top oynadılar."
+    },
+    {
+      "word_en": "campsite",
+      "word_tr": "kamp alanı",
+      "example_en": "They set up their tent at the campsite.",
+      "example_tr": "Çadırlarını kamp alanında kurdular."
+    },
+    {
+      "word_en": "camp",
+      "word_tr": "kamp",
+      "example_en": "They went camping in the mountains.",
+      "example_tr": "Dağlarda kampa gittiler."
+    }
+  ]
+}
 
