@@ -1,1 +1,167 @@
+{
+  "words": [
+    {
+      "word_en": "hide-and-seek",
+      "example_en": "They played hide-and-seek in the garden.",
+      "word_tr": "saklambaç",
+      "example_tr": "Bahçede saklambaç oynadılar."
+    },
+    {
+      "word_en": "card",
+      "example_en": "She enjoys playing card games with her friends.",
+      "word_tr": "kart",
+      "example_tr": "Arkadaşlarıyla kart oyunları oynamaktan hoşlanır."
+    },
+    {
+      "word_en": "chess",
+      "example_en": "He's a skilled player at chess.",
+      "word_tr": "satranç",
+      "example_tr": "Satrançta yetenekli bir oyuncu."
+    },
+    {
+      "word_en": "trick",
+      "example_en": "She performed a magic trick at the party.",
+      "word_tr": "hile",
+      "example_tr": "Partide bir sihir hilesi yaptı."
+    },
+    {
+      "word_en": "crossword",
+      "example_en": "She spends her Sunday mornings solving crosswords.",
+      "word_tr": "bulmaca",
+      "example_tr": "Pazar sabahlarını bulmaca çözerek geçirir."
+    },
+    {
+      "word_en": "rule",
+      "example_en": "The rule of the game is to score the most points.",
+      "word_tr": "kural",
+      "example_tr": "Oyunun kuralı en çok puanı almak."
+    },
+    {
+      "word_en": "dice",
+      "example_en": "They rolled the dice to determine who goes first.",
+      "word_tr": "zar",
+      "example_tr": "Kimin önce gideceğini belirlemek için zar attılar."
+    },
+    {
+      "word_en": "kite",
+      "example_en": "They flew a kite in the park.",
+      "word_tr": "uçurtma",
+      "example_tr": "Parkta uçurtma uçurdular."
+    },
+    {
+      "word_en": "balloon",
+      "example_en": "They played with balloons at the birthday party.",
+      "word_tr": "balon",
+      "example_tr": "Doğum günü partisinde balonlarla oynadılar."
+    },
+    {
+      "word_en": "amusing",
+      "example_en": "The clown's performance was very amusing.",
+      "word_tr": "eğlenceli",
+      "example_tr": "Palyaçonun gösterisi çok eğlenceliydi."
+    },
+    {
+      "word_en": "play",
+      "example_en": "Children love to play in the park.",
+      "word_tr": "oynamak",
+      "example_tr": "Çocuklar parkta oynamayı sever."
+    },
+    {
+      "word_en": "puzzle",
+      "example_en": "She enjoys solving jigsaw puzzles in her free time.",
+      "word_tr": "bulmaca",
+      "example_tr": "Boş zamanlarında yapboz çözmekten hoşlanır."
+    },
+    {
+      "word_en": "to turn",
+      "example_en": "It's your turn to roll the dice.",
+      "word_tr": "sıra",
+      "example_tr": "Zarı atmak senin sıran."
+    },
+    {
+      "word_en": "checkmate",
+      "example_en": "He won the chess game with a brilliant checkmate.",
+      "word_tr": "şah-mat",
+      "example_tr": "Parlak bir şah-mat hamlesiyle satranç oyununu kazandı."
+    },
+    {
+      "word_en": "video game console",
+      "example_en": "He spends hours playing video games on his console.",
+      "word_tr": "video oyun konsolu",
+      "example_tr": "Saatlerini konsolunda video oyunları oynayarak geçirir."
+    },
+    {
+      "word_en": "winning",
+      "example_en": "They celebrated their winning of the championship.",
+      "word_tr": "kazanma",
+      "example_tr": "Şampiyonluğunu kutladılar."
+    },
+    {
+      "word_en": "move",
+      "example_en": "He made a strategic move in the game.",
+      "word_tr": "hamle",
+      "example_tr": "Oyunda stratejik bir hamle yaptı."
+    },
+    {
+      "word_en": "fun",
+      "example_en": "They had a lot of fun at the amusement park.",
+      "word_tr": "eğlence",
+      "example_tr": "Lunaparkta çok eğlendiler."
+    },
+    {
+      "word_en": "bowling",
+      "example_en": "They went bowling with their friends last night.",
+      "word_tr": "bowling",
+      "example_tr": "Dün gece arkadaşlarıyla bowling oynadılar."
+    },
+    {
+      "word_en": "computer game",
+      "example_en": "She's addicted to playing computer games.",
+      "word_tr": "bilgisayar oyunu",
+      "example_tr": "Bilgisayar oyunu oynamaya bağımlı."
+    },
+    {
+      "word_en": "darts",
+      "example_en": "They played darts at the pub.",
+      "word_tr": "dart",
+      "example_tr": "Lokantada dart oynadılar."
+    },
+    {
+      "word_en": "guessing game",
+      "example_en": "They played a guessing game at the party.",
+      "word_tr": "tahmin oyunu",
+      "example_tr": "Partide tahmin oyunu oynadılar."
+    },
+    {
+      "word_en": "dollhouse",
+      "example_en": "She spends hours playing with her dollhouse.",
+      "word_tr": "bebek evi",
+      "example_tr": "Bebek eviyle saatlerini oynayarak geçirir."
+    },
+    {
+      "word_en": "Ping-Pong",
+      "example_en": "They played Ping-Pong in the basement.",
+      "word_tr": "pingpong",
+      "example_tr": "Bodrumda pingpong oynadılar."
+    },
+    {
+      "word_en": "fun",
+      "example_en": "They had a lot of fun at the amusement park.",
+      "word_tr": "eğlence",
+      "example_tr": "Lunaparkta çok eğlendiler."
+    },
+    {
+      "word_en": "cheat",
+      "example_en": "He was caught trying to cheat during the game.",
+      "word_tr": "hile yapmak",
+      "example_tr": "Oyun sırasında hile yapmaya çalışırken yakalandı."
+    },
+    {
+      "word_en": "playtime",
+      "example_en": "Children need plenty of playtime to develop.",
+      "word_tr": "oyun zamanı",
+      "example_tr": "Çocukların gelişmesi için bol miktarda oyun zamanına ihtiyacı vardır."
+    }
+  ]
+}
 
