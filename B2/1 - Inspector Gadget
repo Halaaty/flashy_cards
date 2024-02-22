@@ -1,1 +1,143 @@
+{
+  "words": [
+    {
+      "word_en": "outdated",
+      "word_tr": "modası geçmiş",
+      "example_en": "Her computer was outdated and in need of an upgrade.",
+      "example_tr": "Onun bilgisayarı modası geçmişti ve yükseltmeye ihtiyacı vardı."
+    },
+    {
+      "word_en": "novel",
+      "word_tr": "yeni",
+      "example_en": "The smartphone boasted novel features not seen in previous models.",
+      "example_tr": "Akıllı telefon, önceki modellerde görülmeyen yeni özelliklere sahipti."
+    },
+    {
+      "word_en": "drain",
+      "word_tr": "boşaltmak",
+      "example_en": "Leaving apps running in the background can drain your phone's battery quickly.",
+      "example_tr": "Arka planda uygulamaların çalışması telefonun pilini hızlıca boşaltabilir."
+    },
+    {
+      "word_en": "charger",
+      "word_tr": "şarj cihazı",
+      "example_en": "He plugged in his phone to the charger overnight.",
+      "example_tr": "Telefonunu gece boyunca şarj cihazına takıp şarja bıraktı."
+    },
+    {
+      "word_en": "boot",
+      "word_tr": "başlatmak",
+      "example_en": "The computer takes a long time to boot up in the morning.",
+      "example_tr": "Bilgisayar sabahları başlatmak için uzun süre alır."
+    },
+    {
+      "word_en": "mechanical",
+      "word_tr": "mekanik",
+      "example_en": "The old clock was a mechanical marvel.",
+      "example_tr": "Eski saat, bir mekanik harikaydı."
+    },
+    {
+      "word_en": "latest",
+      "word_tr": "en son",
+      "example_en": "She always wanted to have the latest gadgets and technology.",
+      "example_tr": "Her zaman en son teknoloji ve aletlere sahip olmak istedi."
+    },
+    {
+      "word_en": "screen",
+      "word_tr": "ekran",
+      "example_en": "He replaced the cracked screen on his phone.",
+      "example_tr": "Telefonundaki çatlamış ekranı değiştirdi."
+    },
+    {
+      "word_en": "cable",
+      "word_tr": "kablo",
+      "example_en": "He connected his computer to the printer with a USB cable.",
+      "example_tr": "Bilgisayarını yazıcıya USB kablo ile bağladı."
+    },
+    {
+      "word_en": "controller",
+      "word_tr": "kontrolcü",
+      "example_en": "The game controller allowed for precise movements in the game.",
+      "example_tr": "Oyun kontrolcüsü, oyunda hassas hareketlere izin verdi."
+    },
+    {
+      "word_en": "battery",
+      "word_tr": "pil",
+      "example_en": "She replaced the battery in her watch.",
+      "example_tr": "Saatteki pilini değiştirdi."
+    },
+    {
+      "word_en": "obsolete",
+      "word_tr": "eskimiş",
+      "example_en": "The company discontinued support for its obsolete software.",
+      "example_tr": "Şirket, eskimiş yazılımı için destek vermeyi sonlandırdı."
+    },
+    {
+      "word_en": "gadget",
+      "word_tr": "cihaz",
+      "example_en": "He loved to collect the latest electronic gadgets.",
+      "example_tr": "En son elektronik cihazları toplamayı seviyordu."
+    },
+    {
+      "word_en": "control panel",
+      "word_tr": "kontrol paneli",
+      "example_en": "She adjusted the settings using the control panel.",
+      "example_tr": "Ayarları kontrol panelini kullanarak ayarladı."
+    },
+    {
+      "word_en": "memory",
+      "word_tr": "bellek",
+      "example_en": "The computer's memory was quickly filled with large files.",
+      "example_tr": "Bilgisayarın belleği büyük dosyalarla hızla doldu."
+    },
+    {
+      "word_en": "process",
+      "word_tr": "işlem",
+      "example_en": "The computer went through a lengthy process to install the software.",
+      "example_tr": "Yazılımı yüklemek için bilgisayar uzun bir işlem sürecinden geçti."
+    },
+    {
+      "word_en": "update",
+      "word_tr": "güncelleme",
+      "example_en": "She installed the latest update on her smartphone.",
+      "example_tr": "Akıllı telefonundaki en son güncellemeyi yükledi."
+    },
+    {
+      "word_en": "electronic",
+      "word_tr": "elektronik",
+      "example_en": "The electronic device stopped working after getting wet.",
+      "example_tr": "Elektronik cihaz ıslanınca çalışmayı durdurdu."
+    },
+    {
+      "word_en": "ingenious",
+      "word_tr": "dahice",
+      "example_en": "The inventor came up with an ingenious solution to the problem.",
+      "example_tr": "Yaratıcı, soruna dahice bir çözüm buldu."
+    },
+    {
+      "word_en": "charge",
+      "word_tr": "şarj etmek",
+      "example_en": "He forgot to charge his phone overnight.",
+      "example_tr": "Telefonunu gece boyunca şarj etmeyi unuttu."
+    },
+    {
+      "word_en": "microscope",
+      "word_tr": "mikroskop",
+      "example_en": "He used a microscope to examine the tiny organisms.",
+      "example_tr": "Küçük organizmaları incelemek için bir mikroskop kullandı."
+    },
+    {
+      "word_en": "touch screen",
+      "word_tr": "dokunmatik ekran",
+      "example_en": "The tablet had a responsive touch screen.",
+      "example_tr": "Tabletin tepki veren bir dokunmatik ekranı vardı."
+    },
+    {
+      "word_en": "power",
+      "word_tr": "güç",
+      "example_en": "The power went out during the storm.",
+      "example_tr": "Fırtına sırasında elektrik kesildi."
+    }
+  ]
+}
 
