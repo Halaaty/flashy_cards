@@ -1,1 +1,131 @@
+{
+  "words": [
+    {
+      "word_en": "mailbox",
+      "word_tr": "posta kutusu",
+      "example_en": "Check your mailbox for the letter.",
+      "example_tr": "Mektup için posta kutunu kontrol et."
+    },
+    {
+      "word_en": "stair",
+      "word_tr": "merdiven",
+      "example_en": "Take the stairs instead of the elevator.",
+      "example_tr": "Asansör yerine merdivenleri kullan."
+    },
+    {
+      "word_en": "move",
+      "word_tr": "taşınmak",
+      "example_en": "They decided to move to a bigger house.",
+      "example_tr": "Daha büyük bir eve taşınmaya karar verdiler."
+    },
+    {
+      "word_en": "gate",
+      "word_tr": "kapı",
+      "example_en": "The gate to the garden was left open.",
+      "example_tr": "Bahçeye açılan kapı açık unutuldu."
+    },
+    {
+      "word_en": "light",
+      "word_tr": "ışık",
+      "example_en": "She turned off the light before leaving.",
+      "example_tr": "Ayrılmadan önce ışığı kapattı."
+    },
+    {
+      "word_en": "fence",
+      "word_tr": "çit",
+      "example_en": "They built a fence around their backyard.",
+      "example_tr": "Arka bahçelerinin etrafına bir çit yaptılar."
+    },
+    {
+      "word_en": "live",
+      "word_tr": "yaşamak",
+      "example_en": "They live in the city center.",
+      "example_tr": "Şehir merkezinde yaşıyorlar."
+    },
+    {
+      "word_en": "neighborhood",
+      "word_tr": "mahalle",
+      "example_en": "It's a quiet neighborhood.",
+      "example_tr": "Sakin bir mahalle."
+    },
+    {
+      "word_en": "heating",
+      "word_tr": "ısıtma",
+      "example_en": "The heating system broke down.",
+      "example_tr": "Isıtma sistemi bozuldu."
+    },
+    {
+      "word_en": "cozy",
+      "word_tr": "rahat",
+      "example_en": "The apartment has a cozy atmosphere.",
+      "example_tr": "Daire rahat bir atmosfere sahip."
+    },
+    {
+      "word_en": "landlord",
+      "word_tr": "ev sahibi",
+      "example_en": "The landlord fixed the leaky faucet.",
+      "example_tr": "Ev sahibi sızıntılı musluğu tamir etti."
+    },
+    {
+      "word_en": "utility",
+      "word_tr": "kamu hizmeti",
+      "example_en": "Water and electricity are essential utilities.",
+      "example_tr": "Su ve elektrik temel kamu hizmetleridir."
+    },
+    {
+      "word_en": "emergency exit",
+      "word_tr": "acil çıkış",
+      "example_en": "The emergency exit is located at the back of the building.",
+      "example_tr": "Acil çıkış binanın arka tarafında bulunur."
+    },
+    {
+      "word_en": "level",
+      "word_tr": "kat",
+      "example_en": "Their apartment is on the fifth level.",
+      "example_tr": "Daireleri beşinci katta."
+    },
+    {
+      "word_en": "cable",
+      "word_tr": "kablo",
+      "example_en": "The cable company provides internet service.",
+      "example_tr": "Kablo şirketi internet hizmeti sağlar."
+    },
+    {
+      "word_en": "tenant",
+      "word_tr": "kiracı",
+      "example_en": "The tenant pays rent monthly.",
+      "example_tr": "Kiracı aylık kira öder."
+    },
+    {
+      "word_en": "entrance",
+      "word_tr": "giriş",
+      "example_en": "Please use the side entrance.",
+      "example_tr": "Lütfen yan girişi kullanın."
+    },
+    {
+      "word_en": "gas",
+      "word_tr": "gaz",
+      "example_en": "They cook with gas instead of electricity.",
+      "example_tr": "Elektrik yerine gazla pişiriyorlar."
+    },
+    {
+      "word_en": "lease",
+      "word_tr": "kiralamak",
+      "example_en": "They signed a lease for one year.",
+      "example_tr": "Bir yıllık kira sözleşmesi imzaladılar."
+    },
+    {
+      "word_en": "move in",
+      "word_tr": "taşınmak",
+      "example_en": "They plan to move in next week.",
+      "example_tr": "Gelecek hafta taşınmayı planlıyorlar."
+    },
+    {
+      "word_en": "move out",
+      "word_tr": "taşınmak",
+      "example_en": "They need to move out by the end of the month.",
+      "example_tr": "Ayın sonuna kadar taşınmaları gerekiyor."
+    }
+  ]
+}
 
