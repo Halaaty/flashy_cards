@@ -1,1 +1,215 @@
+{
+  "words": [
+    {
+      "word_en": "lucky",
+      "word_tr": "şanslı",
+      "example_en": "She felt lucky to win the lottery.",
+      "example_tr": "Lotoyu kazandığı için şanslı hissetti."
+    },
+    {
+      "word_en": "unlucky",
+      "word_tr": "şanssız",
+      "example_en": "He was unlucky in his attempts.",
+      "example_tr": "Denemelerinde şanssızdı."
+    },
+    {
+      "word_en": "complete",
+      "word_tr": "tam",
+      "example_en": "The puzzle is complete.",
+      "example_tr": "Puzzle tamamlandı."
+    },
+    {
+      "word_en": "incomplete",
+      "word_tr": "eksik",
+      "example_en": "The work remains incomplete.",
+      "example_tr": "İş tamamlanmadan kaldı."
+    },
+    {
+      "word_en": "healthy",
+      "word_tr": "sağlıklı",
+      "example_en": "Eating fruits and vegetables is healthy.",
+      "example_tr": "Meyve ve sebze yemek sağlıklıdır."
+    },
+    {
+      "word_en": "unhealthy",
+      "word_tr": "sağlıksız",
+      "example_en": "Fast food is unhealthy.",
+      "example_tr": "Fast food sağlıksızdır."
+    },
+    {
+      "word_en": "popular",
+      "word_tr": "popüler",
+      "example_en": "The movie became popular among viewers.",
+      "example_tr": "Film izleyiciler arasında popüler oldu."
+    },
+    {
+      "word_en": "unpopular",
+      "word_tr": "popüler olmayan",
+      "example_en": "The unpopular decision disappointed many.",
+      "example_tr": "Popüler olmayan karar birçok kişiyi hayal kırıklığına uğrattı."
+    },
+    {
+      "word_en": "safe",
+      "word_tr": "güvenli",
+      "example_en": "The neighborhood is safe.",
+      "example_tr": "Mahalle güvenlidir."
+    },
+    {
+      "word_en": "unsafe",
+      "word_tr": "güvensiz",
+      "example_en": "The area is considered unsafe at night.",
+      "example_tr": "Bölge geceleri güvensiz olarak kabul edilir."
+    },
+    {
+      "word_en": "well",
+      "word_tr": "iyi",
+      "example_en": "She slept well last night.",
+      "example_tr": "Dün gece iyi uyudu."
+    },
+    {
+      "word_en": "unwell",
+      "word_tr": "hasta",
+      "example_en": "He's feeling unwell today.",
+      "example_tr": "Bugün kendini hasta hissediyor."
+    },
+    {
+      "word_en": "important",
+      "word_tr": "önemli",
+      "example_en": "This is an important matter.",
+      "example_tr": "Bu önemli bir konudur."
+    },
+    {
+      "word_en": "unimportant",
+      "word_tr": "önemsiz",
+      "example_en": "His comments are unimportant.",
+      "example_tr": "Yorumları önemsizdir."
+    },
+    {
+      "word_en": "possible",
+      "word_tr": "mümkün",
+      "example_en": "It's possible to arrive early.",
+      "example_tr": "Erken varmak mümkündür."
+    },
+    {
+      "word_en": "impossible",
+      "word_tr": "imkansız",
+      "example_en": "It's impossible to go back in time.",
+      "example_tr": "Zaman içinde geri dönmek imkansızdır."
+    },
+    {
+      "word_en": "formal",
+      "word_tr": "resmi",
+      "example_en": "The meeting is a formal event.",
+      "example_tr": "Toplantı resmi bir etkinliktir."
+    },
+    {
+      "word_en": "informal",
+      "word_tr": "resmi olmayan",
+      "example_en": "The gathering was informal and relaxed.",
+      "example_tr": "Toplantı resmi olmayan ve rahattı."
+    },
+    {
+      "word_en": "own",
+      "word_tr": "kendi",
+      "example_en": "She has her own house.",
+      "example_tr": "Kendi evi var."
+    },
+    {
+      "word_en": "other",
+      "word_tr": "diğer",
+      "example_en": "What are the other options?",
+      "example_tr": "Diğer seçenekler nelerdir?"
+    },
+    {
+      "word_en": "same",
+      "word_tr": "aynı",
+      "example_en": "They bought the same car.",
+      "example_tr": "Aynı arabayı aldılar."
+    },
+    {
+      "word_en": "dead",
+      "word_tr": "ölü",
+      "example_en": "The plant is dead.",
+      "example_tr": "Bitki ölmüş."
+    },
+    {
+      "word_en": "alive",
+      "word_tr": "canlı",
+      "example_en": "The flowers are alive.",
+      "example_tr": "Çiçekler canlı."
+    },
+    {
+      "word_en": "intelligent",
+      "word_tr": "zeki",
+      "example_en": "She's very intelligent and quick to learn.",
+      "example_tr": "Çok zeki ve hızlı öğrenen biridir."
+    },
+    {
+      "word_en": "unintelligent",
+      "word_tr": "zekasız",
+      "example_en": "His actions were unintelligent.",
+      "example_tr": "Onun eylemleri zekasızdı."
+    },
+    {
+      "word_en": "pleasant",
+      "word_tr": "hoş",
+      "example_en": "It's a pleasant day for a walk.",
+      "example_tr": "Yürüyüş için hoş bir gün."
+    },
+    {
+      "word_en": "unpleasant",
+      "word_tr": "hoş olmayan",
+      "example_en": "The smell was very unpleasant.",
+      "example_tr": "Koku çok hoş değildi."
+    },
+    {
+      "word_en": "careful",
+      "word_tr": "dikkatli",
+      "example_en": "Be careful not to slip on the ice.",
+      "example_tr": "Buzda kaymamaya dikkat et."
+    },
+    {
+      "word_en": "careless",
+      "word_tr": "dikkatsiz",
+      "example_en": "He lost his keys due to his careless attitude.",
+      "example_tr": "Dikkatsiz tavrı nedeniyle anahtarlarını kaybetti."
+    },
+    {
+      "word_en": "polite",
+      "word_tr": "kibar",
+      "example_en": "She is always polite and respectful.",
+      "example_tr": "Her zaman kibar ve saygılıdır."
+    },
+    {
+      "word_en": "impolite",
+      "word_tr": "kaba",
+      "example_en": "It's impolite to interrupt others while they speak.",
+      "example_tr": "Başkaları konuşurken onları kesmek kaba bir davranıştır."
+    },
+    {
+      "word_en": "friendly",
+      "word_tr": "samimi",
+      "example_en": "They greeted us with a friendly smile.",
+      "example_tr": "Bizi samimi bir gülümsemeyle karşıladılar."
+    },
+    {
+      "word_en": "unfriendly",
+      "word_tr": "samimi olmayan",
+      "example_en": "The reception was unfriendly and cold.",
+      "example_tr": "Resepsiyon samimi olmayan ve soğuktu."
+    },
+    {
+      "word_en": "usual",
+      "word_tr": "olağan",
+      "example_en": "His behavior was usual for him.",
+      "example_tr": "Davranışı onun için olağandı."
+    },
+    {
+      "word_en": "unusual",
+      "word_tr": "olağan dışı",
+      "example_en": "The weather is unusually warm for this time of year.",
+      "example_tr": "Hava bu mevsim için olağan dışı bir şekilde sıcak."
+    }
+  ]
+}
 
