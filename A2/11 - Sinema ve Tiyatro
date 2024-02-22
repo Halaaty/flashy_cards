@@ -1,1 +1,185 @@
+{
+  "words": [
+    {
+      "word_en": "fantasy",
+      "word_tr": "fantazi",
+      "example_en": "She loves reading fantasy novels.",
+      "example_tr": "Fantazi romanları okumayı çok seviyor."
+    },
+    {
+      "word_en": "horror",
+      "word_tr": "korku",
+      "example_en": "I'm not a fan of horror movies.",
+      "example_tr": "Korku filmlerinin hayranı değilim."
+    },
+    {
+      "word_en": "scene",
+      "word_tr": "sahne",
+      "example_en": "The scene was shot in Paris.",
+      "example_tr": "Sahne Paris'te çekildi."
+    },
+    {
+      "word_en": "drama",
+      "word_tr": "drama",
+      "example_en": "The play was a gripping drama.",
+      "example_tr": "Oyun, sürükleyici bir dramaydı."
+    },
+    {
+      "word_en": "director",
+      "word_tr": "yönetmen",
+      "example_en": "The director won an award for his latest film.",
+      "example_tr": "Yönetmen son filmiyle bir ödül kazandı."
+    },
+    {
+      "word_en": "documentary",
+      "word_tr": "belgesel",
+      "example_en": "We watched a fascinating documentary about wildlife.",
+      "example_tr": "Doğal yaşam hakkında büyüleyici bir belgesel izledik."
+    },
+    {
+      "word_en": "science fiction",
+      "word_tr": "bilim kurgu",
+      "example_en": "He's a fan of science fiction movies.",
+      "example_tr": "Bilim kurgu filmlerinin hayranı."
+    },
+    {
+      "word_en": "actor",
+      "word_tr": "aktör",
+      "example_en": "He's a talented actor.",
+      "example_tr": "O, yetenekli bir aktör."
+    },
+    {
+      "word_en": "role",
+      "word_tr": "rol",
+      "example_en": "She played the lead role in the movie.",
+      "example_tr": "Filmde başrolü oynadı."
+    },
+    {
+      "word_en": "screen",
+      "word_tr": "ekran",
+      "example_en": "The film will be shown on the big screen.",
+      "example_tr": "Film büyük ekranda gösterilecek."
+    },
+    {
+      "word_en": "adventure story",
+      "word_tr": "macera hikayesi",
+      "example_en": "She wrote an exciting adventure story.",
+      "example_tr": "Heyecan verici bir macera hikayesi yazdı."
+    },
+    {
+      "word_en": "cartoon",
+      "word_tr": "çizgi film",
+      "example_en": "My kids love watching cartoons.",
+      "example_tr": "Çocuklarım çizgi filmleri izlemeyi çok sever."
+    },
+    {
+      "word_en": "comedy",
+      "word_tr": "komedi",
+      "example_en": "We watched a hilarious comedy last night.",
+      "example_tr": "Dün gece çok komik bir komedi izledik."
+    },
+    {
+      "word_en": "detective story",
+      "word_tr": "dedektif hikayesi",
+      "example_en": "She enjoys reading detective stories.",
+      "example_tr": "Dedektif hikayelerini okumaktan hoşlanıyor."
+    },
+    {
+      "word_en": "ending",
+      "word_tr": "son",
+      "example_en": "The ending of the movie was unexpected.",
+      "example_tr": "Filmin sonu beklenmedikti."
+    },
+    {
+      "word_en": "hero",
+      "word_tr": "kahraman",
+      "example_en": "He's always been my hero.",
+      "example_tr": "O, hep benim kahramanımdı."
+    },
+    {
+      "word_en": "heroine",
+      "word_tr": "kahraman kadın",
+      "example_en": "She portrayed the heroine in the epic movie.",
+      "example_tr": "Destansı filmde kahraman kadını canlandırdı."
+    },
+    {
+      "word_en": "review",
+      "word_tr": "inceleme",
+      "example_en": "The movie received mixed reviews from critics.",
+      "example_tr": "Film, eleştirmenlerden karışık eleştiriler aldı."
+    },
+    {
+      "word_en": "performance",
+      "word_tr": "performans",
+      "example_en": "Her performance in the play was outstanding.",
+      "example_tr": "Oyunundaki performansı mükemmeldi."
+    },
+    {
+      "word_en": "festival",
+      "word_tr": "festival",
+      "example_en": "We are going to a film festival this weekend.",
+      "example_tr": "Bu hafta sonu bir film festivaline gidiyoruz."
+    },
+    {
+      "word_en": "artist",
+      "word_tr": "sanatçı",
+      "example_en": "She's a talented artist.",
+      "example_tr": "O, yetenekli bir sanatçı."
+    },
+    {
+      "word_en": "audience",
+      "word_tr": "seyirci",
+      "example_en": "The audience applauded at the end of the play.",
+      "example_tr": "Oyunun sonunda seyirciler alkışladı."
+    },
+    {
+      "word_en": "role",
+      "word_tr": "rol",
+      "example_en": "She played the lead role in the movie.",
+      "example_tr": "Filmde başrolü oynadı."
+    },
+    {
+      "word_en": "Hollywood",
+      "word_tr": "Hollywood",
+      "example_en": "She dreams of making it big in Hollywood.",
+      "example_tr": "Hollywood'da büyük bir başarı elde etmeyi hayal ediyor."
+    },
+    {
+      "word_en": "actor",
+      "word_tr": "aktör",
+      "example_en": "He's a talented actor.",
+      "example_tr": "O, yetenekli bir aktör."
+    },
+    {
+      "word_en": "scene",
+      "word_tr": "sahne",
+      "example_en": "The scene was shot in Paris.",
+      "example_tr": "Sahne Paris'te çekildi."
+    },
+    {
+      "word_en": "documentary",
+      "word_tr": "belgesel",
+      "example_en": "We watched a fascinating documentary about wildlife.",
+      "example_tr": "Doğal yaşam hakkında büyüleyici bir belgesel izledik."
+    },
+    {
+      "word_en": "performance",
+      "word_tr": "performans",
+      "example_en": "Her performance in the play was outstanding.",
+      "example_tr": "Oyunundaki performansı mükemmeldi."
+    },
+    {
+      "word_en": "review",
+      "word_tr": "inceleme",
+      "example_en": "The movie received mixed reviews from critics.",
+      "example_tr": "Film, eleştirmenlerden karışık eleştiriler aldı."
+    },
+    {
+      "word_en": "role",
+      "word_tr": "rol",
+      "example_en": "She played the lead role in the movie.",
+      "example_tr": "Filmde başrolü oynadı."
+    }
+  ]
+}
 
