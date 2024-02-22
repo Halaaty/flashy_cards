@@ -1,1 +1,149 @@
+{
+  "words": [
+    {
+      "word_en": "chest",
+      "word_tr": "göğüs",
+      "example_en": "He felt pain in his chest.",
+      "example_tr": "Göğsünde ağrı hissetti."
+    },
+    {
+      "word_en": "eyelash",
+      "word_tr": "kirpik",
+      "example_en": "She admired his long eyelashes.",
+      "example_tr": "Uzun kirpiklerini beğendi."
+    },
+    {
+      "word_en": "muscle",
+      "word_tr": "kas",
+      "example_en": "He flexed his muscles.",
+      "example_tr": "Kaslarını kasıp rahatladı."
+    },
+    {
+      "word_en": "throat",
+      "word_tr": "boğaz",
+      "example_en": "His throat was sore from shouting.",
+      "example_tr": "Boğazı bağırmaktan ağrıyordu."
+    },
+    {
+      "word_en": "breath",
+      "word_tr": "nefes",
+      "example_en": "She took a deep breath.",
+      "example_tr": "Derin bir nefes aldı."
+    },
+    {
+      "word_en": "fat",
+      "word_tr": "yağ",
+      "example_en": "He tried to burn fat by exercising.",
+      "example_tr": "Egzersiz yaparak yağ yakmaya çalıştı."
+    },
+    {
+      "word_en": "skin",
+      "word_tr": "cilt",
+      "example_en": "She moisturized her skin every day.",
+      "example_tr": "Her gün cildini nemlendirdi."
+    },
+    {
+      "word_en": "blood",
+      "word_tr": "kan",
+      "example_en": "Blood flowed from the wound.",
+      "example_tr": "Yaradan kan aktı."
+    },
+    {
+      "word_en": "bone",
+      "word_tr": "kemik",
+      "example_en": "He broke a bone in his leg.",
+      "example_tr": "Bacağında bir kemik kırdı."
+    },
+    {
+      "word_en": "breathing",
+      "word_tr": "nefes alma",
+      "example_en": "His breathing was heavy after running.",
+      "example_tr": "Koştuktan sonra nefes alması ağırdı."
+    },
+    {
+      "word_en": "skull",
+      "word_tr": "kafatası",
+      "example_en": "They found a skull in the forest.",
+      "example_tr": "Ormanda bir kafatası buldular."
+    },
+    {
+      "word_en": "wrist",
+      "word_tr": "bilek",
+      "example_en": "She wore a bracelet on her wrist.",
+      "example_tr": "Bileğine bir bilezik taktı."
+    },
+    {
+      "word_en": "weak",
+      "word_tr": "zayıf",
+      "example_en": "He felt weak after being sick.",
+      "example_tr": "Hastalanınca kendini zayıf hissetti."
+    },
+    {
+      "word_en": "backbone",
+      "word_tr": "omurga",
+      "example_en": "The backbone supports the body.",
+      "example_tr": "Omurga vücuda destek olur."
+    },
+    {
+      "word_en": "gum",
+      "word_tr": "diş eti",
+      "example_en": "She brushed her teeth and gums.",
+      "example_tr": "Dişlerini ve diş etlerini fırçaladı."
+    },
+    {
+      "word_en": "palm",
+      "word_tr": "avuç içi",
+      "example_en": "She held the coin in her palm.",
+      "example_tr": "Parayı avuç içinde tuttu."
+    },
+    {
+      "word_en": "elbow",
+      "word_tr": "dirsek",
+      "example_en": "He bumped his elbow on the table.",
+      "example_tr": "Dirseğini masaya çarptı."
+    },
+    {
+      "word_en": "forearm",
+      "word_tr": "ön kol",
+      "example_en": "She had a tattoo on her forearm.",
+      "example_tr": "Ön kolunda bir dövme vardı."
+    },
+    {
+      "word_en": "strong",
+      "word_tr": "güçlü",
+      "example_en": "He felt strong after exercising.",
+      "example_tr": "Egzersizden sonra güçlü hissetti."
+    },
+    {
+      "word_en": "physical",
+      "word_tr": "fiziksel",
+      "example_en": "The physical exam checked his health.",
+      "example_tr": "Fiziksel muayene sağlığını kontrol etti."
+    },
+    {
+      "word_en": "physically",
+      "word_tr": "fiziksel olarak",
+      "example_en": "She was physically exhausted after the hike.",
+      "example_tr": "Yürüyüşten sonra fiziksel olarak bitkindi."
+    },
+    {
+      "word_en": "human",
+      "word_tr": "insan",
+      "example_en": "She was fascinated by human behavior.",
+      "example_tr": "İnsan davranışlarına hayrandı."
+    },
+    {
+      "word_en": "heel",
+      "word_tr": "topuk",
+      "example_en": "She wore high heels to the party.",
+      "example_tr": "Partiye yüksek topuklu ayakkabı giydi."
+    },
+    {
+      "word_en": "line",
+      "word_tr": "çizgi",
+      "example_en": "He drew a straight line with a ruler.",
+      "example_tr": "Cetvelle düz bir çizgi çizdi."
+    }
+  ]
+}
 
