@@ -1,1 +1,125 @@
+{
+  "words": [
+    {
+      "word_en": "Champagne",
+      "word_tr": "şampanya",
+      "example_en": "Champagne is often served at celebrations and special occasions.",
+      "example_tr": "Şampanya genellikle kutlamalarda ve özel günlerde servis edilir."
+    },
+    {
+      "word_en": "wine",
+      "word_tr": "şarap",
+      "example_en": "She enjoys a glass of red wine with dinner.",
+      "example_tr": "Akşam yemeğiyle bir kadeh kırmızı şarap içmeyi sever."
+    },
+    {
+      "word_en": "cocoa",
+      "word_tr": "kakao",
+      "example_en": "Hot cocoa is perfect for warming up on a cold day.",
+      "example_tr": "Soğuk bir günde ısınmak için sıcak kakao harikadır."
+    },
+    {
+      "word_en": "milkshake",
+      "word_tr": "milkshake",
+      "example_en": "She ordered a chocolate milkshake with whipped cream on top.",
+      "example_tr": "Üzerine çırpılmış krema ile çikolatalı milkshake sipariş etti."
+    },
+    {
+      "word_en": "soft drink",
+      "word_tr": "meşrubat",
+      "example_en": "He prefers to drink water rather than soft drinks.",
+      "example_tr": "O, meşrubat yerine su içmeyi tercih eder."
+    },
+    {
+      "word_en": "whiskey",
+      "word_tr": "viski",
+      "example_en": "Whiskey is often enjoyed neat or on the rocks.",
+      "example_tr": "Viski genellikle düz veya buzla içilir."
+    },
+    {
+      "word_en": "tequila",
+      "word_tr": "tekila",
+      "example_en": "She took a shot of tequila with a wedge of lime.",
+      "example_tr": "Bir dilim limonla tekila içti."
+    },
+    {
+      "word_en": "beer",
+      "word_tr": "bira",
+      "example_en": "He ordered a pint of beer at the pub.",
+      "example_tr": "O, pub'da bir pint bira sipariş etti."
+    },
+    {
+      "word_en": "Tonic",
+      "word_tr": "tonik",
+      "example_en": "Tonic water is often used as a mixer in cocktails.",
+      "example_tr": "Tonik su genellikle kokteyllerde karıştırıcı olarak kullanılır."
+    },
+    {
+      "word_en": "non alcoholic",
+      "word_tr": "alkolsüz",
+      "example_en": "She prefers non-alcoholic beverages like fruit juice.",
+      "example_tr": "O, meyve suyu gibi alkolsüz içecekleri tercih eder."
+    },
+    {
+      "word_en": "mineral water",
+      "word_tr": "mineralli su",
+      "example_en": "Mineral water is bottled directly from natural springs.",
+      "example_tr": "Mineralli su, doğal kaynaklardan doğrudan şişelenir."
+    },
+    {
+      "word_en": "sparkling",
+      "word_tr": "kabarcıklı",
+      "example_en": "She enjoys a glass of sparkling water with her meal.",
+      "example_tr": "Yemeğiyle birlikte bir bardak gazlı su içmeyi sever."
+    },
+    {
+      "word_en": "cocktail",
+      "word_tr": "kokteyl",
+      "example_en": "He mixed vodka and cranberry juice to make a cocktail.",
+      "example_tr": "Bir kokteyl yapmak için votka ve cranberry suyunu karıştırdı."
+    },
+    {
+      "word_en": "lemonade",
+      "word_tr": "limonata",
+      "example_en": "She squeezed fresh lemons to make homemade lemonade.",
+      "example_tr": "Ev yapımı limonata yapmak için taze limonlar sıktı."
+    },
+    {
+      "word_en": "alcoholic",
+      "word_tr": "alkollü",
+      "example_en": "Some people prefer alcoholic beverages while others prefer non-alcoholic ones.",
+      "example_tr": "Bazı insanlar alkollü içecekleri tercih ederken, diğerleri alkolsüz olanları tercih eder."
+    },
+    {
+      "word_en": "drink",
+      "word_tr": "içmek",
+      "example_en": "He likes to drink a cold beverage on a hot day.",
+      "example_tr": "Sıcak bir günde soğuk bir içecek içmeyi sever."
+    },
+    {
+      "word_en": "brandy",
+      "word_tr": "konyak",
+      "example_en": "Brandy is often enjoyed as a digestif after a meal.",
+      "example_tr": "Konyak, yemekten sonra bir digestif olarak sıklıkla tadını çıkarılır."
+    },
+    {
+      "word_en": "energy drink",
+      "word_tr": "enerji içeceği",
+      "example_en": "Energy drinks are popular among athletes and students for their stimulating effects.",
+      "example_tr": "Enerji içecekleri, uyarıcı etkileri nedeniyle sporcular ve öğrenciler arasında popülerdir."
+    },
+    {
+      "word_en": "alcohol",
+      "word_tr": "alkol",
+      "example_en": "The legal drinking age for alcohol varies from country to country.",
+      "example_tr": "Alkol için yasal içme yaşı ülkeden ülkeye değişir."
+    },
+    {
+      "word_en": "smoothie",
+      "word_tr": "meyve suyu",
+      "example_en": "She blended strawberries and bananas to make a delicious smoothie.",
+      "example_tr": "Lezzetli bir meyve suyu yapmak için çilek ve muzları blendırdı."
+    }
+  ]
+}
 
