@@ -1,1 +1,155 @@
+{
+  "words": [
+    {
+      "word_en": "lineage",
+      "word_tr": "soy",
+      "example_en": "He traced his lineage back several generations.",
+      "example_tr": "Soyunu birkaç nesil geriye doğru takip etti."
+    },
+    {
+      "word_en": "separation",
+      "word_tr": "ayrılma",
+      "example_en": "Their separation was amicable and mutual.",
+      "example_tr": "Ayrılıkları dostane ve karşılıklıydı."
+    },
+    {
+      "word_en": "partnership",
+      "word_tr": "ortaklık",
+      "example_en": "The two companies formed a partnership to expand their market reach.",
+      "example_tr": "İki firma, pazar ulaşım alanlarını genişletmek için bir ortaklık kurdu."
+    },
+    {
+      "word_en": "bond",
+      "word_tr": "bağ",
+      "example_en": "The bond between siblings is often strong.",
+      "example_tr": "Kardeşler arasındaki bağ genellikle güçlüdür."
+    },
+    {
+      "word_en": "affair",
+      "word_tr": "ilişki",
+      "example_en": "Their affair was kept secret for years.",
+      "example_tr": "İlişkileri yıllar boyunca gizli tutuldu."
+    },
+    {
+      "word_en": "stepdaughter",
+      "word_tr": "üvey kız",
+      "example_en": "His stepdaughter grew to love him as her own father.",
+      "example_tr": "Üvey kızı, onu kendi babası gibi sevmeye başladı."
+    },
+    {
+      "word_en": "ex",
+      "word_tr": "eski",
+      "example_en": "They remained friends even after their divorce.",
+      "example_tr": "Boşanmalarına rağmen, arkadaş kalmaya devam ettiler."
+    },
+    {
+      "word_en": "household",
+      "word_tr": "ev halkı",
+      "example_en": "Their household consisted of several generations living together.",
+      "example_tr": "Ev halkı, bir arada yaşayan birkaç kuşaktan oluşuyordu."
+    },
+    {
+      "word_en": "stepson",
+      "word_tr": "üvey oğul",
+      "example_en": "His stepson admired him for his kindness.",
+      "example_tr": "Üvey oğlu, onu iyiliği için takdir etti."
+    },
+    {
+      "word_en": "inherit",
+      "word_tr": "miras almak",
+      "example_en": "She inherited her grandmother's antique jewelry.",
+      "example_tr": "Büyükannesinin antika mücevherlerini miras aldı."
+    },
+    {
+      "word_en": "cheat on",
+      "word_tr": "aldatmak",
+      "example_en": "She discovered that her partner had cheated on her.",
+      "example_tr": "Partnerinin onu aldattığını keşfetti."
+    },
+    {
+      "word_en": "adopt",
+      "word_tr": "evlat edinmek",
+      "example_en": "They decided to adopt a child after years of unsuccessful attempts to conceive.",
+      "example_tr": "Doğurganlık ile ilgili başarısız yılların ardından bir çocuk evlat edinmeye karar verdiler."
+    },
+    {
+      "word_en": "foster parent",
+      "word_tr": "vesayet edinen ebeveyn",
+      "example_en": "As a foster parent, she provided a loving home for many children in need.",
+      "example_tr": "Vesayet edinen bir ebeveyn olarak, birçok ihtiyaç sahibi çocuk için sevgi dolu bir ev sağladı."
+    },
+    {
+      "word_en": "stepfather",
+      "word_tr": "üvey baba",
+      "example_en": "Her stepfather treated her as his own daughter.",
+      "example_tr": "Üvey babası, onu kendi kızı gibi muamele etti."
+    },
+    {
+      "word_en": "take after",
+      "word_tr": "benzemek",
+      "example_en": "She takes after her mother in both looks and personality.",
+      "example_tr": "Hem görünüm hem de kişilik olarak annesine benziyor."
+    },
+    {
+      "word_en": "stepchild",
+      "word_tr": "üvey çocuk",
+      "example_en": "She treats her stepchild as her own.",
+      "example_tr": "Üvey çocuğuna kendi çocuğu gibi davranır."
+    },
+    {
+      "word_en": "ancestor",
+      "word_tr": "ata",
+      "example_en": "His ancestors hailed from Ireland.",
+      "example_tr": "Ataları İrlanda'dan geliyordu."
+    },
+    {
+      "word_en": "closely",
+      "word_tr": "yakından",
+      "example_en": "The siblings were closely bonded despite their age difference.",
+      "example_tr": "Kardeşler yaş farklarına rağmen yakın bağlar kurmuşlardı."
+    },
+    {
+      "word_en": "lineage",
+      "word_tr": "soy",
+      "example_en": "She traced her lineage back to a noble family.",
+      "example_tr": "Soyunu soylu bir aileye kadar izledi."
+    },
+    {
+      "word_en": "bond",
+      "word_tr": "bağ",
+      "example_en": "Their shared experiences created a strong bond between them.",
+      "example_tr": "Paylaştıkları deneyimler aralarında güçlü bir bağ oluşturdu."
+    },
+    {
+      "word_en": "extended family",
+      "word_tr": "geniş aile",
+      "example_en": "Their extended family gathered for a reunion every summer.",
+      "example_tr": "Geniş aileleri, her yaz bir araya gelirlerdi."
+    },
+    {
+      "word_en": "stepmother",
+      "word_tr": "üvey anne",
+      "example_en": "His stepmother treated him with kindness and affection.",
+      "example_tr": "Üvey annesi, ona sevgi ve şefkatle davrandı."
+    },
+    {
+      "word_en": "foster parent",
+      "word_tr": "vesayet edinen ebeveyn",
+      "example_en": "As a foster parent, he provided stability and love to children in difficult situations.",
+      "example_tr": "Vesayet edinen bir ebeveyn olarak, zor durumda olan çocuklara istikrar ve sevgi sağladı."
+    },
+    {
+      "word_en": "in-law",
+      "word_tr": "kayın",
+      "example_en": "He gets along well with his in-laws.",
+      "example_tr": "Kayınvalidesi ve kayınpederiyle iyi geçiniyor."
+    },
+    {
+      "word_en": "sibling",
+      "word_tr": "kardeş",
+      "example_en": "He has a close relationship with his sibling.",
+      "example_tr": "Kardeşiyle yakın bir ilişkisi var."
+    }
+  ]
+}
 
