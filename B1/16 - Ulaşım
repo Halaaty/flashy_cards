@@ -1,1 +1,227 @@
+{
+  "words": [
+    {
+      "word_en": "harbor",
+      "example_en": "The ship docked at the harbor.",
+      "word_tr": "liman",
+      "example_tr": "Gemi limana yanaştı."
+    },
+    {
+      "word_en": "set off",
+      "example_en": "They set off on their journey early in the morning.",
+      "word_tr": "yola çıkmak",
+      "example_tr": "Sabah erken saatlerde yolculuğa çıktılar."
+    },
+    {
+      "word_en": "van",
+      "example_en": "They traveled in a van to the concert.",
+      "word_tr": "kamyonet",
+      "example_tr": "Konsere kamyonetle gittiler."
+    },
+    {
+      "word_en": "nonstop",
+      "example_en": "The flight from New York to London is nonstop.",
+      "word_tr": "durduraksız",
+      "example_tr": "New York'tan Londra'ya uçuş durduraksızdır."
+    },
+    {
+      "word_en": "track",
+      "example_en": "The train travels along the track.",
+      "word_tr": "ray",
+      "example_tr": "Tren ray boyunca seyahat eder."
+    },
+    {
+      "word_en": "window seat",
+      "example_en": "She prefers to sit in a window seat when flying.",
+      "word_tr": "pencere koltuğu",
+      "example_tr": "Uçarken pencere koltuğunda oturmayı tercih eder."
+    },
+    {
+      "word_en": "plane",
+      "example_en": "The plane took off from the runway.",
+      "word_tr": "uçak",
+      "example_tr": "Uçak pistten kalktı."
+    },
+    {
+      "word_en": "bike",
+      "example_en": "He rides his bike to work every day.",
+      "word_tr": "bisiklet",
+      "example_tr": "Her gün işe bisikletle gider."
+    },
+    {
+      "word_en": "board",
+      "example_en": "Passengers are requested to board the plane.",
+      "word_tr": "binmek",
+      "example_tr": "Yolcuların uçağa binmeleri isteniyor."
+    },
+    {
+      "word_en": "aircraft",
+      "example_en": "The aircraft flew at a high altitude.",
+      "word_tr": "uçak",
+      "example_tr": "Uçak yüksek bir irtifada uçtu."
+    },
+    {
+      "word_en": "connection",
+      "example_en": "He missed his flight connection in Chicago.",
+      "word_tr": "bağlantı",
+      "example_tr": "Chicago'da uçuş bağlantısını kaçırdı."
+    },
+    {
+      "word_en": "transport",
+      "example_en": "Public transport is convenient for commuting.",
+      "word_tr": "taşıma",
+      "example_tr": "Toplu taşıma, işe gidip gelmek için uygundur."
+    },
+    {
+      "word_en": "airfare",
+      "example_en": "The airfare for the trip was quite expensive.",
+      "word_tr": "uçak bileti",
+      "example_tr": "Yolculuğun uçak bileti oldukça pahalıydı."
+    },
+    {
+      "word_en": "domestic",
+      "example_en": "They took a domestic flight from Istanbul to Ankara.",
+      "word_tr": "iç hat",
+      "example_tr": "İstanbul'dan Ankara'ya iç hat uçuşu yaptılar."
+    },
+    {
+      "word_en": "get in",
+      "example_en": "They got in the taxi and headed to the airport.",
+      "word_tr": "binmek",
+      "example_tr": "Taksiye bindiler ve havaalanına gittiler."
+    },
+    {
+      "word_en": "land",
+      "example_en": "The plane will land in about thirty minutes.",
+      "word_tr": "iniş yapmak",
+      "example_tr": "Uçak yaklaşık otuz dakika içinde inecek."
+    },
+    {
+      "word_en": "transport",
+      "example_en": "Public transport is convenient for commuting.",
+      "word_tr": "taşıma",
+      "example_tr": "Toplu taşıma, işe gidip gelmek için uygundur."
+    },
+    {
+      "word_en": "track",
+      "example_en": "The train travels along the track.",
+      "word_tr": "ray",
+      "example_tr": "Tren ray boyunca seyahat eder."
+    },
+    {
+      "word_en": "seat belt",
+      "example_en": "Make sure to fasten your seat belt before takeoff.",
+      "word_tr": "emniyet kemeri",
+      "example_tr": "Kalkıştan önce emniyet kemerinizi bağlamayı unutmayın."
+    },
+    {
+      "word_en": "on board",
+      "example_en": "There are refreshments available on board the flight.",
+      "word_tr": "uçakta",
+      "example_tr": "Uçuşta ikramlar mevcut."
+    },
+    {
+      "word_en": "van",
+      "example_en": "They traveled in a van to the concert.",
+      "word_tr": "kamyonet",
+      "example_tr": "Konsere kamyonetle gittiler."
+    },
+    {
+      "word_en": "destination",
+      "example_en": "Their destination was a remote island.",
+      "word_tr": "varış yeri",
+      "example_tr": "Varış yerleri uzak bir adaydı."
+    },
+    {
+      "word_en": "reach",
+      "example_en": "They will reach their destination by nightfall.",
+      "word_tr": "ulaşmak",
+      "example_tr": "Varış yerlerine akşam karanlığında ulaşacaklar."
+    },
+    {
+      "word_en": "public",
+      "example_en": "Public transportation is environmentally friendly.",
+      "word_tr": "halka açık",
+      "example_tr": "Toplu taşıma çevre dostudur."
+    },
+    {
+      "word_en": "commute",
+      "example_en": "She commutes to work by train.",
+      "word_tr": "işe gidip gelmek",
+      "example_tr": "İşe trenle gidip gelir."
+    },
+    {
+      "word_en": "first class",
+      "example_en": "They traveled first class for added comfort.",
+      "word_tr": "birinci sınıf",
+      "example_tr": "Ek konfor için birinci sınıf seyahat ettiler."
+    },
+    {
+      "word_en": "turn",
+      "example_en": "It's your turn to drive.",
+      "word_tr": "sıra",
+      "example_tr": "Sürücü sıran."
+    },
+    {
+      "word_en": "port",
+      "example_en": "The ship docked at the port.",
+      "word_tr": "liman",
+      "example_tr": "Gemi limana yanaştı."
+    },
+    {
+      "word_en": "plane",
+      "example_en": "The plane took off from the runway.",
+      "word_tr": "uçak",
+      "example_tr": "Uçak pistten kalktı."
+    },
+    {
+      "word_en": "seat belt",
+      "example_en": "Make sure to fasten your seat belt before takeoff.",
+      "word_tr": "emniyet kemeri",
+      "example_tr": "Kalkıştan önce emniyet kemerinizi bağlamayı unutmayın."
+    },
+    {
+      "word_en": "business class",
+      "example_en": "He always flies business class for work trips.",
+      "word_tr": "iş sınıfı",
+      "example_tr": "İş seyahatleri için her zaman iş sınıfı uçar."
+    },
+    {
+      "word_en": "jet",
+      "example_en": "They traveled by private jet.",
+      "word_tr": "jet",
+      "example_tr": "Özel jetle seyahat ettiler."
+    },
+    {
+      "word_en": "set out",
+      "example_en": "They set out on their journey early in the morning.",
+      "word_tr": "yola çıkmak",
+      "example_tr": "Sabah erken saatlerde yolculuğa çıktılar."
+    },
+    {
+      "word_en": "economy class",
+      "example_en": "They booked tickets in economy class to save money.",
+      "word_tr": "ekonomi sınıfı",
+      "example_tr": "Para biriktirmek için ekonomi sınıfında bilet rezerve ettiler."
+    },
+    {
+      "word_en": "land",
+      "example_en": "The plane will land in about thirty minutes.",
+      "word_tr": "iniş yapmak",
+      "example_tr": "Uçak yaklaşık otuz dakika içinde inecek."
+    },
+    {
+      "word_en": "yacht",
+      "example_en": "They sailed on a luxurious yacht.",
+      "word_tr": "yatl",
+      "example_tr": "Lüks bir yatta gezdiler."
+    },
+    {
+      "word_en": "access",
+      "example_en": "They gained access to the VIP lounge.",
+      "word_tr": "erişim",
+      "example_tr": "VIP salonuna erişim sağladılar."
+    }
+  ]
+}
 
