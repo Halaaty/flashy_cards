@@ -1,1 +1,185 @@
+{
+  "words": [
+    {
+      "word_en": "cash",
+      "word_tr": "nakit",
+      "example_en": "I prefer to pay with cash rather than a card.",
+      "example_tr": "Kart yerine nakit ödemeyi tercih ederim."
+    },
+    {
+      "word_en": "dollar",
+      "word_tr": "dolar",
+      "example_en": "The price is quoted in dollars.",
+      "example_tr": "Fiyat dolar cinsinden veriliyor."
+    },
+    {
+      "word_en": "euro",
+      "word_tr": "euro",
+      "example_en": "You can exchange dollars for euros at the bank.",
+      "example_tr": "Bankada doları euroya çevirebilirsiniz."
+    },
+    {
+      "word_en": "pound",
+      "word_tr": "sterlin",
+      "example_en": "The price is in pounds because we're in the UK.",
+      "example_tr": "Fiyat İngiltere'de olduğumuz için sterlin cinsindendir."
+    },
+    {
+      "word_en": "cent",
+      "word_tr": "sent",
+      "example_en": "It costs ninety-nine cents.",
+      "example_tr": "Doksan dokuz sente mal oluyor."
+    },
+    {
+      "word_en": "penny",
+      "word_tr": "penny",
+      "example_en": "She found a lucky penny on the sidewalk.",
+      "example_tr": "Kaldırımda şanslı bir penny buldu."
+    },
+    {
+      "word_en": "check",
+      "word_tr": "çek",
+      "example_en": "He paid by check.",
+      "example_tr": "Çekle ödeme yaptı."
+    },
+    {
+      "word_en": "receipt",
+      "word_tr": "makbuz",
+      "example_en": "Make sure to keep your receipt in case you need to return the item.",
+      "example_tr": "Eşyayı iade etmeniz gerektiğinde makbuzu sakladığınızdan emin olun."
+    },
+    {
+      "word_en": "bill",
+      "word_tr": "fatura",
+      "example_en": "The waiter brought the bill after we finished our meal.",
+      "example_tr": "Garson yemeği bitirdikten sonra faturayı getirdi."
+    },
+    {
+      "word_en": "price",
+      "word_tr": "fiyat",
+      "example_en": "What's the price of this shirt?",
+      "example_tr": "Bu gömleğin fiyatı nedir?"
+    },
+    {
+      "word_en": "cost",
+      "word_tr": "maliyet",
+      "example_en": "The cost of living in this city is quite high.",
+      "example_tr": "Bu şehirde yaşam maliyeti oldukça yüksek."
+    },
+    {
+      "word_en": "shopping",
+      "word_tr": "alışveriş",
+      "example_en": "I enjoy shopping for clothes.",
+      "example_tr": "Kıyafet alışverişi yapmaktan keyif alıyorum."
+    },
+    {
+      "word_en": "store",
+      "word_tr": "mağaza",
+      "example_en": "There's a new store opening downtown.",
+      "example_tr": "Merkezde yeni bir mağaza açılıyor."
+    },
+    {
+      "word_en": "clothes store",
+      "word_tr": "giyim mağazası",
+      "example_en": "Let's go to the clothes store and see what they have.",
+      "example_tr": "Giyim mağazasına gidelim ve ne olduklarını görelim."
+    },
+    {
+      "word_en": "shopping bag",
+      "word_tr": "alışveriş çantası",
+      "example_en": "Don't forget to bring your shopping bags to the grocery store.",
+      "example_tr": "Market alışverişinize alışveriş çantanızı getirmeyi unutmayın."
+    },
+    {
+      "word_en": "sale",
+      "word_tr": "indirim",
+      "example_en": "There's a big sale at the mall this weekend.",
+      "example_tr": "Bu hafta sonu alışveriş merkezinde büyük bir indirim var."
+    },
+    {
+      "word_en": "cart",
+      "word_tr": "sepet",
+      "example_en": "She filled her cart with groceries at the supermarket.",
+      "example_tr": "Süpermarketten sepetini market alışverişi ile doldurdu."
+    },
+    {
+      "word_en": "advertisement",
+      "word_tr": "reklam",
+      "example_en": "The advertisement caught my attention.",
+      "example_tr": "Reklam benim dikkatimi çekti."
+    },
+    {
+      "word_en": "available",
+      "word_tr": "mevcut",
+      "example_en": "The new product will be available next month.",
+      "example_tr": "Yeni ürün gelecek ay mevcut olacak."
+    },
+    {
+      "word_en": "free",
+      "word_tr": "ücretsiz",
+      "example_en": "The event is free for everyone to attend.",
+      "example_tr": "Etkinlik herkesin ücretsiz katılabileceği bir etkinlik."
+    },
+    {
+      "word_en": "open",
+      "word_tr": "açık",
+      "example_en": "The store is open until 10 PM.",
+      "example_tr": "Mağaza saat 22.00'a kadar açık."
+    },
+    {
+      "word_en": "closed",
+      "word_tr": "kapalı",
+      "example_en": "The restaurant is closed on Mondays.",
+      "example_tr": "Restoran Pazartesi günleri kapalıdır."
+    },
+    {
+      "word_en": "spend",
+      "word_tr": "harcamak",
+      "example_en": "I tend to spend too much money when I go shopping.",
+      "example_tr": "Alışverişe gittiğimde genellikle fazla para harcarım."
+    },
+    {
+      "word_en": "offer",
+      "word_tr": "teklif",
+      "example_en": "They have a special offer on electronics this week.",
+      "example_tr": "Bu hafta elektronik ürünler için özel bir teklifleri var."
+    },
+    {
+      "word_en": "save",
+      "word_tr": "tasarruf etmek",
+      "example_en": "You can save money by buying in bulk.",
+      "example_tr": "Toptan alarak para tasarrufu yapabilirsiniz."
+    },
+    {
+      "word_en": "amount",
+      "word_tr": "miktar",
+      "example_en": "Please enter the amount you wish to pay.",
+      "example_tr": "Ödemek istediğiniz miktarı giriniz."
+    },
+    {
+      "word_en": "shopping center",
+      "word_tr": "alışveriş merkezi",
+      "example_en": "Let's meet at the shopping center at 3 PM.",
+      "example_tr": "Saate 3'te alışveriş merkezinde buluşalım."
+    },
+    {
+      "word_en": "department",
+      "word_tr": "bölüm",
+      "example_en": "The electronics department is on the second floor.",
+      "example_tr": "Elektronik bölümü ikinci katta bulunuyor."
+    },
+    {
+      "word_en": "customer",
+      "word_tr": "müşteri",
+      "example_en": "The customer complained about the service.",
+      "example_tr": "Müşteri hizmetten şikayetçi oldu."
+    },
+    {
+      "word_en": "item",
+      "word_tr": "ürün",
+      "example_en": "Please return the item if you're not satisfied.",
+      "example_tr": "Memnun değilseniz ürünü iade ediniz."
+    }
+  ]
+}
 
