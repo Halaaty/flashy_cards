@@ -1,1 +1,161 @@
+{
+  "words": [
+    {
+      "word_en": "too",
+      "word_tr": "çok",
+      "example_en": "There is too much noise here.",
+      "example_tr": "Burada çok fazla gürültü var."
+    },
+    {
+      "word_en": "great",
+      "word_tr": "harika",
+      "example_en": "That was a great movie.",
+      "example_tr": "Harika bir film idi."
+    },
+    {
+      "word_en": "either",
+      "word_tr": "her iki",
+      "example_en": "You can choose either option.",
+      "example_tr": "Her iki seçeneği de seçebilirsin."
+    },
+    {
+      "word_en": "completely",
+      "word_tr": "tamamen",
+      "example_en": "I completely forgot about our meeting.",
+      "example_tr": "Toplantımızı tamamen unuttum."
+    },
+    {
+      "word_en": "pretty",
+      "word_tr": "oldukça",
+      "example_en": "It's pretty warm today.",
+      "example_tr": "Bugün oldukça sıcak."
+    },
+    {
+      "word_en": "fairly",
+      "word_tr": "oldukça",
+      "example_en": "She did fairly well on the test.",
+      "example_tr": "Sınavda oldukça iyi iş çıkardı."
+    },
+    {
+      "word_en": "rather",
+      "word_tr": "oldukça",
+      "example_en": "The movie was rather boring.",
+      "example_tr": "Film oldukça sıkıcıydı."
+    },
+    {
+      "word_en": "so",
+      "word_tr": "çok",
+      "example_en": "I'm so tired.",
+      "example_tr": "Çok yorgunum."
+    },
+    {
+      "word_en": "less",
+      "word_tr": "daha az",
+      "example_en": "There are less people here today.",
+      "example_tr": "Bugün burada daha az insan var."
+    },
+    {
+      "word_en": "few",
+      "word_tr": "birkaç",
+      "example_en": "There were few students in the classroom.",
+      "example_tr": "Sınıfta birkaç öğrenci vardı."
+    },
+    {
+      "word_en": "much",
+      "word_tr": "çok",
+      "example_en": "There is much work to do.",
+      "example_tr": "Yapılacak çok iş var."
+    },
+    {
+      "word_en": "quite",
+      "word_tr": "oldukça",
+      "example_en": "The book was quite interesting.",
+      "example_tr": "Kitap oldukça ilginçti."
+    },
+    {
+      "word_en": "too",
+      "word_tr": "aşırı",
+      "example_en": "The coffee is too hot to drink.",
+      "example_tr": "Kahve içecek kadar aşırı sıcak."
+    },
+    {
+      "word_en": "more",
+      "word_tr": "daha fazla",
+      "example_en": "I need more time to finish this project.",
+      "example_tr": "Bu projeyi bitirmek için daha fazla zamana ihtiyacım var."
+    },
+    {
+      "word_en": "most",
+      "word_tr": "en çok",
+      "example_en": "He has the most experience in the team.",
+      "example_tr": "Takımda en çok deneyimi var."
+    },
+    {
+      "word_en": "least",
+      "word_tr": "en az",
+      "example_en": "She has the least amount of homework.",
+      "example_tr": "O, en az miktarda ödevi olan."
+    },
+    {
+      "word_en": "all",
+      "word_tr": "hepsi",
+      "example_en": "All the students passed the exam.",
+      "example_tr": "Tüm öğrenciler sınavı geçti."
+    },
+    {
+      "word_en": "little",
+      "word_tr": "az",
+      "example_en": "There is little milk left in the fridge.",
+      "example_tr": "Buzdolabında az süt kaldı."
+    },
+    {
+      "word_en": "very",
+      "word_tr": "çok",
+      "example_en": "I am very happy to see you.",
+      "example_tr": "Seni görmek beni çok mutlu etti."
+    },
+    {
+      "word_en": "either",
+      "word_tr": "hiçbiri",
+      "example_en": "You can choose either option.",
+      "example_tr": "Hiçbiri seçeneği seçebilirsin."
+    },
+    {
+      "word_en": "most",
+      "word_tr": "en çok",
+      "example_en": "He has the most experience in the team.",
+      "example_tr": "Takımda en çok deneyimi var."
+    },
+    {
+      "word_en": "quite",
+      "word_tr": "oldukça",
+      "example_en": "The book was quite interesting.",
+      "example_tr": "Kitap oldukça ilginçti."
+    },
+    {
+      "word_en": "rather",
+      "word_tr": "oldukça",
+      "example_en": "The movie was rather boring.",
+      "example_tr": "Film oldukça sıkıcıydı."
+    },
+    {
+      "word_en": "totally",
+      "word_tr": "tamamen",
+      "example_en": "I'm totally exhausted after work.",
+      "example_tr": "İşten sonra tamamen bitkinim."
+    },
+    {
+      "word_en": "unusually",
+      "word_tr": "olağanüstü",
+      "example_en": "She behaved unusually at the party.",
+      "example_tr": "Partide olağanüstü davrandı."
+    },
+    {
+      "word_en": "fairly",
+      "word_tr": "oldukça",
+      "example_en": "She did fairly well on the test.",
+      "example_tr": "Sınavda oldukça iyi iş çıkardı."
+    }
+  ]
+}
 
