@@ -1,1 +1,245 @@
+{
+  "words": [
+    {
+      "word_en": "borrow",
+      "example_en": "She had to borrow money to pay her bills.",
+      "word_tr": "ödünç almak",
+      "example_tr": "Faturalarını ödemek için para ödünç almak zorunda kaldı."
+    },
+    {
+      "word_en": "coin",
+      "example_en": "He dropped a coin into the charity box.",
+      "word_tr": "madeni para",
+      "example_tr": "Hayır kutusuna bir madeni para attı."
+    },
+    {
+      "word_en": "discount",
+      "example_en": "They offered a discount for bulk purchases.",
+      "word_tr": "indirim",
+      "example_tr": "Toptan satışlar için bir indirim sundular."
+    },
+    {
+      "word_en": "charge",
+      "example_en": "The hotel will charge you extra for room service.",
+      "word_tr": "ücret",
+      "example_tr": "Otel, oda servisi için size ekstra ücret alacak."
+    },
+    {
+      "word_en": "possession",
+      "example_en": "The car is his most prized possession.",
+      "word_tr": "mülkiyet",
+      "example_tr": "Araba, onun en değerli mülkiyetidir."
+    },
+    {
+      "word_en": "balance",
+      "example_en": "Make sure to keep a balance between work and leisure.",
+      "word_tr": "denge",
+      "example_tr": "İş ve boş zaman arasında bir denge tutmaya dikkat etmelisiniz."
+    },
+    {
+      "word_en": "cut",
+      "example_en": "They decided to cut their expenses by eating out less.",
+      "word_tr": "kesmek",
+      "example_tr": "Dışarıda yemek yemeyi azaltarak masraflarını kesmeye karar verdiler."
+    },
+    {
+      "word_en": "goods",
+      "example_en": "The store sells a variety of goods.",
+      "word_tr": "mallar",
+      "example_tr": "Mağaza çeşitli mallar satıyor."
+    },
+    {
+      "word_en": "buyer",
+      "example_en": "The buyer inspected the merchandise before purchasing.",
+      "word_tr": "alıcı",
+      "example_tr": "Alıcı, satın almadan önce malzemeyi inceledi."
+    },
+    {
+      "word_en": "value",
+      "example_en": "The value of the antique increased over time.",
+      "word_tr": "değer",
+      "example_tr": "Antikanın değeri zamanla arttı."
+    },
+    {
+      "word_en": "lend",
+      "example_en": "She agreed to lend her friend some money.",
+      "word_tr": "ödünç vermek",
+      "example_tr": "Arkadaşına biraz para ödünç vermesi için anlaştı."
+    },
+    {
+      "word_en": "expense",
+      "example_en": "Traveling can sometimes be an expensive expense.",
+      "word_tr": "masraf",
+      "example_tr": "Seyahat etmek bazen pahalı bir masraf olabilir."
+    },
+    {
+      "word_en": "saving",
+      "example_en": "He put his savings into a retirement account.",
+      "word_tr": "tasarruf",
+      "example_tr": "Birikimlerini bir emeklilik hesabına koydu."
+    },
+    {
+      "word_en": "overpriced",
+      "example_en": "The restaurant's menu was overpriced for the quality of food.",
+      "word_tr": "aşırı pahalı",
+      "example_tr": "Restoranın menüsü yiyecek kalitesi için aşırı pahalıydı."
+    },
+    {
+      "word_en": "sum",
+      "example_en": "He calculated the sum of his expenses for the month.",
+      "word_tr": "toplam",
+      "example_tr": "Aylık masraflarının toplamını hesapladı."
+    },
+    {
+      "word_en": "return",
+      "example_en": "She needs to return the dress because it doesn't fit.",
+      "word_tr": "geri dönmek",
+      "example_tr": "Elbise uymadığı için geri dönmek zorunda."
+    },
+    {
+      "word_en": "bargain",
+      "example_en": "She managed to get a good bargain at the flea market.",
+      "word_tr": "pazarlık",
+      "example_tr": "Pazara iyi bir pazarlık yapmayı başardı."
+    },
+    {
+      "word_en": "product",
+      "example_en": "The company is launching a new product next month.",
+      "word_tr": "ürün",
+      "example_tr": "Şirket, gelecek ay yeni bir ürün piyasaya sürüyor."
+    },
+    {
+      "word_en": "shopper",
+      "example_en": "The mall was crowded with shoppers during the holiday season.",
+      "word_tr": "alışverişçi",
+      "example_tr": "Tatil sezonunda alışverişçilerle dolup taşan alışveriş merkezi."
+    },
+    {
+      "word_en": "tax",
+      "example_en": "He had to pay a hefty tax bill this year.",
+      "word_tr": "vergi",
+      "example_tr": "Bu yıl ağır bir vergi faturası ödemek zorunda kaldı."
+    },
+    {
+      "word_en": "worth",
+      "example_en": "The vintage car is worth a lot of money.",
+      "word_tr": "değerinde",
+      "example_tr": "Antika araba çok para değerinde."
+    },
+    {
+      "word_en": "belong",
+      "example_en": "These books belong on the top shelf.",
+      "word_tr": "ait olmak",
+      "example_tr": "Bu kitaplar üst rafta ait."
+    },
+    {
+      "word_en": "charge",
+      "example_en": "The phone's battery is running low; I need to charge it.",
+      "word_tr": "şarj etmek",
+      "example_tr": "Telefonun bataryası bitmek üzere; onu şarj etmem lazım."
+    },
+    {
+      "word_en": "shopper",
+      "example_en": "She's an avid shopper and loves browsing through stores.",
+      "word_tr": "alışverişçi",
+      "example_tr": "O, tutkulu bir alışverişçi ve mağazalarda gezinmeyi seviyor."
+    },
+    {
+      "word_en": "mall",
+      "example_en": "The new mall has a wide range of stores.",
+      "word_tr": "alışveriş merkezi",
+      "example_tr": "Yeni alışveriş merkezinde geniş bir mağaza yelpazesi var."
+    },
+    {
+      "word_en": "borrow",
+      "example_en": "She had to borrow a pen to sign the document.",
+      "word_tr": "ödünç almak",
+      "example_tr": "Belgeyi imzalamak için bir kalem ödünç almak zorunda kaldı."
+    },
+    {
+      "word_en": "seller",
+      "example_en": "The seller offered a discount for paying in cash.",
+      "word_tr": "satıcı",
+      "example_tr": "Satıcı, nakit ödeme yapılması halinde indirim sundu."
+    },
+    {
+      "word_en": "production",
+      "example_en": "The production of the new model will start next month.",
+      "word_tr": "üretim",
+      "example_tr": "Yeni modelin üretimi gelecek ay başlayacak."
+    },
+    {
+      "word_en": "worth",
+      "example_en": "The antique vase was appraised for its historical worth.",
+      "word_tr": "değer",
+      "example_tr": "Antika vazo, tarihsel değeri için değerlendirildi."
+    },
+    {
+      "word_en": "currency",
+      "example_en": "The country's currency has been stable for several years.",
+      "word_tr": "para birimi",
+      "example_tr": "Ülkenin para birimi birkaç yıldır istikrarlı."
+    },
+    {
+      "word_en": "owe",
+      "example_en": "I owe my friend a favor for helping me move.",
+      "word_tr": "borçlu olmak",
+      "example_tr": "Arkadaşıma yardım ettiği için bir iyilik borçluyum."
+    },
+    {
+      "word_en": "luxury",
+      "example_en": "A weekend at the spa was a luxury she treated herself to.",
+      "word_tr": "lüks",
+      "example_tr": "Spa'da bir hafta sonu, kendine zevk için bir lüks."
+    },
+    {
+      "word_en": "checkout",
+      "example_en": "The checkout lines were long due to the holiday rush.",
+      "word_tr": "kasa",
+      "example_tr": "Tatil yoğunluğundan dolayı kasa kuyrukları uzundu."
+    },
+    {
+      "word_en": "inexpensive",
+      "example_en": "The restaurant serves delicious meals at inexpensive prices.",
+      "word_tr": "ucuz",
+      "example_tr": "Restoran, lezzetli yemekleri ucuz fiyatlarla sunuyor."
+    },
+    {
+      "word_en": "debt",
+      "example_en": "She's working hard to pay off her student debt.",
+      "word_tr": "borç",
+      "example_tr": "Öğrenci borcunu ödemek için çok çalışıyor."
+    },
+    {
+      "word_en": "production",
+      "example_en": "The production team worked tirelessly to meet the deadline.",
+      "word_tr": "üretim",
+      "example_tr": "Üretim ekibi, son teslim tarihini karşılamak için gayretle çalıştı."
+    },
+    {
+      "word_en": "donate",
+      "example_en": "They decided to donate a portion of their earnings to charity.",
+      "word_tr": "bağışlamak",
+      "example_tr": "Kazançlarının bir kısmını hayır kurumuna bağışlamaya karar verdiler."
+    },
+    {
+      "word_en": "checkout",
+      "example_en": "The cashier rang up their items at the checkout.",
+      "word_tr": "kasada ödemek",
+      "example_tr": "Kasiyer, ürünlerini kasada ödedi."
+    },
+    {
+      "word_en": "cut",
+      "example_en": "They had to cut down on their expenses to save money.",
+      "word_tr": "kesmek",
+      "example_tr": "Para biriktirmek için masraflarını azaltmak zorundaydılar."
+    },
+    {
+      "word_en": "total",
+      "example_en": "The total amount came to $100.",
+      "word_tr": "toplam",
+      "example_tr": "Toplam tutar 100 dolar oldu."
+    }
+  ]
+}
 
