@@ -1,1 +1,227 @@
+{
+  "words": [
+    {
+      "word_en": "ceremony",
+      "example_en": "The wedding ceremony was held in a beautiful cathedral.",
+      "word_tr": "tören",
+      "example_tr": "Düğün töreni güzel bir katedralde yapıldı."
+    },
+    {
+      "word_en": "Christmas tree",
+      "example_en": "They decorated the Christmas tree with colorful ornaments.",
+      "word_tr": "noel ağacı",
+      "example_tr": "Noel ağacını renkli süslerle süslediler."
+    },
+    {
+      "word_en": "angel",
+      "example_en": "The angel figurine sat atop the Christmas tree.",
+      "word_tr": "melek",
+      "example_tr": "Melek figürü noel ağacının üstünde oturuyordu."
+    },
+    {
+      "word_en": "pray",
+      "example_en": "They gather to pray on Christmas Eve.",
+      "word_tr": "dua etmek",
+      "example_tr": "Noel arifesinde dua etmek için bir araya gelirler."
+    },
+    {
+      "word_en": "celebrate",
+      "example_en": "They celebrate Christmas with a big family dinner.",
+      "word_tr": "kutlamak",
+      "example_tr": "Noel'i büyük bir aile yemeği ile kutlarlar."
+    },
+    {
+      "word_en": "mistletoe",
+      "example_en": "They hung mistletoe above the doorway.",
+      "word_tr": "öksürükotu",
+      "example_tr": "Kapının üstüne öksürükotu astılar."
+    },
+    {
+      "word_en": "Hanukkah",
+      "example_en": "They light the menorah during Hanukkah.",
+      "word_tr": "Hanuka",
+      "example_tr": "Hanuka sırasında menora ışıklandırılır."
+    },
+    {
+      "word_en": "abbey",
+      "example_en": "They visited the ancient abbey on Christmas Eve.",
+      "word_tr": "manastır",
+      "example_tr": "Noel arifesinde eski manastırı ziyaret ettiler."
+    },
+    {
+      "word_en": "God",
+      "example_en": "They attend church to worship God on Christmas Day.",
+      "word_tr": "Tanrı",
+      "example_tr": "Noel günü Tanrı'ya ibadet etmek için kiliseye giderler."
+    },
+    {
+      "word_en": "celebration",
+      "example_en": "The New Year's celebration lasted all night.",
+      "word_tr": "kutlama",
+      "example_tr": "Yılbaşı kutlaması tüm gece sürdü."
+    },
+    {
+      "word_en": "Christmas stocking",
+      "example_en": "They hung their Christmas stockings by the fireplace.",
+      "word_tr": "noel çorabı",
+      "example_tr": "Noel çoraplarını şöminenin yanına astılar."
+    },
+    {
+      "word_en": "priest",
+      "example_en": "The priest led the Christmas Eve service.",
+      "word_tr": "rahip",
+      "example_tr": "Rahip Noel arifesi hizmetini yönetti."
+    },
+    {
+      "word_en": "Christmas",
+      "example_en": "They exchange gifts on Christmas morning.",
+      "word_tr": "Noel",
+      "example_tr": "Noel sabahı hediyeleri değiştirirler."
+    },
+    {
+      "word_en": "custom",
+      "example_en": "It's a custom to sing carols during Christmas.",
+      "word_tr": "gelenek",
+      "example_tr": "Noel'de koro söylemek bir gelenektir."
+    },
+    {
+      "word_en": "eggnog",
+      "example_en": "They enjoy homemade eggnog during the holiday season.",
+      "word_tr": "yarıyumurta içkisi",
+      "example_tr": "Tatil sezonunda ev yapımı yarıyumurta içkisi severler."
+    },
+    {
+      "word_en": "pray",
+      "example_en": "They gather to pray on Christmas Eve.",
+      "word_tr": "dua etmek",
+      "example_tr": "Noel arifesinde dua etmek için bir araya gelirler."
+    },
+    {
+      "word_en": "holiday",
+      "example_en": "They took a holiday trip to the mountains.",
+      "word_tr": "tatil",
+      "example_tr": "Dağlara tatil gezisi yaptılar."
+    },
+    {
+      "word_en": "Easter",
+      "example_en": "They dye Easter eggs in bright colors.",
+      "word_tr": "Paskalya",
+      "example_tr": "Paskalya yumurtalarını parlak renklerle boyarlar."
+    },
+    {
+      "word_en": "bless",
+      "example_en": "They gather to bless the newborn on Christmas Day.",
+      "word_tr": "kutsamak",
+      "example_tr": "Noel günü yeni doğanı kutsamak için bir araya gelirler."
+    },
+    {
+      "word_en": "decoration",
+      "example_en": "They put up Christmas decorations all over the house.",
+      "word_tr": "dekorasyon",
+      "example_tr": "Evde her yere noel süslemeleri astılar."
+    },
+    {
+      "word_en": "religion",
+      "example_en": "They practice their religion during the holiday season.",
+      "word_tr": "din",
+      "example_tr": "Tatil sezonunda dini pratiklerini yaparlar."
+    },
+    {
+      "word_en": "charity",
+      "example_en": "They donate to charity organizations during the holidays.",
+      "word_tr": "bağış",
+      "example_tr": "Tatillerde hayır kurumlarına bağış yaparlar."
+    },
+    {
+      "word_en": "Christmas carol",
+      "example_en": "They sing Christmas carols around the fireplace.",
+      "word_tr": "Noel ilahisi",
+      "example_tr": "Şöminenin etrafında Noel ilahileri söylerler."
+    },
+    {
+      "word_en": "religious",
+      "example_en": "They attend religious services on Christmas Eve.",
+      "word_tr": "dini",
+      "example_tr": "Noel arifesinde dini hizmetlere katılırlar."
+    },
+    {
+      "word_en": "faith",
+      "example_en": "They have faith in the spirit of Christmas.",
+      "word_tr": "iman",
+      "example_tr": "Noel ruhuna iman ederler."
+    },
+    {
+      "word_en": "God",
+      "example_en": "They attend church to worship God on Christmas Day.",
+      "word_tr": "Tanrı",
+      "example_tr": "Noel günü Tanrı'ya ibadet etmek için kiliseye giderler."
+    },
+    {
+      "word_en": "Christmas Eve",
+      "example_en": "They gather around the table for a festive dinner on Christmas Eve.",
+      "word_tr": "Noel arifesi",
+      "example_tr": "Noel arifesinde festival yemeği için masa etrafında toplanırlar."
+    },
+    {
+      "word_en": "prayer",
+      "example_en": "They offer a prayer of gratitude before the Christmas meal.",
+      "word_tr": "dua",
+      "example_tr": "Noel yemeğinden önce şükran duası ederler."
+    },
+    {
+      "word_en": "miracle",
+      "example_en": "They believe in the miracle of Christmas.",
+      "word_tr": "mucize",
+      "example_tr": "Noel'in mucizesine inanırlar."
+    },
+    {
+      "word_en": "Christmas stocking",
+      "example_en": "They hung their Christmas stockings by the fireplace.",
+      "word_tr": "noel çorabı",
+      "example_tr": "Noel çoraplarını şöminenin yanına astılar."
+    },
+    {
+      "word_en": "decorate",
+      "example_en": "They decorate the house with lights and ornaments for Christmas.",
+      "word_tr": "süslemek",
+      "example_tr": "Noel için evi ışıklar ve süslerle süslerler."
+    },
+    {
+      "word_en": "holiday",
+      "example_en": "They took a holiday trip to the mountains.",
+      "word_tr": "tatil",
+      "example_tr": "Dağlara tatil gezisi yaptılar."
+    },
+    {
+      "word_en": "bless",
+      "example_en": "They gather to bless the newborn on Christmas Day.",
+      "word_tr": "kutsamak",
+      "example_tr": "Noel günü yeni doğanı kutsamak için bir araya gelirler."
+    },
+    {
+      "word_en": "religious",
+      "example_en": "They attend religious services on Christmas Eve.",
+      "word_tr": "dini",
+      "example_tr": "Noel arifesinde dini hizmetlere katılırlar."
+    },
+    {
+      "word_en": "angel",
+      "example_en": "The angel figurine sat atop the Christmas tree.",
+      "word_tr": "melek",
+      "example_tr": "Melek figürü noel ağacının üstünde oturuyordu."
+    },
+    {
+      "word_en": "Christmas",
+      "example_en": "They exchange gifts on Christmas morning.",
+      "word_tr": "Noel",
+      "example_tr": "Noel sabahı hediyeleri değiştirirler."
+    },
+    {
+      "word_en": "Hanukkah",
+      "example_en": "They light the menorah during Hanukkah.",
+      "word_tr": "Hanuka",
+      "example_tr": "Hanuka sırasında menora ışıklandırılır."
+    }
+  ]
+}
 
