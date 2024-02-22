@@ -1,1 +1,137 @@
+{
+  "words": [
+    {
+      "word_en": "ride",
+      "word_tr": "sürmek",
+      "example_en": "We enjoyed a camel ride in the desert.",
+      "example_tr": "Çölde deveye binmekten keyif aldık."
+    },
+    {
+      "word_en": "gate",
+      "word_tr": "kapı",
+      "example_en": "Our gate is number 12.",
+      "example_tr": "Kapımız numara 12."
+    },
+    {
+      "word_en": "fare",
+      "word_tr": "bilet ücreti",
+      "example_en": "The fare for the bus ride is reasonable.",
+      "example_tr": "Otobüs yolculuğu için bilet ücreti makul."
+    },
+    {
+      "word_en": "sightseeing",
+      "word_tr": "görülecek yerler",
+      "example_en": "We spent the day sightseeing around the city.",
+      "example_tr": "Şehirde etrafta görülecek yerler gezerek gün geçirdik."
+    },
+    {
+      "word_en": "platform",
+      "word_tr": "peron",
+      "example_en": "The train arrived at platform 3.",
+      "example_tr": "Tren, 3. perona geldi."
+    },
+    {
+      "word_en": "round-trip ticket",
+      "word_tr": "gidiş dönüş bilet",
+      "example_en": "She bought a round-trip ticket for her vacation.",
+      "example_tr": "Tatili için gidiş dönüş bilet aldı."
+    },
+    {
+      "word_en": "guide",
+      "word_tr": "rehber",
+      "example_en": "The guide showed us all the important landmarks.",
+      "example_tr": "Rehber bize tüm önemli yerleri gösterdi."
+    },
+    {
+      "word_en": "baggage",
+      "word_tr": "bagaj",
+      "example_en": "We had to wait a while for our baggage at the airport.",
+      "example_tr": "Havalimanında bagajımızı almak için bir süre beklememiz gerekti."
+    },
+    {
+      "word_en": "boarding pass",
+      "word_tr": "biniş kartı",
+      "example_en": "Make sure you have your boarding pass with you.",
+      "example_tr": "Biniş kartınızın yanınızda olduğundan emin olun."
+    },
+    {
+      "word_en": "twin bed",
+      "word_tr": "ikiz yatak",
+      "example_en": "The hotel room had two twin beds.",
+      "example_tr": "Otel odasında iki tane ikiz yatak vardı."
+    },
+    {
+      "word_en": "single bed",
+      "word_tr": "tek kişilik yatak",
+      "example_en": "He prefers a single bed when he travels alone.",
+      "example_tr": "Yalnız seyahat ettiğinde tek kişilik yatak tercih ediyor."
+    },
+    {
+      "word_en": "reception",
+      "word_tr": "resepsiyon",
+      "example_en": "We checked in at the hotel reception.",
+      "example_tr": "Otel resepsiyonunda giriş yaptık."
+    },
+    {
+      "word_en": "airline",
+      "word_tr": "havayolu",
+      "example_en": "Which airline are you flying with?",
+      "example_tr": "Hangi havayoluyla uçacaksınız?"
+    },
+    {
+      "word_en": "route",
+      "word_tr": "rota",
+      "example_en": "They took a scenic route to the beach.",
+      "example_tr": "Plaja gitmek için manzara güzergahını tercih ettiler."
+    },
+    {
+      "word_en": "miss",
+      "word_tr": "kaçırmak",
+      "example_en": "Don't miss the bus!",
+      "example_tr": "Otobüsü kaçırma!"
+    },
+    {
+      "word_en": "passenger",
+      "word_tr": "yolcu",
+      "example_en": "The train was crowded with passengers.",
+      "example_tr": "Tren, yolcularla doluydu."
+    },
+    {
+      "word_en": "book",
+      "word_tr": "rezervasyon yapmak",
+      "example_en": "I need to book a hotel for next week.",
+      "example_tr": "Gelecek hafta için bir otel rezervasyonu yapmam gerekiyor."
+    },
+    {
+      "word_en": "way",
+      "word_tr": "yol",
+      "example_en": "We found our way back to the hotel.",
+      "example_tr": "Otele geri dönüş yolumuzu bulduk."
+    },
+    {
+      "word_en": "train",
+      "word_tr": "tren",
+      "example_en": "The train to the airport leaves every hour.",
+      "example_tr": "Havalimanına giden tren her saat kalkıyor."
+    },
+    {
+      "word_en": "public transportation",
+      "word_tr": "topluluk taşımacılığı",
+      "example_en": "He prefers to use public transportation in the city.",
+      "example_tr": "Şehirde toplu taşıma kullanmayı tercih eder."
+    },
+    {
+      "word_en": "catch",
+      "word_tr": "yetişmek",
+      "example_en": "We need to catch the train at 9 o'clock.",
+      "example_tr": "9'da treni yetiştirmemiz gerekiyor."
+    },
+    {
+      "word_en": "ride",
+      "word_tr": "sürmek",
+      "example_en": "We enjoyed a camel ride in the desert.",
+      "example_tr": "Çölde deveye binmekten keyif aldık."
+    }
+  ]
+}
 
