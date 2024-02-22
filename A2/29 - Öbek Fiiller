@@ -1,1 +1,185 @@
+{
+  "words": [
+    {
+      "word_en": "deal with",
+      "example_en": "She knows how to deal with difficult situations.",
+      "word_tr": "başa çıkmak",
+      "example_tr": "Zor durumlarla nasıl başa çıkılacağını biliyor."
+    },
+    {
+      "word_en": "go in",
+      "example_en": "Please go in and have a seat.",
+      "word_tr": "içeri gir",
+      "example_tr": "Lütfen içeri girin ve yerinize oturun."
+    },
+    {
+      "word_en": "go out",
+      "example_en": "They like to go out on weekends.",
+      "word_tr": "dışarı çık",
+      "example_tr": "Onlar hafta sonları dışarı çıkmayı severler."
+    },
+    {
+      "word_en": "get in",
+      "example_en": "We need to get in before it starts raining.",
+      "word_tr": "içeriye gir",
+      "example_tr": "Yağmur yağmaya başlamadan önce içeriye girmemiz gerekiyor."
+    },
+    {
+      "word_en": "get out",
+      "example_en": "Please get out of the car.",
+      "word_tr": "dışarı çık",
+      "example_tr": "Lütfen arabadan dışarı çıkın."
+    },
+    {
+      "word_en": "turn up",
+      "example_en": "Can you turn up the volume, please?",
+      "word_tr": "sesi aç",
+      "example_tr": "Lütfen sesi açabilir misiniz?"
+    },
+    {
+      "word_en": "turn down",
+      "example_en": "He turned down the offer because it wasn't good enough.",
+      "word_tr": "reddet",
+      "example_tr": "Teklifi yeterince iyi olmadığı için reddetti."
+    },
+    {
+      "word_en": "go up",
+      "example_en": "The prices always seem to go up.",
+      "word_tr": "artmak",
+      "example_tr": "Fiyatlar her zaman artıyor gibi görünüyor."
+    },
+    {
+      "word_en": "go down",
+      "example_en": "The sun starts to go down in the evening.",
+      "word_tr": "inmek",
+      "example_tr": "Güneş akşamları batmaya başlar."
+    },
+    {
+      "word_en": "get on",
+      "example_en": "Please get on the bus quickly.",
+      "word_tr": "bin",
+      "example_tr": "Lütfen hızlıca otobüse binin."
+    },
+    {
+      "word_en": "get off",
+      "example_en": "We should get off at the next stop.",
+      "word_tr": "inmek",
+      "example_tr": "Bir sonraki durakta inmeliyiz."
+    },
+    {
+      "word_en": "put down",
+      "example_en": "Could you put down your phone during the meeting?",
+      "word_tr": "yere koy",
+      "example_tr": "Toplantı sırasında telefonunuzu yere koyar mısınız?"
+    },
+    {
+      "word_en": "pick up",
+      "example_en": "I need to pick up some groceries on my way home.",
+      "word_tr": "almak",
+      "example_tr": "Eve giderken birkaç market alışverişi yapmam lazım."
+    },
+    {
+      "word_en": "fill in",
+      "example_en": "Please fill in the form and return it to us.",
+      "word_tr": "doldurmak",
+      "example_tr": "Lütfen formu doldurun ve bize geri gönderin."
+    },
+    {
+      "word_en": "come in",
+      "example_en": "Come in and make yourself comfortable.",
+      "word_tr": "içeri gel",
+      "example_tr": "İçeri gel ve kendini rahat hisset."
+    },
+    {
+      "word_en": "grow up",
+      "example_en": "He wants to grow up to be a doctor.",
+      "word_tr": "büyümek",
+      "example_tr": "Bir doktor olmak için büyümek istiyor."
+    },
+    {
+      "word_en": "find out",
+      "example_en": "Let's find out what happened.",
+      "word_tr": "bulmak",
+      "example_tr": "Ne olduğunu bulalım."
+    },
+    {
+      "word_en": "get up",
+      "example_en": "I get up at 6 a.m. every morning.",
+      "word_tr": "kalkmak",
+      "example_tr": "Her sabah saat 6'da kalkarım."
+    },
+    {
+      "word_en": "hurry up",
+      "example_en": "Hurry up or we'll be late!",
+      "word_tr": "acele et",
+      "example_tr": "Acele et yoksa geç kalacağız!"
+    },
+    {
+      "word_en": "throw out",
+      "example_en": "Let's throw out this old furniture.",
+      "word_tr": "atmak",
+      "example_tr": "Bu eski mobilyaları atalım."
+    },
+    {
+      "word_en": "calm down",
+      "example_en": "Take a deep breath and try to calm down.",
+      "word_tr": "sakin ol",
+      "example_tr": "Derin bir nefes al ve sakin olmaya çalış."
+    },
+    {
+      "word_en": "slow down",
+      "example_en": "You're driving too fast, you should slow down.",
+      "word_tr": "yavaşla",
+      "example_tr": "Çok hızlı gidiyorsun, yavaşlamalısın."
+    },
+    {
+      "word_en": "look around",
+      "example_en": "Let's look around and see what's here.",
+      "word_tr": "etrafına bak",
+      "example_tr": "Haydi etrafına bakalım ve burada ne var görelim."
+    },
+    {
+      "word_en": "turn around",
+      "example_en": "He turned around and walked away.",
+      "word_tr": "dön",
+      "example_tr": "Döndü ve uzaklaştı."
+    },
+    {
+      "word_en": "get back",
+      "example_en": "We should get back home before dark.",
+      "word_tr": "geri dön",
+      "example_tr": "Karanlık çökmeye başlamadan önce eve geri dönmeliyiz."
+    },
+    {
+      "word_en": "look up",
+      "example_en": "You can look up any word you don't know in the dictionary.",
+      "word_tr": "aramak",
+      "example_tr": "Bilmediğiniz herhangi bir kelimeyi sözlükte arayabilirsiniz."
+    },
+    {
+      "word_en": "let in",
+      "example_en": "Let's let some fresh air in.",
+      "word_tr": "içeri al",
+      "example_tr": "Biraz temiz hava alalım."
+    },
+    {
+      "word_en": "try on",
+      "example_en": "I'd like to try on this dress, please.",
+      "word_tr": "denemek",
+      "example_tr": "Bu elbiseyi denemek istiyorum, lütfen."
+    },
+    {
+      "word_en": "switch on",
+      "example_en": "Can you switch on the lights?",
+      "word_tr": "açmak",
+      "example_tr": "Işıkları açabilir misiniz?"
+    },
+    {
+      "word_en": "wake up",
+      "example_en": "I wake up early in the morning.",
+      "word_tr": "uyanmak",
+      "example_tr": "Sabahları erken uyanırım."
+    }
+  ]
+}
 
