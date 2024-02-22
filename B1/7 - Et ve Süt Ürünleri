@@ -1,1 +1,149 @@
+{
+  "words": [
+    {
+      "word_en": "white meat",
+      "word_tr": "beyaz et",
+      "example_en": "White meat such as chicken is often considered healthier than red meat.",
+      "example_tr": "Tavuk gibi beyaz et, genellikle kırmızı etten daha sağlıklı olarak kabul edilir."
+    },
+    {
+      "word_en": "Swiss cheese",
+      "word_tr": "İsviçre peyniri",
+      "example_en": "Swiss cheese is known for its distinctive flavor and holey texture.",
+      "example_tr": "İsviçre peyniri, kendine özgü tadı ve delikli dokusu ile tanınır."
+    },
+    {
+      "word_en": "rib",
+      "word_tr": "kaburga",
+      "example_en": "The rib meat was slow-cooked until it was tender and flavorful.",
+      "example_tr": "Kaburga eti, yumuşak ve lezzetli olana kadar yavaş pişirildi."
+    },
+    {
+      "word_en": "breast",
+      "word_tr": "göğüs",
+      "example_en": "The chicken breast was grilled to perfection.",
+      "example_tr": "Tavuk göğsü mükemmelliğe kadar ızgara yapıldı."
+    },
+    {
+      "word_en": "cut",
+      "word_tr": "kesmek",
+      "example_en": "He used a sharp knife to cut the meat into thin slices.",
+      "example_tr": "Eti ince dilimlere kesmek için keskin bir bıçak kullandı."
+    },
+    {
+      "word_en": "lobster",
+      "word_tr": "istanbul midye",
+      "example_en": "The lobster was served with melted butter.",
+      "example_tr": "Istanbul midye erimiş tereyağı ile servis edildi."
+    },
+    {
+      "word_en": "cream cheese",
+      "word_tr": "krema peyniri",
+      "example_en": "Bagels with cream cheese are a popular breakfast choice.",
+      "example_tr": "Krema peyniriyle servis edilen simitler popüler bir kahvaltı seçeneğidir."
+    },
+    {
+      "word_en": "bacon",
+      "word_tr": "domuz pastırması",
+      "example_en": "He fried bacon until it was crispy and golden brown.",
+      "example_tr": "Domuz pastırmasını kızartıp, kıtır ve altın sarısı olana kadar pişirdi."
+    },
+    {
+      "word_en": "blue cheese",
+      "word_tr": "mavi peynir",
+      "example_en": "Blue cheese adds a tangy flavor to salads and sandwiches.",
+      "example_tr": "Mavi peynir, salata ve sandviçlere ekşi bir tat katıyor."
+    },
+    {
+      "word_en": "flesh",
+      "word_tr": "et",
+      "example_en": "The flesh of the fruit was soft and juicy.",
+      "example_tr": "Meyvenin eti yumuşak ve sulu idi."
+    },
+    {
+      "word_en": "oyster",
+      "word_tr": "istiridye",
+      "example_en": "He savored the briny taste of the oyster.",
+      "example_tr": "İstiridyenin tuzlu tadını keyifle çıkardı."
+    },
+    {
+      "word_en": "duck",
+      "word_tr": "ördek",
+      "example_en": "Duck meat is rich and flavorful when cooked properly.",
+      "example_tr": "Ördek eti uygun şekilde pişirildiğinde lezzetli ve zengindir."
+    },
+    {
+      "word_en": "seafood",
+      "word_tr": "deniz ürünleri",
+      "example_en": "The restaurant specializes in fresh seafood dishes.",
+      "example_tr": "Restoran, taze deniz ürünleri yemeklerinde uzmanlaşmıştır."
+    },
+    {
+      "word_en": "meatball",
+      "word_tr": "köfte",
+      "example_en": "She served spaghetti and meatballs for dinner.",
+      "example_tr": "Akşam yemeği için spagetti ve köfte servis etti."
+    },
+    {
+      "word_en": "shellfish",
+      "word_tr": "kabuklu deniz hayvanları",
+      "example_en": "Shellfish such as clams and mussels are popular in seafood dishes.",
+      "example_tr": "Midye ve midye gibi kabuklu deniz hayvanları, deniz ürünleri yemeklerinde popülerdir."
+    },
+    {
+      "word_en": "veal",
+      "word_tr": "dana eti",
+      "example_en": "Veal is known for its tender texture and delicate flavor.",
+      "example_tr": "Dana eti, yumuşak dokusu ve narin tadı ile tanınır."
+    },
+    {
+      "word_en": "red meat",
+      "word_tr": "kırmızı et",
+      "example_en": "He prefers to grill red meat over an open flame.",
+      "example_tr": "Açık alev üzerinde kırmızı et ızgaralamayı tercih eder."
+    },
+    {
+      "word_en": "joint",
+      "word_tr": "eklem",
+      "example_en": "The meat was slow-cooked until it fell off the joint.",
+      "example_tr": "Eti ekleminden düşene kadar yavaş pişirdi."
+    },
+    {
+      "word_en": "wing",
+      "word_tr": "kanat",
+      "example_en": "He seasoned the chicken wing with spices before grilling.",
+      "example_tr": "Izgara yapmadan önce tavuk kanadını baharatlarla tatlandırdı."
+    },
+    {
+      "word_en": "goose",
+      "word_tr": "kaz",
+      "example_en": "Roast goose is a traditional holiday dish in many cultures.",
+      "example_tr": "Kızarmış kaz, birçok kültürde geleneksel bir tatil yemeğidir."
+    },
+    {
+      "word_en": "Gouda",
+      "word_tr": "Gouda peyniri",
+      "example_en": "Gouda cheese pairs well with fruit and wine.",
+      "example_tr": "Gouda peyniri, meyve ve şarapla iyi gider."
+    },
+    {
+      "word_en": "yolk",
+      "word_tr": "yumurta sarısı",
+      "example_en": "The egg yolk added richness and color to the dish.",
+      "example_tr": "Yumurta sarısı, yemeğe zenginlik ve renk kattı."
+    },
+    {
+      "word_en": "rabbit",
+      "word_tr": "tavşan",
+      "example_en": "Rabbit meat is lean and low in fat.",
+      "example_tr": "Tavşan eti yağsız ve düşük yağ içerir."
+    },
+    {
+      "word_en": "crab",
+      "word_tr": "yengeç",
+      "example_en": "She cracked open the crab shell to get to the tender meat inside.",
+      "example_tr": "Yumuşak ete ulaşmak için yengeç kabuğunu kırdı."
+    }
+  ]
+}
 
