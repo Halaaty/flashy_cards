@@ -1,1 +1,215 @@
+{
+  "words": [
+    {
+      "word_en": "profession",
+      "word_tr": "meslek",
+      "example_en": "Teaching is a noble profession.",
+      "example_tr": "Öğretim, asil bir meslektir."
+    },
+    {
+      "word_en": "interview",
+      "word_tr": "mülakat",
+      "example_en": "She prepared thoroughly for her job interview.",
+      "example_tr": "İş mülakatına tamamen hazırlandı."
+    },
+    {
+      "word_en": "import",
+      "word_tr": "ithalat",
+      "example_en": "The country relies heavily on oil imports.",
+      "example_tr": "Ülke, büyük ölçüde petrol ithalatına dayanıyor."
+    },
+    {
+      "word_en": "deal",
+      "word_tr": "anlaşma",
+      "example_en": "They struck a lucrative deal with the overseas supplier.",
+      "example_tr": "Onlar, yurtdışı tedarikçiyle karlı bir anlaşma yaptılar."
+    },
+    {
+      "word_en": "export",
+      "word_tr": "ihracat",
+      "example_en": "The country's main export is agricultural products.",
+      "example_tr": "Ülkenin ana ihracatı tarım ürünleridir."
+    },
+    {
+      "word_en": "unemployment",
+      "word_tr": "işsizlik",
+      "example_en": "The government implemented programs to reduce unemployment.",
+      "example_tr": "Hükümet, işsizliği azaltmak için programlar uyguladı."
+    },
+    {
+      "word_en": "agreement",
+      "word_tr": "anlaşma",
+      "example_en": "Both parties signed the agreement.",
+      "example_tr": "Her iki taraf da anlaşmayı imzaladı."
+    },
+    {
+      "word_en": "opportunity",
+      "word_tr": "fırsat",
+      "example_en": "He saw the job offer as a great opportunity for advancement.",
+      "example_tr": "İş teklifini ilerlemek için harika bir fırsat olarak gördü."
+    },
+    {
+      "word_en": "competition",
+      "word_tr": "yarışma",
+      "example_en": "The competition for the position was fierce.",
+      "example_tr": "Pozisyon için rekabet şiddetliydi."
+    },
+    {
+      "word_en": "business plan",
+      "word_tr": "iş planı",
+      "example_en": "They drafted a detailed business plan for their startup.",
+      "example_tr": "Başlangıçları için detaylı bir iş planı hazırladılar."
+    },
+    {
+      "word_en": "invest",
+      "word_tr": "yatırım yapmak",
+      "example_en": "They decided to invest in real estate.",
+      "example_tr": "Gayrimenkule yatırım yapmaya karar verdiler."
+    },
+    {
+      "word_en": "trade",
+      "word_tr": "ticaret",
+      "example_en": "Global trade has increased significantly in recent years.",
+      "example_tr": "Son yıllarda küresel ticaret önemli ölçüde arttı."
+    },
+    {
+      "word_en": "career",
+      "word_tr": "kariyer",
+      "example_en": "She's had a successful career in finance.",
+      "example_tr": "Finans alanında başarılı bir kariyeri var."
+    },
+    {
+      "word_en": "offer",
+      "word_tr": "teklif",
+      "example_en": "He received a job offer from a prestigious company.",
+      "example_tr": "Prestijli bir şirketten iş teklifi aldı."
+    },
+    {
+      "word_en": "office",
+      "word_tr": "ofis",
+      "example_en": "She works in a bustling office in the city center.",
+      "example_tr": "Şehir merkezindeki hareketli bir ofiste çalışıyor."
+    },
+    {
+      "word_en": "contract",
+      "word_tr": "sözleşme",
+      "example_en": "They signed a contract with the client.",
+      "example_tr": "Müşteriyle bir sözleşme imzaladılar."
+    },
+    {
+      "word_en": "commercial",
+      "word_tr": "ticari",
+      "example_en": "They aired a commercial during the Super Bowl.",
+      "example_tr": "Süper Bowl sırasında bir reklam yayınladılar."
+    },
+    {
+      "word_en": "promote",
+      "word_tr": "tanıtım yapmak",
+      "example_en": "They launched a campaign to promote their new product.",
+      "example_tr": "Yeni ürünlerini tanıtmak için bir kampanya başlattılar."
+    },
+    {
+      "word_en": "occupation",
+      "word_tr": "meslek",
+      "example_en": "Teaching is her chosen occupation.",
+      "example_tr": "Öğretim, onun seçtiği meslektir."
+    },
+    {
+      "word_en": "service",
+      "word_tr": "hizmet",
+      "example_en": "The company offers a wide range of services to its clients.",
+      "example_tr": "Şirket, müşterilerine geniş bir hizmet yelpazesi sunar."
+    },
+    {
+      "word_en": "supply",
+      "word_tr": "tedarik",
+      "example_en": "The demand for electricity exceeds the supply during peak hours.",
+      "example_tr": "Zirve saatlerinde elektrik talebi, arzı aşar."
+    },
+    {
+      "word_en": "crew",
+      "word_tr": "ekip",
+      "example_en": "The film crew worked tirelessly to complete the shoot.",
+      "example_tr": "Film ekibi, çekimi tamamlamak için yorulmadan çalıştı."
+    },
+    {
+      "word_en": "mine",
+      "word_tr": "maden",
+      "example_en": "The mine produced large quantities of coal.",
+      "example_tr": "Maden, büyük miktarda kömür üretti."
+    },
+    {
+      "word_en": "plant",
+      "word_tr": "tesis",
+      "example_en": "The manufacturing plant employs hundreds of workers.",
+      "example_tr": "Üretim tesisi yüzlerce işçi istihdam ediyor."
+    },
+    {
+      "word_en": "qualified",
+      "word_tr": "nitelikli",
+      "example_en": "She is a highly qualified candidate for the position.",
+      "example_tr": "Pozisyon için çok nitelikli bir aday."
+    },
+    {
+      "word_en": "factory",
+      "word_tr": "fabrika",
+      "example_en": "The factory produces automobiles for export.",
+      "example_tr": "Fabrika, ihracat için otomobil üretiyor."
+    },
+    {
+      "word_en": "firm",
+      "word_tr": "firma",
+      "example_en": "The law firm specializes in corporate law.",
+      "example_tr": "Hukuk firması, kurumsal hukuka uzmanlaşmıştır."
+    },
+    {
+      "word_en": "consumer",
+      "word_tr": "tüketici",
+      "example_en": "The company conducts surveys to better understand consumer preferences.",
+      "example_tr": "Şirket, tüketici tercihlerini daha iyi anlamak için anketler düzenler."
+    },
+    {
+      "word_en": "partner",
+      "word_tr": "ortak",
+      "example_en": "They formed a partnership to launch their startup.",
+      "example_tr": "Başlangıçlarını başlatmak için bir ortaklık kurdular."
+    },
+    {
+      "word_en": "garage",
+      "word_tr": "garaj",
+      "example_en": "The garage is used to store tools and equipment.",
+      "example_tr": "Garaj, araç ve ekipmanları depolamak için kullanılır."
+    },
+    {
+      "word_en": "workshop",
+      "word_tr": "atölye",
+      "example_en": "The workshop provides hands-on training for aspiring mechanics.",
+      "example_tr": "Atölye, mekanik olmak isteyenler için uygulamalı eğitim sağlar."
+    },
+    {
+      "word_en": "resource",
+      "word_tr": "kaynak",
+      "example_en": "The company invested in renewable energy resources.",
+      "example_tr": "Şirket, yenilenebilir enerji kaynaklarına yatırım yaptı."
+    },
+    {
+      "word_en": "headquarters",
+      "word_tr": "merkez",
+      "example_en": "The company's headquarters are located in downtown.",
+      "example_tr": "Şirketin merkezi, şehir merkezinde bulunuyor."
+    },
+    {
+      "word_en": "demand",
+      "word_tr": "talep",
+      "example_en": "There is high demand for skilled workers in the tech industry.",
+      "example_tr": "Teknoloji endüstrisinde nitelikli işçilere yüksek talep var."
+    },
+    {
+      "word_en": "manage",
+      "word_tr": "yönetmek",
+      "example_en": "He was hired to manage the company's finances.",
+      "example_tr": "Şirketin finanslarını yönetmek için işe alındı."
+    }
+  ]
+}
 
