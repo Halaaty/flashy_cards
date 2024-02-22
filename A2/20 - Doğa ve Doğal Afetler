@@ -1,1 +1,215 @@
+{
+  "words": [
+    {
+      "word_en": "world",
+      "word_tr": "dünya",
+      "example_en": "The world is full of wonders.",
+      "example_tr": "Dünya harikalarla dolu."
+    },
+    {
+      "word_en": "environment",
+      "word_tr": "çevre",
+      "example_en": "We need to protect the environment for future generations.",
+      "example_tr": "Gelecek nesiller için çevreyi korumamız gerekiyor."
+    },
+    {
+      "word_en": "plant",
+      "word_tr": "bitki",
+      "example_en": "The plant needs sunlight and water to grow.",
+      "example_tr": "Bitki büyümek için güneş ışığına ve suya ihtiyaç duyar."
+    },
+    {
+      "word_en": "ground",
+      "word_tr": "yer",
+      "example_en": "She sat on the ground and watched the sunset.",
+      "example_tr": "Yerde oturdu ve günbatımını izledi."
+    },
+    {
+      "word_en": "field",
+      "word_tr": "alan",
+      "example_en": "They played soccer in the field behind the school.",
+      "example_tr": "Okulun arkasındaki alanda futbol oynadılar."
+    },
+    {
+      "word_en": "landscape",
+      "word_tr": "manzara",
+      "example_en": "The landscape was breathtakingly beautiful.",
+      "example_tr": "Manzara nefes kesici güzellikteydi."
+    },
+    {
+      "word_en": "view",
+      "word_tr": "görünüm",
+      "example_en": "From the top of the hill, we had a magnificent view of the city below.",
+      "example_tr": "Tepeye çıktığımızda, alttaki şehrin muhteşem bir görünümü vardı."
+    },
+    {
+      "word_en": "grass",
+      "word_tr": "çim",
+      "example_en": "They picnicked on the soft grass by the river.",
+      "example_tr": "Nehir kenarındaki yumuşak çimlerde piknik yaptılar."
+    },
+    {
+      "word_en": "coast",
+      "word_tr": "kıyı",
+      "example_en": "The beach was quiet and secluded, with a beautiful coast.",
+      "example_tr": "Plaj sessiz ve gözlerden uzak, güzel bir kıyıya sahipti."
+    },
+    {
+      "word_en": "hill",
+      "word_tr": "tepe",
+      "example_en": "They climbed to the top of the hill to enjoy the view.",
+      "example_tr": "Görünümün tadını çıkarmak için tepenin zirvesine tırmandılar."
+    },
+    {
+      "word_en": "rock",
+      "word_tr": "kaya",
+      "example_en": "They sat on the warm rocks by the river.",
+      "example_tr": "Nehir kenarındaki sıcak kayalara oturdular."
+    },
+    {
+      "word_en": "valley",
+      "word_tr": "vadi",
+      "example_en": "The valley was lush and green, surrounded by mountains.",
+      "example_tr": "Vadi, dağlarla çevrili, yeşil ve bereketliydi."
+    },
+    {
+      "word_en": "lake",
+      "word_tr": "göl",
+      "example_en": "The lake shimmered in the moonlight.",
+      "example_tr": "Göl, ay ışığında parıldıyordu."
+    },
+    {
+      "word_en": "the ocean",
+      "word_tr": "okyanus",
+      "example_en": "The ocean stretches as far as the eye can see.",
+      "example_tr": "Gözün görebildiği kadar uzanan bir okyanus."
+    },
+    {
+      "word_en": "rainforest",
+      "word_tr": "yağmur ormanı",
+      "example_en": "The rainforest is home to countless species of plants and animals.",
+      "example_tr": "Yağmur ormanı, sayısız bitki ve hayvan türüne ev sahipliği yapıyor."
+    },
+    {
+      "word_en": "wood",
+      "word_tr": "orman",
+      "example_en": "They took a peaceful walk through the wood.",
+      "example_tr": "Ormanda huzurlu bir yürüyüş yaptılar."
+    },
+    {
+      "word_en": "area",
+      "word_tr": "bölge",
+      "example_en": "The area is known for its beautiful scenery.",
+      "example_tr": "Bölge, güzel manzaralarıyla tanınıyor."
+    },
+    {
+      "word_en": "path",
+      "word_tr": "yol",
+      "example_en": "They followed the narrow path through the forest.",
+      "example_tr": "Dar yolu ormanın içinden takip ettiler."
+    },
+    {
+      "word_en": "natural",
+      "word_tr": "doğal",
+      "example_en": "They enjoyed the natural beauty of the countryside.",
+      "example_tr": "Kırsalın doğal güzelliklerinden keyif aldılar."
+    },
+    {
+      "word_en": "disaster",
+      "word_tr": "felaket",
+      "example_en": "The earthquake was a terrible disaster for the region.",
+      "example_tr": "Deprem bölge için korkunç bir felaketti."
+    },
+    {
+      "word_en": "flood",
+      "word_tr": "sel",
+      "example_en": "The flood caused extensive damage to homes and infrastructure.",
+      "example_tr": "Sel evlere ve altyapıya büyük zarar verdi."
+    },
+    {
+      "word_en": "earthquake",
+      "word_tr": "deprem",
+      "example_en": "The earthquake shook the entire city.",
+      "example_tr": "Deprem tüm şehri salladı."
+    },
+    {
+      "word_en": "hurricane",
+      "word_tr": "kasırga",
+      "example_en": "The hurricane left a trail of destruction in its wake.",
+      "example_tr": "Kasırga arkasında bir yıkım izi bıraktı."
+    },
+    {
+      "word_en": "tornado",
+      "word_tr": "tornado",
+      "example_en": "The tornado tore through the town, destroying everything in its path.",
+      "example_tr": "Tornado kasabada yıkıma yol açarak her şeyi yok etti."
+    },
+    {
+      "word_en": "famine",
+      "word_tr": "kıtlık",
+      "example_en": "The famine led to widespread suffering and death.",
+      "example_tr": "Kıtlık geniş çapta acı ve ölüme neden oldu."
+    },
+    {
+      "word_en": "avalanche",
+      "word_tr": "çığ",
+      "example_en": "An avalanche buried several houses under tons of snow.",
+      "example_tr": "Bir çığ tonlarca kar altında birkaç evi gömdü."
+    },
+    {
+      "word_en": "drought",
+      "word_tr": "kuraklık",
+      "example_en": "The drought dried up the rivers and devastated the crops.",
+      "example_tr": "Kuraklık nehirleri kuruttu ve tarlaları yok etti."
+    },
+    {
+      "word_en": "climate change",
+      "word_tr": "iklim değişikliği",
+      "example_en": "Climate change is a serious threat to the planet.",
+      "example_tr": "İklim değişikliği gezegene ciddi bir tehdittir."
+    },
+    {
+      "word_en": "happen",
+      "word_tr": "olmak",
+      "example_en": "The hurricane happened suddenly, catching everyone off guard.",
+      "example_tr": "Kasırga aniden oldu, herkesi hazırlıksız yakaladı."
+    },
+    {
+      "word_en": "terrible",
+      "word_tr": "korkunç",
+      "example_en": "The aftermath of the hurricane was terrible, with widespread destruction.",
+      "example_tr": "Kasırganın ardından korkunç bir manzara vardı, geniş çapta yıkım yaşandı."
+    },
+    {
+      "word_en": "northeast",
+      "word_tr": "kuzeydoğu",
+      "example_en": "The hurricane hit the northeast coast with great force.",
+      "example_tr": "Kasırga, kuzeydoğu sahilini büyük bir kuvvetle vurdu."
+    },
+    {
+      "word_en": "northwest",
+      "word_tr": "kuzeybatı",
+      "example_en": "The northwest region experienced heavy rainfall during the hurricane.",
+      "example_tr": "Kasırga sırasında kuzeybatı bölgesinde yoğun yağış yaşandı."
+    },
+    {
+      "word_en": "southeast",
+      "word_tr": "güneydoğu",
+      "example_en": "The southeast was hit by strong winds during the hurricane.",
+      "example_tr": "Kasırga sırasında güneydoğu güçlü rüzgarlarla vuruldu."
+    },
+    {
+      "word_en": "southwest",
+      "word_tr": "güneybatı",
+      "example_en": "The southwest suffered flooding as a result of the hurricane.",
+      "example_tr": "Güneybatı kasırganın bir sonucu olarak sel felaketi yaşadı."
+    },
+    {
+      "word_en": "desert",
+      "word_tr": "çöl",
+      "example_en": "The drought turned the fertile land into a desert.",
+      "example_tr": "Kuraklık verimli toprakları bir çöl haline getirdi."
+    }
+  ]
+}
 
