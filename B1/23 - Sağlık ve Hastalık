@@ -1,1 +1,292 @@
-
+{
+  "words": [
+    {
+      "word_en": "recovery",
+      "example_en": "The patient's recovery was faster than expected.",
+      "word_tr": "iyileşme",
+      "example_tr": "Hastanın iyileşmesi beklenenden daha hızlıydı."
+    },
+    {
+      "word_en": "examination",
+      "example_en": "He underwent a thorough medical examination.",
+      "word_tr": "muayene",
+      "example_tr": "Kapsamlı bir tıbbi muayeneden geçti."
+    },
+    {
+      "word_en": "spread",
+      "example_en": "The virus can spread rapidly if not controlled.",
+      "word_tr": "yaymak",
+      "example_tr": "Kontrol edilmezse virüs hızla yayılabilir."
+    },
+    {
+      "word_en": "positive",
+      "example_en": "He tries to maintain a positive outlook on life.",
+      "word_tr": "olumlu",
+      "example_tr": "Hayata olumlu bir bakış açısıyla bakmaya çalışıyor."
+    },
+    {
+      "word_en": "shot",
+      "example_en": "She received a flu shot at the clinic.",
+      "word_tr": "aşı",
+      "example_tr": "Klinikte grip aşısı aldı."
+    },
+    {
+      "word_en": "negative",
+      "example_en": "The test results came back negative.",
+      "word_tr": "olumsuz",
+      "example_tr": "Test sonuçları olumsuz döndü."
+    },
+    {
+      "word_en": "first aid",
+      "example_en": "She administered first aid to the injured hiker.",
+      "word_tr": "ilk yardım",
+      "example_tr": "Yaralı yürüyüşçüye ilk yardım uyguladı."
+    },
+    {
+      "word_en": "checkup",
+      "example_en": "He goes for a checkup every six months.",
+      "word_tr": "kontrol",
+      "example_tr": "Her altı ayda bir kontrol için gider."
+    },
+    {
+      "word_en": "care",
+      "example_en": "He received excellent care at the hospital.",
+      "word_tr": "bakım",
+      "example_tr": "Hastanede mükemmel bir bakım aldı."
+    },
+    {
+      "word_en": "weigh",
+      "example_en": "She weighs herself every morning.",
+      "word_tr": "tartmak",
+      "example_tr": "Her sabah kendini tartar."
+    },
+    {
+      "word_en": "treat",
+      "example_en": "The doctor will treat the infection with antibiotics.",
+      "word_tr": "tedavi etmek",
+      "example_tr": "Doktor enfeksiyonu antibiyotikle tedavi edecek."
+    },
+    {
+      "word_en": "symptom",
+      "example_en": "Coughing is a common symptom of a cold.",
+      "word_tr": "belirti",
+      "example_tr": "Öksürük, bir soğuk algınlığının yaygın bir belirtisidir."
+    },
+    {
+      "word_en": "medicine",
+      "example_en": "She takes medicine for her high blood pressure.",
+      "word_tr": "ilaç",
+      "example_tr": "Yüksek tansiyonu için ilaç alır."
+    },
+    {
+      "word_en": "mental",
+      "example_en": "She seeks help for her mental health issues.",
+      "word_tr": "ruhsal",
+      "example_tr": "Ruhsal sağlık sorunları için yardım arıyor."
+    },
+    {
+      "word_en": "operation",
+      "example_en": "He underwent heart surgery last month.",
+      "word_tr": "ameliyat",
+      "example_tr": "Geçen ay kalp ameliyatı geçirdi."
+    },
+    {
+      "word_en": "care for",
+      "example_en": "She cares for her elderly parents.",
+      "word_tr": "bakmak",
+      "example_tr": "Yaşlı ebeveynlerine bakıyor."
+    },
+    {
+      "word_en": "painful",
+      "example_en": "The injury was very painful.",
+      "word_tr": "acı verici",
+      "example_tr": "Yaralanma çok acı vericiydi."
+    },
+    {
+      "word_en": "antibiotic",
+      "example_en": "The doctor prescribed antibiotics for the infection.",
+      "word_tr": "antibiyotik",
+      "example_tr": "Doktor enfeksiyon için antibiyotik reçete etti."
+    },
+    {
+      "word_en": "capsule",
+      "example_en": "She takes her daily medication in capsule form.",
+      "word_tr": "kapsül",
+      "example_tr": "Günlük ilaçlarını kapsül formunda alır."
+    },
+    {
+      "word_en": "first-aid kit",
+      "example_en": "She always keeps a first-aid kit in her car.",
+      "word_tr": "ilk yardım çantası",
+      "example_tr": "Her zaman arabasında bir ilk yardım çantası bulundurur."
+    },
+    {
+      "word_en": "mental",
+      "example_en": "She seeks help for her mental health issues.",
+      "word_tr": "ruhsal",
+      "example_tr": "Ruhsal sağlık sorunları için yardım arıyor."
+    },
+    {
+      "word_en": "test",
+      "example_en": "The doctor ordered some tests to diagnose the illness.",
+      "word_tr": "test",
+      "example_tr": "Doktor hastalığı teşhis etmek için bazı testler istedi."
+    },
+    {
+      "word_en": "drug",
+      "example_en": "He's addicted to drugs and needs help.",
+      "word_tr": "ilaç",
+      "example_tr": "Uyuşturuculara bağımlı ve yardıma ihtiyacı var."
+    },
+    {
+      "word_en": "operation",
+      "example_en": "He underwent heart surgery last month.",
+      "word_tr": "ameliyat",
+      "example_tr": "Geçen ay kalp ameliyatı geçirdi."
+    },
+    {
+      "word_en": "operation",
+      "example_en": "He underwent heart surgery last month.",
+      "word_tr": "ameliyat",
+      "example_tr": "Geçen ay kalp ameliyatı geçirdi."
+    },
+    {
+      "word_en": "negative",
+      "example_en": "The test results came back negative.",
+      "word_tr": "olumsuz",
+      "example_tr": "Test sonuçları olumsuz döndü."
+    },
+    {
+      "word_en": "spread",
+      "example_en": "The virus can spread rapidly if not controlled.",
+      "word_tr": "yaymak",
+      "example_tr": "Kontrol edilmezse virüs hızla yayılabilir."
+    },
+    {
+      "word_en": "treatment",
+      "example_en": "The new treatment shows promising results.",
+      "word_tr": "tedavi",
+      "example_tr": "Yeni tedavi umut verici sonuçlar gösteriyor."
+    },
+    {
+      "word_en": "heal",
+      "example_en": "The wound is starting to heal nicely.",
+      "word_tr": "iyileşmek",
+      "example_tr": "Yara güzelce iyileşmeye başlıyor."
+    },
+    {
+      "word_en": "bandage",
+      "example_en": "She wrapped the wound with a clean bandage.",
+      "word_tr": "bandaj",
+      "example_tr": "Yarayı temiz bir bandajla sarıyordu."
+    },
+    {
+      "word_en": "shot",
+      "example_en": "She received a flu shot at the clinic.",
+      "word_tr": "aşı",
+      "example_tr": "Klinikte grip aşısı aldı."
+    },
+    {
+      "word_en": "bleed",
+      "example_en": "The wound continued to bleed despite the bandage.",
+      "word_tr": "kanamak",
+      "example_tr": "Bandaja rağmen yara kanamaya devam etti."
+    },
+    {
+      "word_en": "suffer",
+      "example_en": "She suffers from chronic pain.",
+      "word_tr": "acı çekmek",
+      "example_tr": "Kronik ağrı çekiyor."
+    },
+    {
+      "word_en": "operate",
+      "example_en": "The surgeon will operate on his knee tomorrow.",
+      "word_tr": "ameliyat etmek",
+      "example_tr": "Cerrah yarın dizine ameliyat yapacak."
+    },
+    {
+      "word_en": "medicine",
+      "example_en": "She takes medicine for her high blood pressure.",
+      "word_tr": "ilaç",
+      "example_tr": "Yüksek tansiyonu için ilaç alır."
+    },
+    {
+      "word_en": "care for",
+      "example_en": "She cares for her elderly parents.",
+      "word_tr": "bakmak",
+      "example_tr": "Yaşlı ebeveynlerine bakıyor."
+    },
+    {
+      "word_en": "weigh",
+      "example_en": "She weighs herself every morning.",
+      "word_tr": "tartmak",
+      "example_tr": "Her sabah kendini tartar."
+    },
+    {
+      "word_en": "treat",
+      "example_en": "The doctor will treat the infection with antibiotics.",
+      "word_tr": "tedavi etmek",
+      "example_tr": "Doktor enfeksiyonu antibiyotikle tedavi edecek."
+    },
+    {
+      "word_en": "mental",
+      "example_en": "She seeks help for her mental health issues.",
+      "word_tr": "ruhsal",
+      "example_tr": "Ruhsal sağlık sorunları için yardım arıyor."
+    },
+    {
+      "word_en": "capsule",
+      "example_en": "She takes her daily medication in capsule form.",
+      "word_tr": "kapsül",
+      "example_tr": "Günlük ilaçlarını kapsül formunda alır."
+    },
+    {
+      "word_en": "heal",
+      "example_en": "The wound is starting to heal nicely.",
+      "word_tr": "iyileşmek",
+      "example_tr": "Yara güzelce iyileşmeye başlıyor."
+    },
+    {
+      "word_en": "test",
+      "example_en": "The doctor ordered some tests to diagnose the illness.",
+      "word_tr": "test",
+      "example_tr": "Doktor hastalığı teşhis etmek için bazı testler istedi."
+    },
+    {
+      "word_en": "operation",
+      "example_en": "He underwent heart surgery last month.",
+      "word_tr": "ameliyat",
+      "example_tr": "Geçen ay kalp ameliyatı geçirdi."
+    },
+    {
+      "word_en": "negative",
+      "example_en": "The test results came back negative.",
+      "word_tr": "olumsuz",
+      "example_tr": "Test sonuçları olumsuz döndü."
+    },
+    {
+      "word_en": "spread",
+      "example_en": "The virus can spread rapidly if not controlled.",
+      "word_tr": "yaymak",
+      "example_tr": "Kontrol edilmezse virüs hızla yayılabilir."
+    },
+    {
+      "word_en": "treatment",
+      "example_en": "The new treatment shows promising results.",
+      "word_tr": "tedavi",
+      "example_tr": "Yeni tedavi umut verici sonuçlar gösteriyor."
+    },
+    {
+      "word_en": "care",
+      "example_en": "He received excellent care at the hospital.",
+      "word_tr": "bakım",
+      "example_tr": "Hastanede mükemmel bir bakım aldı."
+    },
+    {
+      "word_en": "weigh",
+      "example_en": "She weighs herself every morning.",
+      "word_tr": "tartmak",
+      "example_tr": "Her sabah kendini tartar."
+    }
+  ]
+}
