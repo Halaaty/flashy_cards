@@ -1,1 +1,215 @@
+{
+  "words": [
+    {
+      "word_en": "fire station",
+      "example_en": "The fire station is located just around the corner.",
+      "word_tr": "itfaiye istasyonu",
+      "example_tr": "İtfaiye istasyonu sadece köşede bulunuyor."
+    },
+    {
+      "word_en": "gallery",
+      "example_en": "The art gallery showcases local artists' work.",
+      "word_tr": "galeri",
+      "example_tr": "Sanat galerisi yerel sanatçıların eserlerini sergiliyor."
+    },
+    {
+      "word_en": "nightclub",
+      "example_en": "They danced the night away at the nightclub.",
+      "word_tr": "gece kulübü",
+      "example_tr": "Gece kulübünde geceyi dans ederek geçirdiler."
+    },
+    {
+      "word_en": "sidewalk",
+      "example_en": "They strolled along the sidewalk, enjoying the city vibe.",
+      "word_tr": "kaldırım",
+      "example_tr": "Şehir havasının tadını çıkararak kaldırım boyunca gezindiler."
+    },
+    {
+      "word_en": "inner city",
+      "example_en": "The inner city is known for its vibrant culture.",
+      "word_tr": "merkez",
+      "example_tr": "Merkez, canlı kültürüyle tanınır."
+    },
+    {
+      "word_en": "pedestrian",
+      "example_en": "The pedestrian waited for the light to change before crossing.",
+      "word_tr": "yaya",
+      "example_tr": "Yaya, geçmeden önce ışığın değişmesini bekledi."
+    },
+    {
+      "word_en": "playground",
+      "example_en": "The children played happily in the playground.",
+      "word_tr": "oyun parkı",
+      "example_tr": "Çocuklar oyun parkında mutlu bir şekilde oynadılar."
+    },
+    {
+      "word_en": "gym",
+      "example_en": "He goes to the gym every morning to work out.",
+      "word_tr": "spor salonu",
+      "example_tr": "Her sabah spor salonuna gidip egzersiz yapar."
+    },
+    {
+      "word_en": "parking lot",
+      "example_en": "They parked their car in the parking lot.",
+      "word_tr": "park yeri",
+      "example_tr": "Arabalarını park yeriye park ettiler."
+    },
+    {
+      "word_en": "urban",
+      "example_en": "The urban environment is bustling with activity.",
+      "word_tr": "kentsel",
+      "example_tr": "Kentsel ortam, hareketlilikle doludur."
+    },
+    {
+      "word_en": "farmland",
+      "example_en": "The region is known for its fertile farmland.",
+      "word_tr": "tarım arazisi",
+      "example_tr": "Bölge verimli tarım arazileriyle tanınır."
+    },
+    {
+      "word_en": "community",
+      "example_en": "They're active members of the local community.",
+      "word_tr": "topluluk",
+      "example_tr": "Yerel topluluğun aktif üyeleri."
+    },
+    {
+      "word_en": "suburb",
+      "example_en": "They live in a quiet suburb just outside the city.",
+      "word_tr": "banliyö",
+      "example_tr": "Şehrin hemen dışında sessiz bir banliyöde yaşıyorlar."
+    },
+    {
+      "word_en": "grassland",
+      "example_en": "The vast grassland stretched as far as the eye could see.",
+      "word_tr": "otlak",
+      "example_tr": "Geniş çayır gözün görebildiği kadar uzandı."
+    },
+    {
+      "word_en": "uptown",
+      "example_en": "The uptown area is known for its trendy cafes and boutiques.",
+      "word_tr": "şehrin dış kesimi",
+      "example_tr": "Şehrin dış kesimi, trendi kafeleri ve butikleriyle tanınır."
+    },
+    {
+      "word_en": "road sign",
+      "example_en": "He glanced at the road sign to confirm the direction.",
+      "word_tr": "yol işareti",
+      "example_tr": "Yönü doğrulamak için yol işaretine baktı."
+    },
+    {
+      "word_en": "outskirts",
+      "example_en": "They live on the outskirts of the city.",
+      "word_tr": "şehrin dışı",
+      "example_tr": "Şehrin dış kesimlerinde yaşıyorlar."
+    },
+    {
+      "word_en": "barbershop",
+      "example_en": "He went to the barbershop for a haircut.",
+      "word_tr": "berber dükkanı",
+      "example_tr": "Saçını kestirmek için berber dükkanına gitti."
+    },
+    {
+      "word_en": "county",
+      "example_en": "They live in the neighboring county.",
+      "word_tr": "ilçe",
+      "example_tr": "Komşu ilçede yaşıyorlar."
+    },
+    {
+      "word_en": "orchard",
+      "example_en": "The orchard is full of ripe fruit ready for picking.",
+      "word_tr": "mevki",
+      "example_tr": "Meyve toplamaya hazır olgun meyvelerle dolu mevki."
+    },
+    {
+      "word_en": "gallery",
+      "example_en": "The art gallery showcases local artists' work.",
+      "word_tr": "galeri",
+      "example_tr": "Sanat galerisi yerel sanatçıların eserlerini sergiliyor."
+    },
+    {
+      "word_en": "homeland",
+      "example_en": "They returned to their homeland after many years abroad.",
+      "word_tr": "anavatan",
+      "example_tr": "Yıllarca yurt dışında yaşadıktan sonra anavatanlarına döndüler."
+    },
+    {
+      "word_en": "pizzeria",
+      "example_en": "They ordered a pizza from the local pizzeria.",
+      "word_tr": "pizzacı",
+      "example_tr": "Yerel pizzacıdan pizza sipariş ettiler."
+    },
+    {
+      "word_en": "dam",
+      "example_en": "The dam provides hydroelectric power to the region.",
+      "word_tr": "baraj",
+      "example_tr": "Baraj bölgeye hidroelektrik enerji sağlıyor."
+    },
+    {
+      "word_en": "playground",
+      "example_en": "The children played happily in the playground.",
+      "word_tr": "oyun parkı",
+      "example_tr": "Çocuklar oyun parkında mutlu bir şekilde oynadılar."
+    },
+    {
+      "word_en": "well",
+      "example_en": "They drew water from the well.",
+      "word_tr": "kuyu",
+      "example_tr": "Kuyudan su çektiler."
+    },
+    {
+      "word_en": "urban",
+      "example_en": "The urban environment is bustling with activity.",
+      "word_tr": "kentsel",
+      "example_tr": "Kentsel ortam, hareketlilikle doludur."
+    },
+    {
+      "word_en": "lane",
+      "example_en": "The narrow lane was lined with old-fashioned houses.",
+      "word_tr": "sokak",
+      "example_tr": "Dar sokak eski moda evlerle sıralanmıştı."
+    },
+    {
+      "word_en": "community",
+      "example_en": "They're active members of the local community.",
+      "word_tr": "topluluk",
+      "example_tr": "Yerel topluluğun aktif üyeleri."
+    },
+    {
+      "word_en": "road sign",
+      "example_en": "He glanced at the road sign to confirm the direction.",
+      "word_tr": "yol işareti",
+      "example_tr": "Yönü doğrulamak için yol işaretine baktı."
+    },
+    {
+      "word_en": "overpass",
+      "example_en": "They crossed the highway using the overpass.",
+      "word_tr": "üst geçit",
+      "example_tr": "Üst geçidi kullanarak otoyolu geçtiler."
+    },
+    {
+      "word_en": "population",
+      "example_en": "The city's population has been steadily growing.",
+      "word_tr": "nüfus",
+      "example_tr": "Şehrin nüfusu istikrarlı bir şekilde artıyor."
+    },
+    {
+      "word_en": "gallery",
+      "example_en": "The art gallery showcases local artists' work.",
+      "word_tr": "galeri",
+      "example_tr": "Sanat galerisi yerel sanatçıların eserlerini sergiliyor."
+    },
+    {
+      "word_en": "barbershop",
+      "example_en": "He went to the barbershop for a haircut.",
+      "word_tr": "berber dükkanı",
+      "example_tr": "Saçını kestirmek için berber dükkanına gitti."
+    },
+    {
+      "word_en": "uptown",
+      "example_en": "The uptown area is known for its trendy cafes and boutiques.",
+      "word_tr": "şehrin dış kesimi",
+      "example_tr": "Şehrin dış kesimi, trendi kafeleri ve butikleriyle tanınır."
+    }
+  ]
+}
 
