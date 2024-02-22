@@ -1,1 +1,137 @@
+{
+  "words": [
+    {
+      "word_en": "marry",
+      "word_tr": "evlenmek",
+      "example_en": "They decided to marry in the spring.",
+      "example_tr": "Baharın gelmesiyle evlenmeye karar verdiler."
+    },
+    {
+      "word_en": "group",
+      "word_tr": "grup",
+      "example_en": "She joined a study group for her biology class.",
+      "example_tr": "Biyoloji dersi için bir çalışma grubuna katıldı."
+    },
+    {
+      "word_en": "break up",
+      "word_tr": "ayrılmak",
+      "example_en": "After many arguments, they finally decided to break up.",
+      "example_tr": "Birçok tartışmadan sonra, sonunda ayrılmaya karar verdiler."
+    },
+    {
+      "word_en": "kid",
+      "word_tr": "çocuk",
+      "example_en": "The kids played in the park until sunset.",
+      "example_tr": "Çocuklar gün batımına kadar parkta oynadı."
+    },
+    {
+      "word_en": "miss",
+      "word_tr": "bay / hanım",
+      "example_en": "Miss Johnson is our new math teacher.",
+      "example_tr": "Bayan Johnson yeni matematik öğretmenimizdir."
+    },
+    {
+      "word_en": "twin",
+      "word_tr": "ikiz",
+      "example_en": "Tom and Tim are identical twins.",
+      "example_tr": "Tom ve Tim, tıpatıp ikizlerdir."
+    },
+    {
+      "word_en": "care",
+      "word_tr": "bakmak",
+      "example_en": "She took great care of her garden.",
+      "example_tr": "Bahçesine çok iyi bakıyordu."
+    },
+    {
+      "word_en": "mommy",
+      "word_tr": "anne",
+      "example_en": "Mommy baked cookies for the school bake sale.",
+      "example_tr": "Anne, okul fırın satışı için kurabiye pişirdi."
+    },
+    {
+      "word_en": "grandson",
+      "word_tr": "torun",
+      "example_en": "My grandson loves playing soccer.",
+      "example_tr": "Torunum futbol oynamayı çok sever."
+    },
+    {
+      "word_en": "daddy",
+      "word_tr": "baba",
+      "example_en": "Daddy taught me how to ride a bike.",
+      "example_tr": "Baba, bana bisiklet sürmeyi öğretti."
+    },
+    {
+      "word_en": "neighbor",
+      "word_tr": "komşu",
+      "example_en": "Our new neighbors invited us over for dinner.",
+      "example_tr": "Yeni komşularımız bizi akşam yemeğine davet ettiler."
+    },
+    {
+      "word_en": "middle name",
+      "word_tr": "ikinci isim",
+      "example_en": "Her middle name is Elizabeth.",
+      "example_tr": "Onun ikinci ismi Elizabeth'tir."
+    },
+    {
+      "word_en": "pen pal",
+      "word_tr": "mektup arkadaşı",
+      "example_en": "She has a pen pal in Japan.",
+      "example_tr": "Japonya'da bir mektup arkadaşı var."
+    },
+    {
+      "word_en": "grow",
+      "word_tr": "büyümek",
+      "example_en": "Plants need sunlight to grow.",
+      "example_tr": "Bitkilerin büyümesi için güneş ışığına ihtiyaçları vardır."
+    },
+    {
+      "word_en": "family name",
+      "word_tr": "soyadı",
+      "example_en": "My family name is Smith.",
+      "example_tr": "Soyadım Smith'tir."
+    },
+    {
+      "word_en": "partner",
+      "word_tr": "ortak / eş",
+      "example_en": "She's been my partner in business for ten years.",
+      "example_tr": "On yıldır iş ortağım."
+    },
+    {
+      "word_en": "raise",
+      "word_tr": "büyütmek",
+      "example_en": "She raised three children on her own.",
+      "example_tr": "Üç çocuğu kendi başına büyüttü."
+    },
+    {
+      "word_en": "grandparent",
+      "word_tr": "büyükanne/büyükbaba",
+      "example_en": "My grandparents live in the countryside.",
+      "example_tr": "Büyükanne ve büyükbabam kırsalda yaşıyor."
+    },
+    {
+      "word_en": "grandpa",
+      "word_tr": "büyükbaba",
+      "example_en": "Grandpa tells the best stories.",
+      "example_tr": "Büyükbaba en iyi hikayeleri anlatır."
+    },
+    {
+      "word_en": "dude",
+      "word_tr": "dost",
+      "example_en": "Hey dude, what's up?",
+      "example_tr": "Hey dostum, naber?"
+    },
+    {
+      "word_en": "guest",
+      "word_tr": "misafir",
+      "example_en": "We had many guests at the party.",
+      "example_tr": "Partide birçok misafirimiz vardı."
+    },
+    {
+      "word_en": "background",
+      "word_tr": "arka plan",
+      "example_en": "She comes from an artistic background.",
+      "example_tr": "Sanatsal bir arka plana sahiptir."
+    }
+  ]
+}
 
