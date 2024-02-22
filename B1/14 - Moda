@@ -1,1 +1,173 @@
+{
+  "words": [
+    {
+      "word_en": "bathing suit",
+      "example_en": "She bought a new bathing suit for her vacation.",
+      "word_tr": "mayo",
+      "example_tr": "Tatili için yeni bir mayo satın aldı."
+    },
+    {
+      "word_en": "hoodie",
+      "example_en": "He wore a hoodie to stay warm in the chilly weather.",
+      "word_tr": "kapüşonlu sweatshirt",
+      "example_tr": "Soğuk havalarda sıcak kalmak için bir kapüşonlu sweatshirt giydi."
+    },
+    {
+      "word_en": "leather",
+      "example_en": "The jacket was made of soft, supple leather.",
+      "word_tr": "deri",
+      "example_tr": "Ceket yumuşak, esnek deriden yapılmıştı."
+    },
+    {
+      "word_en": "baggy",
+      "example_en": "He prefers wearing baggy pants for comfort.",
+      "word_tr": "bol",
+      "example_tr": "Rahatlık için bol pantolon giymeyi tercih ediyor."
+    },
+    {
+      "word_en": "sleeve",
+      "example_en": "She rolled up her sleeves and got to work.",
+      "word_tr": "kol",
+      "example_tr": "Kollarını sıvadı ve işe koyuldu."
+    },
+    {
+      "word_en": "bra",
+      "example_en": "She bought a new bra that provides better support.",
+      "word_tr": "sutyen",
+      "example_tr": "Daha iyi destek sağlayan yeni bir sutyen aldı."
+    },
+    {
+      "word_en": "pattern",
+      "example_en": "The dress had a floral pattern.",
+      "word_tr": "desen",
+      "example_tr": "Elbisenin üzerinde çiçek desenleri vardı."
+    },
+    {
+      "word_en": "collar",
+      "example_en": "He adjusted his collar before stepping out.",
+      "word_tr": "yaka",
+      "example_tr": "Dışarı çıkmadan önce yakaını düzeltti."
+    },
+    {
+      "word_en": "backpack",
+      "example_en": "She packed her backpack with snacks for the hike.",
+      "word_tr": "sırt çantası",
+      "example_tr": "Yürüyüş için sırt çantasını atıştırmalıklarla doldurdu."
+    },
+    {
+      "word_en": "top",
+      "example_en": "She wore a colorful top with jeans.",
+      "word_tr": "üst",
+      "example_tr": "Kot pantolonla renkli bir üst giydi."
+    },
+    {
+      "word_en": "in",
+      "example_en": "Skinny jeans are in this season.",
+      "word_tr": "moda",
+      "example_tr": "Dar paçalı kotlar bu sezon modada."
+    },
+    {
+      "word_en": "common",
+      "example_en": "Blue jeans are a common choice for everyday wear.",
+      "word_tr": "yaygın",
+      "example_tr": "Mavi kotlar, günlük giyim için yaygın bir tercih."
+    },
+    {
+      "word_en": "dress",
+      "example_en": "She wore a beautiful dress to the party.",
+      "word_tr": "elbise",
+      "example_tr": "Partiye güzel bir elbise giydi."
+    },
+    {
+      "word_en": "fasten",
+      "example_en": "She struggled to fasten the buttons on her coat.",
+      "word_tr": "iliklemek",
+      "example_tr": "Montundaki düğmeleri iliklemekte zorlandı."
+    },
+    {
+      "word_en": "denim",
+      "example_en": "He wore denim jeans and a white T-shirt.",
+      "word_tr": "denim",
+      "example_tr": "Kot pantolon ve beyaz bir tişört giydi."
+    },
+    {
+      "word_en": "fur",
+      "example_en": "She wore a coat trimmed with faux fur.",
+      "word_tr": "kürk",
+      "example_tr": "Sahte kürkle süslenmiş bir palto giydi."
+    },
+    {
+      "word_en": "suit",
+      "example_en": "He wore a tailored suit to the wedding.",
+      "word_tr": "takım elbise",
+      "example_tr": "Düğüne özel dikilmiş bir takım elbise giydi."
+    },
+    {
+      "word_en": "button",
+      "example_en": "She sewed the buttons back onto her shirt.",
+      "word_tr": "düğme",
+      "example_tr": "Düğmeleri gömleğine geri dikti."
+    },
+    {
+      "word_en": "underpants",
+      "example_en": "He put on a clean pair of underpants.",
+      "word_tr": "don",
+      "example_tr": "Temiz bir don çifti giydi."
+    },
+    {
+      "word_en": "cotton",
+      "example_en": "The shirt was made of soft cotton.",
+      "word_tr": "pamuk",
+      "example_tr": "Gömlek yumuşak pamuktan yapılmıştı."
+    },
+    {
+      "word_en": "stripe",
+      "example_en": "He wore a shirt with blue and white stripes.",
+      "word_tr": "şerit",
+      "example_tr": "Mavi ve beyaz şeritli bir gömlek giydi."
+    },
+    {
+      "word_en": "design",
+      "example_en": "She studied fashion design in college.",
+      "word_tr": "tasarım",
+      "example_tr": "Kolejde moda tasarımı okudu."
+    },
+    {
+      "word_en": "overcoat",
+      "example_en": "He wore a heavy overcoat to stay warm in the snow.",
+      "word_tr": "palto",
+      "example_tr": "Karlı havada sıcak kalmak için kalın bir palto giydi."
+    },
+    {
+      "word_en": "sweatshirt",
+      "example_en": "She put on a sweatshirt to go jogging.",
+      "word_tr": "sweatshirt",
+      "example_tr": "Koşmaya gitmek için bir sweatshirt giydi."
+    },
+    {
+      "word_en": "wool",
+      "example_en": "The sweater was made of warm wool.",
+      "word_tr": "yün",
+      "example_tr": "Kazak, sıcak yünden yapılmıştı."
+    },
+    {
+      "word_en": "trendy",
+      "example_en": "Chunky sneakers are trendy this year.",
+      "word_tr": "modaya uygun",
+      "example_tr": "Bu yıl kaba tabanlı spor ayakkabılar moda."
+    },
+    {
+      "word_en": "cloth",
+      "example_en": "She bought a piece of cloth to make curtains.",
+      "word_tr": "kumaş",
+      "example_tr": "Perde yapmak için bir kumaş parçası satın aldı."
+    },
+    {
+      "word_en": "fur",
+      "example_en": "She wore a fur coat to keep warm in the winter.",
+      "word_tr": "kürk",
+      "example_tr": "Kışın sıcak kalmak için kürk bir palto giydi."
+    }
+  ]
+}
 
