@@ -1,1 +1,191 @@
+{
+  "words": [
+    {
+      "word_en": "lining",
+      "word_tr": "astar",
+      "example_en": "The jacket's lining kept me warm in the cold weather.",
+      "example_tr": "Ceketin astarı soğuk havada beni sıcak tuttu."
+    },
+    {
+      "word_en": "hood",
+      "word_tr": "kapüşon",
+      "example_en": "She pulled her hood over her head to shield herself from the rain.",
+      "example_tr": "Yağmurdan korunmak için kapüşonunu kafasına çekti."
+    },
+    {
+      "word_en": "mini",
+      "word_tr": "mini",
+      "example_en": "She wore a mini skirt to the party.",
+      "example_tr": "Partiye mini etek giydi."
+    },
+    {
+      "word_en": "helmet",
+      "word_tr": "kask",
+      "example_en": "The construction worker put on his helmet before entering the site.",
+      "example_tr": "İnşaat işçisi, alana girmeden önce kaskını taktı."
+    },
+    {
+      "word_en": "denim",
+      "word_tr": "denim",
+      "example_en": "Denim jeans are a popular choice for casual wear.",
+      "example_tr": "Denim kotlar, günlük giyim için popüler bir seçimdir."
+    },
+    {
+      "word_en": "mask",
+      "word_tr": "maske",
+      "example_en": "She wore a mask to the masquerade ball.",
+      "example_tr": "Maskeli baloya maske taktı."
+    },
+    {
+      "word_en": "wooly",
+      "word_tr": "yünlü",
+      "example_en": "The wooly sweater kept him warm in the winter.",
+      "example_tr": "Yünlü kazak, onu kışın sıcak tuttu."
+    },
+    {
+      "word_en": "outfit",
+      "word_tr": "kıyafet",
+      "example_en": "She put together a stylish outfit for the event.",
+      "example_tr": "Etkinlik için şık bir kıyafet hazırladı."
+    },
+    {
+      "word_en": "collection",
+      "word_tr": "koleksiyon",
+      "example_en": "The fashion designer showcased her latest collection on the runway.",
+      "example_tr": "Moda tasarımcısı, en son koleksiyonunu podyumda sergiledi."
+    },
+    {
+      "word_en": "mask",
+      "word_tr": "maske",
+      "example_en": "She wore a mask to protect herself from airborne particles.",
+      "example_tr": "Havada asılı partiküllerden korunmak için bir maske taktı."
+    },
+    {
+      "word_en": "zipper",
+      "word_tr": "fermuar",
+      "example_en": "He zipped up his jacket to keep out the cold wind.",
+      "example_tr": "Soğuk rüzgarı dışarıda tutmak için ceketini fermuarladı."
+    },
+    {
+      "word_en": "silk",
+      "word_tr": "ipek",
+      "example_en": "The gown was made from luxurious silk.",
+      "example_tr": "Elbise, lüks ipekten yapılmıştı."
+    },
+    {
+      "word_en": "sandal",
+      "word_tr": "sandalet",
+      "example_en": "She slipped on her sandals before heading to the beach.",
+      "example_tr": "Plaja gitmeden önce sandaletlerini giydi."
+    },
+    {
+      "word_en": "lace",
+      "word_tr": "dantel",
+      "example_en": "The wedding dress was adorned with delicate lace.",
+      "example_tr": "Düğün elbisesi, zarif dantelle süslenmişti."
+    },
+    {
+      "word_en": "badge",
+      "word_tr": "rozet",
+      "example_en": "He proudly displayed his badge of honor.",
+      "example_tr": "Onur rozetini gururla sergiledi."
+    },
+    {
+      "word_en": "plain",
+      "word_tr": "sade",
+      "example_en": "She prefers plain colors over bold patterns.",
+      "example_tr": "Cesur desenler yerine sade renkleri tercih eder."
+    },
+    {
+      "word_en": "masquerade",
+      "word_tr": "maskeli balo",
+      "example_en": "They attended a masquerade ball for Halloween.",
+      "example_tr": "Cadılar Bayramı için maskeli bir baloya katıldılar."
+    },
+    {
+      "word_en": "cardigan",
+      "word_tr": "hırka",
+      "example_en": "She wrapped herself in a cozy cardigan on chilly evenings.",
+      "example_tr": "Serin akşamlarda kendini sıcak bir hırkaya sardı."
+    },
+    {
+      "word_en": "fabric",
+      "word_tr": "kumaş",
+      "example_en": "The dress was made from a soft, breathable fabric.",
+      "example_tr": "Elbise yumuşak, nefes alabilen bir kumaştan yapılmıştı."
+    },
+    {
+      "word_en": "jersey",
+      "word_tr": "forma",
+      "example_en": "He wore a basketball jersey to support his favorite team.",
+      "example_tr": "Favori takımını desteklemek için bir basketbol forması giydi."
+    },
+    {
+      "word_en": "vest",
+      "word_tr": "yelek",
+      "example_en": "He wore a vest under his suit for added warmth.",
+      "example_tr": "Daha fazla sıcaklık için takım elbisesinin altına bir yelek giydi."
+    },
+    {
+      "word_en": "matching",
+      "word_tr": "eşleştirme",
+      "example_en": "She wore a matching scarf and gloves.",
+      "example_tr": "Eşleşen bir atkı ve eldiven giydi."
+    },
+    {
+      "word_en": "sandal",
+      "word_tr": "sandalet",
+      "example_en": "She slipped on her sandals before heading to the beach.",
+      "example_tr": "Plaja gitmeden önce sandaletlerini giydi."
+    },
+    {
+      "word_en": "modeling",
+      "word_tr": "modelleme",
+      "example_en": "She pursued a career in modeling after winning a local beauty contest.",
+      "example_tr": "Yerel bir güzellik yarışmasını kazandıktan sonra bir modelleme kariyerine yöneldi."
+    },
+    {
+      "word_en": "costume",
+      "word_tr": "kostüm",
+      "example_en": "He dressed up in a superhero costume for the costume party.",
+      "example_tr": "Kostüm partisi için bir süper kahraman kostümü giydi."
+    },
+    {
+      "word_en": "pattern",
+      "word_tr": "desen",
+      "example_en": "The dress had a floral pattern.",
+      "example_tr": "Elbisenin üzerinde çiçek deseni vardı."
+    },
+    {
+      "word_en": "style",
+      "word_tr": "tarz",
+      "example_en": "Her style is elegant and sophisticated.",
+      "example_tr": "Onun tarzı zarif ve sofistike."
+    },
+    {
+      "word_en": "jersey",
+      "word_tr": "forma",
+      "example_en": "He wore a football jersey to show support for his favorite team.",
+      "example_tr": "Favori takımını desteklemek için bir futbol forması giydi."
+    },
+    {
+      "word_en": "masquerade",
+      "word_tr": "maskeli balo",
+      "example_en": "The masquerade was full of mystery and intrigue.",
+      "example_tr": "Maskeli balo, gizem ve merakla doluydu."
+    },
+    {
+      "word_en": "style",
+      "word_tr": "tarz",
+      "example_en": "Her style is unique and eclectic.",
+      "example_tr": "Onun tarzı benzersiz ve çeşitlidir."
+    },
+    {
+      "word_en": "glamorous",
+      "word_tr": "gösterişli",
+      "example_en": "She wore a glamorous gown to the awards ceremony.",
+      "example_tr": "Ödül törenine göz alıcı bir elbise giydi."
+    }
+  ]
+}
 
