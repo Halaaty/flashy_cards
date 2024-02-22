@@ -1,1 +1,202 @@
-
+{
+  "words": [
+    {
+      "word_en": "rainwater",
+      "example_en": "They collected rainwater for their plants.",
+      "word_tr": "yağmur suyu",
+      "example_tr": "Bitkileri için yağmur suyu topladılar."
+    },
+    {
+      "word_en": "calm",
+      "example_en": "After the storm, the sea was calm.",
+      "word_tr": "sakin",
+      "example_tr": "Fırtınadan sonra deniz sakinleşti."
+    },
+    {
+      "word_en": "raindrop",
+      "example_en": "The raindrop fell silently on the windowpane.",
+      "word_tr": "yağmur damlası",
+      "example_tr": "Yağmur damlası sessizce pencere camına düştü."
+    },
+    {
+      "word_en": "flood",
+      "example_en": "The heavy rain caused a flood in the city.",
+      "word_tr": "sel",
+      "example_tr": "Şiddetli yağmur şehirde sel suyu meydana getirdi."
+    },
+    {
+      "word_en": "snowfall",
+      "example_en": "We woke up to a beautiful snowfall this morning.",
+      "word_tr": "kar yağışı",
+      "example_tr": "Bu sabah güzel bir kar yağışıyla uyandık."
+    },
+    {
+      "word_en": "set",
+      "example_en": "The sun will set in the west.",
+      "word_tr": "batmak",
+      "example_tr": "Güneş batıda batacak."
+    },
+    {
+      "word_en": "forecast",
+      "example_en": "The weather forecast predicted thunderstorms.",
+      "word_tr": "hava tahmini",
+      "example_tr": "Hava tahmini gök gürültülü fırtınaları öngördü."
+    },
+    {
+      "word_en": "windstorm",
+      "example_en": "The windstorm knocked down trees and power lines.",
+      "word_tr": "fırtına",
+      "example_tr": "Fırtına ağaçları ve elektrik tellerini devirdi."
+    },
+    {
+      "word_en": "heat wave",
+      "example_en": "The heat wave caused temperatures to soar.",
+      "word_tr": "ısı dalgası",
+      "example_tr": "Isı dalgası sıcaklıkların yükselmesine neden oldu."
+    },
+    {
+      "word_en": "thunder",
+      "example_en": "The thunder rumbled in the distance.",
+      "word_tr": "gök gürültüsü",
+      "example_tr": "Gök gürültüsü uzaklarda gürledi."
+    },
+    {
+      "word_en": "rainstorm",
+      "example_en": "The rainstorm flooded the streets.",
+      "word_tr": "yağmur fırtınası",
+      "example_tr": "Yağmur fırtınası sokakları su bastı."
+    },
+    {
+      "word_en": "pour",
+      "example_en": "It started to pour just as we left the house.",
+      "word_tr": "sağanak yağmak",
+      "example_tr": "Eve çıktığımızda tam yağmaya başladı."
+    },
+    {
+      "word_en": "fine",
+      "example_en": "The weather was fine for their picnic.",
+      "word_tr": "güzel",
+      "example_tr": "Hava, piknikleri için güzeldi."
+    },
+    {
+      "word_en": "sunrise",
+      "example_en": "The sunrise painted the sky with vibrant colors.",
+      "word_tr": "gün doğumu",
+      "example_tr": "Gün doğumu gökyüzünü canlı renklerle boyadı."
+    },
+    {
+      "word_en": "snowflake",
+      "example_en": "Each snowflake is unique.",
+      "word_tr": "kar tanesi",
+      "example_tr": "Her kar tanesi benzersizdir."
+    },
+    {
+      "word_en": "hailstorm",
+      "example_en": "The hailstorm damaged the crops.",
+      "word_tr": "dolu fırtınası",
+      "example_tr": "Dolu fırtınası tarım ürünlerine zarar verdi."
+    },
+    {
+      "word_en": "rise",
+      "example_en": "The sun will rise in the east.",
+      "word_tr": "doğmak",
+      "example_tr": "Güneş doğuda doğacak."
+    },
+    {
+      "word_en": "shine",
+      "example_en": "The sun will shine brightly tomorrow.",
+      "word_tr": "parlamak",
+      "example_tr": "Yarın güneş parlak parlayacak."
+    },
+    {
+      "word_en": "shade",
+      "example_en": "They sat in the shade of the tree to escape the heat.",
+      "word_tr": "gölge",
+      "example_tr": "Isıdan kaçmak için ağacın gölgesine oturdular."
+    },
+    {
+      "word_en": "acid rain",
+      "example_en": "Acid rain can damage buildings and vegetation.",
+      "word_tr": "asit yağmuru",
+      "example_tr": "Asit yağmuru binalara ve bitkilere zarar verebilir."
+    },
+    {
+      "word_en": "damp",
+      "example_en": "The clothes felt damp after being left out in the rain.",
+      "word_tr": "rutubetli",
+      "example_tr": "Kıyafetler yağmurda bırakıldıktan sonra nemli hissetti."
+    },
+    {
+      "word_en": "snowstorm",
+      "example_en": "The snowstorm brought heavy snowfall.",
+      "word_tr": "kar fırtınası",
+      "example_tr": "Kar fırtınası şiddetli kar yağışı getirdi."
+    },
+    {
+      "word_en": "icy",
+      "example_en": "The road was icy after the snowstorm.",
+      "word_tr": "buzlu",
+      "example_tr": "Kar fırtınasından sonra yol buzlu hale geldi."
+    },
+    {
+      "word_en": "shine",
+      "example_en": "The sun will shine brightly tomorrow.",
+      "word_tr": "parlamak",
+      "example_tr": "Yarın güneş parlak parlayacak."
+    },
+    {
+      "word_en": "snowstorm",
+      "example_en": "The snowstorm brought heavy snowfall.",
+      "word_tr": "kar fırtınası",
+      "example_tr": "Kar fırtınası şiddetli kar yağışı getirdi."
+    },
+    {
+      "word_en": "windstorm",
+      "example_en": "The windstorm knocked down trees and power lines.",
+      "word_tr": "fırtına",
+      "example_tr": "Fırtına ağaçları ve elektrik tellerini devirdi."
+    },
+    {
+      "word_en": "heat wave",
+      "example_en": "The heat wave caused temperatures to soar.",
+      "word_tr": "ısı dalgası",
+      "example_tr": "Isı dalgası sıcaklıkların yükselmesine neden oldu."
+    },
+    {
+      "word_en": "sunshine",
+      "example_en": "They enjoyed the warm sunshine on the beach.",
+      "word_tr": "güneş ışığı",
+      "example_tr": "Plajda sıcak güneş ışığının keyfini çıkardılar."
+    },
+    {
+      "word_en": "rainfall",
+      "example_en": "The rainfall was heavy last night.",
+      "word_tr": "yağış",
+      "example_tr": "Dün gece yağış şiddetliydi."
+    },
+    {
+      "word_en": "snowflake",
+      "example_en": "Each snowflake is unique.",
+      "word_tr": "kar tanesi",
+      "example_tr": "Her kar tanesi benzersizdir."
+    },
+    {
+      "word_en": "frozen",
+      "example_en": "The lake was frozen solid in the winter.",
+      "word_tr": "donmuş",
+      "example_tr": "Kışın göl tamamen donmuştu."
+    },
+    {
+      "word_en": "filth",
+      "example_en": "The streets were covered in filth after the rain.",
+      "word_tr": "pislik",
+      "example_tr": "Yağmurdan sonra sokaklar pislik içinde kaldı."
+    },
+    {
+      "word_en": "thunder",
+      "example_en": "The thunder rumbled in the distance.",
+      "word_tr": "gök gürültüsü",
+      "example_tr": "Gök gürültüsü uzaklarda gürledi."
+    }
+  ]
+}
