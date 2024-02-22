@@ -1,1 +1,209 @@
+{
+  "words": [
+    {
+      "word_en": "penguin",
+      "word_tr": "penguen",
+      "example_en": "The penguin waddled across the ice.",
+      "example_tr": "Penguen buz üzerinde yürüdü."
+    },
+    {
+      "word_en": "mosquito",
+      "word_tr": "sivrisinek",
+      "example_en": "She swatted the mosquito away.",
+      "example_tr": "Sivrisineği uzaklaştırdı."
+    },
+    {
+      "word_en": "firefly",
+      "word_tr": "ateşböceği",
+      "example_en": "They watched the firefly light up the night.",
+      "example_tr": "Geceyi aydınlatan ateşböceğini izlediler."
+    },
+    {
+      "word_en": "camel",
+      "word_tr": "deve",
+      "example_en": "The camel walked across the desert.",
+      "example_tr": "Deve çölün üzerinden yürüdü."
+    },
+    {
+      "word_en": "beetle",
+      "word_tr": "böcek",
+      "example_en": "She found a colorful beetle in the garden.",
+      "example_tr": "Bahçede renkli bir böcek buldu."
+    },
+    {
+      "word_en": "tiger",
+      "word_tr": "kaplan",
+      "example_en": "They spotted a tiger in the jungle.",
+      "example_tr": "Ormanda bir kaplan gördüler."
+    },
+    {
+      "word_en": "fox",
+      "word_tr": "tilki",
+      "example_en": "The fox darted into the bushes.",
+      "example_tr": "Tilki çalılıklara daldı."
+    },
+    {
+      "word_en": "wool",
+      "word_tr": "yün",
+      "example_en": "She knitted a sweater from wool.",
+      "example_tr": "Yünden bir kazak ördü."
+    },
+    {
+      "word_en": "egg",
+      "word_tr": "yumurta",
+      "example_en": "She collected eggs from the chicken coop.",
+      "example_tr": "Tavuk kümesinden yumurtaları topladı."
+    },
+    {
+      "word_en": "hunt",
+      "word_tr": "avlamak",
+      "example_en": "The lion went out to hunt for food.",
+      "example_tr": "Aslan yiyecek avlamak için dışarı çıktı."
+    },
+    {
+      "word_en": "insect",
+      "word_tr": "böcek",
+      "example_en": "The insect buzzed around the room.",
+      "example_tr": "Böcek oda etrafında uçuştu."
+    },
+    {
+      "word_en": "type",
+      "word_tr": "tür",
+      "example_en": "They observed a new type of butterfly.",
+      "example_tr": "Yeni bir kelebek türünü gözlemlediler."
+    },
+    {
+      "word_en": "deer",
+      "word_tr": "geyik",
+      "example_en": "They saw a deer in the forest.",
+      "example_tr": "Ormanda bir geyik gördüler."
+    },
+    {
+      "word_en": "spider",
+      "word_tr": "örümcek",
+      "example_en": "She watched the spider spin its web.",
+      "example_tr": "Örümceğin ağını ördüğünü izledi."
+    },
+    {
+      "word_en": "fly",
+      "word_tr": "sinek",
+      "example_en": "The fly buzzed around the room.",
+      "example_tr": "Sinek oda etrafında uçuştu."
+    },
+    {
+      "word_en": "ride",
+      "word_tr": "binmek",
+      "example_en": "They decided to ride the elephant.",
+      "example_tr": "Filin üstüne binmeye karar verdiler."
+    },
+    {
+      "word_en": "beetle",
+      "word_tr": "böcek",
+      "example_en": "She collected beetles for her collection.",
+      "example_tr": "Koleksiyonu için böcekler topladı."
+    },
+    {
+      "word_en": "kind",
+      "word_tr": "tür",
+      "example_en": "There are many different kinds of birds.",
+      "example_tr": "Birçok farklı türde kuş var."
+    },
+    {
+      "word_en": "whale",
+      "word_tr": "balina",
+      "example_en": "They saw a whale breach in the ocean.",
+      "example_tr": "Okyanusta bir balina gördüler."
+    },
+    {
+      "word_en": "shark",
+      "word_tr": "köpekbalığı",
+      "example_en": "They spotted a shark swimming near the shore.",
+      "example_tr": "Kıyıya yakın yüzen bir köpekbalığı gördüler."
+    },
+    {
+      "word_en": "cockroach",
+      "word_tr": "hamam böceği",
+      "example_en": "She screamed when she saw a cockroach in the kitchen.",
+      "example_tr": "Mutfakta bir hamam böceği gördüğünde bağırdı."
+    },
+    {
+      "word_en": "eagle",
+      "word_tr": "kartal",
+      "example_en": "They watched the eagle soar through the sky.",
+      "example_tr": "Kartalın gökyüzünde süzüldüğünü izlediler."
+    },
+    {
+      "word_en": "lamb",
+      "word_tr": "kuzu",
+      "example_en": "The lamb frolicked in the field.",
+      "example_tr": "Kuzu tarlada zıpladı."
+    },
+    {
+      "word_en": "wild",
+      "word_tr": "vahşi",
+      "example_en": "They observed wild animals in their natural habitat.",
+      "example_tr": "Doğal ortamlarında vahşi hayvanları gözlemlediler."
+    },
+    {
+      "word_en": "hamster",
+      "word_tr": "hamster",
+      "example_en": "She watched her hamster run on its wheel.",
+      "example_tr": "Hamster'ının tekerlekte koştuğunu izledi."
+    },
+    {
+      "word_en": "web",
+      "word_tr": "ağ",
+      "example_en": "The spider spun a web in the corner.",
+      "example_tr": "Örümcek köşede bir ağ ördü."
+    },
+    {
+      "word_en": "zoo",
+      "word_tr": "hayvanat bahçesi",
+      "example_en": "They visited the zoo to see the animals.",
+      "example_tr": "Hayvanları görmek için hayvanat bahçesini ziyaret ettiler."
+    },
+    {
+      "word_en": "butterfly",
+      "word_tr": "kelebek",
+      "example_en": "The butterfly fluttered among the flowers.",
+      "example_tr": "Kelebek çiçekler arasında uçuştu."
+    },
+    {
+      "word_en": "tail",
+      "word_tr": "kuyruk",
+      "example_en": "The cat flicked its tail.",
+      "example_tr": "Kedi kuyruğunu salladı."
+    },
+    {
+      "word_en": "penguin",
+      "word_tr": "penguen",
+      "example_en": "They saw a penguin slide on the ice.",
+      "example_tr": "Buzu kayan bir penguen gördüler."
+    },
+    {
+      "word_en": "ladybug",
+      "word_tr": "uğur böceği",
+      "example_en": "She found a ladybug in the garden.",
+      "example_tr": "Bahçede bir uğur böceği buldu."
+    },
+    {
+      "word_en": "hunt",
+      "word_tr": "av",
+      "example_en": "The hunt for the lost dog lasted all day.",
+      "example_tr": "Kayıp köpek avı tüm gün sürdü."
+    },
+    {
+      "word_en": "kind",
+      "word_tr": "nazik",
+      "example_en": "She's always been very kind to animals.",
+      "example_tr": "Hayvanlara her zaman çok nazik olmuştur."
+    },
+    {
+      "word_en": "spider",
+      "word_tr": "örümcek",
+      "example_en": "She's terrified of spiders.",
+      "example_tr": "Örümceklerden korkuyor."
+    }
+  ]
+}
 
