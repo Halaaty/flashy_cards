@@ -1,1 +1,179 @@
+{
+  "words": [
+    {
+      "word_en": "hearing",
+      "example_en": "His hearing has improved after the surgery.",
+      "word_tr": "işitme",
+      "example_tr": "Ameliyattan sonra işitmesi düzeldi."
+    },
+    {
+      "word_en": "armpit",
+      "example_en": "She applied deodorant to her armpit.",
+      "word_tr": "koltukaltı",
+      "example_tr": "Koltukaltına deodorant sürdü."
+    },
+    {
+      "word_en": "taste",
+      "example_en": "This soup has a strange taste.",
+      "word_tr": "tat",
+      "example_tr": "Bu çorbanın tuhaf bir tadı var."
+    },
+    {
+      "word_en": "thumb",
+      "example_en": "He accidentally hit his thumb with a hammer.",
+      "word_tr": "başparmak",
+      "example_tr": "Kazara çekiçle başparmağını vurdu."
+    },
+    {
+      "word_en": "toenail",
+      "example_en": "She painted her toenails red.",
+      "word_tr": "ayak tırnağı",
+      "example_tr": "Ayak tırnaklarını kırmızıya boyadı."
+    },
+    {
+      "word_en": "sight",
+      "example_en": "The sight of the mountains took her breath away.",
+      "word_tr": "görme",
+      "example_tr": "Dağların manzarası nefesini kesti."
+    },
+    {
+      "word_en": "temple",
+      "example_en": "He rubbed his temple to ease the headache.",
+      "word_tr": "şakak",
+      "example_tr": "Baş ağrısını hafifletmek için şakaklarını ovdu."
+    },
+    {
+      "word_en": "waist",
+      "example_en": "She tied the belt around her waist.",
+      "word_tr": "bel",
+      "example_tr": "Kemerini beline bağladı."
+    },
+    {
+      "word_en": "joint",
+      "example_en": "He injured his knee joint while playing football.",
+      "word_tr": "eklem",
+      "example_tr": "Futbol oynarken diz eklemini incitti."
+    },
+    {
+      "word_en": "circulation",
+      "example_en": "Exercise improves blood circulation.",
+      "word_tr": "dolaşım",
+      "example_tr": "Egzersiz kan dolaşımını iyileştirir."
+    },
+    {
+      "word_en": "hormone",
+      "example_en": "Hormonal changes can affect mood.",
+      "word_tr": "hormon",
+      "example_tr": "Hormonal değişiklikler ruh halini etkileyebilir."
+    },
+    {
+      "word_en": "nerve",
+      "example_en": "The dentist hit a nerve while drilling.",
+      "word_tr": "sinir",
+      "example_tr": "Dişçi matkapla delerken bir sinire dokundu."
+    },
+    {
+      "word_en": "sense",
+      "example_en": "She lost her sense of smell after the accident.",
+      "word_tr": "duyu",
+      "example_tr": "Kazadan sonra koku duyusu kayboldu."
+    },
+    {
+      "word_en": "rib",
+      "example_en": "He felt pain in his rib after the fall.",
+      "word_tr": "kaburga",
+      "example_tr": "Düşmeden sonra kaburgasında ağrı hissetti."
+    },
+    {
+      "word_en": "to catch (a) cold",
+      "example_en": "She caught a cold after getting soaked in the rain.",
+      "word_tr": "üşümek",
+      "example_tr": "Yağmurda ıslanınca üşüdü."
+    },
+    {
+      "word_en": "breathe",
+      "example_en": "Close your eyes and take a deep breath.",
+      "word_tr": "nefes almak",
+      "example_tr": "Gözlerini kapat ve derin bir nefes al."
+    },
+    {
+      "word_en": "smell",
+      "example_en": "The smell of flowers filled the room.",
+      "word_tr": "koku",
+      "example_tr": "Oda çiçeklerin kokusuyla doldu."
+    },
+    {
+      "word_en": "joint",
+      "example_en": "He injured his knee joint while playing football.",
+      "word_tr": "eklem",
+      "example_tr": "Futbol oynarken diz eklemini incitti."
+    },
+    {
+      "word_en": "sole",
+      "example_en": "The sole of her foot was sore after the long walk.",
+      "word_tr": "taban",
+      "example_tr": "Uzun yürüyüşten sonra ayak tabanı ağrıyordu."
+    },
+    {
+      "word_en": "fingernail",
+      "example_en": "She painted her fingernails pink.",
+      "word_tr": "tırnak",
+      "example_tr": "Tırnaklarını pembe boyadı."
+    },
+    {
+      "word_en": "gesture",
+      "example_en": "He made a gesture of apology.",
+      "word_tr": "jest",
+      "example_tr": "Özür dileme jesti yaptı."
+    },
+    {
+      "word_en": "blood sugar",
+      "example_en": "He checked his blood sugar level after eating.",
+      "word_tr": "kan şekeri",
+      "example_tr": "Yemekten sonra kan şekerini kontrol etti."
+    },
+    {
+      "word_en": "kidney stone",
+      "example_en": "The pain was caused by a kidney stone.",
+      "word_tr": "böbrek taşı",
+      "example_tr": "Ağrı, bir böbrek taşı tarafından tetiklendi."
+    },
+    {
+      "word_en": "touch",
+      "example_en": "The touch of her hand was comforting.",
+      "word_tr": "dokunuş",
+      "example_tr": "Onun elinin dokunuşu rahatlatıcıydı."
+    },
+    {
+      "word_en": "blood sugar",
+      "example_en": "He checked his blood sugar level after eating.",
+      "word_tr": "kan şekeri",
+      "example_tr": "Yemekten sonra kan şekerini kontrol etti."
+    },
+    {
+      "word_en": "eyeball",
+      "example_en": "The optometrist examined her eyeball.",
+      "word_tr": "göz küresi",
+      "example_tr": "Göz doktoru göz küresini muayene etti."
+    },
+    {
+      "word_en": "gesture",
+      "example_en": "He made a gesture of apology.",
+      "word_tr": "jest",
+      "example_tr": "Özür dileme jesti yaptı."
+    },
+    {
+      "word_en": "tissue",
+      "example_en": "The tissue around the wound was swollen.",
+      "word_tr": "doku",
+      "example_tr": "Yaranın etrafındaki doku şişmişti."
+    },
+    {
+      "word_en": "rib",
+      "example_en": "He felt pain in his rib after the fall.",
+      "word_tr": "kaburga",
+      "example_tr": "Düşmeden sonra kaburgasında ağrı hissetti."
+    }
+  ]
+}
 
