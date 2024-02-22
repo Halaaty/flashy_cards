@@ -1,1 +1,173 @@
+{
+  "words": [
+    {
+      "word_en": "disease",
+      "word_tr": "hastalık",
+      "example_en": "Heart disease is a common health problem.",
+      "example_tr": "Kalp hastalığı yaygın bir sağlık sorunudur."
+    },
+    {
+      "word_en": "life",
+      "word_tr": "hayat",
+      "example_en": "Regular exercise can improve your quality of life.",
+      "example_tr": "Düzenli egzersiz hayat kalitenizi artırabilir."
+    },
+    {
+      "word_en": "stomach ache",
+      "word_tr": "karın ağrısı",
+      "example_en": "She took some medicine for her stomach ache.",
+      "example_tr": "Karın ağrısı için biraz ilaç aldı."
+    },
+    {
+      "word_en": "energy",
+      "word_tr": "enerji",
+      "example_en": "A good night's sleep can boost your energy levels.",
+      "example_tr": "İyi bir gece uykusu enerji seviyelerinizi artırabilir."
+    },
+    {
+      "word_en": "flu",
+      "word_tr": "grip",
+      "example_en": "He got the flu and had to stay home.",
+      "example_tr": "Gribi oldu ve evde kalmak zorunda kaldı."
+    },
+    {
+      "word_en": "headache",
+      "word_tr": "baş ağrısı",
+      "example_en": "She took some painkillers for her headache.",
+      "example_tr": "Baş ağrısı için bazı ağrı kesiciler aldı."
+    },
+    {
+      "word_en": "habit",
+      "word_tr": "alışkanlık",
+      "example_en": "Exercising regularly is a good habit.",
+      "example_tr": "Düzenli egzersiz iyi bir alışkanlıktır."
+    },
+    {
+      "word_en": "backache",
+      "word_tr": "sırt ağrısı",
+      "example_en": "His backache got worse after lifting heavy boxes.",
+      "example_tr": "Ağır kutuları kaldırdıktan sonra sırt ağrısı daha da kötüleşti."
+    },
+    {
+      "word_en": "toothache",
+      "word_tr": "diş ağrısı",
+      "example_en": "She went to the dentist because of her toothache.",
+      "example_tr": "Diş ağrısı nedeniyle dişçiye gitti."
+    },
+    {
+      "word_en": "effect",
+      "word_tr": "etki",
+      "example_en": "The medicine had some side effects.",
+      "example_tr": "İlacın bazı yan etkileri vardı."
+    },
+    {
+      "word_en": "illness",
+      "word_tr": "hastalık",
+      "example_en": "He recovered from his illness quickly.",
+      "example_tr": "Hastalığından hızlı bir şekilde iyileşti."
+    },
+    {
+      "word_en": "death",
+      "word_tr": "ölüm",
+      "example_en": "Death is a natural part of life.",
+      "example_tr": "Ölüm hayatın doğal bir parçasıdır."
+    },
+    {
+      "word_en": "diet",
+      "word_tr": "diyet",
+      "example_en": "She follows a strict diet to lose weight.",
+      "example_tr": "Kilo vermek için sıkı bir diyet takip ediyor."
+    },
+    {
+      "word_en": "earache",
+      "word_tr": "kulak ağrısı",
+      "example_en": "She had an earache and couldn't hear properly.",
+      "example_tr": "Kulak ağrısı vardı ve düzgün duyamıyordu."
+    },
+    {
+      "word_en": "fever",
+      "word_tr": "ateş",
+      "example_en": "His fever went down after taking medicine.",
+      "example_tr": "İlacı aldıktan sonra ateşi düştü."
+    },
+    {
+      "word_en": "die",
+      "word_tr": "öl",
+      "example_en": "All living things eventually die.",
+      "example_tr": "Tüm canlılar sonunda ölür."
+    },
+    {
+      "word_en": "medication",
+      "word_tr": "ilaç",
+      "example_en": "She took some medication to relieve her symptoms.",
+      "example_tr": "Belirtilerini hafifletmek için biraz ilaç aldı."
+    },
+    {
+      "word_en": "cure",
+      "word_tr": "tedavi",
+      "example_en": "There is still no cure for the common cold.",
+      "example_tr": "Grip için hala bir tedavi yok."
+    },
+    {
+      "word_en": "sneeze",
+      "word_tr": "hapşırmak",
+      "example_en": "He couldn't stop sneezing because of his allergies.",
+      "example_tr": "Alerjileri nedeniyle hapşırıp duramıyordu."
+    },
+    {
+      "word_en": "cold",
+      "word_tr": "soğuk",
+      "example_en": "She caught a cold after being out in the rain.",
+      "example_tr": "Yağmurda dışarıda kaldıktan sonra bir soğuk algınlığına yakalandı."
+    },
+    {
+      "word_en": "live",
+      "word_tr": "yaşamak",
+      "example_en": "He chose to live a healthier lifestyle.",
+      "example_tr": "Daha sağlıklı bir yaşam tarzı benimsemeye karar verdi."
+    },
+    {
+      "word_en": "leper",
+      "word_tr": "cüzzamlı",
+      "example_en": "In ancient times, lepers were often isolated from society.",
+      "example_tr": "Eski zamanlarda, cüzzamlılar genellikle toplumdan izole edilirdi."
+    },
+    {
+      "word_en": "need",
+      "word_tr": "ihtiyaç",
+      "example_en": "She felt the need to rest after a long day at work.",
+      "example_tr": "Uzun bir iş gününden sonra dinlenme ihtiyacı hissetti."
+    },
+    {
+      "word_en": "rest",
+      "word_tr": "dinlenme",
+      "example_en": "He's taking a break to rest and recharge.",
+      "example_tr": "Dinlenmek ve enerji depolamak için ara veriyor."
+    },
+    {
+      "word_en": "patient",
+      "word_tr": "hasta",
+      "example_en": "The hospital has many patients with various conditions.",
+      "example_tr": "Hastanede çeşitli durumlara sahip birçok hasta var."
+    },
+    {
+      "word_en": "cough",
+      "word_tr": "öksürük",
+      "example_en": "His persistent cough kept him awake at night.",
+      "example_tr": "Sürekli öksürüğü gece uyuyamamasına neden oldu."
+    },
+    {
+      "word_en": "sore throat",
+      "word_tr": "boğaz ağrısı",
+      "example_en": "She drank some hot tea to soothe her sore throat.",
+      "example_tr": "Boğaz ağrısını hafifletmek için sıcak çay içti."
+    },
+    {
+      "word_en": "pill",
+      "word_tr": "hap",
+      "example_en": "He took a pill to relieve his headache.",
+      "example_tr": "Baş ağrısını hafifletmek için bir hap aldı."
+    }
+  ]
+}
 
