@@ -1,1 +1,221 @@
+{
+  "words": [
+    {
+      "word_en": "partner",
+      "word_tr": "ortak",
+      "example_en": "She worked with her partner on the group project.",
+      "example_tr": "Grup projesinde ortağıyla birlikte çalıştı."
+    },
+    {
+      "word_en": "semester",
+      "word_tr": "dönem",
+      "example_en": "She's looking forward to the next semester.",
+      "example_tr": "Sonraki döneme dört gözle bakıyor."
+    },
+    {
+      "word_en": "lesson",
+      "word_tr": "ders",
+      "example_en": "The lesson focused on grammar.",
+      "example_tr": "Ders dilbilgisi üzerinde yoğunlaştı."
+    },
+    {
+      "word_en": "problem",
+      "word_tr": "sorun",
+      "example_en": "He encountered a problem with his assignment.",
+      "example_tr": "Ödeviyle ilgili bir sorunla karşılaştı."
+    },
+    {
+      "word_en": "activity",
+      "word_tr": "etkinlik",
+      "example_en": "They organized a team-building activity.",
+      "example_tr": "Takım oluşturma etkinliği düzenlediler."
+    },
+    {
+      "word_en": "subject",
+      "word_tr": "konu",
+      "example_en": "The subject of today's lesson is history.",
+      "example_tr": "Bugünkü dersin konusu tarih."
+    },
+    {
+      "word_en": "classmate",
+      "word_tr": "sınıf arkadaşı",
+      "example_en": "She asked her classmate for notes.",
+      "example_tr": "Sınıf arkadaşından not istedi."
+    },
+    {
+      "word_en": "dictionary",
+      "word_tr": "sözlük",
+      "example_en": "She used an English-Turkish dictionary.",
+      "example_tr": "İngilizce-Türkçe bir sözlük kullandı."
+    },
+    {
+      "word_en": "project",
+      "word_tr": "proje",
+      "example_en": "She presented her science project last week.",
+      "example_tr": "Geçen hafta bilim projesini sundu."
+    },
+    {
+      "word_en": "test",
+      "word_tr": "test",
+      "example_en": "The test covered multiple chapters.",
+      "example_tr": "Test birkaç bölümü kapsadı."
+    },
+    {
+      "word_en": "major",
+      "word_tr": "ana dal",
+      "example_en": "She changed her major to computer science.",
+      "example_tr": "Ana dalını bilgisayar bilimine değiştirdi."
+    },
+    {
+      "word_en": "grade",
+      "word_tr": "not",
+      "example_en": "She received a good grade on her essay.",
+      "example_tr": "Denemesinde iyi bir not aldı."
+    },
+    {
+      "word_en": "level",
+      "word_tr": "seviye",
+      "example_en": "She's taking a course at an advanced level.",
+      "example_tr": "Gelişmiş bir seviyede bir kurs alıyor."
+    },
+    {
+      "word_en": "to solve",
+      "word_tr": "çözmek",
+      "example_en": "They worked together to solve the problem.",
+      "example_tr": "Sorunu çözmek için birlikte çalıştılar."
+    },
+    {
+      "word_en": "practice",
+      "word_tr": "pratik",
+      "example_en": "He needs more practice to improve.",
+      "example_tr": "Daha iyi olmak için daha fazla pratik yapması gerekiyor."
+    },
+    {
+      "word_en": "exam",
+      "word_tr": "sınav",
+      "example_en": "She passed her final exam with flying colors.",
+      "example_tr": "Son sınavını başarıyla geçti."
+    },
+    {
+      "word_en": "absent",
+      "word_tr": "katılmamak",
+      "example_en": "He was absent from class yesterday.",
+      "example_tr": "Dün derse katılmadı."
+    },
+    {
+      "word_en": "page",
+      "word_tr": "sayfa",
+      "example_en": "She turned the page of her textbook.",
+      "example_tr": "Ders kitabının sayfasını çevirdi."
+    },
+    {
+      "word_en": "focus",
+      "word_tr": "odaklanmak",
+      "example_en": "She needed to focus on her research.",
+      "example_tr": "Araştırmasına odaklanması gerekiyordu."
+    },
+    {
+      "word_en": "fail",
+      "word_tr": "başarısız olmak",
+      "example_en": "He didn't want to fail his experiment.",
+      "example_tr": "Deneyinde başarısız olmak istemiyordu."
+    },
+    {
+      "word_en": "summary",
+      "word_tr": "özet",
+      "example_en": "She wrote a summary of the book.",
+      "example_tr": "Kitabın özetini yazdı."
+    },
+    {
+      "word_en": "list",
+      "word_tr": "liste",
+      "example_en": "She made a list of references for her research.",
+      "example_tr": "Araştırması için kaynaklar listesi yaptı."
+    },
+    {
+      "word_en": "pass",
+      "word_tr": "geçmek",
+      "example_en": "She passed her research proposal defense.",
+      "example_tr": "Araştırma teklifi savunmasından geçti."
+    },
+    {
+      "word_en": "article",
+      "word_tr": "makale",
+      "example_en": "She published an article in a scientific journal.",
+      "example_tr": "Bilimsel bir dergide makale yayınladı."
+    },
+    {
+      "word_en": "note",
+      "word_tr": "not",
+      "example_en": "She took notes during the research seminar.",
+      "example_tr": "Araştırma semineri sırasında notlar aldı."
+    },
+    {
+      "word_en": "cafeteria",
+      "word_tr": "kafeterya",
+      "example_en": "They discussed their research over lunch in the cafeteria.",
+      "example_tr": "Araştırmalarını kafeteryada öğle yemeği sırasında tartıştılar."
+    },
+    {
+      "word_en": "junior",
+      "word_tr": "üçüncü sınıf",
+      "example_en": "She is a junior researcher at the university.",
+      "example_tr": "Üniversitede üçüncü sınıf bir araştırmacı."
+    },
+    {
+      "word_en": "line",
+      "word_tr": "çizgi",
+      "example_en": "She followed the line of research established by her mentor.",
+      "example_tr": "Mentorunun belirlediği araştırma çizgisini takip etti."
+    },
+    {
+      "word_en": "pass",
+      "word_tr": "geçiş",
+      "example_en": "She made a quick pass through the research findings.",
+      "example_tr": "Araştırma bulgularına hızlı bir geçiş yaptı."
+    },
+    {
+      "word_en": "present",
+      "word_tr": "sunmak",
+      "example_en": "She presented her research at the conference.",
+      "example_tr": "Araştırmasını konferansta sundu."
+    },
+    {
+      "word_en": "freshman",
+      "word_tr": "birinci sınıf",
+      "example_en": "He's a freshman researcher in the lab.",
+      "example_tr": "Laboratuvarda birinci sınıf bir araştırmacı."
+    },
+    {
+      "word_en": "research",
+      "word_tr": "araştırma",
+      "example_en": "She conducted research on climate change.",
+      "example_tr": "İklim değişikliği üzerine araştırma yaptı."
+    },
+    {
+      "word_en": "line",
+      "word_tr": "hat",
+      "example_en": "She drew a line connecting her research to previous studies.",
+      "example_tr": "Araştırmasını önceki çalışmalara bağlayan bir hat çizdi."
+    },
+    {
+      "word_en": "sophomore",
+      "word_tr": "ikinci sınıf",
+      "example_en": "She's a sophomore researcher in the department.",
+      "example_tr": "Bölümde ikinci sınıf bir araştırmacı."
+    },
+    {
+      "word_en": "senior",
+      "word_tr": "son sınıf",
+      "example_en": "He's a senior researcher with years of experience.",
+      "example_tr": "Yılların deneyimine sahip bir son sınıf araştırmacı."
+    },
+    {
+      "word_en": "whiteboard",
+      "word_tr": "beyaz tahta",
+      "example_en": "She used the whiteboard to illustrate her research findings.",
+      "example_tr": "Araştırma bulgularını açıklamak için beyaz tahtayı kullandı."
+    }
+  ]
+}
 
