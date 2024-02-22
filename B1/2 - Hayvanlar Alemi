@@ -1,1 +1,192 @@
+{
+  "words": [
+    {
+      "word_en": "octopus",
+      "word_tr": "ahtapot",
+      "example_en": "The octopus can change its color to blend with its surroundings.",
+      "example_tr": "Ahtapot, çevresine uyum sağlamak için rengini değiştirebilir."
+    },
+    {
+      "word_en": "crow",
+      "word_tr": "karga",
+      "example_en": "The crow cawed loudly from the tree branch.",
+      "example_tr": "Karga, ağaç dalından yüksek sesle öttü."
+    },
+    {
+      "word_en": "gorilla",
+      "word_tr": "goril",
+      "example_en": "The gorilla beat its chest in a display of dominance.",
+      "example_tr": "Goril, üstünlüğünü göstermek için göğsünü dövdü."
+    },
+    {
+      "word_en": "rooster",
+      "word_tr": "horoz",
+      "example_en": "The rooster crowed at the break of dawn.",
+      "example_tr": "Horoz, şafak sökmeden önce öttü."
+    },
+    {
+      "word_en": "guinea pig",
+      "word_tr": "deneme tahtası",
+      "example_en": "The new software update served as a guinea pig for potential bugs.",
+      "example_tr": "Yeni yazılım güncellemesi, olası hatalar için deneme tahtası olarak hizmet verdi."
+    },
+    {
+      "word_en": "raccoon",
+      "word_tr": "rakun",
+      "example_en": "The raccoon rummaged through the trash bin for food.",
+      "example_tr": "Rakun, yiyecek bulmak için çöp kutusunu karıştırdı."
+    },
+    {
+      "word_en": "zebra",
+      "word_tr": "zebra",
+      "example_en": "The zebra's stripes provide camouflage in the tall grass.",
+      "example_tr": "Zebranın çizgileri, uzun çimenlerde kamuflaj sağlar."
+    },
+    {
+      "word_en": "swan",
+      "word_tr": "kuğu",
+      "example_en": "The swan glided gracefully across the calm lake.",
+      "example_tr": "Kuğu, sakin gölün üzerinde zarifçe süzüldü."
+    },
+    {
+      "word_en": "snail",
+      "word_tr": "salyangoz",
+      "example_en": "The snail moved slowly across the garden path.",
+      "example_tr": "Salyangoz, bahçe yolunun üzerinde yavaşça ilerledi."
+    },
+    {
+      "word_en": "lizard",
+      "word_tr": "kertenkele",
+      "example_en": "The lizard basked in the warmth of the sun on the rock.",
+      "example_tr": "Kertenkele, kaya üzerinde güneşin sıcağında güneşlendi."
+    },
+    {
+      "word_en": "kangaroo",
+      "word_tr": "kanguru",
+      "example_en": "The kangaroo bounded effortlessly across the grasslands.",
+      "example_tr": "Kanguru, çimenliklerin üzerinde zahmetsizce sıçradı."
+    },
+    {
+      "word_en": "turkey",
+      "word_tr": "hindi",
+      "example_en": "The turkey strutted proudly around the farmyard.",
+      "example_tr": "Hindi, çiftlik avlusunda gururla dolaştı."
+    },
+    {
+      "word_en": "gorilla",
+      "word_tr": "goril",
+      "example_en": "The gorilla swung from vine to vine in the jungle.",
+      "example_tr": "Goril, ormanda sarmaşıktan sarmaşığa sallandı."
+    },
+    {
+      "word_en": "cricket",
+      "word_tr": "kriket",
+      "example_en": "The sound of cricket chirping filled the evening air.",
+      "example_tr": "Kriketin cıvıltısı, akşam havasını doldurdu."
+    },
+    {
+      "word_en": "porcupine",
+      "word_tr": "kirpi",
+      "example_en": "The porcupine raised its quills defensively.",
+      "example_tr": "Kirpi, dikenlerini savunma amaçlı kaldırdı."
+    },
+    {
+      "word_en": "snake",
+      "word_tr": "yılan",
+      "example_en": "The snake slithered silently through the grass.",
+      "example_tr": "Yılan, sessizce çimenlerin arasından kaydı."
+    },
+    {
+      "word_en": "trap",
+      "word_tr": "tuzağa düşürmek",
+      "example_en": "They set up a trap to catch the mice in the barn.",
+      "example_tr": "Ahırda fareleri yakalamak için bir tuzak kurdular."
+    },
+    {
+      "word_en": "lobster",
+      "word_tr": "istakoz",
+      "example_en": "The lobster scuttled across the ocean floor.",
+      "example_tr": "Istakoz, okyanus tabanında hızla ilerledi."
+    },
+    {
+      "word_en": "poison",
+      "word_tr": "zehir",
+      "example_en": "The poison dart frog is highly toxic.",
+      "example_tr": "Zehirli kurbağa çok toksiktir."
+    },
+    {
+      "word_en": "creature",
+      "word_tr": "yaratık",
+      "example_en": "They encountered a strange creature in the depths of the forest.",
+      "example_tr": "Ormanın derinliklerinde garip bir yaratıkla karşılaştılar."
+    },
+    {
+      "word_en": "giraffe",
+      "word_tr": "zürafa",
+      "example_en": "The giraffe stretched its long neck to reach the leaves.",
+      "example_tr": "Zürafa, yapraklara ulaşmak için uzun boyununu uzattı."
+    },
+    {
+      "word_en": "bite",
+      "word_tr": "ısırma",
+      "example_en": "He felt a sharp bite on his ankle.",
+      "example_tr": "Ayak bileğinde keskin bir ısırık hissetti."
+    },
+    {
+      "word_en": "bull shark",
+      "word_tr": "köpekbalığı",
+      "example_en": "The bull shark patrols the coastal waters in search of prey.",
+      "example_tr": "Köpekbalığı, av arayışında sahil sularında devriye geziyor."
+    },
+  "words": [
+    {
+      "word_en": "ant",
+      "word_tr": "karınca",
+      "example_en": "The ants marched in a line towards the picnic blanket.",
+      "example_tr": "Karıncalar piknik örtüsüne doğru bir hat oluşturarak yürüdü."
+    },
+    {
+      "word_en": "chimpanzee",
+      "word_tr": "şempanze",
+      "example_en": "The chimpanzee swung from tree to tree in the jungle.",
+      "example_tr": "Şempanze, ormanda ağaçtan ağaca sallandı."
+    },
+    {
+      "word_en": "wolf",
+      "word_tr": "kurt",
+      "example_en": "The wolf howled at the full moon.",
+      "example_tr": "Kurt, dolunayda uludu."
+    },
+    {
+      "word_en": "goldfish",
+      "word_tr": "akvaryum balığı",
+      "example_en": "The goldfish swam gracefully in its bowl.",
+      "example_tr": "Akvaryum balığı, kâsesinde zarifçe yüzdü."
+    },
+    {
+      "word_en": "rat",
+      "word_tr": "fare",
+      "example_en": "The rat scurried along the edge of the alley.",
+      "example_tr": "Fare, arka sokak kenarında hızla ilerledi."
+    },
+    {
+      "word_en": "turtle",
+      "word_tr": "kaplumbağa",
+      "example_en": "The turtle basked in the warmth of the sun on the rock.",
+      "example_tr": "Kaplumbağa, kaya üzerinde güneşin sıcağında güneşlendi."
+    },
+    {
+      "word_en": "bull",
+      "word_tr": "boğa",
+      "example_en": "The bull pawed the ground before charging.",
+      "example_tr": "Boğa, saldırmadan önce toprağı pençeledi."
+    },
+    {
+      "word_en": "alligator",
+      "word_tr": "timsah",
+      "example_en": "The alligator lurked in the murky waters of the swamp.",
+      "example_tr": "Timsah, bataklığın kararmış sularında pusuya yattı."
+    }
+  ]
+}
 
