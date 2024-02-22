@@ -1,1 +1,185 @@
+{
+  "words": [
+    {
+      "word_en": "pop",
+      "word_tr": "pop",
+      "example_en": "Pop music is popular among teenagers.",
+      "example_tr": "Pop müziği gençler arasında popülerdir."
+    },
+    {
+      "word_en": "tour",
+      "word_tr": "turne",
+      "example_en": "The band is going on a world tour.",
+      "example_tr": "Grup dünya turnesine çıkıyor."
+    },
+    {
+      "word_en": "guitarist",
+      "word_tr": "gitarist",
+      "example_en": "She's a talented guitarist.",
+      "example_tr": "O, yetenekli bir gitarist."
+    },
+    {
+      "word_en": "jazz",
+      "word_tr": "caz",
+      "example_en": "They're going to a jazz concert tonight.",
+      "example_tr": "Bu akşam bir caz konserine gidiyorlar."
+    },
+    {
+      "word_en": "painting",
+      "word_tr": "resim",
+      "example_en": "She's an artist who specializes in painting.",
+      "example_tr": "Resim yapmada uzmanlaşmış bir sanatçı."
+    },
+    {
+      "word_en": "instrumental",
+      "word_tr": "enstrümantal",
+      "example_en": "They played an instrumental piece at the event.",
+      "example_tr": "Etkinlikte bir enstrümantal parça çaldılar."
+    },
+    {
+      "word_en": "rock",
+      "word_tr": "rock",
+      "example_en": "She's a fan of rock music.",
+      "example_tr": "Rock müziğinin hayranı."
+    },
+    {
+      "word_en": "concert",
+      "word_tr": "konser",
+      "example_en": "We're going to a concert tonight.",
+      "example_tr": "Bu akşam bir konsere gidiyoruz."
+    },
+    {
+      "word_en": "art",
+      "word_tr": "sanat",
+      "example_en": "Art reflects culture.",
+      "example_tr": "Sanat kültürü yansıtır."
+    },
+    {
+      "word_en": "musician",
+      "word_tr": "müzisyen",
+      "example_en": "He's a talented musician.",
+      "example_tr": "O, yetenekli bir müzisyen."
+    },
+    {
+      "word_en": "voice",
+      "word_tr": "ses",
+      "example_en": "She has a beautiful singing voice.",
+      "example_tr": "Harika bir şarkı söyleme sesi var."
+    },
+    {
+      "word_en": "picture",
+      "word_tr": "resim",
+      "example_en": "I love that picture on the wall.",
+      "example_tr": "Duvarındaki o resmi seviyorum."
+    },
+    {
+      "word_en": "work",
+      "word_tr": "eser",
+      "example_en": "Her latest work received critical acclaim.",
+      "example_tr": "En son eseri eleştirmenlerden övgü aldı."
+    },
+    {
+      "word_en": "hit",
+      "word_tr": "hit",
+      "example_en": "Their new song became an instant hit.",
+      "example_tr": "Yeni şarkıları hemen bir hit haline geldi."
+    },
+    {
+      "word_en": "dancer",
+      "word_tr": "dansçı",
+      "example_en": "She's a professional dancer.",
+      "example_tr": "O, profesyonel bir dansçı."
+    },
+    {
+      "word_en": "painter",
+      "word_tr": "ressam",
+      "example_en": "She's a talented painter.",
+      "example_tr": "O, yetenekli bir ressam."
+    },
+    {
+      "word_en": "novel",
+      "word_tr": "roman",
+      "example_en": "Her latest novel received critical acclaim.",
+      "example_tr": "En son romanı eleştirmenlerden övgü aldı."
+    },
+    {
+      "word_en": "musical",
+      "word_tr": "müzikal",
+      "example_en": "They're going to see a musical tonight.",
+      "example_tr": "Bu akşam bir müzikal izlemeye gidiyorlar."
+    },
+    {
+      "word_en": "loud",
+      "word_tr": "yüksek sesli",
+      "example_en": "The music was too loud for me.",
+      "example_tr": "Müzik benim için çok yüksek sesliydi."
+    },
+    {
+      "word_en": "dance",
+      "word_tr": "dans",
+      "example_en": "They danced all night long.",
+      "example_tr": "Bütün gece dans ettiler."
+    },
+    {
+      "word_en": "story",
+      "word_tr": "hikaye",
+      "example_en": "She wrote a captivating story.",
+      "example_tr": "Etkileyici bir hikaye yazdı."
+    },
+    {
+      "word_en": "song",
+      "word_tr": "şarkı",
+      "example_en": "Their new song became an instant hit.",
+      "example_tr": "Yeni şarkıları hemen bir hit haline geldi."
+    },
+    {
+      "word_en": "drum",
+      "word_tr": "davul",
+      "example_en": "He's learning to play the drum.",
+      "example_tr": "Davul çalmayı öğreniyor."
+    },
+    {
+      "word_en": "poet",
+      "word_tr": "şair",
+      "example_en": "She's a talented poet.",
+      "example_tr": "O, yetenekli bir şair."
+    },
+    {
+      "word_en": "play",
+      "word_tr": "oynamak",
+      "example_en": "They're going to play in the park.",
+      "example_tr": "Parkta oynamaya gidiyorlar."
+    },
+    {
+      "word_en": "player",
+      "word_tr": "oyuncu",
+      "example_en": "He's a skilled soccer player.",
+      "example_tr": "O, yetenekli bir futbol oyuncusu."
+    },
+    {
+      "word_en": "classical",
+      "word_tr": "klasik",
+      "example_en": "She enjoys listening to classical music.",
+      "example_tr": "Klasik müzik dinlemekten hoşlanıyor."
+    },
+    {
+      "word_en": "loudly",
+      "word_tr": "yüksek sesle",
+      "example_en": "She laughed loudly at the joke.",
+      "example_tr": "Fıkraya yüksek sesle güldü."
+    },
+    {
+      "word_en": "sing",
+      "word_tr": "şarkı söylemek",
+      "example_en": "They sang together at the concert.",
+      "example_tr": "Konserde birlikte şarkı söylediler."
+    },
+    {
+      "word_en": "opera",
+      "word_tr": "opera",
+      "example_en": "They're going to see an opera tonight.",
+      "example_tr": "Bu akşam bir opera izlemeye gidiyorlar."
+    }
+  ]
+}
 
