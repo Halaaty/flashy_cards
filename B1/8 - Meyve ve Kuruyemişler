@@ -1,1 +1,143 @@
+{
+  "words": [
+    {
+      "word_en": "fig",
+      "word_tr": "incir",
+      "example_en": "Figs are often enjoyed fresh or dried.",
+      "example_tr": "İncirler genellikle taze veya kuru olarak tüketilir."
+    },
+    {
+      "word_en": "nectarine",
+      "word_tr": "nektarin",
+      "example_en": "The nectarine was juicy and sweet.",
+      "example_tr": "Nektarin sulu ve tatlıydı."
+    },
+    {
+      "word_en": "apricot",
+      "word_tr": "kayısı",
+      "example_en": "Apricots are delicious when eaten ripe.",
+      "example_tr": "Kayısılar olgunken yenildiğinde çok lezzetlidir."
+    },
+    {
+      "word_en": "pistachio",
+      "word_tr": "antep fıstığı",
+      "example_en": "He snacked on a handful of pistachios.",
+      "example_tr": "Bir avuç dolusu antep fıstığı atıştırdı."
+    },
+    {
+      "word_en": "olive",
+      "word_tr": "zeytin",
+      "example_en": "Olives are a staple in Mediterranean cuisine.",
+      "example_tr": "Zeytinler, Akdeniz mutfağının vazgeçilmezidir."
+    },
+    {
+      "word_en": "pomegranate",
+      "word_tr": "nar",
+      "example_en": "The pomegranate seeds added a burst of flavor to the salad.",
+      "example_tr": "Nar taneleri, salataya lezzet patlaması kattı."
+    },
+    {
+      "word_en": "macadamia nut",
+      "word_tr": "makedonya fıstığı",
+      "example_en": "Macadamia nuts are often used in baking.",
+      "example_tr": "Makedonya fıstıkları genellikle fırıncılıkta kullanılır."
+    },
+    {
+      "word_en": "lime",
+      "word_tr": "limon",
+      "example_en": "She squeezed lime juice over the fish.",
+      "example_tr": "Balığın üzerine limon suyu sıktı."
+    },
+    {
+      "word_en": "citrus",
+      "word_tr": "narenciye",
+      "example_en": "Citrus fruits such as oranges and lemons are rich in vitamin C.",
+      "example_tr": "Portakal ve limon gibi narenciyeler, C vitamini açısından zengindir."
+    },
+    {
+      "word_en": "berry",
+      "word_tr": "yemiş",
+      "example_en": "She picked wild berries in the forest.",
+      "example_tr": "Ormanda yaban yemişleri topladı."
+    },
+    {
+      "word_en": "coconut",
+      "word_tr": "hindistancevizi",
+      "example_en": "Coconuts are used in many tropical dishes.",
+      "example_tr": "Hindistancevizleri birçok tropikal yemekte kullanılır."
+    },
+    {
+      "word_en": "melon",
+      "word_tr": "kavun",
+      "example_en": "He sliced the melon into wedges for easy snacking.",
+      "example_tr": "Kavunu dilimlere ayırdı, böylece kolayca atıştırabilir."
+    },
+    {
+      "word_en": "blackberry",
+      "word_tr": "böğürtlen",
+      "example_en": "Blackberries grow wild in the countryside.",
+      "example_tr": "Böğürtlenler kırsalda vahşi olarak yetişir."
+    },
+    {
+      "word_en": "chestnut",
+      "word_tr": "kestane",
+      "example_en": "Roasted chestnuts are a popular snack in the winter.",
+      "example_tr": "Kavrulmuş kestaneler kışın popüler bir atıştırmalıktır."
+    },
+    {
+      "word_en": "tangerine",
+      "word_tr": "mandalina",
+      "example_en": "She peeled a tangerine and enjoyed its juicy segments.",
+      "example_tr": "Bir mandalina soydu ve sulu kısımlarını keyifle yedi."
+    },
+    {
+      "word_en": "cranberry",
+      "word_tr": "cranberry",
+      "example_en": "Cranberries are often used in sauces and desserts.",
+      "example_tr": "Cranberry'ler genellikle sos ve tatlılarda kullanılır."
+    },
+    {
+      "word_en": "plum",
+      "word_tr": "erik",
+      "example_en": "She bit into the ripe plum, savoring its sweetness.",
+      "example_tr": "Olgun eriğe ısırdı, tatlılığını tadarak."
+    },
+    {
+      "word_en": "pumpkin",
+      "word_tr": "bal kabağı",
+      "example_en": "Pumpkin pie is a classic dessert for Thanksgiving.",
+      "example_tr": "Bal kabağı pastası, Şükran Günü için klasik bir tatlıdır."
+    },
+    {
+      "word_en": "cashew",
+      "word_tr": "kaju",
+      "example_en": "Cashews add crunchiness to salads and stir-fries.",
+      "example_tr": "Kajular, salata ve stir-fry'lara çıtırlık katar."
+    },
+    {
+      "word_en": "cherry",
+      "word_tr": "kiraz",
+      "example_en": "Cherries are often enjoyed fresh or used in desserts.",
+      "example_tr": "Kirazlar genellikle taze olarak tadını çıkarılır veya tatlılarda kullanılır."
+    },
+    {
+      "word_en": "cantaloupe",
+      "word_tr": "kantalup",
+      "example_en": "Cantaloupe is refreshing when served chilled on a hot day.",
+      "example_tr": "Sıcak bir günde serinletici olan kantalup, soğuk servis edildiğinde lezzetlidir."
+    },
+    {
+      "word_en": "tangelo",
+      "word_tr": "tanjelo",
+      "example_en": "Tangelos are a hybrid fruit, a cross between tangerines and grapefruits.",
+      "example_tr": "Tanjelolar, mandalina ve greyfurt arasında bir meyve olan melez bir meyvedir."
+    },
+    {
+      "word_en": "Mandarin",
+      "word_tr": "mandalina",
+      "example_en": "Mandarins are easy to peel and make a convenient snack.",
+      "example_tr": "Mandalinalar kolay soyulur ve pratik bir atıştırmalık yapar."
+    }
+  ]
+}
 
