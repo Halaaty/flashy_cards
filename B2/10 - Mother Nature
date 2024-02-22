@@ -1,1 +1,185 @@
+{
+  "words": [
+    {
+      "word_en": "biodiversity",
+      "word_tr": "biyolojik çeşitlilik",
+      "example_en": "The rainforest boasts incredible biodiversity.",
+      "example_tr": "Yağmur ormanı inanılmaz biyolojik çeşitliliğe sahiptir."
+    },
+    {
+      "word_en": "environmentalist",
+      "word_tr": "çevreci",
+      "example_en": "The environmentalist campaigned against deforestation.",
+      "example_tr": "Çevreci, ormansızlaşmaya karşı kampanya yürüttü."
+    },
+    {
+      "word_en": "conservation",
+      "word_tr": "koruma",
+      "example_en": "Conservation efforts are essential to protect endangered species.",
+      "example_tr": "Koruma çabaları, nesli tehlike altındaki türleri korumak için gereklidir."
+    },
+    {
+      "word_en": "deforestation",
+      "word_tr": "orman tahribatı",
+      "example_en": "Deforestation is a major threat to the environment.",
+      "example_tr": "Orman tahribatı, çevre için büyük bir tehdittir."
+    },
+    {
+      "word_en": "eclipse",
+      "word_tr": "güneş tutulması/ay tutulması",
+      "example_en": "We observed the lunar eclipse last night.",
+      "example_tr": "Dün gece ay tutulmasını gözlemledik."
+    },
+    {
+      "word_en": "solar",
+      "word_tr": "güneş",
+      "example_en": "Solar energy is becoming increasingly popular.",
+      "example_tr": "Güneş enerjisi giderek popüler hale geliyor."
+    },
+    {
+      "word_en": "lunar",
+      "word_tr": "ay",
+      "example_en": "We gazed at the lunar eclipse with wonder.",
+      "example_tr": "Ay tutulmasına hayretle baktık."
+    },
+    {
+      "word_en": "moonlight",
+      "word_tr": "ay ışığı",
+      "example_en": "The garden looked enchanting in the moonlight.",
+      "example_tr": "Bahçe, ay ışığında büyüleyici görünüyordu."
+    },
+    {
+      "word_en": "northern lights",
+      "word_tr": "kuzey ışıkları",
+      "example_en": "We were lucky enough to see the northern lights during our trip.",
+      "example_tr": "Seyahatimiz sırasında kuzey ışıklarını görmek için şanslıydık."
+    },
+    {
+      "word_en": "float",
+      "word_tr": "suda yüzmek",
+      "example_en": "The boat began to float as the tide rose.",
+      "example_tr": "Gemi, gelgit yükseldikçe yüzmeye başladı."
+    },
+    {
+      "word_en": "tide",
+      "word_tr": "gelgit",
+      "example_en": "We went swimming at high tide.",
+      "example_tr": "Yüksek gelgitte yüzmeye gittik."
+    },
+    {
+      "word_en": "steam",
+      "word_tr": "buhar",
+      "example_en": "The engine released a cloud of steam.",
+      "example_tr": "Motor, bir buhar bulutu saldı."
+    },
+    {
+      "word_en": "sunlight",
+      "word_tr": "güneş ışığı",
+      "example_en": "The room was filled with warm sunlight.",
+      "example_tr": "Oda, sıcak güneş ışığıyla doluydu."
+    },
+    {
+      "word_en": "dawn",
+      "word_tr": "şafak",
+      "example_en": "They woke up at dawn to catch the sunrise.",
+      "example_tr": "Güneşi görmek için şafakta uyandılar."
+    },
+    {
+      "word_en": "eruption",
+      "word_tr": "patlama",
+      "example_en": "The volcanic eruption devastated the nearby towns.",
+      "example_tr": "Volkanik patlama yakındaki kasabaları tahrip etti."
+    },
+    {
+      "word_en": "volcanic",
+      "word_tr": "volkanik",
+      "example_en": "The island is known for its volcanic activity.",
+      "example_tr": "Adası, volkanik faaliyetleriyle tanınıyor."
+    },
+    {
+      "word_en": "lava",
+      "word_tr": "lava",
+      "example_en": "The lava flowed down the mountainside.",
+      "example_tr": "Lava dağ eteğinden aşağı aktı."
+    },
+    {
+      "word_en": "landslide",
+      "word_tr": "heyelan",
+      "example_en": "The heavy rain caused a landslide.",
+      "example_tr": "Şiddetli yağış bir heyelana neden oldu."
+    },
+    {
+      "word_en": "ecology",
+      "word_tr": "ekoloji",
+      "example_en": "The course covers topics such as ecology and conservation.",
+      "example_tr": "Kurs, ekoloji ve koruma gibi konuları kapsar."
+    },
+    {
+      "word_en": "ecosystem",
+      "word_tr": "ekosistem",
+      "example_en": "The rainforest is a complex ecosystem.",
+      "example_tr": "Yağmur ormanı karmaşık bir ekosistemdir."
+    },
+    {
+      "word_en": "nonrenewable",
+      "word_tr": "yenilenemez",
+      "example_en": "Fossil fuels are nonrenewable resources.",
+      "example_tr": "Fosil yakıtlar yenilenemez kaynaklardır."
+    },
+    {
+      "word_en": "hydroelectric",
+      "word_tr": "hidroelektrik",
+      "example_en": "Hydroelectric power is generated from water.",
+      "example_tr": "Hidroelektrik enerji su kaynaklarından üretilir."
+    },
+    {
+      "word_en": "turbine",
+      "word_tr": "türbin",
+      "example_en": "The wind turbine generates electricity.",
+      "example_tr": "Rüzgar türbini elektrik üretir."
+    },
+    {
+      "word_en": "alternative energy",
+      "word_tr": "alternatif enerji",
+      "example_en": "Solar and wind power are alternative energy sources.",
+      "example_tr": "Güneş ve rüzgar enerjisi alternatif enerji kaynaklarıdır."
+    },
+    {
+      "word_en": "fume",
+      "word_tr": "duman",
+      "example_en": "The factory emitted toxic fumes into the air.",
+      "example_tr": "Fabrika, havaya toksik dumanlar yaydı."
+    },
+    {
+      "word_en": "preserve",
+      "word_tr": "korumak",
+      "example_en": "It's important to preserve our natural habitats.",
+      "example_tr": "Doğal yaşam alanlarımızı korumak önemlidir."
+    },
+    {
+      "word_en": "smog",
+      "word_tr": "sis",
+      "example_en": "The city skyline was obscured by smog.",
+      "example_tr": "Şehir silueti sis tarafından belirsizleştirildi."
+    },
+    {
+      "word_en": "slope",
+      "word_tr": "yokuş",
+      "example_en": "We hiked up the slope to reach the summit.",
+      "example_tr": "Zirveye ulaşmak için yokuş yukarı yürüdük."
+    },
+    {
+      "word_en": "pitch-black",
+      "word_tr": "koyu karanlık",
+      "example_en": "The room was pitch-black at night.",
+      "example_tr": "Oda gece koyu karanlıktı."
+    },
+    {
+      "word_en": "sub-zero",
+      "word_tr": "sıfırın altında",
+      "example_en": "The temperature dropped to sub-zero levels.",
+      "example_tr": "Sıcaklık sıfırın altına düştü."
+    }
+  ]
+}
 
