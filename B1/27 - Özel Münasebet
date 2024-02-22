@@ -1,1 +1,166 @@
-
+{
+  "words": [
+    {
+      "word_en": "wrap",
+      "example_en": "They wrap the gift in colorful paper.",
+      "word_tr": "paketlemek",
+      "example_tr": "Hediyeyi renkli kağıda paketlerler."
+    },
+    {
+      "word_en": "event",
+      "example_en": "The charity event raised funds for the local shelter.",
+      "word_tr": "etkinlik",
+      "example_tr": "Hayır etkinliği yerel barınağa fon topladı."
+    },
+    {
+      "word_en": "engagement",
+      "example_en": "They announced their engagement with joy.",
+      "word_tr": "nişanlanma",
+      "example_tr": "Nişanlanmalarını sevinçle duyurdular."
+    },
+    {
+      "word_en": "Father's Day",
+      "example_en": "They celebrated Father's Day with a barbecue.",
+      "word_tr": "Babalar Günü",
+      "example_tr": "Babalar Günü'nü mangal partisiyle kutladılar."
+    },
+    {
+      "word_en": "occasion",
+      "example_en": "Their anniversary is a special occasion for them.",
+      "word_tr": "fırsat",
+      "example_tr": "Yıldönümleri onlar için özel bir fırsat."
+    },
+    {
+      "word_en": "candle",
+      "example_en": "They lit a candle to celebrate the occasion.",
+      "word_tr": "mum",
+      "example_tr": "Fırsatı kutlamak için bir mum yaktılar."
+    },
+    {
+      "word_en": "birthday",
+      "example_en": "They had a big birthday party for their son.",
+      "word_tr": "doğum günü",
+      "example_tr": "Oğulları için büyük bir doğum günü partisi düzenlediler."
+    },
+    {
+      "word_en": "Halloween",
+      "example_en": "They dressed up in costumes for Halloween.",
+      "word_tr": "Cadılar Bayramı",
+      "example_tr": "Cadılar Bayramı için kostümler giydiler."
+    },
+    {
+      "word_en": "celebration",
+      "example_en": "The community came together for a celebration.",
+      "word_tr": "kutlama",
+      "example_tr": "Topluluk bir kutlama için bir araya geldi."
+    },
+    {
+      "word_en": "wedding",
+      "example_en": "They had a beautiful outdoor wedding.",
+      "word_tr": "düğün",
+      "example_tr": "Harika bir açık hava düğünleri oldu."
+    },
+    {
+      "word_en": "present",
+      "example_en": "They exchanged presents on their anniversary.",
+      "word_tr": "hediye",
+      "example_tr": "Yıldönümlerinde hediyelerini değiştirdiler."
+    },
+    {
+      "word_en": "take part",
+      "example_en": "They all agreed to take part in the charity run.",
+      "word_tr": "katılmak",
+      "example_tr": "Hepsi hayır koşusuna katılmayı kabul ettiler."
+    },
+    {
+      "word_en": "gathering",
+      "example_en": "They had a family gathering for Thanksgiving.",
+      "word_tr": "toplantı",
+      "example_tr": "Şükran Günü için aile toplantısı yaptılar."
+    },
+    {
+      "word_en": "celebrate",
+      "example_en": "They celebrate their anniversary every year.",
+      "word_tr": "kutlamak",
+      "example_tr": "Her yıl yıldönümlerini kutlarlar."
+    },
+    {
+      "word_en": "banner",
+      "example_en": "They hung a banner to welcome the new year.",
+      "word_tr": "afiş",
+      "example_tr": "Yeni yılı karşılamak için bir afiş astılar."
+    },
+    {
+      "word_en": "participate",
+      "example_en": "They participate in the annual parade.",
+      "word_tr": "katılmak",
+      "example_tr": "Yıllık geçide katılırlar."
+    },
+    {
+      "word_en": "host",
+      "example_en": "They host a Christmas party every year.",
+      "word_tr": "ev sahipliği yapmak",
+      "example_tr": "Her yıl bir Noel partisi düzenlerler."
+    },
+    {
+      "word_en": "New Year's Day",
+      "example_en": "They celebrate New Year's Day with fireworks.",
+      "word_tr": "Yılbaşı",
+      "example_tr": "Yılbaşını havai fişeklerle kutlarlar."
+    },
+    {
+      "word_en": "invitation",
+      "example_en": "They sent out invitations for the wedding.",
+      "word_tr": "davet",
+      "example_tr": "Düğün için davetiyeler gönderdiler."
+    },
+    {
+      "word_en": "throw",
+      "example_en": "They throw a big party for their anniversary.",
+      "word_tr": "düzenlemek",
+      "example_tr": "Yıldönümleri için büyük bir parti düzenlerler."
+    },
+    {
+      "word_en": "graduation",
+      "example_en": "They attended their daughter's graduation ceremony.",
+      "word_tr": "mezuniyet",
+      "example_tr": "Kızlarının mezuniyet törenine katıldılar."
+    },
+    {
+      "word_en": "Mother's Day",
+      "example_en": "They gave flowers to their mother on Mother's Day.",
+      "word_tr": "Anneler Günü",
+      "example_tr": "Anneler Günü'nde annelerine çiçek verdiler."
+    },
+    {
+      "word_en": "celebrate",
+      "example_en": "They celebrate Christmas with a big family dinner.",
+      "word_tr": "kutlamak",
+      "example_tr": "Noel'i büyük bir aile yemeği ile kutlarlar."
+    },
+    {
+      "word_en": "invite",
+      "example_en": "They invite friends and family to their anniversary party.",
+      "word_tr": "davet etmek",
+      "example_tr": "Arkadaşlarını ve ailesini yıldönümü partilerine davet ederler."
+    },
+    {
+      "word_en": "blow out",
+      "example_en": "They blow out the candles on the birthday cake.",
+      "word_tr": "üflemek",
+      "example_tr": "Doğum günü pastasındaki mumları üflerler."
+    },
+    {
+      "word_en": "Father's Day",
+      "example_en": "They celebrated Father's Day with a barbecue.",
+      "word_tr": "Babalar Günü",
+      "example_tr": "Babalar Günü'nü mangal partisiyle kutladılar."
+    },
+    {
+      "word_en": "Father's Day",
+      "example_en": "They celebrated Father's Day with a barbecue.",
+      "word_tr": "Babalar Günü",
+      "example_tr": "Babalar Günü'nü mangal partisiyle kutladılar."
+    }
+  ]
+}
