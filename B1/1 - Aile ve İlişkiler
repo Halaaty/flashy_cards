@@ -1,1 +1,191 @@
+{
+  "words": [
+    {
+      "word_en": "generation",
+      "word_tr": "nesil",
+      "example_en": "Their family spans across several generations.",
+      "example_tr": "Aileleri birkaç nesle yayılmış."
+    },
+    {
+      "word_en": "daughter-in-law",
+      "word_tr": "gelin",
+      "example_en": "His daughter-in-law is a talented artist.",
+      "example_tr": "Damat kızı yetenekli bir sanatçı."
+    },
+    {
+      "word_en": "sister-in-law",
+      "word_tr": "baldız",
+      "example_en": "She gets along well with her sister-in-law.",
+      "example_tr": "Baldızıyla iyi anlaşıyor."
+    },
+    {
+      "word_en": "abandon",
+      "word_tr": "terk etmek",
+      "example_en": "He made the difficult decision to abandon his old life.",
+      "example_tr": "Eski hayatını terk etme zor kararını verdi."
+    },
+    {
+      "word_en": "parents-in-law",
+      "word_tr": "kayınvalide ve kayınpeder",
+      "example_en": "Her parents-in-law treat her like their own daughter.",
+      "example_tr": "Kayınvalidesi ve kayınpederi onu kendi kızları gibi görüyorlar."
+    },
+    {
+      "word_en": "related",
+      "word_tr": "ilgili",
+      "example_en": "Their families are not related.",
+      "example_tr": "Aileleri ilgili değil."
+    },
+    {
+      "word_en": "leave",
+      "word_tr": "ayrılmak",
+      "example_en": "She decided to leave her hometown and start anew.",
+      "example_tr": "Memleketini terk etmeye ve yeniden başlamaya karar verdi."
+    },
+    {
+      "word_en": "love at first sight",
+      "word_tr": "ilk görüşte aşk",
+      "example_en": "Their love story began with love at first sight.",
+      "example_tr": "Aşk hikayeleri ilk görüşte aşkla başladı."
+    },
+    {
+      "word_en": "son-in-law",
+      "word_tr": "damat",
+      "example_en": "Her son-in-law is an engineer.",
+      "example_tr": "Oğlu damat bir mühendis."
+    },
+    {
+      "word_en": "close",
+      "word_tr": "yakın",
+      "example_en": "They have a very close relationship with their grandparents.",
+      "example_tr": "Büyükanneleri ve büyükbabaları ile çok yakın bir ilişkileri var."
+    },
+    {
+      "word_en": "bring up",
+      "word_tr": "büyütmek",
+      "example_en": "They bring up their children to be kind and respectful.",
+      "example_tr": "Çocuklarını nazik ve saygılı olmaları için büyütüyorlar."
+    },
+    {
+      "word_en": "cheat",
+      "word_tr": "aldatmak",
+      "example_en": "She discovered that her partner had cheated on her.",
+      "example_tr": "Partnerinin onu aldattığını keşfetti."
+    },
+    {
+      "word_en": "father-in-law",
+      "word_tr": "kayınpeder",
+      "example_en": "His father-in-law taught him many valuable life lessons.",
+      "example_tr": "Kayınpederi ona birçok değerli yaşam dersi öğretti."
+    },
+    {
+      "word_en": "separate",
+      "word_tr": "ayrı",
+      "example_en": "After many years together, they decided to separate.",
+      "example_tr": "Birlikte geçirdikleri uzun yılların ardından ayrılmaya karar verdiler."
+    },
+    {
+      "word_en": "brother-in-law",
+      "word_tr": "kayınbirader",
+      "example_en": "Her brother-in-law is a firefighter.",
+      "example_tr": "Kardeşi kayınbirader bir itfaiyecidir."
+    },
+    {
+      "word_en": "groom",
+      "word_tr": "damat",
+      "example_en": "The groom looked dashing in his tuxedo.",
+      "example_tr": "Damat smokiniyle çok şık görünüyordu."
+    },
+    {
+      "word_en": "motherhood",
+      "word_tr": "anne olma",
+      "example_en": "She embraced motherhood with joy.",
+      "example_tr": "Anneliği sevinçle kucakladı."
+    },
+    {
+      "word_en": "separated",
+      "word_tr": "ayrılmış",
+      "example_en": "After years of marriage, they finally separated.",
+      "example_tr": "Yıllarca evlilikten sonra nihayet ayrıldılar."
+    },
+    {
+      "word_en": "relationship",
+      "word_tr": "ilişki",
+      "example_en": "Their relationship has faced many challenges.",
+      "example_tr": "İlişkileri birçok zorluğa rağmen devam etti."
+    },
+    {
+      "word_en": "friendship",
+      "word_tr": "arkadaşlık",
+      "example_en": "Their friendship grew stronger over the years.",
+      "example_tr": "Yıllar içinde arkadaşlıkları daha da güçlendi."
+    },
+    {
+      "word_en": "single parent",
+      "word_tr": "tek ebeveyn",
+      "example_en": "She raised her children as a single parent.",
+      "example_tr": "Çocuklarını tek başına büyüttü."
+    },
+    {
+      "word_en": "relative",
+      "word_tr": "akraba",
+      "example_en": "She has many relatives living abroad.",
+      "example_tr": "Yurt dışında yaşayan birçok akrabası var."
+    },
+    {
+      "word_en": "spouse",
+      "word_tr": "eş",
+      "example_en": "She and her spouse celebrated their anniversary.",
+      "example_tr": "O ve eşi yıldönümlerini kutladılar."
+    },
+    {
+      "word_en": "fatherhood",
+      "word_tr": "baba olma",
+      "example_en": "He embraced fatherhood with pride.",
+      "example_tr": "Babalığı gururla kucakladı."
+    },
+    {
+      "word_en": "unmarried",
+      "word_tr": "evli değil",
+      "example_en": "She remained unmarried throughout her life.",
+      "example_tr": "Tüm hayatı boyunca evli olmadı."
+    },
+    {
+      "word_en": "bride",
+      "word_tr": "gelin",
+      "example_en": "The bride looked stunning in her wedding gown.",
+      "example_tr": "Gelin, gelinliğinde muhteşem görünüyordu."
+    },
+    {
+      "word_en": "child",
+      "word_tr": "çocuk",
+      "example_en": "They have three children, two boys and a girl.",
+      "example_tr": "Üç çocukları var, iki oğlan bir kız."
+    },
+    {
+      "word_en": "mother-in-law",
+      "word_tr": "kayınvalide",
+      "example_en": "Her mother-in-law is very supportive.",
+      "example_tr": "Kayınvalidesi çok destekleyici."
+    },
+    {
+      "word_en": "engaged",
+      "word_tr": "nişanlı",
+      "example_en": "They got engaged on Valentine's Day.",
+      "example_tr": "Sevgililer Günü'nde nişanlandılar."
+    },
+    {
+      "word_en": "fatherhood",
+      "word_tr": "baba olma",
+      "example_en": "He found joy in fatherhood.",
+      "example_tr": "Babalıkta mutluluk buldu."
+    },
+    {
+      "word_en": "family tree",
+      "word_tr": "soyağacı",
+      "example_en": "She traced her family tree back several generations.",
+      "example_tr": "Soyağacını birkaç nesil geriye doğru izledi."
+    }
+  ]
+}
 
