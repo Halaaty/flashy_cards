@@ -1,6 +1,3 @@
-Here is the JSON structure with the requested words along with randomized example sentences:
-
-```json
 {
   "words": [
     {
@@ -187,4 +184,3 @@ erlerine yer verdi."
     }
   ]
 }
-```
