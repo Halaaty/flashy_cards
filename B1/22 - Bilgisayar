@@ -1,1 +1,149 @@
+{
+  "words": [
+    {
+      "word_en": "window",
+      "example_en": "She opened the window to let in some fresh air.",
+      "word_tr": "pencere",
+      "example_tr": "Biraz temiz hava almak için pencereyi açtı."
+    },
+    {
+      "word_en": "install",
+      "example_en": "He needs to install the latest updates for the software.",
+      "word_tr": "kurmak",
+      "example_tr": "Yazılımın en son güncellemelerini kurması gerekiyor."
+    },
+    {
+      "word_en": "connect",
+      "example_en": "The printer is not connecting to the network.",
+      "word_tr": "bağlanmak",
+      "example_tr": "Yazıcı ağa bağlanmıyor."
+    },
+    {
+      "word_en": "operating system",
+      "example_en": "Windows and macOS are examples of operating systems.",
+      "word_tr": "işletim sistemi",
+      "example_tr": "Windows ve macOS işletim sistemlerinin örnekleridir."
+    },
+    {
+      "word_en": "folder",
+      "example_en": "He organized his documents into different folders.",
+      "word_tr": "klasör",
+      "example_tr": "Belgelerini farklı klasörlere düzenledi."
+    },
+    {
+      "word_en": "hardware",
+      "example_en": "He upgraded his computer's hardware to improve performance.",
+      "word_tr": "donanım",
+      "example_tr": "Performansı artırmak için bilgisayarın donanımını yükseltti."
+    },
+    {
+      "word_en": "version",
+      "example_en": "The latest version of the software includes many new features.",
+      "word_tr": "sürüm",
+      "example_tr": "Yazılımın en son sürümü birçok yeni özellik içeriyor."
+    },
+    {
+      "word_en": "quit",
+      "example_en": "She decided to quit the program without saving her work.",
+      "word_tr": "çıkmak",
+      "example_tr": "İşini kaydetmeden programdan çıkmaya karar verdi."
+    },
+    {
+      "word_en": "software",
+      "example_en": "She specializes in developing educational software.",
+      "word_tr": "yazılım",
+      "example_tr": "Eğitim yazılımları geliştirmekte uzmanlaştı."
+    },
+    {
+      "word_en": "wireless",
+      "example_en": "They set up a wireless network at their office.",
+      "word_tr": "kablosuz",
+      "example_tr": "Ofislerinde kablosuz bir ağ kuruldular."
+    },
+    {
+      "word_en": "access",
+      "example_en": "You need a password to access the secure files.",
+      "word_tr": "erişim",
+      "example_tr": "Güvenli dosyalara erişmek için bir şifre gerekiyor."
+    },
+    {
+      "word_en": "log off",
+      "example_en": "He forgot to log off from his account before leaving.",
+      "word_tr": "oturumu kapatmak",
+      "example_tr": "Gitmeden önce hesabından oturumu kapatmayı unuttu."
+    },
+    {
+      "word_en": "data",
+      "example_en": "The data is backed up on a remote server.",
+      "word_tr": "veri",
+      "example_tr": "Veri uzak bir sunucuda yedekleniyor."
+    },
+    {
+      "word_en": "error",
+      "example_en": "She encountered an error while installing the software.",
+      "word_tr": "hata",
+      "example_tr": "Yazılımı kurarken bir hata ile karşılaştı."
+    },
+    {
+      "word_en": "program",
+      "example_en": "He's learning how to code in a programming language.",
+      "word_tr": "program",
+      "example_tr": "Bir programlama dilinde kodlama öğreniyor."
+    },
+    {
+      "word_en": "type",
+      "example_en": "Please type your username and password.",
+      "word_tr": "yazmak",
+      "example_tr": "Lütfen kullanıcı adınızı ve şifrenizi yazın."
+    },
+    {
+      "word_en": "click",
+      "example_en": "Click on the icon to open the application.",
+      "word_tr": "tıklatmak",
+      "example_tr": "Uygulamayı açmak için simgeye tıklayın."
+    },
+    {
+      "word_en": "button",
+      "example_en": "Press the button to start the machine.",
+      "word_tr": "düğme",
+      "example_tr": "Makineyi başlatmak için düğmeye basın."
+    },
+    {
+      "word_en": "scroll",
+      "example_en": "You can scroll down to see more content.",
+      "word_tr": "kaydırmak",
+      "example_tr": "Daha fazla içeriği görmek için aşağı kaydırabilirsiniz."
+    },
+    {
+      "word_en": "delete",
+      "example_en": "He accidentally deleted the important file.",
+      "word_tr": "silmek",
+      "example_tr": "Kazara önemli dosyayı sildi."
+    },
+    {
+      "word_en": "drag",
+      "example_en": "You can drag and drop files to move them.",
+      "word_tr": "sürüklemek",
+      "example_tr": "Dosyaları taşımak için sürükleyip bırakabilirsiniz."
+    },
+    {
+      "word_en": "system",
+      "example_en": "The new system has improved efficiency.",
+      "word_tr": "sistem",
+      "example_tr": "Yeni sistem verimliliği artırdı."
+    },
+    {
+      "word_en": "application program",
+      "example_en": "She uses various application programs for her work.",
+      "word_tr": "uygulama programı",
+      "example_tr": "İş için çeşitli uygulama programları kullanıyor."
+    },
+    {
+      "word_en": "virus",
+      "example_en": "He scanned his computer for viruses.",
+      "word_tr": "virüs",
+      "example_tr": "Bilgisayarını virüsler için taradı."
+    }
+  ]
+}
 
