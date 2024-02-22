@@ -1,1 +1,149 @@
+{
+  "words": [
+    {
+      "word_en": "saxophone",
+      "word_tr": "saksafon",
+      "example_en": "The saxophone player improvised a soulful melody.",
+      "example_tr": "Saksafon çalan, duygusal bir melodi icat etti."
+    },
+    {
+      "word_en": "cello",
+      "word_tr": "viyolonsel",
+      "example_en": "The cellist performed a moving piece at the concert.",
+      "example_tr": "Viyolonselci, konsertte etkileyici bir eser seslendirdi."
+    },
+    {
+      "word_en": "accordion",
+      "word_tr": "akordeon",
+      "example_en": "The accordionist entertained the crowd with lively tunes.",
+      "example_tr": "Akordeoncu, kalabalığı canlı melodilerle eğlendirdi."
+    },
+    {
+      "word_en": "band",
+      "word_tr": "grup",
+      "example_en": "The band played rock music at the festival.",
+      "example_tr": "Grup, festivalde rock müzik çaldı."
+    },
+    {
+      "word_en": "pianist",
+      "word_tr": "piyanist",
+      "example_en": "The pianist dazzled the audience with her virtuoso performance.",
+      "example_tr": "Piyanist, virtüöz performansıyla izleyicileri büyüledi."
+    },
+    {
+      "word_en": "trumpet",
+      "word_tr": "trompet",
+      "example_en": "The trumpet player hit a high note with precision.",
+      "example_tr": "Trompet çalan, hassaslıkla yüksek bir notaya ulaştı."
+    },
+    {
+      "word_en": "performer",
+      "word_tr": "sanatçı",
+      "example_en": "The performer captivated the audience with her stage presence.",
+      "example_tr": "Sanatçı, sahne varlığıyla izleyicileri büyüledi."
+    },
+    {
+      "word_en": "clarinet",
+      "word_tr": "klarnet",
+      "example_en": "The clarinetist played a haunting melody on the clarinet.",
+      "example_tr": "Klarnetçi, klarnette hüzünlü bir melodi çaldı."
+    },
+    {
+      "word_en": "conductor",
+      "word_tr": "şef",
+      "example_en": "The conductor led the orchestra with grace and precision.",
+      "example_tr": "Şef, orkestrayı zarafet ve hassasiyetle yönetti."
+    },
+    {
+      "word_en": "choir",
+      "word_tr": "kor",
+      "example_en": "The choir sang in perfect harmony.",
+      "example_tr": "Kor, mükemmel uyum içinde şarkı söyledi."
+    },
+    {
+      "word_en": "tour",
+      "word_tr": "turne",
+      "example_en": "The band embarked on a world tour to promote their new album.",
+      "example_tr": "Grup, yeni albümünü tanıtmak için dünya turnesine çıktı."
+    },
+    {
+      "word_en": "tape",
+      "word_tr": "bant",
+      "example_en": "He recorded his demo tape in a makeshift studio.",
+      "example_tr": "Demo kaydını geçici bir stüdyoda bant üzerine aldı."
+    },
+    {
+      "word_en": "album",
+      "word_tr": "albüm",
+      "example_en": "The singer released her debut album to critical acclaim.",
+      "example_tr": "Şarkıcı, çıkış albümünü eleştirel beğeniyle piyasaya sürdü."
+    },
+    {
+      "word_en": "chorus",
+      "word_tr": "koro",
+      "example_en": "The chorus added depth to the song.",
+      "example_tr": "Koro, şarkıya derinlik kattı."
+    },
+    {
+      "word_en": "microphone",
+      "word_tr": "mikrofon",
+      "example_en": "The singer's voice echoed through the microphone.",
+      "example_tr": "Şarkıcının sesi mikrofon aracılığıyla yankılandı."
+    },
+    {
+      "word_en": "songwriter",
+      "word_tr": "şarkı yazarı",
+      "example_en": "The songwriter penned lyrics for the band's latest single.",
+      "example_tr": "Şarkı yazarı, grubun en son single'ı için sözler yazdı."
+    },
+    {
+      "word_en": "beat",
+      "word_tr": "ritim",
+      "example_en": "The beat of the drum set the pace for the song.",
+      "example_tr": "Davulun ritmi, şarkının temposunu belirledi."
+    },
+    {
+      "word_en": "headphones",
+      "word_tr": "kulaklık",
+      "example_en": "He put on his headphones to listen to music.",
+      "example_tr": "Müzik dinlemek için kulaklığını taktı."
+    },
+    {
+      "word_en": "publish",
+      "word_tr": "yayınlamak",
+      "example_en": "The record label decided to publish the artist's latest single.",
+      "example_tr": "Plak şirketi, sanatçının en son single'ını yayınlama kararı aldı."
+    },
+    {
+      "word_en": "disc jockey",
+      "word_tr": "dj",
+      "example_en": "The disc jockey kept the crowd dancing all night.",
+      "example_tr": "Dj, kalabalığı tüm gece dans ettirdi."
+    },
+    {
+      "word_en": "violinist",
+      "word_tr": "keman virtüözü",
+      "example_en": "The violinist performed a breathtaking solo during the concert.",
+      "example_tr": "Keman virtüözü, konsert sırasında nefes kesici bir solo sundu."
+    },
+    {
+      "word_en": "karaoke",
+      "word_tr": "karaoke",
+      "example_en": "They sang their favorite songs at the karaoke bar.",
+      "example_tr": "Favori şarkılarını karaoke barında söylediler."
+    },
+    {
+      "word_en": "lyric",
+      "word_tr": "söz",
+      "example_en": "She wrote heartfelt lyrics for her new song.",
+      "example_tr": "Yeni şarkısı için içten sözler yazdı."
+    },
+    {
+      "word_en": "drummer",
+      "word_tr": "davulcu",
+      "example_en": "The drummer set the rhythm for the band's performance.",
+      "example_tr": "Davulcu, grubun performansı için ritmi belirledi."
+    }
+  ]
+}
 
