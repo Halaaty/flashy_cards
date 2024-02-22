@@ -1,1 +1,232 @@
-
+{
+  "words": [
+    {
+      "word_en": "late",
+      "example_en": "She arrived late to the party.",
+      "word_tr": "geç",
+      "example_tr": "Partiye geç geldi."
+    },
+    {
+      "word_en": "nighttime",
+      "example_en": "The city looks beautiful in nighttime.",
+      "word_tr": "gece vakti",
+      "example_tr": "Şehir gece vakti güzel görünüyor."
+    },
+    {
+      "word_en": "while",
+      "example_en": "He read a book while waiting for the bus.",
+      "word_tr": "süre",
+      "example_tr": "Otobüsü beklerken bir kitap okudu."
+    },
+    {
+      "word_en": "regularly",
+      "example_en": "She exercises regularly to stay fit.",
+      "word_tr": "düzenli olarak",
+      "example_tr": "Formda kalmak için düzenli olarak egzersiz yapar."
+    },
+    {
+      "word_en": "afterward",
+      "example_en": "She regretted her decision afterward.",
+      "word_tr": "sonradan",
+      "example_tr": "Kararından sonra pişman oldu."
+    },
+    {
+      "word_en": "future",
+      "example_en": "We need to plan for the future.",
+      "word_tr": "gelecek",
+      "example_tr": "Gelecek için plan yapmamız gerekiyor."
+    },
+    {
+      "word_en": "instantly",
+      "example_en": "The pain disappeared instantly after taking the medicine.",
+      "word_tr": "anında",
+      "example_tr": "İlaç aldıktan sonra ağrı anında kayboldu."
+    },
+    {
+      "word_en": "meanwhile",
+      "example_en": "Meanwhile, he continued working on his project.",
+      "word_tr": "bu arada",
+      "example_tr": "Bu arada, projede çalışmaya devam etti."
+    },
+    {
+      "word_en": "hourly",
+      "example_en": "The bus runs hourly.",
+      "word_tr": "saat başı",
+      "example_tr": "Otobüs saat başı çalışır."
+    },
+    {
+      "word_en": "far",
+      "example_en": "The nearest gas station is far from here.",
+      "word_tr": "uzak",
+      "example_tr": "En yakın benzin istasyonu buradan uzak."
+    },
+    {
+      "word_en": "regular",
+      "example_en": "She goes for regular walks in the morning.",
+      "word_tr": "düzenli",
+      "example_tr": "Sabahları düzenli yürüyüşlere çıkar."
+    },
+    {
+      "word_en": "past",
+      "example_en": "He was much happier in the past.",
+      "word_tr": "geçmiş",
+      "example_tr": "Geçmişte çok daha mutluydu."
+    },
+    {
+      "word_en": "daytime",
+      "example_en": "Most people are active during the daytime.",
+      "word_tr": "gündüz",
+      "example_tr": "Çoğu insan gündüzleri aktiftir."
+    },
+    {
+      "word_en": "throughout",
+      "example_en": "He was restless throughout the night.",
+      "word_tr": "boyunca",
+      "example_tr": "Tüm gece boyunca huzursuzdu."
+    },
+    {
+      "word_en": "sudden",
+      "example_en": "They were caught off guard by the sudden change in weather.",
+      "word_tr": "ani",
+      "example_tr": "Hava durumundaki ani değişiklik onları hazırlıksız yakaladı."
+    },
+    {
+      "word_en": "daylight",
+      "example_en": "The robbery occurred in broad daylight.",
+      "word_tr": "gündüz ışığı",
+      "example_tr": "Soygun, orta yerde, gündüz ışığında gerçekleşti."
+    },
+    {
+      "word_en": "at times",
+      "example_en": "He can be very helpful at times.",
+      "word_tr": "bazen",
+      "example_tr": "Bazen çok yardımsever olabilir."
+    },
+    {
+      "word_en": "immediate",
+      "example_en": "They need immediate assistance.",
+      "word_tr": "anlık",
+      "example_tr": "Anında yardıma ihtiyaçları var."
+    },
+    {
+      "word_en": "take",
+      "example_en": "The project will take six months to complete.",
+      "word_tr": "sürmek",
+      "example_tr": "Proje tamamlanması altı ay sürecek."
+    },
+    {
+      "word_en": "all the time",
+      "example_en": "She talks on the phone all the time.",
+      "word_tr": "sürekli",
+      "example_tr": "Sürekli telefonla konuşur."
+    },
+    {
+      "word_en": "last",
+      "example_en": "The meeting lasted for three hours.",
+      "word_tr": "sürmek",
+      "example_tr": "Toplantı üç saat sürdü."
+    },
+    {
+      "word_en": "present",
+      "example_en": "She is currently present in the meeting.",
+      "word_tr": "mevcut",
+      "example_tr": "Toplantıda şu anda mevcut."
+    },
+    {
+      "word_en": "throughout",
+      "example_en": "He was restless throughout the night.",
+      "word_tr": "boyunca",
+      "example_tr": "Tüm gece boyunca huzursuzdu."
+    },
+    {
+      "word_en": "eventually",
+      "example_en": "They eventually reached their destination.",
+      "word_tr": "sonunda",
+      "example_tr": "Sonunda hedeflerine ulaştılar."
+    },
+    {
+      "word_en": "already",
+      "example_en": "I have already finished my homework.",
+      "word_tr": "zaten",
+      "example_tr": "Ödevimi zaten bitirdim."
+    },
+    {
+      "word_en": "sudden",
+      "example_en": "They were caught off guard by the sudden change in weather.",
+      "word_tr": "ani",
+      "example_tr": "Hava durumundaki ani değişiklik onları hazırlıksız yakaladı."
+    },
+    {
+      "word_en": "regular",
+      "example_en": "She goes for regular walks in the morning.",
+      "word_tr": "düzenli",
+      "example_tr": "Sabahları düzenli yürüyüşlere çıkar."
+    },
+    {
+      "word_en": "midday",
+      "example_en": "The sun was directly overhead at midday.",
+      "word_tr": "öğle vakti",
+      "example_tr": "Güneş öğle vakti doğrudan başlarının üstündeydi."
+    },
+    {
+      "word_en": "ahead of time",
+      "example_en": "She finished her work ahead of time.",
+      "word_tr": "zamanından önce",
+      "example_tr": "İşi zamanından önce bitirdi."
+    },
+    {
+      "word_en": "meanwhile",
+      "example_en": "Meanwhile, he continued working on his project.",
+      "word_tr": "bu arada",
+      "example_tr": "Bu arada, projede çalışmaya devam etti."
+    },
+    {
+      "word_en": "daytime",
+      "example_en": "Most people are active during the daytime.",
+      "word_tr": "gündüz",
+      "example_tr": "Çoğu insan gündüzleri aktiftir."
+    },
+    {
+      "word_en": "regularly",
+      "example_en": "She exercises regularly to stay fit.",
+      "word_tr": "düzenli olarak",
+      "example_tr": "Formda kalmak için düzenli olarak egzersiz yapar."
+    },
+    {
+      "word_en": "far",
+      "example_en": "The nearest gas station is far from here.",
+      "word_tr": "uzak",
+      "example_tr": "En yakın benzin istasyonu buradan uzak."
+    },
+    {
+      "word_en": "instantly",
+      "example_en": "The pain disappeared instantly after taking the medicine.",
+      "word_tr": "anında",
+      "example_tr": "İlaç aldıktan sonra ağrı anında kayboldu."
+    },
+    {
+      "word_en": "past",
+      "example_en": "He was much happier in the past.",
+      "word_tr": "geçmiş",
+      "example_tr": "Geçmişte çok daha mutluydu."
+    },
+    {
+      "word_en": "immediate",
+      "example_en": "They need immediate assistance.",
+      "word_tr": "anlık",
+      "example_tr": "Anında yardıma ihtiyaçları var."
+    },
+    {
+      "word_en": "all the time",
+      "example_en": "She talks on the phone all the time.",
+      "word_tr": "sürekli",
+      "example_tr": "Sürekli telefonla konuşur."
+    },
+    {
+      "word_en": "throughout",
+      "example_en": "He was restless throughout the night.",
+      "word_tr": "boyunca",
+      "example_tr": "Tüm gece boyunca huzursuzdu."
+    }
+  ]
+}
