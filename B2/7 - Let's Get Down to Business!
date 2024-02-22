@@ -1,1 +1,238 @@
-
+{
+  "words": [
+    {
+      "word_en": "agency",
+      "word_tr": "ajans",
+      "example_en": "The advertising agency created a successful campaign.",
+      "example_tr": "Reklam ajansı başarılı bir kampanya oluşturdu."
+    },
+    {
+      "word_en": "corporation",
+      "word_tr": "şirket",
+      "example_en": "The corporation employs thousands of people worldwide.",
+      "example_tr": "Şirket dünya çapında binlerce kişiyi istihdam ediyor."
+    },
+    {
+      "word_en": "board",
+      "word_tr": "kurul",
+      "example_en": "The board of directors meets once a month.",
+      "example_tr": "Yönetim kurulu ayda bir kez toplanır."
+    },
+    {
+      "word_en": "chairman",
+      "word_tr": "başkan",
+      "example_en": "The chairman welcomed everyone to the meeting.",
+      "example_tr": "Başkan, toplantıya katılan herkesi karşıladı."
+    },
+    {
+      "word_en": "entrepreneur",
+      "word_tr": "girişimci",
+      "example_en": "She's a successful entrepreneur who started her own business.",
+      "example_tr": "Kendi işini kuran başarılı bir girişimci."
+    },
+    {
+      "word_en": "clerk",
+      "word_tr": "memur",
+      "example_en": "The clerk processed the paperwork efficiently.",
+      "example_tr": "Memur, evrak işlemlerini verimli bir şekilde yürüttü."
+    },
+    {
+      "word_en": "draft",
+      "word_tr": "taslak",
+      "example_en": "He wrote up a draft of the proposal.",
+      "example_tr": "Önerinin bir taslağını hazırladı."
+    },
+    {
+      "word_en": "income",
+      "word_tr": "gelir",
+      "example_en": "Her income has increased significantly this year.",
+      "example_tr": "Bu yıl geliri önemli ölçüde arttı."
+    },
+    {
+      "word_en": "insurance",
+      "word_tr": "sigorta",
+      "example_en": "It's important to have health insurance.",
+      "example_tr": "Sağlık sigortası sahibi olmak önemlidir."
+    },
+    {
+      "word_en": "market research",
+      "word_tr": "pazar araştırması",
+      "example_en": "They conducted market research before launching the product.",
+      "example_tr": "Ürünü piyasaya sürmeden önce pazar araştırması yaptılar."
+    },
+    {
+      "word_en": "contract",
+      "word_tr": "sözleşme",
+      "example_en": "They signed a contract with the supplier.",
+      "example_tr": "Tedarikçi ile bir sözleşme imzaladılar."
+    },
+    {
+      "word_en": "establish",
+      "word_tr": "kurmak",
+      "example_en": "They aim to establish a new business in the region.",
+      "example_tr": "Bölgede yeni bir işletme kurmayı amaçlıyorlar."
+    },
+    {
+      "word_en": "found",
+      "word_tr": "kurmak",
+      "example_en": "He founded the company twenty years ago.",
+      "example_tr": "Şirketi yirmi yıl önce kurdu."
+    },
+    {
+      "word_en": "fund",
+      "word_tr": "fon",
+      "example_en": "They received a grant from the government fund.",
+      "example_tr": "Hükümet fonundan bir hibe aldılar."
+    },
+    {
+      "word_en": "manufacture",
+      "word_tr": "imalat",
+      "example_en": "The company specializes in the manufacture of electronics.",
+      "example_tr": "Şirket, elektronik üretiminde uzmanlaşmıştır."
+    },
+    {
+      "word_en": "launch",
+      "word_tr": "piyasaya sürmek",
+      "example_en": "They plan to launch the product next month.",
+      "example_tr": "Ürünü gelecek ay piyasaya sürmeyi planlıyorlar."
+    },
+    {
+      "word_en": "ship",
+      "word_tr": "göndermek",
+      "example_en": "The goods will be shipped next week.",
+      "example_tr": "Mal, gelecek hafta gönderilecek."
+    },
+    {
+      "word_en": "sponsor",
+      "word_tr": "sponsor",
+      "example_en": "The company agreed to sponsor the event.",
+      "example_tr": "Şirket, etkinliği sponsorlamanın üzerine anlaştı."
+    },
+    {
+      "word_en": "strategy",
+      "word_tr": "strateji",
+      "example_en": "They need to develop a new marketing strategy.",
+      "example_tr": "Yeni bir pazarlama stratejisi geliştirmeleri gerekiyor."
+    },
+    {
+      "word_en": "partnership",
+      "word_tr": "ortaklık",
+      "example_en": "They formed a partnership to expand their business.",
+      "example_tr": "İşlerini genişletmek için bir ortaklık kurmuşlardı."
+    },
+    {
+      "word_en": "profit margin",
+      "word_tr": "kar marjı",
+      "example_en": "They aim to increase their profit margin this year.",
+      "example_tr": "Bu yıl kar marjını artırmayı amaçlıyorlar."
+    },
+    {
+      "word_en": "stockholder",
+      "word_tr": "hisse sahibi",
+      "example_en": "As a stockholder, he has voting rights in the company.",
+      "example_tr": "Bir hisse sahibi olarak, şirkette oy kullanma hakkına sahiptir."
+    },
+    {
+      "word_en": "union",
+      "word_tr": "sendika",
+      "example_en": "The workers formed a union to negotiate for better conditions.",
+      "example_tr": "İşçiler, daha iyi koşullar için müzakere etmek üzere bir sendika kurdu."
+    },
+    {
+      "word_en": "tax evasion",
+      "word_tr": "vergi kaçırma",
+      "example_en": "Tax evasion is illegal.",
+      "example_tr": "Vergi kaçakçılığı yasadışıdır."
+    },
+    {
+      "word_en": "shipment",
+      "word_tr": "gönderi",
+      "example_en": "The shipment arrived at the warehouse yesterday.",
+      "example_tr": "Gönderi dün depoya geldi."
+    },
+    {
+      "word_en": "fortune",
+      "word_tr": "servet",
+      "example_en": "He inherited a fortune from his grandfather.",
+      "example_tr": "Büyükbabasından bir servet miras aldı."
+    },
+    {
+      "word_en": "savings",
+      "word_tr": "tasarruf",
+      "example_en": "She's saving money to buy a car.",
+      "example_tr": "Araba almak için para biriktiriyor."
+    },
+    {
+      "word_en": "wealthy",
+      "word_tr": "zengin",
+      "example_en": "They belong to a wealthy family.",
+      "example_tr": "Zengin bir aileye mensuplar."
+    },
+    {
+      "word_en": "come down",
+      "word_tr": "inmek",
+      "example_en": "The prices have come down recently.",
+      "example_tr": "Fiyatlar son zamanlarda düştü."
+    },
+    {
+      "word_en": "live on",
+      "word_tr": "geçinmek",
+      "example_en": "He lives on his pension.",
+      "example_tr": "Emekli maaşıyla geçinir."
+    },
+    {
+      "word_en": "pay off",
+      "word_tr": "borcunu kapatmak",
+      "example_en": "He finally paid off his student loans.",
+      "example_tr": "Sonunda öğrenci kredilerini ödedi."
+    },
+    {
+      "word_en": "set aside",
+      "word_tr": "ayırmak",
+      "example_en": "They set aside some money for emergencies.",
+      "example_tr": "Acil durumlar için bir miktar para ayırdılar."
+    },
+    {
+      "word_en": "discount",
+      "word_tr": "indirim",
+      "example_en": "There's a discount on selected items.",
+      "example_tr": "Seçili ürünlerde indirim var."
+    },
+    {
+      "word_en": "fee",
+      "word_tr": "ücret",
+      "example_en": "The lawyer charges a fee for his services.",
+      "example_tr": "Avukat, hizmetleri için bir ücret talep ediyor."
+    },
+    {
+      "word_en": "lending",
+      "word_tr": "borç verme",
+      "example_en": "The bank provides lending services.",
+      "example_tr": "Banka, borç verme hizmetleri sunar."
+    },
+    {
+      "word_en": "senior",
+      "word_tr": "üst düzey",
+      "example_en": "She's a senior executive at the company.",
+      "example_tr": "Şirkette üst düzey bir yönetici."
+    },
+    {
+      "word_en": "junior",
+      "word_tr": "alt düzey",
+      "example_en": "He started as a junior analyst.",
+      "example_tr": "Başlangıçta genç bir analist olarak başladı."
+    },
+    {
+      "word_en": "refund",
+      "word_tr": "iade",
+      "example_en": "They offered a refund for the faulty product.",
+      "example_tr": "Kusurlu ürün için iade teklif ettiler."
+    },
+    {
+      "word_en": "speak",
+      "word_tr": "konuşmak",
+      "example_en": "The CEO will speak at the conference.",
+      "example_tr": "CEO konferansta konuşacak."
+    }
+  ]
+}
