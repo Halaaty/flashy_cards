@@ -1,1 +1,190 @@
+Here is the JSON structure with the requested words along with randomized example sentences:
 
+```json
+{
+  "words": [
+    {
+      "word_en": "artwork",
+      "word_tr": "sanat eseri",
+      "example_en": "The gallery displayed a variety of artwork, from paintings to sculptures.",
+      "example_tr": "Galeri, resimlerden heykellere kadar çeşitli sanat eserleri sergiledi."
+    },
+    {
+      "word_en": "background",
+      "word_tr": "arka plan",
+      "example_en": "The background of the painting depicted a serene countryside.",
+      "example_tr": "Resmin arka planı sakin bir kırsal bölgeyi tasvir ediyordu."
+    },
+    {
+      "word_en": "foreground",
+      "word_tr": "ön plan",
+      "example_en": "The flowers in the foreground added depth to the artwork.",
+      "example_tr": "Ön plandaki çiçekler, sanat eserine derinlik kattı."
+    },
+    {
+      "word_en": "collector",
+      "word_tr": "koleksiyoncu",
+      "example_en": "The collector sought out rare and valuable pieces of art.",
+      "example_tr": "Koleksiyoncu, nadir ve değerli sanat eserlerini arıyordu."
+    },
+    {
+      "word_en": "graphic artist",
+      "word_tr": "grafik sanatçısı",
+      "example_en": "The graphic artist created stunning illustrations for the book.",
+      "example_tr": "Grafik sanatçısı, kitap için etkileyici illüstrasyonlar oluşturdu."
+    },
+    {
+      "word_en": "masterpiece",
+      "word_tr": "şaheser",
+      "example_en": "The painting is considered a masterpiece of Renaissance art.",
+      "example_tr": "Resim, Rönesans sanatının bir şaheseri olarak kabul edilir."
+    },
+    {
+      "word_en": "exhibit",
+      "word_tr": "sergi",
+      "example_en": "The museum hosted an exhibit featuring works by local artists.",
+      "example_tr": "Müze, yerel sanatçıların eserlerini sergileyen bir sergiye ev sahipliği yaptı."
+    },
+    {
+      "word_en": "image",
+      "word_tr": "görüntü",
+      "example_en": "The artist used vibrant colors to create a striking image.",
+      "example_tr": "Sanatçı, çarpıcı bir görüntü oluşturmak için canlı renkler kullandı."
+    },
+    {
+      "word_en": "landscape",
+      "word_tr": "manzara",
+      "example_en": "The painting depicted a breathtaking landscape.",
+      "example_tr": "Resim, nefes kesen bir manzarayı tasvir ediyordu."
+    },
+    {
+      "word_en": "self-portrait",
+      "word_tr": "öz portre",
+      "example_en": "The artist painted a self-portrait as a reflection of her inner self.",
+      "example_tr": "Sanatçı, iç dünyasının bir yansıması olarak bir öz portre resmetti."
+    },
+    {
+      "word_en": "subject matter",
+      "word_tr": "konu",
+      "example_en": "The subject matter of the artwork was inspired by nature.",
+      "example_tr": "Sanat eserinin konusu doğadan esinlenmişti."
+    },
+    {
+      "word_en": "shade",
+      "word_tr": "gölge",
+      "example_en": "The artist used light and shade to create depth in the painting.",
+      "example_tr": "Sanatçı, resimde derinlik oluşturmak için ışık ve gölgeyi kullandı."
+    },
+    {
+      "word_en": "ink",
+      "word_tr": "mürekkep",
+      "example_en": "The artist preferred to work with ink for its fluidity and depth of color.",
+      "example_tr": "Sanatçı, sıvı halinin ve renk derinliğinin tercih edilen bir aracı olarak mürekkeple çalışmayı tercih etti."
+    },
+    {
+      "word_en": "paint",
+      "word_tr": "boya",
+      "example_en": "The artist used acrylic paint for its vibrant colors and quick drying time.",
+      "example_tr": "Sanatçı, canlı renkleri ve hızlı kuruma süresi nedeniyle akrilik boya kullandı."
+    },
+    {
+      "word_en": "watercolor",
+      "word_tr": "sulu boya",
+      "example_en": "She painted the landscape using watercolor, giving it a soft and dreamy quality.",
+      "example_tr": "Manzarayı sulu boya kullanarak boyadı, ona yumuşak ve hayalperest bir kalite kazandırdı."
+    },
+    {
+      "word_en": "abstract",
+      "word_tr": "soyut",
+      "example_en": "The painting was an abstract representation of the artist's emotions.",
+      "example_tr": "Resim, sanatçının duygularının soyut bir temsiliydi."
+    },
+    {
+      "word_en": "artistic",
+      "word_tr": "sanatsal",
+      "example_en": "She had a natural artistic talent from a young age.",
+      "example_tr": "Küçük yaşlardan itibaren doğal bir sanatsal yeteneği vardı."
+    },
+    {
+      "word_en": "realistic",
+      "word_tr": "gerçekçi",
+      "example_en": "The painting was so realistic, it looked like a photograph.",
+      "example_tr": "Resim o kadar gerçekçiydi ki, bir fotoğraf gibi görünüyordu."
+    },
+    {
+      "word_en": "classic",
+      "word_tr": "klasik",
+      "example_en": "The artwork was influenced by classic Greek sculptures.",
+      "example_tr": "Sanat eseri, klasik Yunan heykellerinden etkilenmişti."
+    },
+    {
+      "word_en": "modern",
+      "word_tr": "modern",
+      "example_en": "Her artwork had a modern and innovative style.",
+      "example_tr": "Sanat eserleri modern ve yenilikçi bir tarza sahipti."
+    },
+    {
+      "word_en": "contemporary",
+      "word_tr": "çağdaş",
+      "example_en": "The gallery featured contemporary artwork from local artists.",
+      "example_tr": "Galeri, yerel sanatçılardan çağdaş sanat es
+
+erlerine yer verdi."
+    },
+    {
+      "word_en": "visual",
+      "word_tr": "görsel",
+      "example_en": "The visual impact of the artwork was powerful and immediate.",
+      "example_tr": "Sanat eserinin görsel etkisi güçlü ve hemen farkedilirdi."
+    },
+    {
+      "word_en": "vivid",
+      "word_tr": "canlı",
+      "example_en": "The painting used vivid colors to create a sense of energy and life.",
+      "example_tr": "Resim, enerji ve hayat duygusu yaratmak için canlı renkler kullandı."
+    },
+    {
+      "word_en": "depict",
+      "word_tr": "tasvir etmek",
+      "example_en": "The artwork depicted scenes from everyday life.",
+      "example_tr": "Sanat eseri, günlük hayattan sahneleri tasvir etti."
+    },
+    {
+      "word_en": "display",
+      "word_tr": "sergilemek",
+      "example_en": "The artist was proud to display her artwork in the gallery.",
+      "example_tr": "Sanatçı, sanat eserlerini galeride sergilemekten gurur duydu."
+    },
+    {
+      "word_en": "exhibit",
+      "word_tr": "sergilemek",
+      "example_en": "He will exhibit his artwork at the upcoming art show.",
+      "example_tr": "Sanat eserini yaklaşan sanat sergisinde sergileyecek."
+    },
+    {
+      "word_en": "frame",
+      "word_tr": "çerçeve",
+      "example_en": "The painting was beautifully framed and displayed on the wall.",
+      "example_tr": "Resim güzel bir şekilde çerçevelendi ve duvarda sergilendi."
+    },
+    {
+      "word_en": "inspire",
+      "word_tr": "ilham vermek",
+      "example_en": "Her travels around the world inspired her artwork.",
+      "example_tr": "Dünya çapında yaptığı seyahatler, sanat eserine ilham verdi."
+    },
+    {
+      "word_en": "model",
+      "word_tr": "model",
+      "example_en": "She used her friend as a model for the portrait.",
+      "example_tr": "Portre için arkadaşını model olarak kullandı."
+    },
+    {
+      "word_en": "restore",
+      "word_tr": "restore etmek",
+      "example_en": "The museum is working to restore the ancient artwork.",
+      "example_tr": "Müze, antik sanat eserini restore etmek için çalışıyor."
+    }
+  ]
+}
+```
