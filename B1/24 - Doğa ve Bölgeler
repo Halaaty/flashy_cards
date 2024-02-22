@@ -1,1 +1,149 @@
+{
+  "words": [
+    {
+      "word_en": "canyon",
+      "example_en": "The Grand Canyon is a famous natural landmark.",
+      "word_tr": "kanyon",
+      "example_tr": "Büyük Kanyon ünlü bir doğal anıttır."
+    },
+    {
+      "word_en": "sea level",
+      "example_en": "The city is just above sea level.",
+      "word_tr": "deniz seviyesi",
+      "example_tr": "Şehir deniz seviyesinin hemen üstündedir."
+    },
+    {
+      "word_en": "meadow",
+      "example_en": "The cows grazed peacefully in the meadow.",
+      "word_tr": "çayır",
+      "example_tr": "İnekler çayırda huzurlu bir şekilde otluyordu."
+    },
+    {
+      "word_en": "volcano",
+      "example_en": "Mount Vesuvius is an active volcano in Italy.",
+      "word_tr": "yanardağ",
+      "example_tr": "Vezüv Yanardağı, İtalya'da aktif bir yanardağdır."
+    },
+    {
+      "word_en": "rocky",
+      "example_en": "The trail became rocky as they ascended the mountain.",
+      "word_tr": "kayalık",
+      "example_tr": "Yolu dağa tırmandıkça kayalık hale geldi."
+    },
+    {
+      "word_en": "coastline",
+      "example_en": "They enjoyed a scenic drive along the coastline.",
+      "word_tr": "sahil şeridi",
+      "example_tr": "Sahil şeridi boyunca manzaralı bir sürüşün tadını çıkardılar."
+    },
+    {
+      "word_en": "Arctic",
+      "example_en": "Polar bears are well adapted to the harsh Arctic environment.",
+      "word_tr": "Kutup",
+      "example_tr": "Kutup ayıları, zorlu Arktik ortamına iyi adapte olmuşlardır."
+    },
+    {
+      "word_en": "land",
+      "example_en": "The plane landed safely at the airport.",
+      "word_tr": "kara",
+      "example_tr": "Uçak havalimanında güvenli bir şekilde indi."
+    },
+    {
+      "word_en": "woodland",
+      "example_en": "They went for a hike through the peaceful woodland.",
+      "word_tr": "ormanlık alan",
+      "example_tr": "Huzurlu ormanlık alanda bir yürüyüşe çıktılar."
+    },
+    {
+      "word_en": "waterfall",
+      "example_en": "The waterfall cascaded down the rocky cliff.",
+      "word_tr": "şelale",
+      "example_tr": "Şelale kayalık uçuruma doğru aşağıya kaskatı indi."
+    },
+    {
+      "word_en": "mountain range",
+      "example_en": "The Andes is the longest mountain range in the world.",
+      "word_tr": "dağ sırası",
+      "example_tr": "And Dağları dünyanın en uzun dağ silsilesidir."
+    },
+    {
+      "word_en": "national park",
+      "example_en": "Yellowstone National Park is known for its geysers and wildlife.",
+      "word_tr": "milli park",
+      "example_tr": "Yellowstone Ulusal Parkı, gayzirleri ve vahşi yaşamıyla tanınır."
+    },
+    {
+      "word_en": "jungle",
+      "example_en": "They explored the dense jungle in search of rare animals.",
+      "word_tr": "orman",
+      "example_tr": "Nadir hayvanları aramak için yoğun ormanı keşfettiler."
+    },
+    {
+      "word_en": "highland",
+      "example_en": "The highland region is known for its breathtaking views.",
+      "word_tr": "yüksek arazi",
+      "example_tr": "Yüksek arazi bölgesi nefes kesen manzaralarıyla tanınır."
+    },
+    {
+      "word_en": "bank",
+      "example_en": "They enjoyed a picnic by the river bank.",
+      "word_tr": "nehir kenarı",
+      "example_tr": "Nehir kenarında piknik yapmaktan keyif aldılar."
+    },
+    {
+      "word_en": "channel",
+      "example_en": "They navigated the narrow channel with caution.",
+      "word_tr": "kanal",
+      "example_tr": "Dar kanalı dikkatle geçtiler."
+    },
+    {
+      "word_en": "Antarctic",
+      "example_en": "Penguins are well adapted to the extreme conditions of the Antarctic.",
+      "word_tr": "Antarktika",
+      "example_tr": "Penguenler, Antarktika'nın aşırı koşullarına iyi adapte olmuşlardır."
+    },
+    {
+      "word_en": "location",
+      "example_en": "The hotel has a prime location near the beach.",
+      "word_tr": "konum",
+      "example_tr": "Otelin plaja yakın birinci sınıf bir konumu var."
+    },
+    {
+      "word_en": "mountainous",
+      "example_en": "They trekked through the mountainous terrain.",
+      "word_tr": "dağlık",
+      "example_tr": "Dağlık arazi boyunca yürüyüş yaptılar."
+    },
+    {
+      "word_en": "sand",
+      "example_en": "The children built sandcastles on the beach.",
+      "word_tr": "kum",
+      "example_tr": "Çocuklar plajda kumdan kaleler yaptılar."
+    },
+    {
+      "word_en": "mud",
+      "example_en": "The path was covered in thick mud after the rain.",
+      "word_tr": "çamur",
+      "example_tr": "Yağmurdan sonra yol kalın çamurla kaplıydı."
+    },
+    {
+      "word_en": "cliff",
+      "example_en": "They stood at the edge of the cliff, admiring the view.",
+      "word_tr": "uçurum",
+      "example_tr": "Manzarayı hayranlıkla izleyerek uçurumun kenarında durdular."
+    },
+    {
+      "word_en": "canal",
+      "example_en": "The boat traveled along the narrow canal.",
+      "word_tr": "kanal",
+      "example_tr": "Tekne dar kanal boyunca seyahat etti."
+    },
+    {
+      "word_en": "location",
+      "example_en": "The hotel has a prime location near the beach.",
+      "word_tr": "konum",
+      "example_tr": "Otelin plaja yakın birinci sınıf bir konumu var."
+    }
+  ]
+}
 
