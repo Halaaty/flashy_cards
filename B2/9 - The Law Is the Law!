@@ -1,1 +1,245 @@
+{
+  "words": [
+    {
+      "word_en": "family court",
+      "word_tr": "aile mahkemesi",
+      "example_en": "The custody case was heard in family court.",
+      "example_tr": "Velayet davası aile mahkemesinde görüldü."
+    },
+    {
+      "word_en": "jury",
+      "word_tr": "jüri",
+      "example_en": "The jury deliberated for hours before reaching a verdict.",
+      "example_tr": "Jüri, karara varmadan önce saatlerce müzakere etti."
+    },
+    {
+      "word_en": "trial",
+      "word_tr": "duruşma",
+      "example_en": "The trial lasted for several weeks.",
+      "example_tr": "Duruşma birkaç hafta sürdü."
+    },
+    {
+      "word_en": "justice",
+      "word_tr": "adalet",
+      "example_en": "Justice must be served.",
+      "example_tr": "Adalet yerine getirilmelidir."
+    },
+    {
+      "word_en": "injustice",
+      "word_tr": "adaletsizlik",
+      "example_en": "The decision was seen as an injustice by many.",
+      "example_tr": "Karar, birçok kişi tarafından adaletsizlik olarak görüldü."
+    },
+    {
+      "word_en": "strict",
+      "word_tr": "katı",
+      "example_en": "The school has strict rules.",
+      "example_tr": "Okulun katı kuralları var."
+    },
+    {
+      "word_en": "legal",
+      "word_tr": "yasal",
+      "example_en": "It's perfectly legal to own a gun in this state.",
+      "example_tr": "Bu eyalette silah bulundurmak tamamen yasaldır."
+    },
+    {
+      "word_en": "legally",
+      "word_tr": "yasal olarak",
+      "example_en": "He is legally entitled to half of the assets.",
+      "example_tr": "Varlıkların yarısına yasal olarak sahiptir."
+    },
+    {
+      "word_en": "valid",
+      "word_tr": "geçerli",
+      "example_en": "The contract is no longer valid.",
+      "example_tr": "Sözleşme artık geçerli değil."
+    },
+    {
+      "word_en": "regulation",
+      "word_tr": "düzenleme",
+      "example_en": "The new regulation will come into effect next month.",
+      "example_tr": "Yeni düzenleme önümüzdeki ay yürürlüğe girecek."
+    },
+    {
+      "word_en": "draft",
+      "word_tr": "taslak",
+      "example_en": "The draft of the law is under review.",
+      "example_tr": "Yasa taslağı inceleniyor."
+    },
+    {
+      "word_en": "judge",
+      "word_tr": "hakim",
+      "example_en": "The judge presided over the case.",
+      "example_tr": "Hakim davanın başkanlığını yaptı."
+    },
+    {
+      "word_en": "authority",
+      "word_tr": "yetki",
+      "example_en": "The local authority is responsible for public services.",
+      "example_tr": "Yerel yetki, kamu hizmetlerinden sorumludur."
+    },
+    {
+      "word_en": "inspector",
+      "word_tr": "müfettiş",
+      "example_en": "The health inspector checks the hygiene standards.",
+      "example_tr": "Sağlık müfettişi hijyen standartlarını kontrol eder."
+    },
+    {
+      "word_en": "clause",
+      "word_tr": "madde",
+      "example_en": "That clause is crucial to the contract.",
+      "example_tr": "O madde, sözleşme için hayati öneme sahiptir."
+    },
+    {
+      "word_en": "claim",
+      "word_tr": "iddia",
+      "example_en": "She made a claim for compensation.",
+      "example_tr": "Tazminat talep etti."
+    },
+    {
+      "word_en": "bill",
+      "word_tr": "fatura",
+      "example_en": "The utility bill arrived yesterday.",
+      "example_tr": "Fatura dün geldi."
+    },
+    {
+      "word_en": "action",
+      "word_tr": "eylem",
+      "example_en": "The police took action against the protesters.",
+      "example_tr": "Polis protestoculara karşı harekete geçti."
+    },
+    {
+      "word_en": "appeal",
+      "word_tr": "temyiz",
+      "example_en": "He filed an appeal against the court's decision.",
+      "example_tr": "Mahkemenin kararına karşı temyiz başvurusunda bulundu."
+    },
+    {
+      "word_en": "bail",
+      "word_tr": "kefalet",
+      "example_en": "He was released on bail.",
+      "example_tr": "Kefaletle serbest bırakıldı."
+    },
+    {
+      "word_en": "brief",
+      "word_tr": "kısa",
+      "example_en": "Let me give you a brief summary of the case.",
+      "example_tr": "Davanın kısa bir özetini vereyim."
+    },
+    {
+      "word_en": "charge",
+      "word_tr": "suçlama",
+      "example_en": "He denied the charges against him.",
+      "example_tr": "Kendisine yöneltilen suçlamaları reddetti."
+    },
+    {
+      "word_en": "account",
+      "word_tr": "hesap",
+      "example_en": "You need to create an account to access the website.",
+      "example_tr": "Websitesine erişmek için bir hesap oluşturmanız gerekiyor."
+    },
+    {
+      "word_en": "accuse",
+      "word_tr": "suçlamak",
+      "example_en": "He was accused of stealing the money.",
+      "example_tr": "Parayı çalmakla suçlandı."
+    },
+    {
+      "word_en": "challenge",
+      "word_tr": "meydan okumak",
+      "example_en": "The team challenged the decision.",
+      "example_tr": "Ekip karara meydan okudu."
+    },
+    {
+      "word_en": "suspect",
+      "word_tr": "şüphelenmek",
+      "example_en": "The police suspect him of the crime.",
+      "example_tr": "Polis onu suç işlemekle şüpheleniyor."
+    },
+    {
+      "word_en": "case",
+      "word_tr": "dava",
+      "example_en": "The case is still under investigation.",
+      "example_tr": "Dava hala soruşturma altında."
+    },
+    {
+      "word_en": "defend",
+      "word_tr": "savunmak",
+      "example_en": "The lawyer defended his client in court.",
+      "example_tr": "Avukat mahkemede müvekkilini savundu."
+    },
+    {
+      "word_en": "file",
+      "word_tr": "dosyalamak",
+      "example_en": "She filed a complaint with the HR department.",
+      "example_tr": "İnsan Kaynakları departmanına şikayette bulundu."
+    },
+    {
+      "word_en": "issue",
+      "word_tr": "sorun",
+      "example_en": "There was an issue with the payment.",
+      "example_tr": "Ödemede bir sorun vardı."
+    },
+    {
+      "word_en": "prohibit",
+      "word_tr": "yasaklamak",
+      "example_en": "Smoking is prohibited in this area.",
+      "example_tr": "Bu bölgede sigara içmek yasaktır."
+    },
+    {
+      "word_en": "prohibition",
+      "word_tr": "yasak",
+      "example_en": "There is a prohibition on alcohol in public parks.",
+      "example_tr": "Açık hava parklarında alkol kullanımı yasaktır."
+    },
+    {
+      "word_en": "try",
+      "word_tr": "denemek",
+      "example_en": "He will try to finish the project by Friday.",
+      "example_tr": "Projeyi Cuma gününe kadar bitirmeye çalışacak."
+    },
+    {
+      "word_en": "break",
+      "word_tr": "ihlal",
+      "example_en": "He committed a break of contract.",
+      "example_tr": "Sözleşme ihlali yaptı."
+    },
+    {
+      "word_en": "chair",
+      "word_tr": "başkanlık etmek",
+      "example_en": "He chaired the meeting.",
+      "example_tr": "Toplantıya başkanlık etti."
+    },
+    {
+      "word_en": "get away",
+      "word_tr": "kaçmak",
+      "example_en": "The thief managed to get away.",
+      "example_tr": "Hırsız kaçmayı başardı."
+    },
+    {
+      "word_en": "require",
+      "word_tr": "gerektirmek",
+      "example_en": "This job requires a lot of attention to detail.",
+      "example_tr": "Bu iş detaylara çok dikkat gerektirir."
+    },
+    {
+      "word_en": "disqualify",
+      "word_tr": "diskalifiye etmek",
+      "example_en": "He was disqualified from the race.",
+      "example_tr": "Yarıştan diskalifiye edildi."
+    },
+    {
+      "word_en": "judgment",
+      "word_tr": "karar",
+      "example_en": "The court issued its judgment.",
+      "example_tr": "Mahkeme kararını açıkladı."
+    },
+    {
+      "word_en": "criminal record",
+      "word_tr": "sabıka kaydı",
+      "example_en": "He had a criminal record.",
+      "example_tr": "Onun bir sabıka kaydı vardı."
+    }
+  ]
+}
 
