@@ -1,1 +1,161 @@
+{
+  "words": [
+    {
+      "word_en": "lunchtime",
+      "word_tr": "öğle vakti",
+      "example_en": "Let's have lunch at lunchtime.",
+      "example_tr": "Öğle vaktinde öğle yemeği yiyelim."
+    },
+    {
+      "word_en": "century",
+      "word_tr": "yüzyıl",
+      "example_en": "The 20th century saw many technological advancements.",
+      "example_tr": "20. yüzyıl birçok teknolojik ilerlemeye tanık oldu."
+    },
+    {
+      "word_en": "long",
+      "word_tr": "uzun",
+      "example_en": "The movie felt very long.",
+      "example_tr": "Film çok uzun gibi geldi."
+    },
+    {
+      "word_en": "short",
+      "word_tr": "kısa",
+      "example_en": "She wore a short skirt.",
+      "example_tr": "Kısa bir etek giydi."
+    },
+    {
+      "word_en": "moment",
+      "word_tr": "an",
+      "example_en": "It was a moment of great happiness.",
+      "example_tr": "Bu büyük bir mutluluk anıydı."
+    },
+    {
+      "word_en": "daily",
+      "word_tr": "günlük",
+      "example_en": "He writes in his diary daily.",
+      "example_tr": "Günlük olarak günlüğüne yazar."
+    },
+    {
+      "word_en": "recently",
+      "word_tr": "son zamanlarda",
+      "example_en": "I haven't seen her recently.",
+      "example_tr": "Son zamanlarda onu görmedim."
+    },
+    {
+      "word_en": "late",
+      "word_tr": "geç",
+      "example_en": "Don't be late for the meeting.",
+      "example_tr": "Toplantıya geç kalma."
+    },
+    {
+      "word_en": "tomorrow",
+      "word_tr": "yarın",
+      "example_en": "We'll go to the beach tomorrow.",
+      "example_tr": "Yarın plaja gideceğiz."
+    },
+    {
+      "word_en": "before",
+      "word_tr": "önce",
+      "example_en": "He had never visited that place before.",
+      "example_tr": "O yere daha önce hiç gitmemişti."
+    },
+    {
+      "word_en": "tonight",
+      "word_tr": "bu gece",
+      "example_en": "Let's watch a movie tonight.",
+      "example_tr": "Bu gece film izleyelim."
+    },
+    {
+      "word_en": "late",
+      "word_tr": "geç",
+      "example_en": "I stayed up late last night.",
+      "example_tr": "Dün gece geç saatlere kadar uyumadım."
+    },
+    {
+      "word_en": "modern",
+      "word_tr": "modern",
+      "example_en": "Their apartment has a modern design.",
+      "example_tr": "Dairelerinin modern bir tasarımı var."
+    },
+    {
+      "word_en": "a.m.",
+      "word_tr": "öğleden önce",
+      "example_en": "The train leaves at 8 a.m.",
+      "example_tr": "Tren saat 8'de öğleden önce hareket ediyor."
+    },
+    {
+      "word_en": "future",
+      "word_tr": "gelecek",
+      "example_en": "We should plan for the future.",
+      "example_tr": "Gelecek için plan yapmalıyız."
+    },
+    {
+      "word_en": "yesterday",
+      "word_tr": "dün",
+      "example_en": "We went for a walk yesterday.",
+      "example_tr": "Dün yürüyüşe çıktık."
+    },
+    {
+      "word_en": "on time",
+      "word_tr": "zamanında",
+      "example_en": "The train arrived on time.",
+      "example_tr": "Tren zamanında geldi."
+    },
+    {
+      "word_en": "calendar",
+      "word_tr": "takvim",
+      "example_en": "Mark the date on your calendar.",
+      "example_tr": "Takviminize tarihi işaretleyin."
+    },
+    {
+      "word_en": "weekly",
+      "word_tr": "haftalık",
+      "example_en": "She attends a yoga class weekly.",
+      "example_tr": "Haftalık olarak bir yoga dersine katılır."
+    },
+    {
+      "word_en": "monthly",
+      "word_tr": "aylık",
+      "example_en": "The magazine is published monthly.",
+      "example_tr": "Dergi aylık olarak yayımlanır."
+    },
+    {
+      "word_en": "moment",
+      "word_tr": "an",
+      "example_en": "It was a moment of great happiness.",
+      "example_tr": "Bu büyük bir mutluluk anıydı."
+    },
+    {
+      "word_en": "immediately",
+      "word_tr": "hemen",
+      "example_en": "Please respond immediately.",
+      "example_tr": "Lütfen hemen cevap verin."
+    },
+    {
+      "word_en": "before",
+      "word_tr": "önce",
+      "example_en": "Please arrive ten minutes before the meeting.",
+      "example_tr": "Toplantıdan on dakika önce gelin lütfen."
+    },
+    {
+      "word_en": "pass",
+      "word_tr": "geçmek",
+      "example_en": "He needed to pass the exam to graduate.",
+      "example_tr": "Mezun olmak için sınavı geçmesi gerekiyordu."
+    },
+    {
+      "word_en": "future",
+      "word_tr": "gelecek",
+      "example_en": "We should plan for the future.",
+      "example_tr": "Gelecek için plan yapmalıyız."
+    },
+    {
+      "word_en": "a.m.",
+      "word_tr": "öğleden önce",
+      "example_en": "The train leaves at 8 a.m.",
+      "example_tr": "Tren saat 8'de öğleden önce hareket ediyor."
+    }
+  ]
+}
 
