@@ -1,1 +1,161 @@
+{
+  "words": [
+    {
+      "word_en": "academic",
+      "example_en": "She pursued an academic career in research.",
+      "word_tr": "akademik",
+      "example_tr": "Araştırma alanında akademik bir kariyer izledi."
+    },
+    {
+      "word_en": "exercise",
+      "example_en": "Regular exercise is important for overall health.",
+      "word_tr": "egzersiz",
+      "example_tr": "Düzenli egzersiz genel sağlık için önemlidir."
+    },
+    {
+      "word_en": "higher education",
+      "example_en": "He aspires to pursue higher education abroad.",
+      "word_tr": "yüksek öğrenim",
+      "example_tr": "Yurtdışında yüksek öğrenim yapmayı arzuluyor."
+    },
+    {
+      "word_en": "attend",
+      "example_en": "Students are required to attend all lectures.",
+      "word_tr": "katılmak",
+      "example_tr": "Öğrencilerin tüm derslere katılması gereklidir."
+    },
+    {
+      "word_en": "pupil",
+      "example_en": "The teacher praised the pupil for her hard work.",
+      "word_tr": "öğrenci",
+      "example_tr": "Öğretmen, öğrenciyi çalışkanlığı için övdü."
+    },
+    {
+      "word_en": "campus",
+      "example_en": "The campus is buzzing with activity during orientation week.",
+      "word_tr": "kampüs",
+      "example_tr": "Oryantasyon haftasında kampüs hareketlilikle dolup taşıyor."
+    },
+    {
+      "word_en": "graduate",
+      "example_en": "After graduation, she plans to travel for a year.",
+      "word_tr": "mezun olmak",
+      "example_tr": "Mezuniyetten sonra bir yıl boyunca seyahat etmeyi planlıyor."
+    },
+    {
+      "word_en": "assignment",
+      "example_en": "The students were given a challenging assignment.",
+      "word_tr": "görev",
+      "example_tr": "Öğrencilere zorlayıcı bir görev verildi."
+    },
+    {
+      "word_en": "undergraduate",
+      "example_en": "She's currently an undergraduate majoring in biology.",
+      "word_tr": "lisans",
+      "example_tr": "Şu anda biyoloji alanında lisans eğitimi alıyor."
+    },
+    {
+      "word_en": "review",
+      "example_en": "He's preparing for the final exam by reviewing his notes.",
+      "word_tr": "inceleme",
+      "example_tr": "Notlarını gözden geçirerek final sınavına hazırlanıyor."
+    },
+    {
+      "word_en": "examine",
+      "example_en": "The doctor will examine the patient thoroughly.",
+      "word_tr": "muayene etmek",
+      "example_tr": "Doktor hastayı detaylı bir şekilde muayene edecek."
+    },
+    {
+      "word_en": "genius",
+      "example_en": "Her mathematical abilities mark her as a true genius.",
+      "word_tr": "dahi",
+      "example_tr": "Matematik yetenekleri onu gerçek bir dahi olarak işaretliyor."
+    },
+    {
+      "word_en": "drop out",
+      "example_en": "He decided to drop out of college and pursue his passion.",
+      "word_tr": "bırakmak",
+      "example_tr": "Üniversiteyi bırakıp tutkusunu takip etmeye karar verdi."
+    },
+    {
+      "word_en": "classwork",
+      "example_en": "The students completed their classwork before recess.",
+      "word_tr": "ders çalışması",
+      "example_tr": "Öğrenciler, teneffüsten önce ders çalışmalarını tamamladılar."
+    },
+    {
+      "word_en": "hit the books",
+      "example_en": "If you want to pass the exam, you need to hit the books.",
+      "word_tr": "kitaba sarılmak",
+      "example_tr": "Sınavı geçmek istiyorsanız, kitaba sarmalısınız."
+    },
+    {
+      "word_en": "lecturer",
+      "example_en": "The lecturer discussed the implications of the study.",
+      "word_tr": "öğretim görevlisi",
+      "example_tr": "Öğretim görevlisi, çalışmanın sonuçlarını tartıştı."
+    },
+    {
+      "word_en": "period",
+      "example_en": "There's a ten-minute break between each period.",
+      "word_tr": "dönem",
+      "example_tr": "Her dönem arasında on dakikalık bir ara var."
+    },
+    {
+      "word_en": "degree",
+      "example_en": "She received her degree in computer science.",
+      "word_tr": "derece",
+      "example_tr": "Bilgisayar bilimlerinde derecesini aldı."
+    },
+    {
+      "word_en": "quiz",
+      "example_en": "The quiz will cover material from the entire semester.",
+      "word_tr": "sınav",
+      "example_tr": "Sınav, tüm dönemden malzemeyi kapsayacak."
+    },
+    {
+      "word_en": "educational",
+      "example_en": "The museum offers various educational programs for children.",
+      "word_tr": "eğitimsel",
+      "example_tr": "Müze, çocuklar için çeşitli eğitimsel programlar sunuyor."
+    },
+    {
+      "word_en": "graduate",
+      "example_en": "She hopes to graduate with honors.",
+      "word_tr": "mezun",
+      "example_tr": "Honorlarla mezun olmayı umuyor."
+    },
+    {
+      "word_en": "tuition",
+      "example_en": "The university increased tuition fees this year.",
+      "word_tr": "öğrenim ücreti",
+      "example_tr": "Üniversite bu yıl öğrenim ücretlerini artırdı."
+    },
+    {
+      "word_en": "educated",
+      "example_en": "She comes from an educated family.",
+      "word_tr": "eğitimli",
+      "example_tr": "Eğitimli bir aileden geliyor."
+    },
+    {
+      "word_en": "semester",
+      "example_en": "He's taking three courses this semester.",
+      "word_tr": "yarıyıl",
+      "example_tr": "Bu yarıyıl üç ders alıyor."
+    },
+    {
+      "word_en": "adult education",
+      "example_en": "The university offers evening classes for adult education.",
+      "word_tr": "yetişkin eğitimi",
+      "example_tr": "Üniversite, yetişkin eğitimi için akşam dersleri sunuyor."
+    },
+    {
+      "word_en": "kindergarten",
+      "example_en": "She works as a teacher in a kindergarten.",
+      "word_tr": "anaokulu",
+      "example_tr": "Anaokulunda öğretmen olarak çalışıyor."
+    }
+  ]
+}
 
