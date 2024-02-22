@@ -1,1 +1,269 @@
+{
+  "words": [
+    {
+      "word_en": "capture",
+      "word_tr": "ele geçirmek",
+      "example_en": "The police managed to capture the suspect.",
+      "example_tr": "Polis, şüpheliyi ele geçirmeyi başardı."
+    },
+    {
+      "word_en": "expose",
+      "word_tr": "ortaya çıkarmak",
+      "example_en": "The investigation exposed widespread corruption.",
+      "example_tr": "Araştırma, yaygın bir yolsuzluğu ortaya çıkardı."
+    },
+    {
+      "word_en": "get away with",
+      "word_tr": "kurtulmak",
+      "example_en": "He thought he could get away with stealing.",
+      "example_tr": "Çalıntıyla kurtulabileceğini düşündü."
+    },
+    {
+      "word_en": "monitor",
+      "word_tr": "izlemek",
+      "example_en": "The police monitor the suspect's movements.",
+      "example_tr": "Polis, şüphelinin hareketlerini izler."
+    },
+    {
+      "word_en": "pursue",
+      "word_tr": "takip etmek",
+      "example_en": "The detectives pursued the criminal for months.",
+      "example_tr": "Polis dedektifleri aylarca suçluyu takip etti."
+    },
+    {
+      "word_en": "resist",
+      "word_tr": "karşı koymak",
+      "example_en": "She resisted the urge to eat the cake.",
+      "example_tr": "Pasta yeme isteğine karşı koydu."
+    },
+    {
+      "word_en": "sentence",
+      "word_tr": "ceza",
+      "example_en": "The judge handed down a harsh sentence.",
+      "example_tr": "Hakim sert bir ceza verdi."
+    },
+    {
+      "word_en": "witness",
+      "word_tr": "tanık",
+      "example_en": "The witness testified in court.",
+      "example_tr": "Tanık mahkemede ifade verdi."
+    },
+    {
+      "word_en": "arrest",
+      "word_tr": "gözaltına almak",
+      "example_en": "The police arrested the suspect.",
+      "example_tr": "Polis, şüpheliyi gözaltına aldı."
+    },
+    {
+      "word_en": "bulletproof vest",
+      "word_tr": "kurşun geçirmez yelek",
+      "example_en": "The officer wore a bulletproof vest for protection.",
+      "example_tr": "Memur korunmak için bir kurşun geçirmez yelek giydi."
+    },
+    {
+      "word_en": "community service",
+      "word_tr": "toplum hizmeti",
+      "example_en": "He was sentenced to perform community service.",
+      "example_tr": "Toplum hizmeti yapmak için mahkum edildi."
+    },
+    {
+      "word_en": "cell",
+      "word_tr": "hücre",
+      "example_en": "The prisoner was kept in a small cell.",
+      "example_tr": "Mahkum küçük bir hücrede tutuldu."
+    },
+    {
+      "word_en": "jail",
+      "word_tr": "hapishane",
+      "example_en": "He spent five years in jail for his crimes.",
+      "example_tr": "Suçlarından dolayı beş yıl hapiste geçirdi."
+    },
+    {
+      "word_en": "life sentence",
+      "word_tr": "müebbet hapis cezası",
+      "example_en": "He was given a life sentence for murder.",
+      "example_tr": "Cinayet suçundan müebbet hapis cezasına çarptırıldı."
+    },
+    {
+      "word_en": "crime",
+      "word_tr": "suç",
+      "example_en": "Burglary is a serious crime.",
+      "example_tr": "Hırsızlık ciddi bir suçtur."
+    },
+    {
+      "word_en": "eyewitness",
+      "word_tr": "görgü tanığı",
+      "example_en": "The eyewitness saw the accident happen.",
+      "example_tr": "Görgü tanığı kaza olduğunu gördü."
+    },
+    {
+      "word_en": "criminal",
+      "word_tr": "suçlu",
+      "example_en": "He was found guilty and labeled a criminal.",
+      "example_tr": "Suçlu bulundu ve bir suçlu olarak etiketlendi."
+    },
+    {
+      "word_en": "offender",
+      "word_tr": "suçlu",
+      "example_en": "The police arrested the offender.",
+      "example_tr": "Polis, suçluyu yakaladı."
+    },
+    {
+      "word_en": "drug dealer",
+      "word_tr": "uçucu madde satıcısı",
+      "example_en": "He was arrested for being a drug dealer.",
+      "example_tr": "Uyuşturucu satıcısı olduğu için gözaltına alındı."
+    },
+    {
+      "word_en": "fraud",
+      "word_tr": "sahtekarlık",
+      "example_en": "He was convicted of fraud.",
+      "example_tr": "Sahtekarlık suçundan mahkum edildi."
+    },
+    {
+      "word_en": "gang",
+      "word_tr": "çete",
+      "example_en": "The police dismantled the gang.",
+      "example_tr": "Polis, çeteyi çözdü."
+    },
+    {
+      "word_en": "pickpocket",
+      "word_tr": "cep hırsızı",
+      "example_en": "Beware of pickpockets in crowded places.",
+      "example_tr": "Kalabalık yerlerde cep hırsızlarına dikkat edin."
+    },
+    {
+      "word_en": "bombing",
+      "word_tr": "bombalama",
+      "example_en": "The city was devastated by the bombing.",
+      "example_tr": "Şehir bombalama saldırısıyla harap oldu."
+    },
+    {
+      "word_en": "burglary",
+      "word_tr": "hırsızlık",
+      "example_en": "The police are investigating a burglary in the neighborhood.",
+      "example_tr": "Polis, mahalledeki bir hırsızlığı soruşturuyor."
+    },
+    {
+      "word_en": "drunk",
+      "word_tr": "sarhoş",
+      "example_en": "He got drunk and caused a scene.",
+      "example_tr": "Sarhoş oldu ve bir olay çıkardı."
+    },
+    {
+      "word_en": "identity theft",
+      "word_tr": "kimlik hırsızlığı",
+      "example_en": "Her identity was stolen in an identity theft scam.",
+      "example_tr": "Kimlik hırsızlığı dolandırıcılığında kimliği çalındı."
+    },
+    {
+      "word_en": "robbery",
+      "word_tr": "soygun",
+      "example_en": "The bank robbery was carefully planned.",
+      "example_tr": "Banka soygunu dikkatlice planlandı."
+    },
+    {
+      "word_en": "shooting",
+      "word_tr": "ateş etme",
+      "example_en": "There was a shooting in the downtown area.",
+      "example_tr": "Şehir merkezinde bir silahlı saldırı oldu."
+    },
+    {
+      "word_en": "shoplifting",
+      "word_tr": "mağaza hırsızlığı",
+      "example_en": "She was caught shoplifting at the mall.",
+      "example_tr": "Alışveriş merkezinde mağaza hırsızlığı yaparken yakalandı."
+    },
+    {
+      "word_en": "terrorism",
+      "word_tr": "terörizm",
+      "example_en": "The government is taking measures to combat terrorism.",
+      "example_tr": "Hükümet, terörizmle mücadele için önlemler alıyor."
+    },
+    {
+      "word_en": "vandalism",
+      "word_tr": "vandalizm",
+      "example_en": "The vandalism caused damage to public property.",
+      "example_tr": "Vandalizm, kamu malına zarar verdi."
+    },
+    {
+      "word_en": "violence",
+      "word_tr": "şiddet",
+      "example_en": "There has been an increase in violence in the city.",
+      "example_tr": "Şehirde şiddet olaylarında artış yaşandı."
+    },
+    {
+      "word_en": "break out",
+      "word_tr": "patlak vermek",
+      "example_en": "The riot broke out unexpectedly.",
+      "example_tr": "Ayaklanma beklenmedik bir şekilde patlak verdi."
+    },
+    {
+      "word_en": "hang",
+      "word_tr": "asılmak",
+      "example_en": "The criminal was sentenced to hang.",
+      "example_tr": "Suçlu idam cezasına çarptırıldı."
+    },
+    {
+      "word_en": "break",
+      "word_tr": "kırmak",
+      "example_en": "He broke the window to get into the house.",
+      "example_tr": "Eve girmek için camı kırdı."
+    },
+    {
+      "word_en": "grass",
+      "word_tr": "ihbarcı",
+      "example_en": "He was labeled a grass after informing the police.",
+      "example_tr": "Polise bilgi verdikten sonra ihbarcı olarak etiketlendi."
+    },
+    {
+      "word_en": "narc",
+      "word_tr": "polis muhbiri",
+      "example_en": "He worked as a narc to infiltrate the drug ring.",
+      "example_tr": "Uyuşturucu çetesine sızmak için polis muhbiri olarak çalıştı."
+    },
+    {
+      "word_en": "stoned",
+      "word_tr": "uçmuş",
+      "example_en": "He was arrested for driving while stoned.",
+      "example_tr": "Uçmuşken araba kullanmaktan dolayı gözaltına alındı."
+    },
+    {
+      "word_en": "trip",
+      "word_tr": "uçmak",
+      "example_en": "He's on a bad trip.",
+      "example_tr": "Kötü bir uçuşta."
+    },
+    {
+      "word_en": "breathalyzer",
+      "word_tr": "alkol testi cihazı",
+      "example_en": "The police used a breathalyzer to test for alcohol.",
+      "example_tr": "Polis, alkol için alkol testi cihazını kullandı."
+    },
+    {
+      "word_en": "disobey",
+      "word_tr": "itaatsizlik etmek",
+      "example_en": "He was punished for disobeying orders.",
+      "example_tr": "Emirlere itaatsizlik ettiği için cezalandırıldı."
+    },
+    {
+      "word_en": "lock away",
+      "word_tr": "hapsetmek",
+      "example_en": "The criminal was locked away for his crimes.",
+      "example_tr": "Suçlarından dolayı suçlu hapse atıldı."
+    },
+    {
+      "word_en": "dead to rights",
+      "word_tr": "suçüstü",
+      "example_en": "He was caught dead to rights.",
+      "example_tr": "Suçüstü yakalandı."
+    },
+    {
+      "word_en": "scam",
+      "word_tr": "dolandırıcılık",
+      "example_en": "He fell victim to an online scam.",
+      "example_tr": "İnternet dolandırıcılığına kurban gitti."
+    }
+  ]
+}
 
