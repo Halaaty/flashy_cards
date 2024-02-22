@@ -1,1 +1,179 @@
+{
+  "words": [
+    {
+      "word_en": "thick",
+      "example_en": "She has thick, luscious hair.",
+      "word_tr": "kalın",
+      "example_tr": "Kalın, sağlıklı saçları var."
+    },
+    {
+      "word_en": "frown",
+      "example_en": "He had a deep frown on his face.",
+      "word_tr": "kaşlarını çatmak",
+      "example_tr": "Yüzünde derin bir kaş çatma vardı."
+    },
+    {
+      "word_en": "hairstyle",
+      "example_en": "She got a new hairstyle for the wedding.",
+      "word_tr": "saç modeli",
+      "example_tr": "Düğün için yeni bir saç modeli yaptırdı."
+    },
+    {
+      "word_en": "race",
+      "example_en": "She won the race by a narrow margin.",
+      "word_tr": "yarış",
+      "example_tr": "Dar bir farkla yarışı kazandı."
+    },
+    {
+      "word_en": "attractiveness",
+      "example_en": "Her attractiveness drew many admirers.",
+      "word_tr": "çekicilik",
+      "example_tr": "Çekiciliği birçok hayran çekti."
+    },
+    {
+      "word_en": "well-dressed",
+      "example_en": "He always looks well-dressed at parties.",
+      "word_tr": "şık giyimli",
+      "example_tr": "Partilerde her zaman şık giyinir."
+    },
+    {
+      "word_en": "expression",
+      "example_en": "His expression was one of surprise.",
+      "word_tr": "ifade",
+      "example_tr": "İfadesi şaşkınlıkla doluydu."
+    },
+    {
+      "word_en": "shave",
+      "example_en": "He needs to shave every morning.",
+      "word_tr": "traş olmak",
+      "example_tr": "Her sabah traş olması gerekiyor."
+    },
+    {
+      "word_en": "shiny",
+      "example_en": "Her hair was shiny and smooth.",
+      "word_tr": "parlak",
+      "example_tr": "Saçları parlak ve düzgündü."
+    },
+    {
+      "word_en": "stunning",
+      "example_en": "She looked stunning in her evening gown.",
+      "word_tr": "çarpıcı",
+      "example_tr": "Akşam elbisesinde çarpıcı görünüyordu."
+    },
+    {
+      "word_en": "pale",
+      "example_en": "Her face turned pale with fear.",
+      "word_tr": "solgun",
+      "example_tr": "Yüzü korkuyla solgunlaştı."
+    },
+    {
+      "word_en": "freckle",
+      "example_en": "She has a cute freckle on her nose.",
+      "word_tr": "çil",
+      "example_tr": "Burnunda sevimli bir çil var."
+    },
+    {
+      "word_en": "red",
+      "example_en": "Her cheeks turned red with embarrassment.",
+      "word_tr": "kırmızı",
+      "example_tr": "Yanakları utançla kıpkırmızı oldu."
+    },
+    {
+      "word_en": "ugliness",
+      "example_en": "He was mocked for his ugliness.",
+      "word_tr": "çirkinlik",
+      "example_tr": "Çirkinliği nedeniyle alay edildi."
+    },
+    {
+      "word_en": "comb",
+      "example_en": "She combed her hair before going out.",
+      "word_tr": "tarak",
+      "example_tr": "Dışarı çıkmadan önce saçını taradı."
+    },
+    {
+      "word_en": "chubby",
+      "example_en": "The baby had chubby cheeks.",
+      "word_tr": "yuvarlak yüzlü",
+      "example_tr": "Bebek yuvarlak yanaklara sahipti."
+    },
+    {
+      "word_en": "ginger",
+      "example_en": "She had beautiful ginger hair.",
+      "word_tr": "kızıl",
+      "example_tr": "Güzel kızıl saçları vardı."
+    },
+    {
+      "word_en": "little",
+      "example_en": "He had little freckles on his nose.",
+      "word_tr": "az",
+      "example_tr": "Burnunda az miktarda çil vardı."
+    },
+    {
+      "word_en": "spot",
+      "example_en": "She had a dark spot on her chin.",
+      "word_tr": "lekelenme",
+      "example_tr": "Çenesinde koyu bir lekesi vardı."
+    },
+    {
+      "word_en": "obese",
+      "example_en": "He became obese due to overeating.",
+      "word_tr": "şişman",
+      "example_tr": "Aşırı yeme nedeniyle obez oldu."
+    },
+    {
+      "word_en": "underweight",
+      "example_en": "She was underweight for her height.",
+      "word_tr": "zayıf",
+      "example_tr": "Boyunun uzunluğuna göre zayıftı."
+    },
+    {
+      "word_en": "haircut",
+      "example_en": "He got a trendy haircut.",
+      "word_tr": "sac kesim",
+      "example_tr": "Modaya uygun bir saç kesimi yaptırdı."
+    },
+    {
+      "word_en": "raindrop",
+      "example_en": "The raindrop fell silently on the windowpane.",
+      "word_tr": "yağmur damlası",
+      "example_tr": "Yağmur damlası sessizce pencere camına düştü."
+    },
+    {
+      "word_en": "gorgeous",
+      "example_en": "She looked absolutely gorgeous in her wedding dress.",
+      "word_tr": "muhteşem",
+      "example_tr": "Düğün elbisesinde tamamen muhteşem görünüyordu."
+    },
+    {
+      "word_en": "gray-haired",
+      "example_en": "He is becoming gray-haired with age.",
+      "word_tr": "ak saçlı",
+      "example_tr": "Yaşla birlikte saçları aklaşmaya başlıyor."
+    },
+    {
+      "word_en": "hairy",
+      "example_en": "He had hairy arms.",
+      "word_tr": "kıllı",
+      "example_tr": "Kolları kıllıydı."
+    },
+    {
+      "word_en": "grin",
+      "example_en": "She couldn't help but grin at his joke.",
+      "word_tr": "sırıtmak",
+      "example_tr": "Onun şakasına gülmekten kendini alamadı."
+    },
+    {
+      "word_en": "red",
+      "example_en": "Her cheeks turned red with embarrassment.",
+      "word_tr": "kırmızı",
+      "example_tr": "Yanakları utançla kıpkırmızı oldu."
+    },
+    {
+      "word_en": "unattractive",
+      "example_en": "He felt unattractive after gaining weight.",
+      "word_tr": "çekici olmayan",
+      "example_tr": "Kilolar aldıktan sonra çekici hissetmedi."
+    }
+  ]
+}
 
