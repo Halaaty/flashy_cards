@@ -1,1 +1,24 @@
-
+{
+  "categories": [
+    {
+      "name": "1 - Animals in the Wild",
+      "id": "1"
+    },
+    {
+      "name": "2 - How Do I Look?",
+      "id": "2"
+    },
+    {
+      "name": "3 - Stay Connected!",
+      "id": "3"
+    },
+    {
+      "name": "4 - Talking Movies",
+      "id": "4"
+    },
+    {
+      "name": "5 - You Are What You Eat!",
+      "id": "5"
+    }
+  ]
+}
