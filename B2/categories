@@ -1,1 +1,24 @@
-
+{
+  "categories": [
+    {
+      "name": "1 - Inspector Gadget",
+      "id": "1"
+    },
+    {
+      "name": "2 - Let's Go to the Zoo!",
+      "id": "2"
+    },
+    {
+      "name": "3 - Fashion Can Do Anything!",
+      "id": "3"
+    },
+    {
+      "name": "4 - Family Is Forever!",
+      "id": "4"
+    },
+    {
+      "name": "5 - Art Has No Rules!",
+      "id": "5"
+    }
+  ]
+}
