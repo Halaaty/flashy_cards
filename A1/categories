@@ -1,1 +1,32 @@
-
+{
+  "categories": [
+    {
+      "name": "Merhaba ve Hoşçakal",
+      "id": "1"
+    },
+    {
+      "name": "İnsanlar",
+      "id": "2"
+    },
+    {
+      "name": "0'dan 100'e kadar sayılar",
+      "id": "3"
+    },
+    {
+      "name": "Aile",
+      "id": "4"
+    },
+    {
+      "name": "Renkler",
+      "id": "5"
+    },
+    {
+      "name": "Aylar ve Mevsimler",
+      "id": "6"
+    },
+    {
+      "name": "Saat ve Tarih",
+      "id": "7"
+    }
+  ]
+}
