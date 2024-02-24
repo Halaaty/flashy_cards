@@ -1,1 +1,24 @@
-
+{
+  "categories": [
+    {
+      "name": "1 - Ev Aletleri ve Cihazlar",
+      "id": "1"
+    },
+    {
+      "name": "2 - kiyafetler ve Aksesuarlar",
+      "id": "2"
+    },
+    {
+      "name": "3 - Renkler ve Şekiller",
+      "id": "3"
+    },
+    {
+      "name": "4 - Bilgisayar ve Bilgi",
+      "id": "4"
+    },
+    {
+      "name": "5 - Okul",
+      "id": "5"
+    }
+  ]
+}
