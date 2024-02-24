@@ -1,1 +1,24 @@
-
+{
+  "categories": [
+    {
+      "name": "1 - Aile ve İlişkiler",
+      "id": "1"
+    },
+    {
+      "name": "2 - Hayvanlar Alemi",
+      "id": "2"
+    },
+    {
+      "name": "3 - Evler ve Binalar",
+      "id": "3"
+    },
+    {
+      "name": "4 - İş ve İşyeri",
+      "id": "4"
+    },
+    {
+      "name": "5 - Meslekler",
+      "id": "5"
+    }
+  ]
+}
