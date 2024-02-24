@@ -1,32 +1,24 @@
 {
   "categories": [
     {
-      "name": "Merhaba ve Hoşçakal",
+      "name": "1 - Merhaba ve Hoşçakal",
       "id": "1"
     },
     {
-      "name": "İnsanlar",
+      "name": "2 - İnsanlar",
       "id": "2"
     },
     {
-      "name": "0'dan 100'e kadar sayılar",
+      "name": "3 - 0'dan 100'e kadar sayılar",
       "id": "3"
     },
     {
-      "name": "Aile",
+      "name": "4 - Aile",
       "id": "4"
     },
     {
-      "name": "Renkler",
+      "name": "5 - Renkler",
       "id": "5"
-    },
-    {
-      "name": "Aylar ve Mevsimler",
-      "id": "6"
-    },
-    {
-      "name": "Saat ve Tarih",
-      "id": "7"
     }
   ]
 }
