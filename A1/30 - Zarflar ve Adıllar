@@ -1,1 +1,130 @@
-
+{
+  "words": [
+    {
+      "word_en": "when",
+      "example_en": "When will you arrive?",
+      "word_tr": "ne zaman",
+      "example_tr": "Ne zaman varacaksın?"
+    },
+    {
+      "word_en": "else",
+      "example_en": "Is there anything else you need?",
+      "word_tr": "başka",
+      "example_tr": "İhtiyacın olan başka bir şey var mı?"
+    },
+    {
+      "word_en": "where",
+      "example_en": "Where are you going?",
+      "word_tr": "nerede",
+      "example_tr": "Nereye gidiyorsun?"
+    },
+    {
+      "word_en": "how",
+      "example_en": "How did you do that?",
+      "word_tr": "nasıl",
+      "example_tr": "Bunu nasıl yaptın?"
+    },
+    {
+      "word_en": "who",
+      "example_en": "Who is that?",
+      "word_tr": "kim",
+      "example_tr": "O kim?"
+    },
+    {
+      "word_en": "what",
+      "example_en": "What is this?",
+      "word_tr": "ne",
+      "example_tr": "Bu nedir?"
+    },
+    {
+      "word_en": "why",
+      "example_en": "Why did you do that?",
+      "word_tr": "neden",
+      "example_tr": "Bunu neden yaptın?"
+    },
+    {
+      "word_en": "really",
+      "example_en": "Did he really say that?",
+      "word_tr": "gerçekten",
+      "example_tr": "O gerçekten öyle dedi mi?"
+    },
+    {
+      "word_en": "of course",
+      "example_en": "Of course I'll help you.",
+      "word_tr": "tabii ki",
+      "example_tr": "Tabii ki sana yardım ederim."
+    },
+    {
+      "word_en": "again",
+      "example_en": "Let's try it again.",
+      "word_tr": "tekrar",
+      "example_tr": "Bunu tekrar deneyelim."
+    },
+    {
+      "word_en": "there",
+      "example_en": "Is he over there?",
+      "word_tr": "orada",
+      "example_tr": "O orada mı?"
+    },
+    {
+      "word_en": "here",
+      "example_en": "Come here, please.",
+      "word_tr": "burada",
+      "example_tr": "Lütfen buraya gel."
+    },
+    {
+      "word_en": "too",
+      "example_en": "I want to come too.",
+      "word_tr": "da",
+      "example_tr": "Ben de gelmek istiyorum."
+    },
+    {
+      "word_en": "soon",
+      "example_en": "We'll be there soon.",
+      "word_tr": "yakında",
+      "example_tr": "Yakında orada olacağız."
+    },
+    {
+      "word_en": "now",
+      "example_en": "I'm busy now.",
+      "word_tr": "şimdi",
+      "example_tr": "Şu anda meşgulüm."
+    },
+    {
+      "word_en": "sometimes",
+      "example_en": "Sometimes it rains.",
+      "word_tr": "bazen",
+      "example_tr": "Bazen yağmur yağar."
+    },
+    {
+      "word_en": "often",
+      "example_en": "He often goes to the gym.",
+      "word_tr": "sık sık",
+      "example_tr": "Sık sık spor salonuna gider."
+    },
+    {
+      "word_en": "usually",
+      "example_en": "I usually have coffee in the morning.",
+      "word_tr": "genellikle",
+      "example_tr": "Sabahları genellikle kahve içerim."
+    },
+    {
+      "word_en": "never",
+      "example_en": "I never eat meat.",
+      "word_tr": "hiçbir zaman",
+      "example_tr": "Ben hiç et yemem."
+    },
+    {
+      "word_en": "always",
+      "example_en": "She always arrives on time.",
+      "word_tr": "her zaman",
+      "example_tr": "O her zaman zamanında gelir."
+    },
+    {
+      "word_en": "outside",
+      "example_en": "Let's go outside and enjoy the sunshine.",
+      "word_tr": "dışarıda",
+      "example_tr": "Hadi dışarı çıkıp güneşin tadını çıkaralım."
+    }
+  ]
+}
