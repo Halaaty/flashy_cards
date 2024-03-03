@@ -1,1 +1,155 @@
+{
+  "words": [
+    {
+      "word_en": "weather",
+      "example_en": "The weather was warm and sunny.",
+      "word_tr": "hava durumu",
+      "example_tr": "Hava durumu sıcak ve güneşliydi."
+    },
+    {
+      "word_en": "fire",
+      "example_en": "They built a fire to keep warm.",
+      "word_tr": "ateş",
+      "example_tr": "Isınmak için bir ateş yaktılar."
+    },
+    {
+      "word_en": "hot",
+      "example_en": "It's hot outside, so wear light clothes.",
+      "word_tr": "sıcak",
+      "example_tr": "Dışarısı sıcak, bu yüzden hafif giysiler giy."
+    },
+    {
+      "word_en": "cold",
+      "example_en": "Don't forget to wear a coat in the cold weather.",
+      "word_tr": "soğuk",
+      "example_tr": "Soğuk hava için bir palto giymeyi unutma."
+    },
+    {
+      "word_en": "sunny",
+      "example_en": "It's sunny today, perfect for a picnic.",
+      "word_tr": "güneşli",
+      "example_tr": "Bugün güneşli, piknik yapmak için harika."
+    },
+    {
+      "word_en": "cloud",
+      "example_en": "The sky was filled with fluffy white clouds.",
+      "word_tr": "bulut",
+      "example_tr": "Gökyüzü kabarık beyaz bulutlarla doluydu."
+    },
+    {
+      "word_en": "cloudy",
+      "example_en": "It's a bit cloudy, but it might clear up later.",
+      "word_tr": "bulutlu",
+      "example_tr": "Biraz bulutlu, ama sonra açılabilir."
+    },
+    {
+      "word_en": "rain",
+      "example_en": "Don't forget your umbrella, it might rain.",
+      "word_tr": "yağmur",
+      "example_tr": "Şemsiyenizi unutmayın, yağmur yağabilir."
+    },
+    {
+      "word_en": "rainy",
+      "example_en": "It's been a rainy week, bring your raincoat.",
+      "word_tr": "yağmurlu",
+      "example_tr": "Yağmurlu bir hafta oldu, yağmurluğunuzu getirin."
+    },
+    {
+      "word_en": "snowy",
+      "example_en": "The kids love playing in the snowy yard.",
+      "word_tr": "karlı",
+      "example_tr": "Çocuklar karlı bahçede oynamayı severler."
+    },
+    {
+      "word_en": "ice",
+      "example_en": "Be careful, the path is covered in ice.",
+      "word_tr": "buz",
+      "example_tr": "Dikkatli ol, yol buzla kaplı."
+    },
+    {
+      "word_en": "nature",
+      "example_en": "They went hiking to enjoy nature.",
+      "word_tr": "doğa",
+      "example_tr": "Doğanın tadını çıkarmak için yürüyüşe çıktılar."
+    },
+    {
+      "word_en": "sun",
+      "example_en": "The sun was setting behind the mountains.",
+      "word_tr": "güneş",
+      "example_tr": "Güneş dağların arkasında batıyordu."
+    },
+    {
+      "word_en": "moon",
+      "example_en": "The full moon lit up the night sky.",
+      "word_tr": "ay",
+      "example_tr": "Dolunay gece gökyüzünü aydınlattı."
+    },
+    {
+      "word_en": "Earth",
+      "example_en": "We must protect the Earth for future generations.",
+      "word_tr": "Dünya",
+      "example_tr": "Gelecek nesiller için Dünya'yı korumalıyız."
+    },
+    {
+      "word_en": "sky",
+      "example_en": "The sky was clear and blue.",
+      "word_tr": "gökyüzü",
+      "example_tr": "Gökyüzü açık ve maviydi."
+    },
+    {
+      "word_en": "river",
+      "example_en": "They went canoeing down the river.",
+      "word_tr": "nehir",
+      "example_tr": "Nehrin aşağısına kanoya binmeye gittiler."
+    },
+    {
+      "word_en": "sea",
+      "example_en": "They spent the day swimming in the sea.",
+      "word_tr": "deniz",
+      "example_tr": "Denizde yüzerek günlerini geçirdiler."
+    },
+    {
+      "word_en": "mountain",
+      "example_en": "They climbed the mountain to enjoy the view.",
+      "word_tr": "dağ",
+      "example_tr": "Manzarayı seyretmek için dağa tırmandılar."
+    },
+    {
+      "word_en": "beach",
+      "example_en": "They built sandcastles on the beach.",
+      "word_tr": "plaj",
+      "example_tr": "Plajda kumdan kaleler inşa ettiler."
+    },
+    {
+      "word_en": "forest",
+      "example_en": "They went hiking in the forest.",
+      "word_tr": "orman",
+      "example_tr": "Ormanda yürüyüşe çıktılar."
+    },
+    {
+      "word_en": "island",
+      "example_en": "They went snorkeling around the island.",
+      "word_tr": "ada",
+      "example_tr": "Adanın etrafında şnorkelle dalışa gittiler."
+    },
+    {
+      "word_en": "star",
+      "example_en": "They gazed at the stars in the night sky.",
+      "word_tr": "yıldız",
+      "example_tr": "Gece gökyüzündeki yıldızlara baktılar."
+    },
+    {
+      "word_en": "tree",
+      "example_en": "They sat under the shade of a large tree.",
+      "word_tr": "ağaç",
+      "example_tr": "Büyük bir ağacın gölgesine oturdular."
+    },
+    {
+      "word_en": "flower",
+      "example_en": "She picked a bouquet of wildflowers.",
+      "word_tr": "çiçek",
+      "example_tr": "Yabani çiçeklerden bir buket seçti."
+    }
+  ]
+}
 
