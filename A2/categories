@@ -19,6 +19,126 @@
     {
       "name": "5 - Okul",
       "id": "5"
+    },
+    {
+      "name": "6 - Hayvanlar",
+      "id": "6"
+    },
+    {
+      "name": "7 - Görünüm",
+      "id": "7"
+    },
+    {
+      "name": "8 - Vücut",
+      "id": "8"
+    },
+    {
+      "name": "9 - Bağlaçlar ve Edatlar",
+      "id": "9"
+    },
+    {
+      "name": "10 - İletişim",
+      "id": "10"
+    },
+    {
+      "name": "11 - Sinema ve Tiyatro",
+      "id": "11"
+    },
+    {
+      "name": "12 - Müzik ve Edebiyat",
+      "id": "12"
+    },
+    {
+      "name": "13 - Aile ve Arkadaşlar",
+      "id": "13"
+    },
+    {
+      "name": "14 - Yemek ve Restoran 1",
+      "id": "14"
+    },
+    {
+      "name": "15 - Sağlık ve Hastalık 1",
+      "id": "15"
+    },
+    {
+      "name": "16 - Hobiler ve Günlük Aktiviteler",
+      "id": "16"
+    },
+    {
+      "name": "17 - Ev",
+      "id": "17"
+    },
+    {
+      "name": "18 - Saat ve Tarih",
+      "id": "18"
+    },
+    {
+      "name": "19 - Zıt Sıfatlar 1",
+      "id": "19"
+    },
+    {
+      "name": "20 - Doğa ve Doğal Afetler",
+      "id": "20"
+    },
+    {
+      "name": "21 - Para ve Alışveriş",
+      "id": "21"
+    },
+    {
+      "name": "22 - iş verme ve Meslekler 1",
+      "id": "22"
+    },
+    {
+      "name": "23 - Egzersiz ve Spor 1",
+      "id": "23"
+    },
+    {
+      "name": "24 - Seyahat ve Turizm 1",
+      "id": "24"
+    },
+    {
+      "name": "25 - Hava Durumu",
+      "id": "25"
+    },
+    {
+      "name": "26 - miktar",
+      "id": "26"
+    },
+    {
+      "name": "27 - Ülkeler ve Milliyetler",
+      "id": "27"
+    },
+    {
+      "name": "28 - Diller ve Dil Bilgisi",
+      "id": "28"
+    },
+    {
+      "name": "29 - Öbek Fiiller",
+      "id": "29"
+    },
+    {
+      "name": "30 - Çiçekler, Meyveler ve Kuruyemişler",
+      "id": "30"
+    },
+    {
+      "name": "31 - Kişilik ve Davranış",
+      "id": "31"
+    },
+    {
+      "name": "32 - Yemek ve Restoran 2",
+      "id": "32"
+    },
+    {
+      "name": "33 - Sağlık ve Hastalık 2",
+      "id": "33"
+    },
+    {
+      "name": "34 - iş verme ve Meslekler 2",
+      "id": "34"
+    },
+    {
+      "name": "35 - Egzersiz ve Spor 2",
+      "id": "35"
     }
   ]
 }
