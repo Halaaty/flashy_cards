@@ -1,1 +1,173 @@
+{
+  "words": [
+    {
+      "word_en": "hear",
+      "example_en": "I can hear the birds chirping outside.",
+      "word_tr": "duymak",
+      "example_tr": "Dışarıda kuşların öttüğünü duyabiliyorum."
+    },
+    {
+      "word_en": "listen",
+      "example_en": "Please listen carefully to what I'm saying.",
+      "word_tr": "dinlemek",
+      "example_tr": "Lütfen söylediklerimi dikkatle dinleyin."
+    },
+    {
+      "word_en": "see",
+      "example_en": "I see a beautiful sunset from my window.",
+      "word_tr": "görmek",
+      "example_tr": "Pencereden güzel bir gün batımı görüyorum."
+    },
+    {
+      "word_en": "look",
+      "example_en": "Look at the stars, they're so bright tonight.",
+      "word_tr": "bakmak",
+      "example_tr": "Yıldızlara bak, bu gece çok parlaklar."
+    },
+    {
+      "word_en": "watch",
+      "example_en": "Let's watch a movie tonight.",
+      "word_tr": "izlemek",
+      "example_tr": "Bu akşam bir film izleyelim."
+    },
+    {
+      "word_en": "touch",
+      "example_en": "The fabric feels soft to the touch.",
+      "word_tr": "dokunmak",
+      "example_tr": "Kumaş dokunuşta yumuşak hissediyor."
+    },
+    {
+      "word_en": "feel",
+      "example_en": "I feel happy when I'm with my friends.",
+      "word_tr": "hissetmek",
+      "example_tr": "Arkadaşlarımla birlikteyken mutlu hissediyorum."
+    },
+    {
+      "word_en": "talk",
+      "example_en": "We need to talk about our plans for the weekend.",
+      "word_tr": "konuşmak",
+      "example_tr": "Hafta sonu planlarımızı konuşmamız gerekiyor."
+    },
+    {
+      "word_en": "call",
+      "example_en": "I'll call you later.",
+      "word_tr": "aramak",
+      "example_tr": "Seni daha sonra arayacağım."
+    },
+    {
+      "word_en": "like",
+      "example_en": "I like chocolate ice cream.",
+      "word_tr": "beğenmek",
+      "example_tr": "Çikolatalı dondurmayı severim."
+    },
+    {
+      "word_en": "love",
+      "example_en": "I love spending time with my family.",
+      "word_tr": "sevmek",
+      "example_tr": "Ailemle vakit geçirmeyi seviyorum."
+    },
+    {
+      "word_en": "hate",
+      "example_en": "I hate waiting in long lines.",
+      "word_tr": "nefret etmek",
+      "example_tr": "Uzun kuyruklarda beklemeyi sevmem."
+    },
+    {
+      "word_en": "know",
+      "example_en": "Do you know how to swim?",
+      "word_tr": "bilmek",
+      "example_tr": "Yüzmeyi biliyor musun?"
+    },
+    {
+      "word_en": "learn",
+      "example_en": "I want to learn how to play the guitar.",
+      "word_tr": "öğrenmek",
+      "example_tr": "Gitar çalmayı öğrenmek istiyorum."
+    },
+    {
+      "word_en": "ask",
+      "example_en": "Don't be afraid to ask questions.",
+      "word_tr": "sormak",
+      "example_tr": "Soru sormaktan korkma."
+    },
+    {
+      "word_en": "study",
+      "example_en": "I need to study for my exams.",
+      "word_tr": "çalışmak",
+      "example_tr": "Sınavlarıma çalışmam gerekiyor."
+    },
+    {
+      "word_en": "teach",
+      "example_en": "She loves to teach children how to read.",
+      "word_tr": "öğretmek",
+      "example_tr": "Çocuklara nasıl okuyacaklarını öğretmeyi sever."
+    },
+    {
+      "word_en": "need",
+      "example_en": "We need to buy groceries.",
+      "word_tr": "ihtiyacı olmak",
+      "example_tr": "Market alışverişi yapmamız gerekiyor."
+    },
+    {
+      "word_en": "want",
+      "example_en": "I want to travel the world.",
+      "word_tr": "istemek",
+      "example_tr": "Dünyayı gezmek istiyorum."
+    },
+    {
+      "word_en": "share",
+      "example_en": "Let's share our snacks.",
+      "word_tr": "paylaşmak",
+      "example_tr": "Atıştırmalıklarımızı paylaşalım."
+    },
+    {
+      "word_en": "put",
+      "example_en": "Please put your shoes in the closet.",
+      "word_tr": "koymak",
+      "example_tr": "Lütfen ayakkabılarını dolaba koy."
+    },
+    {
+      "word_en": "prepare",
+      "example_en": "She needs time to prepare for the presentation.",
+      "word_tr": "hazırlamak",
+      "example_tr": "Sunum için hazırlanması için zamana ihtiyacı var."
+    },
+    {
+      "word_en": "plan",
+      "example_en": "Let's plan a trip for next month.",
+      "word_tr": "planlamak",
+      "example_tr": "Gelecek ay için bir gezi planlayalım."
+    },
+    {
+      "word_en": "explain",
+      "example_en": "Can you explain how this works?",
+      "word_tr": "açıklamak",
+      "example_tr": "Bunu nasıl çalıştığını açıklayabilir misin?"
+    },
+    {
+      "word_en": "fill",
+      "example_en": "Please fill out this form.",
+      "word_tr": "doldurmak",
+      "example_tr": "Lütfen bu formu doldurun."
+    },
+    {
+      "word_en": "fly",
+      "example_en": "They flew to Paris for their honeymoon.",
+      "word_tr": "uçmak",
+      "example_tr": "Balayı için Paris'e uçtular."
+    },
+    {
+      "word_en": "get",
+      "example_en": "I need to get some groceries from the store.",
+      "word_tr": "almak",
+      "example_tr": "Marketten birkaç alışveriş yapmam gerekiyor."
+    },
+    {
+      "word_en": "become",
+      "example_en": "She wants to become a doctor when she grows up.",
+      "word_tr": "olmak",
+      "example_tr": "Büyüdüğünde doktor olmak istiyor."
+    }
+  ]
+}
 
