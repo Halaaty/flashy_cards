@@ -1,1 +1,184 @@
-
+{
+  "words": [
+    {
+      "word_en": "be",
+      "example_en": "To be or not to be, that is the question.",
+      "word_tr": "olmak",
+      "example_tr": "Olmak ya da olmamak, işte bütün mesele bu."
+    },
+    {
+      "word_en": "wake up",
+      "example_en": "I usually wake up early in the morning.",
+      "word_tr": "uyanmak",
+      "example_tr": "Genellikle sabahları erken uyanırım."
+    },
+    {
+      "word_en": "sleep",
+      "example_en": "Try to sleep at least seven hours every night.",
+      "word_tr": "uyumak",
+      "example_tr": "Her gece en az yedi saat uyumaya çalışın."
+    },
+    {
+      "word_en": "work",
+      "example_en": "She works as a software engineer.",
+      "word_tr": "çalışmak",
+      "example_tr": "O, bir yazılım mühendisi olarak çalışıyor."
+    },
+    {
+      "word_en": "drive",
+      "example_en": "He learned to drive when he was sixteen.",
+      "word_tr": "sürmek",
+      "example_tr": "O, on altı yaşındayken araba kullanmayı öğrendi."
+    },
+    {
+      "word_en": "buy",
+      "example_en": "I need to buy groceries for the week.",
+      "word_tr": "satın almak",
+      "example_tr": "Haftalık alışveriş yapmam gerekiyor."
+    },
+    {
+      "word_en": "sell",
+      "example_en": "She decided to sell her old furniture.",
+      "word_tr": "satmak",
+      "example_tr": "Eski mobilyalarını satmaya karar verdi."
+    },
+    {
+      "word_en": "read",
+      "example_en": "He loves to read science fiction novels.",
+      "word_tr": "okumak",
+      "example_tr": "Bilim kurgu romanları okumayı çok seviyor."
+    },
+    {
+      "word_en": "write",
+      "example_en": "She writes poetry in her free time.",
+      "word_tr": "yazmak",
+      "example_tr": "Boş zamanlarında şiir yazıyor."
+    },
+    {
+      "word_en": "play",
+      "example_en": "They play basketball every Saturday.",
+      "word_tr": "oynamak",
+      "example_tr": "Her Cumartesi basketbol oynarlar."
+    },
+    {
+      "word_en": "pay",
+      "example_en": "Please pay the bill at the counter.",
+      "word_tr": "ödemek",
+      "example_tr": "Lütfen hesabı tezgahta ödeyin."
+    },
+    {
+      "word_en": "rest",
+      "example_en": "After a long day, she likes to rest on the couch.",
+      "word_tr": "dinlenmek",
+      "example_tr": "Uzun bir günün ardından, kanepeye dinlenmeyi sever."
+    },
+    {
+      "word_en": "wash",
+      "example_en": "She washes the dishes after dinner.",
+      "word_tr": "yıkamak",
+      "example_tr": "Akşam yemeğinden sonra bulaşıkları yıkar."
+    },
+    {
+      "word_en": "drink",
+      "example_en": "Remember to drink plenty of water throughout the day.",
+      "word_tr": "içmek",
+      "example_tr": "Gün boyunca bol miktarda su içmeyi unutmayın."
+    },
+    {
+      "word_en": "cook",
+      "example_en": "He can cook a variety of delicious dishes.",
+      "word_tr": "pişirmek",
+      "example_tr": "Çeşitli lezzetli yemekler pişirebilir."
+    },
+    {
+      "word_en": "eat",
+      "example_en": "She eats breakfast before going to work.",
+      "word_tr": "yemek",
+      "example_tr": "İşe gitmeden önce kahvaltı yapar."
+    },
+    {
+      "word_en": "have",
+      "example_en": "We have dinner together every evening.",
+      "word_tr": "sahip olmak",
+      "example_tr": "Her akşam birlikte akşam yemeği yiyoruz."
+    },
+    {
+      "word_en": "make",
+      "example_en": "He likes to make his own furniture.",
+      "word_tr": "yapmak",
+      "example_tr": "Kendi mobilyalarını yapmaktan hoşlanır."
+    },
+    {
+      "word_en": "wear",
+      "example_en": "She wears a red dress to the party.",
+      "word_tr": "giymek",
+      "example_tr": "Partiye kırmızı bir elbise giyer."
+    },
+    {
+      "word_en": "clean",
+      "example_en": "He cleans the house every weekend.",
+      "word_tr": "temizlemek",
+      "example_tr": "Her hafta sonu evi temizler."
+    },
+    {
+      "word_en": "think",
+      "example_en": "I often think about my future.",
+      "word_tr": "düşünmek",
+      "example_tr": "Sık sık geleceğim hakkında düşünüyorum."
+    },
+    {
+      "word_en": "take",
+      "example_en": "She needs to take her medicine before bedtime.",
+      "word_tr": "almak",
+      "example_tr": "Yatmadan önce ilacını alması gerekiyor."
+    },
+    {
+      "word_en": "stand",
+      "example_en": "Please stand up when the national anthem is played.",
+      "word_tr": "dikilmek",
+      "example_tr": "Milli marş çalındığında lütfen ayakta durun."
+    },
+    {
+      "word_en": "speak",
+      "example_en": "He can speak three languages fluently.",
+      "word_tr": "konuşmak",
+      "example_tr": "Üç dilde akıcı bir şekilde konuşabilir."
+    },
+    {
+      "word_en": "spell",
+      "example_en": "Can you spell your name, please?",
+      "word_tr": "hecelemek",
+      "example_tr": "Lütfen adınızı heceleyebilir misiniz?"
+    },
+    {
+      "word_en": "dislike",
+      "example_en": "I dislike mushrooms, they taste terrible.",
+      "word_tr": "sevmemek",
+      "example_tr": "Mantarları sevmem, tadı berbat."
+    },
+    {
+      "word_en": "add",
+      "example_en": "Add a pinch of salt to enhance the flavor.",
+      "word_tr": "eklemek",
+      "example_tr": "Lezzeti artırmak için bir tutam tuz ekleyin."
+    },
+    {
+      "word_en": "call",
+      "example_en": "I'll call you as soon as I arrive.",
+      "word_tr": "aramak",
+      "example_tr": "Varır varmaz seni arayacağım."
+    },
+    {
+      "word_en": "create",
+      "example_en": "She likes to create art in her spare time.",
+      "word_tr": "oluşturmak",
+      "example_tr": "Boş zamanlarında sanat oluşturmayı sever."
+    },
+    {
+      "word_en": "cut",
+      "example_en": "He cut the cake into equal slices.",
+      "word_tr": "kesmek",
+      "example_tr": "Pastayı eşit dilimlere kesti."
+    }
+  ]
+}
