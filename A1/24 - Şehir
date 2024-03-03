@@ -1,1 +1,82 @@
+[
+    {
+      "word_en": "town",
+      "example_en": "The small town is known for its friendly atmosphere.",
+      "word_tr": "kasaba",
+      "example_tr": "Küçük kasaba dostane atmosferi ile tanınıyor."
+    },
+    {
+      "word_en": "post office",
+      "example_en": "I need to mail this package at the post office.",
+      "word_tr": "posta ofisi",
+      "example_tr": "Bu paketi posta ofisine göndermem gerekiyor."
+    },
+    {
+      "word_en": "street",
+      "example_en": "Let's take a walk down this street.",
+      "word_tr": "sokak",
+      "example_tr": "Bu sokağı boyunca bir yürüyüş yapalım."
+    },
+    {
+      "word_en": "museum",
+      "example_en": "We visited the museum to see the ancient artifacts.",
+      "word_tr": "müze",
+      "example_tr": "Eski eserleri görmek için müzeyi ziyaret ettik."
+    },
+    {
+      "word_en": "hospital",
+      "example_en": "He was rushed to the hospital after the accident.",
+      "word_tr": "hastane",
+      "example_tr": "Kazadan sonra hızla hastaneye götürüldü."
+    },
+    {
+      "word_en": "bank",
+      "example_en": "I need to go to the bank to deposit some money.",
+      "word_tr": "banka",
+      "example_tr": "Bazı paraları yatırmak için bankaya gitmem gerekiyor."
+    },
+    {
+      "word_en": "movie theater",
+      "example_en": "Let's go to the movie theater to watch the latest film.",
+      "word_tr": "sinema",
+      "example_tr": "En son filmi izlemek için sinemaya gidelim."
+    },
+    {
+      "word_en": "supermarket",
+      "example_en": "I'm going to the supermarket to buy groceries.",
+      "word_tr": "süpermarket",
+      "example_tr": "Marketten alışveriş yapmak için gidiyorum."
+    },
+    {
+      "word_en": "bench",
+      "example_en": "Let's sit on the bench and enjoy the view.",
+      "word_tr": "bank",
+      "example_tr": "Bankta oturup manzaranın tadını çıkaralım."
+    },
+    {
+      "word_en": "hotel",
+      "example_en": "We booked a room at the hotel for our vacation.",
+      "word_tr": "otel",
+      "example_tr": "Tatilimiz için otelde bir oda rezervasyonu yaptık."
+    },
+    {
+      "word_en": "police",
+      "example_en": "The police are investigating the crime.",
+      "word_tr": "polis",
+      "example_tr": "Polis suçu araştırıyor."
+    },
+    {
+      "word_en": "map",
+      "example_en": "I need to check the map to find the nearest restaurant.",
+      "word_tr": "harita",
+      "example_tr": "En yakın restoranı bulmak için haritaya bakmam gerekiyor."
+    },
+    {
+      "word_en": "restaurant",
+      "example_en": "Let's go to a restaurant for dinner tonight.",
+      "word_tr": "restoran",
+      "example_tr": "Bu akşam akşam yemeği için bir restorana gidelim."
+    }
+  ]
+}
 
