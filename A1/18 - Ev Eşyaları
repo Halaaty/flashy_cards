@@ -1,1 +1,119 @@
+{
+  "words": [
+    {
+      "word_en": "dish",
+      "example_en": "The restaurant serves a variety of delicious dishes.",
+      "word_tr": "tabak",
+      "example_tr": "Restoran çeşitli lezzetli yemekler sunar."
+    },
+    {
+      "word_en": "spoon",
+      "example_en": "Stir the soup with a spoon.",
+      "word_tr": "kaşık",
+      "example_tr": "Çorbayı kaşıkla karıştırın."
+    },
+    {
+      "word_en": "fork",
+      "example_en": "Use a fork to eat spaghetti.",
+      "word_tr": "çatal",
+      "example_tr": "Spagetti yemek için çatal kullanın."
+    },
+    {
+      "word_en": "knife",
+      "example_en": "She used a knife to cut the cake.",
+      "word_tr": "bıçak",
+      "example_tr": "Pastayı kesmek için bıçak kullandı."
+    },
+    {
+      "word_en": "plate",
+      "example_en": "Place the chicken on a plate.",
+      "word_tr": "tabak",
+      "example_tr": "Tavuğu bir tabağa yerleştirin."
+    },
+    {
+      "word_en": "glass",
+      "example_en": "Pour some water into the glass.",
+      "word_tr": "bardak",
+      "example_tr": "Biraz suyu bardağa dökün."
+    },
+    {
+      "word_en": "bottle",
+      "example_en": "He drinks milk from a bottle.",
+      "word_tr": "şişe",
+      "example_tr": "Sütü bir şişeden içer."
+    },
+    {
+      "word_en": "cup",
+      "example_en": "She drinks tea from a cup every morning.",
+      "word_tr": "fincan",
+      "example_tr": "Her sabah bir fincan çay içer."
+    },
+    {
+      "word_en": "towel",
+      "example_en": "Use a towel to dry your hands.",
+      "word_tr": "havlu",
+      "example_tr": "Ellerinizi kurulamak için bir havlu kullanın."
+    },
+    {
+      "word_en": "soap",
+      "example_en": "Please wash your hands with soap.",
+      "word_tr": "sabun",
+      "example_tr": "Lütfen ellerinizi sabunla yıkayın."
+    },
+    {
+      "word_en": "brush",
+      "example_en": "She uses a brush to comb her hair.",
+      "word_tr": "fırça",
+      "example_tr": "Saçlarını tararken bir fırça kullanır."
+    },
+    {
+      "word_en": "toothbrush",
+      "example_en": "Don't forget to brush your teeth with a toothbrush.",
+      "word_tr": "diş fırçası",
+      "example_tr": "Dişlerinizi diş fırçasıyla fırçalamayı unutmayın."
+    },
+    {
+      "word_en": "pillow",
+      "example_en": "She likes to sleep with two pillows.",
+      "word_tr": "yastık",
+      "example_tr": "İki yastıkla uyumayı sever."
+    },
+    {
+      "word_en": "trash can",
+      "example_en": "Please throw the trash in the trash can.",
+      "word_tr": "çöp kutusu",
+      "example_tr": "Lütfen çöpleri çöp kutusuna atın."
+    },
+    {
+      "word_en": "box",
+      "example_en": "She keeps her jewelry in a small box.",
+      "word_tr": "kutu",
+      "example_tr": "Takılarını küçük bir kutuda saklar."
+    },
+    {
+      "word_en": "toy",
+      "example_en": "He has many toys in his room.",
+      "word_tr": "oyuncak",
+      "example_tr": "Odasında birçok oyuncak var."
+    },
+    {
+      "word_en": "thing",
+      "example_en": "Put the thing back where you found it.",
+      "word_tr": "şey",
+      "example_tr": "Şeyi nerede bulduysanız geri koyun."
+    },
+    {
+      "word_en": "ball",
+      "example_en": "They played soccer with a ball in the park.",
+      "word_tr": "top",
+      "example_tr": "Parkta bir top ile futbol oynadılar."
+    },
+    {
+      "word_en": "doll",
+      "example_en": "She loves to play with her dolls.",
+      "word_tr": "bebek",
+      "example_tr": "Bebekleriyle oynamayı çok sever."
+    }
+  ]
+}
 
