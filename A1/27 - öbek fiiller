@@ -1,1 +1,155 @@
+{
+  "words": [
+    {
+      "word_en": "start",
+      "example_en": "He will start the race at 10 am.",
+      "word_tr": "başlatmak",
+      "example_tr": "O, yarışı saat 10'da başlatacak."
+    },
+    {
+      "word_en": "fall",
+      "example_en": "The leaves fall in autumn.",
+      "word_tr": "düşmek",
+      "example_tr": "Yapraklar sonbaharda düşer."
+    },
+    {
+      "word_en": "travel",
+      "example_en": "They love to travel to exotic places.",
+      "word_tr": "seyahat etmek",
+      "example_tr": "Onlar egzotik yerlere seyahat etmeyi severler."
+    },
+    {
+      "word_en": "do",
+      "example_en": "I have a lot of work to do today.",
+      "word_tr": "yapmak",
+      "example_tr": "Bugün yapacak çok işim var."
+    },
+    {
+      "word_en": "stop",
+      "example_en": "The car stopped suddenly.",
+      "word_tr": "durdurmak",
+      "example_tr": "Araba aniden durdu."
+    },
+    {
+      "word_en": "give",
+      "example_en": "She gave me a present on my birthday.",
+      "word_tr": "vermek",
+      "example_tr": "Doğum günümde bana bir hediye verdi."
+    },
+    {
+      "word_en": "let",
+      "example_en": "Let me know if you need any help.",
+      "word_tr": "izin vermek",
+      "example_tr": "Eğer yardıma ihtiyacın olursa bana haber ver."
+    },
+    {
+      "word_en": "open",
+      "example_en": "He will open the door for you.",
+      "word_tr": "açmak",
+      "example_tr": "O, kapıyı senin için açacak."
+    },
+    {
+      "word_en": "find",
+      "example_en": "She couldn't find her keys.",
+      "word_tr": "bulmak",
+      "example_tr": "Anahtarlarını bulamadı."
+    },
+    {
+      "word_en": "come",
+      "example_en": "Please come to the meeting on time.",
+      "word_tr": "gel",
+      "example_tr": "Lütfen toplantıya zamanında gel."
+    },
+    {
+      "word_en": "sit",
+      "example_en": "Please sit down and make yourself comfortable.",
+      "word_tr": "oturmak",
+      "example_tr": "Lütfen oturun ve kendinizi rahat hissedin."
+    },
+    {
+      "word_en": "build",
+      "example_en": "They plan to build a new house next year.",
+      "word_tr": "inşa etmek",
+      "example_tr": "Onlar gelecek yıl yeni bir ev inşa etmeyi planlıyorlar."
+    },
+    {
+      "word_en": "push",
+      "example_en": "He pushed the door open with his shoulder.",
+      "word_tr": "itmek",
+      "example_tr": "Kapıyı omuzuyla iterek açtı."
+    },
+    {
+      "word_en": "pull",
+      "example_en": "She pulled the rope with all her strength.",
+      "word_tr": "çekmek",
+      "example_tr": "Tüm gücüyle ipi çekti."
+    },
+    {
+      "word_en": "get",
+      "example_en": "I'll get some groceries from the store.",
+      "word_tr": "almak",
+      "example_tr": "Marketten birkaç market alacağım."
+    },
+    {
+      "word_en": "jump",
+      "example_en": "The cat jumped from the tree.",
+      "word_tr": "zıplamak",
+      "example_tr": "Kedi ağaçtan zıpladı."
+    },
+    {
+      "word_en": "help",
+      "example_en": "She always helps her friends when they're in need.",
+      "word_tr": "yardım etmek",
+      "example_tr": "Arkadaşları ihtiyaçları olduğunda her zaman yardım eder."
+    },
+    {
+      "word_en": "bring",
+      "example_en": "Can you bring me some water, please?",
+      "word_tr": "getirmek",
+      "example_tr": "Lütfen bana biraz su getirebilir misin?"
+    },
+    {
+      "word_en": "finish",
+      "example_en": "He will finish the project by next week.",
+      "word_tr": "bitirmek",
+      "example_tr": "Projesini gelecek haftaya kadar bitirecek."
+    },
+    {
+      "word_en": "turn",
+      "example_en": "She turned the key in the lock.",
+      "word_tr": "dönmek",
+      "example_tr": "Anahtarı kilitte çevirdi."
+    },
+    {
+      "word_en": "go",
+      "example_en": "Let's go to the park tomorrow.",
+      "word_tr": "gitmek",
+      "example_tr": "Yarın parka gidelim."
+    },
+    {
+      "word_en": "introduce",
+      "example_en": "Let me introduce you to my friend.",
+      "word_tr": "tanıtmak",
+      "example_tr": "Seni arkadaşıma tanıtayım."
+    },
+    {
+      "word_en": "close",
+      "example_en": "She closed the window to keep the cold air out.",
+      "word_tr": "kapatmak",
+      "example_tr": "Soğuk havayı dışarıda tutmak için pencereyi kapattı."
+    },
+    {
+      "word_en": "run",
+      "example_en": "He runs every morning to stay fit.",
+      "word_tr": "koşmak",
+      "example_tr": "Formda kalmak için her sabah koşar."
+    },
+    {
+      "word_en": "walk",
+      "example_en": "They like to walk in the park in the evenings.",
+      "word_tr": "yürümek",
+      "example_tr": "Akşamları parkta yürümeyi severler."
+    }
+  ]
+}
 
