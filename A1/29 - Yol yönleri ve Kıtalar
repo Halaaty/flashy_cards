@@ -1,1 +1,89 @@
+{
+  "words": [
+    {
+      "word_en": "right",
+      "example_en": "Turn right at the traffic light.",
+      "word_tr": "sağ",
+      "example_tr": "Trafik lambasında sağa dönün."
+    },
+    {
+      "word_en": "south",
+      "example_en": "They traveled south for their vacation.",
+      "word_tr": "güney",
+      "example_tr": "Tatilleri için güneye seyahat ettiler."
+    },
+    {
+      "word_en": "Asian",
+      "example_en": "She enjoys Asian cuisine.",
+      "word_tr": "Asyalı",
+      "example_tr": "Asyalı mutfağından keyif alıyor."
+    },
+    {
+      "word_en": "north",
+      "example_en": "The compass needle points to the north.",
+      "word_tr": "kuzey",
+      "example_tr": "Pusula iğnesi kuzeye doğru işaret eder."
+    },
+    {
+      "word_en": "back",
+      "example_en": "He'll be back in an hour.",
+      "word_tr": "geri",
+      "example_tr": "Bir saat içinde geri gelecek."
+    },
+    {
+      "word_en": "African",
+      "example_en": "They went on a safari to see African wildlife.",
+      "word_tr": "Afrikalı",
+      "example_tr": "Afrika'daki vahşi yaşamı görmek için bir safariye gittiler."
+    },
+    {
+      "word_en": "continent",
+      "example_en": "Australia is the smallest continent.",
+      "word_tr": "kıta",
+      "example_tr": "Avustralya en küçük kıtadır."
+    },
+    {
+      "word_en": "west",
+      "example_en": "The sun sets in the west.",
+      "word_tr": "batı",
+      "example_tr": "Güneş batıda batar."
+    },
+    {
+      "word_en": "far",
+      "example_en": "They traveled far to visit the famous landmark.",
+      "word_tr": "uzak",
+      "example_tr": "Ünlü anıtı görmek için uzun bir mesafe kat ettiler."
+    },
+    {
+      "word_en": "Europe",
+      "example_en": "She dreams of traveling to Europe.",
+      "word_tr": "Avrupa",
+      "example_tr": "Avrupa'ya seyahat etmeyi hayal ediyor."
+    },
+    {
+      "word_en": "east",
+      "example_en": "The sun rises in the east.",
+      "word_tr": "doğu",
+      "example_tr": "Güneş doğuda doğar."
+    },
+    {
+      "word_en": "European",
+      "example_en": "He's learning European languages.",
+      "word_tr": "Avrupalı",
+      "example_tr": "Avrupa dilleri öğreniyor."
+    },
+    {
+      "word_en": "Africa",
+      "example_en": "They went on a safari to Africa.",
+      "word_tr": "Afrika",
+      "example_tr": "Afrika'ya bir safariye gittiler."
+    },
+    {
+      "word_en": "place",
+      "example_en": "Let's find a quiet place to sit.",
+      "word_tr": "yer",
+      "example_tr": "Sakin bir yer bulalım oturmak için."
+    }
+  ]
+}
 
