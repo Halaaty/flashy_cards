@@ -1,1 +1,131 @@
+{
+  "words": [
+    {
+      "word_en": "meal",
+      "example_en": "We had a delicious meal at the restaurant.",
+      "word_tr": "öğün",
+      "example_tr": "Restoranda lezzetli bir öğün yedik."
+    },
+    {
+      "word_en": "breakfast",
+      "example_en": "She usually eats eggs for breakfast.",
+      "word_tr": "kahvaltı",
+      "example_tr": "Genellikle kahvaltıda yumurta yer."
+    },
+    {
+      "word_en": "lunch",
+      "example_en": "They went out for lunch together.",
+      "word_tr": "öğle yemeği",
+      "example_tr": "Birlikte öğle yemeği için dışarı çıktılar."
+    },
+    {
+      "word_en": "dinner",
+      "example_en": "We had a family dinner on Sunday.",
+      "word_tr": "akşam yemeği",
+      "example_tr": "Pazar günü ailece akşam yemeği yedik."
+    },
+    {
+      "word_en": "tea",
+      "example_en": "She likes to have a cup of tea in the afternoon.",
+      "word_tr": "çay",
+      "example_tr": "Öğleden sonra bir fincan çay içmeyi sever."
+    },
+    {
+      "word_en": "coffee",
+      "example_en": "He drinks black coffee in the morning.",
+      "word_tr": "kahve",
+      "example_tr": "Sabahları siyah kahve içer."
+    },
+    {
+      "word_en": "cake",
+      "example_en": "She baked a chocolate cake for his birthday.",
+      "word_tr": "kek",
+      "example_tr": "Doğum günü için bir çikolata keki pişirdi."
+    },
+    {
+      "word_en": "cookie",
+      "example_en": "She likes to snack on chocolate chip cookies.",
+      "word_tr": "kurabiye",
+      "example_tr": "Çikolata parçalı kurabiyelerle atıştırmayı sever."
+    },
+    {
+      "word_en": "bread",
+      "example_en": "She bought a loaf of bread from the bakery.",
+      "word_tr": "ekmek",
+      "example_tr": "Fırından bir somun ekmek aldı."
+    },
+    {
+      "word_en": "honey",
+      "example_en": "She sweetened her tea with honey.",
+      "word_tr": "bal",
+      "example_tr": "Çayını bal ile tatlandırdı."
+    },
+    {
+      "word_en": "jam",
+      "example_en": "She spread strawberry jam on her toast.",
+      "word_tr": "reçel",
+      "example_tr": "Tostunun üzerine çilek reçeli sürdü."
+    },
+    {
+      "word_en": "juice",
+      "example_en": "He squeezed some oranges to make juice.",
+      "word_tr": "meyve suyu",
+      "example_tr": "Meyve suyu yapmak için birkaç portakal sıktı."
+    },
+    {
+      "word_en": "ice cream",
+      "example_en": "They enjoyed eating ice cream on a hot day.",
+      "word_tr": "dondurma",
+      "example_tr": "Sıcak bir günde dondurma yemekten keyif aldılar."
+    },
+    {
+      "word_en": "water",
+      "example_en": "She drank a glass of water after exercising.",
+      "word_tr": "su",
+      "example_tr": "Egzersizden sonra bir bardak su içti."
+    },
+    {
+      "word_en": "rice",
+      "example_en": "She cooked rice to serve with the curry.",
+      "word_tr": "pirinç",
+      "example_tr": "Curry ile servis yapmak için pirinç pişirdi."
+    },
+    {
+      "word_en": "soup",
+      "example_en": "He made a big pot of soup for dinner.",
+      "word_tr": "çorba",
+      "example_tr": "Akşam yemeği için büyük bir tencere çorba yaptı."
+    },
+    {
+      "word_en": "salad",
+      "example_en": "She tossed the salad with a light dressing.",
+      "word_tr": "salata",
+      "example_tr": "Salatayı hafif bir sosla karıştırdı."
+    },
+    {
+      "word_en": "pizza",
+      "example_en": "They ordered a large pizza for movie night.",
+      "word_tr": "pizza",
+      "example_tr": "Film gecesi için büyük bir pizza sipariş ettiler."
+    },
+    {
+      "word_en": "sandwich",
+      "example_en": "He made a turkey sandwich for lunch.",
+      "word_tr": "sandviç",
+      "example_tr": "Öğle yemeği için hindi sandviçi yaptı."
+    },
+    {
+      "word_en": "sugar",
+      "example_en": "She added a spoonful of sugar to her coffee.",
+      "word_tr": "şeker",
+      "example_tr": "Kahvesine bir kaşık şeker ekledi."
+    },
+    {
+      "word_en": "salt",
+      "example_en": "He sprinkled some salt on his food.",
+      "word_tr": "tuz",
+      "example_tr": "Yemeğinin üzerine biraz tuz serpti."
+    }
+  ]
+}
 
