@@ -1,1 +1,113 @@
+{
+  "words": [
+    {
+      "word_en": "school",
+      "example_en": "I go to school every day.",
+      "word_tr": "okul",
+      "example_tr": "Her gün okula giderim."
+    },
+    {
+      "word_en": "college",
+      "example_en": "She is studying engineering at college.",
+      "word_tr": "kolej",
+      "example_tr": "O, kolejde mühendislik okuyor."
+    },
+    {
+      "word_en": "university",
+      "example_en": "He graduated from university last year.",
+      "word_tr": "üniversite",
+      "example_tr": "Geçen yıl üniversiteden mezun oldu."
+    },
+    {
+      "word_en": "preschool",
+      "example_en": "My daughter starts preschool next week.",
+      "word_tr": "anaokulu",
+      "example_tr": "Kızım gelecek hafta anaokuluna başlıyor."
+    },
+    {
+      "word_en": "classroom",
+      "example_en": "We have math class in room 203.",
+      "word_tr": "sınıf",
+      "example_tr": "203 numaralı odada matematik dersimiz var."
+    },
+    {
+      "word_en": "student",
+      "example_en": "She is a hardworking student.",
+      "word_tr": "öğrenci",
+      "example_tr": "O, çalışkan bir öğrenci."
+    },
+    {
+      "word_en": "book",
+      "example_en": "I forgot my book at home.",
+      "word_tr": "kitap",
+      "example_tr": "Evde kitabımı unuttum."
+    },
+    {
+      "word_en": "notebook",
+      "example_en": "I take notes in my notebook during lectures.",
+      "word_tr": "defter",
+      "example_tr": "Derslerde defterime not alırım."
+    },
+    {
+      "word_en": "bag",
+      "example_en": "She carries her books in her school bag.",
+      "word_tr": "çanta",
+      "example_tr": "Kitaplarını okul çantasında taşır."
+    },
+    {
+      "word_en": "pen",
+      "example_en": "Can I borrow a pen, please?",
+      "word_tr": "kalem",
+      "example_tr": "Bir kalem ödünç alabilir miyim lütfen?"
+    },
+    {
+      "word_en": "pencil",
+      "example_en": "He sharpened his pencil before the test.",
+      "word_tr": "kurşun kalem",
+      "example_tr": "Sınavdan önce kalemini bileme aldı."
+    },
+    {
+      "word_en": "eraser",
+      "example_en": "I need to erase my mistake.",
+      "word_tr": "silgi",
+      "example_tr": "Hatamı silmem gerekiyor."
+    },
+    {
+      "word_en": "marker",
+      "example_en": "The teacher wrote the lesson on the board with a marker.",
+      "word_tr": "marker",
+      "example_tr": "Öğretmen dersi tahtaya bir marker ile yazdı."
+    },
+    {
+      "word_en": "homework",
+      "example_en": "I have a lot of homework to do tonight.",
+      "word_tr": "ev ödevi",
+      "example_tr": "Bu gece yapmam gereken çok ev ödevim var."
+    },
+    {
+      "word_en": "history",
+      "example_en": "I enjoy studying history.",
+      "word_tr": "tarih",
+      "example_tr": "Tarih çalışmayı seviyorum."
+    },
+    {
+      "word_en": "language",
+      "example_en": "She speaks three languages fluently.",
+      "word_tr": "dil",
+      "example_tr": "Üç dilde akıcı bir şekilde konuşur."
+    },
+    {
+      "word_en": "science",
+      "example_en": "Physics is a branch of science.",
+      "word_tr": "bilim",
+      "example_tr": "Fizik bir bilim dalıdır."
+    },
+    {
+      "word_en": "class",
+      "example_en": "We have art class on Fridays.",
+      "word_tr": "ders",
+      "example_tr": "Cuma günleri sanat dersimiz var."
+    }
+  ]
+}
 
