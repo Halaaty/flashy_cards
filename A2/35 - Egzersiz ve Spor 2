@@ -1,1 +1,173 @@
+{
+  "words": [
+    {
+      "word_en": "medal",
+      "example_en": "He won a gold medal in the swimming competition.",
+      "word_tr": "madalya",
+      "example_tr": "Yüzme yarışmasında altın madalya kazandı."
+    },
+    {
+      "word_en": "ski",
+      "example_en": "They love to ski in the mountains during winter.",
+      "word_tr": "kayak",
+      "example_tr": "Kışın dağlarda kayak yapmayı severler."
+    },
+    {
+      "word_en": "skating",
+      "example_en": "She enjoys figure skating in her free time.",
+      "word_tr": "paten kayma",
+      "example_tr": "Boş zamanlarında buz pateni yapmaktan keyif alıyor."
+    },
+    {
+      "word_en": "hike",
+      "example_en": "They plan to hike through the national park next weekend.",
+      "word_tr": "doğa yürüyüşü",
+      "example_tr": "Gelecek hafta sonu milli parkı yürüyerek gezmeyi planlıyorlar."
+    },
+    {
+      "word_en": "race",
+      "example_en": "The marathon race will start at dawn.",
+      "word_tr": "yarış",
+      "example_tr": "Maraton yarışı şafakta başlayacak."
+    },
+    {
+      "word_en": "swim",
+      "example_en": "She swims every morning at the local pool.",
+      "word_tr": "yüzme",
+      "example_tr": "Her sabah yerel havuzda yüzer."
+    },
+    {
+      "word_en": "score",
+      "example_en": "He scored the winning goal in the soccer match.",
+      "word_tr": "skor",
+      "example_tr": "Futbol maçında galibiyet golünü attı."
+    },
+    {
+      "word_en": "loser",
+      "example_en": "He was disappointed to be the loser in the chess game.",
+      "word_tr": "kaybeden",
+      "example_tr": "Satranç oyununda kaybeden olmak onu hayal kırıklığına uğrattı."
+    },
+    {
+      "word_en": "point",
+      "example_en": "They scored a point with their last serve.",
+      "word_tr": "nokta",
+      "example_tr": "Son servisleriyle bir nokta kazandılar."
+    },
+    {
+      "word_en": "win",
+      "example_en": "She trained hard to win the upcoming competition.",
+      "word_tr": "kazanmak",
+      "example_tr": "Yaklaşan yarışmayı kazanmak için sıkı antrenman yaptı."
+    },
+    {
+      "word_en": "winner",
+      "example_en": "He was declared the winner of the tennis tournament.",
+      "word_tr": "kazanan",
+      "example_tr": "Tenis turnuvasının kazananı ilan edildi."
+    },
+    {
+      "word_en": "lose",
+      "example_en": "They hate to lose at board games.",
+      "word_tr": "kaybetmek",
+      "example_tr": "Masa oyunlarında kaybetmeyi sevmezler."
+    },
+    {
+      "word_en": "skateboard",
+      "example_en": "He enjoys skateboarding in the park.",
+      "word_tr": "kaykay",
+      "example_tr": "Parkta kaykay yapmaktan keyif alıyor."
+    },
+    {
+      "word_en": "surfboard",
+      "example_en": "She's learning how to surf with a surfboard.",
+      "word_tr": "sörf tahtası",
+      "example_tr": "Bir sörf tahtası ile sörf yapmayı öğreniyor."
+    },
+    {
+      "word_en": "ice skate",
+      "example_en": "They rented ice skates for the afternoon.",
+      "word_tr": "buz pateni",
+      "example_tr": "Öğleden sonra buz patenleri kiraladılar."
+    },
+    {
+      "word_en": "snowboard",
+      "example_en": "He's a professional snowboarder.",
+      "word_tr": "snowboard",
+      "example_tr": "O, profesyonel bir snowboard sporcusudur."
+    },
+    {
+      "word_en": "skateboarding",
+      "example_en": "She practices skateboarding at the skatepark.",
+      "word_tr": "kaykay",
+      "example_tr": "Skateparkta kaykay yapmayı pratiğini yapıyor."
+    },
+    {
+      "word_en": "snowboarding",
+      "example_en": "They go snowboarding every winter.",
+      "word_tr": "snowboard",
+      "example_tr": "Her kış snowboard yapmaya giderler."
+    },
+    {
+      "word_en": "ice skating",
+      "example_en": "Ice skating is her favorite winter activity.",
+      "word_tr": "buz pateni",
+      "example_tr": "Buz pateni, onun en sevdiği kış aktivitesidir."
+    },
+    {
+      "word_en": "surfing",
+      "example_en": "He's been surfing since he was a teenager.",
+      "word_tr": "sörf yapma",
+      "example_tr": "Bir gençken sörf yapmaya başladı."
+    },
+    {
+      "word_en": "membership",
+      "example_en": "He purchased a gym membership for the year.",
+      "word_tr": "üyelik",
+      "example_tr": "Yıl için bir spor salonu üyeliği satın aldı."
+    },
+    {
+      "word_en": "practice",
+      "example_en": "They have basketball practice every Saturday.",
+      "word_tr": "pratik",
+      "example_tr": "Her Cumartesi basketbol pratiği yapıyorlar."
+    },
+    {
+      "word_en": "team",
+      "example_en": "She's a member of the local soccer team.",
+      "word_tr": "takım",
+      "example_tr": "Yerel futbol takımının bir üyesidir."
+    },
+    {
+      "word_en": "fan",
+      "example_en": "He's a devoted fan of the basketball team.",
+      "word_tr": "hayran",
+      "example_tr": "Basketbol takımının sadık bir hayranıdır."
+    },
+    {
+      "word_en": "record",
+      "example_en": "She broke the world record for the mile run.",
+      "word_tr": "kayıt",
+      "example_tr": "Bir mil koşusunda dünya rekorunu kırdı."
+    },
+    {
+      "word_en": "net",
+      "example_en": "The soccer ball went into the net for a goal.",
+      "word_tr": "ağ",
+      "example_tr": "Futbol topu gol için ağa gitti."
+    },
+    {
+      "word_en": "prize",
+      "example_en": "He won the first prize in the chess tournament.",
+      "word_tr": "ödül",
+      "example_tr": "Satranç turnuvasında birincilik ödülünü kazandı."
+    },
+    {
+      "word_en": "registration",
+      "example_en": "The registration for the marathon is now open.",
+      "word_tr": "kayıt",
+      "example_tr": "Maraton kayıtları şimdi açık."
+    }
+  ]
+}
 
