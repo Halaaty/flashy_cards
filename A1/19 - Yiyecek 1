@@ -1,1 +1,149 @@
+{
+  "words": [
+    {
+      "word_en": "food",
+      "example_en": "We need food to survive.",
+      "word_tr": "yiyecek",
+      "example_tr": "Hayatta kalmak için yiyeceğe ihtiyacımız var."
+    },
+    {
+      "word_en": "meat",
+      "example_en": "She doesn't eat meat because she's a vegetarian.",
+      "word_tr": "et",
+      "example_tr": "Vejetaryen olduğu için et yemez."
+    },
+    {
+      "word_en": "fish",
+      "example_en": "Grilled fish is his favorite dish.",
+      "word_tr": "balık",
+      "example_tr": "Izgara balık onun favori yemeğidir."
+    },
+    {
+      "word_en": "chicken",
+      "example_en": "She cooked chicken for dinner.",
+      "word_tr": "tavuk",
+      "example_tr": "Akşam yemeği için tavuk pişirdi."
+    },
+    {
+      "word_en": "vegetable",
+      "example_en": "Eating vegetables is good for your health.",
+      "word_tr": "sebze",
+      "example_tr": "Sebzeler yemek sağlığınız için iyidir."
+    },
+    {
+      "word_en": "cucumber",
+      "example_en": "She sliced the cucumber for the salad.",
+      "word_tr": "salatalık",
+      "example_tr": "Salata için salatalığı dilimledi."
+    },
+    {
+      "word_en": "potato",
+      "example_en": "She mashed the potatoes for the dinner.",
+      "word_tr": "patates",
+      "example_tr": "Akşam yemeği için patatesleri ezdi."
+    },
+    {
+      "word_en": "onion",
+      "example_en": "Chop the onion finely for the soup.",
+      "word_tr": "soğan",
+      "example_tr": "Çorbaya ince doğranmış soğan koyun."
+    },
+    {
+      "word_en": "tomato",
+      "example_en": "He likes to eat tomatoes raw.",
+      "word_tr": "domates",
+      "example_tr": "Domatesleri çiğ olarak yemeyi sever."
+    },
+    {
+      "word_en": "carrot",
+      "example_en": "She grated the carrot for the salad.",
+      "word_tr": "havuç",
+      "example_tr": "Salata için havuçları rendeledi."
+    },
+    {
+      "word_en": "pepper",
+      "example_en": "Add some pepper to taste.",
+      "word_tr": "biber",
+      "example_tr": "Tat vermek için biraz biber ekleyin."
+    },
+    {
+      "word_en": "fruit",
+      "example_en": "She likes to eat fresh fruit every day.",
+      "word_tr": "meyve",
+      "example_tr": "Her gün taze meyve yemeyi sever."
+    },
+    {
+      "word_en": "apple",
+      "example_en": "She took a bite of the juicy apple.",
+      "word_tr": "elma",
+      "example_tr": "Sulu elmadan bir ısırık aldı."
+    },
+    {
+      "word_en": "orange",
+      "example_en": "He peeled the orange and ate the segments.",
+      "word_tr": "portakal",
+      "example_tr": "Portakalı soydu ve dilimlerini yedi."
+    },
+    {
+      "word_en": "grape",
+      "example_en": "She enjoyed eating grapes in the vineyard.",
+      "word_tr": "üzüm",
+      "example_tr": "Bağda üzüm yemekten keyif aldı."
+    },
+    {
+      "word_en": "banana",
+      "example_en": "She packed a banana for a snack.",
+      "word_tr": "muz",
+      "example_tr": "Atıştırmalık için bir muz hazırladı."
+    },
+    {
+      "word_en": "peach",
+      "example_en": "The peach was ripe and juicy.",
+      "word_tr": "şeftali",
+      "example_tr": "Şeftali olgun ve sulu idi."
+    },
+    {
+      "word_en": "lemon",
+      "example_en": "Squeeze some lemon juice into the tea.",
+      "word_tr": "limon",
+      "example_tr": "Çayın içine biraz limon suyu sıkın."
+    },
+    {
+      "word_en": "milk",
+      "example_en": "He poured some milk into his cereal.",
+      "word_tr": "süt",
+      "example_tr": "Kahvaltılık gevreklerine biraz süt döktü."
+    },
+    {
+      "word_en": "chocolate milk",
+      "example_en": "She likes to drink chocolate milk after exercising.",
+      "word_tr": "çikolatalı süt",
+      "example_tr": "Egzersizden sonra çikolatalı süt içmeyi sever."
+    },
+    {
+      "word_en": "cheese",
+      "example_en": "The cheese was melted on top of the pizza.",
+      "word_tr": "peynir",
+      "example_tr": "Peynir, pizzanın üstünde erimişti."
+    },
+    {
+      "word_en": "butter",
+      "example_en": "He spread butter on the toast.",
+      "word_tr": "tereyağı",
+      "example_tr": "Tostun üzerine tereyağı sürdü."
+    },
+    {
+      "word_en": "egg",
+      "example_en": "She boiled an egg for breakfast.",
+      "word_tr": "yumurta",
+      "example_tr": "Kahvaltı için bir yumurta kaynattı."
+    },
+    {
+      "word_en": "cream",
+      "example_en": "She topped the dessert with whipped cream.",
+      "word_tr": "krema",
+      "example_tr": "Tatlıyı çırpılmış krema ile süsledi."
+    }
+  ]
+}
 
