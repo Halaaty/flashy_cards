@@ -19,6 +19,106 @@
     {
       "name": "5 - Meslekler",
       "id": "5"
+    },
+    {
+      "name": "6 - Müzik",
+      "id": "6"
+    },
+    {
+      "name": "7 - Et ve Süt Ürünleri",
+      "id": "7"
+    },
+    {
+      "name": "8 - Meyve ve Kuruyemişler",
+      "id": "8"
+    },
+    {
+      "name": "9 - İçecekler",
+      "id": "9"
+    },
+    {
+      "name": "10 - Kişisel Özellikler 1",
+      "id": "10"
+    },
+    {
+      "name": "11 - Zarflar ve Edatlar",
+      "id": "11"
+    },
+    {
+      "name": "12 - Eğitim",
+      "id": "12"
+    },
+    {
+      "name": "13 - Para ve Alışveriş",
+      "id": "13"
+    },
+    {
+      "name": "14 - Moda",
+      "id": "14"
+    },
+    {
+      "name": "15 - Spor ve Oyuncular",
+      "id": "15"
+    },
+    {
+      "name": "16 - Ulaşım",
+      "id": "16"
+    },
+    {
+      "name": "17 - Hava Durumu",
+      "id": "17"
+    },
+    {
+      "name": "18 - Görünüm",
+      "id": "18"
+    },
+    {
+      "name": "19 - Zaman",
+      "id": "19"
+    },
+    {
+      "name": "20 - İnsan Vücudu",
+      "id": "20"
+    },
+    {
+      "name": "21 - Oyunlar ve Oyuncaklar",
+      "id": "21"
+    },
+    {
+      "name": "22 - Bilgisayar",
+      "id": "22"
+    },
+    {
+      "name": "23 - Sağlık ve Hastalık",
+      "id": "23"
+    },
+    {
+      "name": "24 - Doğa ve Bölgeler",
+      "id": "24"
+    },
+    {
+      "name": "25 - Şehir ve Kırsal",
+      "id": "25"
+    },
+    {
+      "name": "26 - Din ve Bayramlar",
+      "id": "26"
+    },
+    {
+      "name": "27 - Özel Münasebet",
+      "id": "27"
+    },
+    {
+      "name": "28 - Savaş ve Barış",
+      "id": "28"
+    },
+    {
+      "name": "29 - Miktarlar ve Konteynerler",
+      "id": "29"
+    },
+    {
+      "name": "30 - Diller ve Milliyetler",
+      "id": "30"
     }
   ]
 }
