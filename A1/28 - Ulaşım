@@ -1,1 +1,95 @@
+{
+  "words": [
+    {
+      "word_en": "subway",
+      "example_en": "He takes the subway to work every day.",
+      "word_tr": "metro",
+      "example_tr": "Her gün işe metroyla gider."
+    },
+    {
+      "word_en": "boat",
+      "example_en": "They went fishing on a small boat.",
+      "word_tr": "tekne",
+      "example_tr": "Küçük bir tekneyle balığa çıktılar."
+    },
+    {
+      "word_en": "bus",
+      "example_en": "She takes the bus to school.",
+      "word_tr": "otobüs",
+      "example_tr": "Okula otobüsle gider."
+    },
+    {
+      "word_en": "taxi",
+      "example_en": "I'll call a taxi to take us to the airport.",
+      "word_tr": "taksi",
+      "example_tr": "Bizi havaalanına götürmek için bir taksi çağıracağım."
+    },
+    {
+      "word_en": "ship",
+      "example_en": "The ship sailed across the ocean.",
+      "word_tr": "gem",
+      "example_tr": "Gemiyi okyanusun karşısına geçirdi."
+    },
+    {
+      "word_en": "helicopter",
+      "example_en": "The helicopter landed on the rooftop.",
+      "word_tr": "helikopter",
+      "example_tr": "Helikopter çatıya indi."
+    },
+    {
+      "word_en": "truck",
+      "example_en": "He drives a truck for a living.",
+      "word_tr": "kamyon",
+      "example_tr": "Geçimini kamyon sürerek sağlıyor."
+    },
+    {
+      "word_en": "ticket",
+      "example_en": "Do you have a ticket for the concert?",
+      "word_tr": "bilet",
+      "example_tr": "Konsere giriş bileti var mı?"
+    },
+    {
+      "word_en": "car",
+      "example_en": "She bought a new car last week.",
+      "word_tr": "araba",
+      "example_tr": "Geçen hafta yeni bir araba satın aldı."
+    },
+    {
+      "word_en": "train",
+      "example_en": "He takes the train to go to the city.",
+      "word_tr": "tren",
+      "example_tr": "Şehre gitmek için trene biner."
+    },
+    {
+      "word_en": "motorcycle",
+      "example_en": "He rides his motorcycle to work.",
+      "word_tr": "motosiklet",
+      "example_tr": "İşe motosikletiyle gider."
+    },
+    {
+      "word_en": "airport",
+      "example_en": "They arrived at the airport two hours before the flight.",
+      "word_tr": "havalimanı",
+      "example_tr": "Uçuştan iki saat önce havalimanına vardılar."
+    },
+    {
+      "word_en": "station",
+      "example_en": "The train will stop at the next station.",
+      "word_tr": "istasyon",
+      "example_tr": "Tren bir sonraki istasyonda duracak."
+    },
+    {
+      "word_en": "train station",
+      "example_en": "The train station is crowded during rush hour.",
+      "word_tr": "tren istasyonu",
+      "example_tr": "Tren istasyonu, iş saatlerinde kalabalık olur."
+    },
+    {
+      "word_en": "airplane",
+      "example_en": "She's afraid of flying in airplanes.",
+      "word_tr": "uçak",
+      "example_tr": "Uçakla uçmaktan korkuyor."
+    }
+  ]
+}
 
