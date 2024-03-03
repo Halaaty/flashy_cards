@@ -1,1 +1,239 @@
+{
+  "words": [
+    {
+      "word_en": "individual",
+      "example_en": "Each individual has their own unique qualities.",
+      "word_tr": "birey",
+      "example_tr": "Her bireyin kendi benzersiz özellikleri vardır."
+    },
+    {
+      "word_en": "perfect",
+      "example_en": "She expects everything to be perfect.",
+      "word_tr": "mükemmel",
+      "example_tr": "Her şeyin mükemmel olmasını bekler."
+    },
+    {
+      "word_en": "active",
+      "example_en": "He leads a very active lifestyle.",
+      "word_tr": "aktif",
+      "example_tr": "Çok aktif bir yaşam tarzı sürdürüyor."
+    },
+    {
+      "word_en": "quiet",
+      "example_en": "She's usually quiet in large groups.",
+      "word_tr": "sessiz",
+      "example_tr": "Genellikle kalabalık gruplarda sessizdir."
+    },
+    {
+      "word_en": "jealous",
+      "example_en": "He felt jealous of his friend's success.",
+      "word_tr": "kıskanç",
+      "example_tr": "Arkadaşının başarısından kıskançlık hissetti."
+    },
+    {
+      "word_en": "helpful",
+      "example_en": "She's always willing to be helpful.",
+      "word_tr": "yardımsever",
+      "example_tr": "Her zaman yardımsever olmaya isteklidir."
+    },
+    {
+      "word_en": "mild",
+      "example_en": "His criticism was quite mild.",
+      "word_tr": "hafif",
+      "example_tr": "Eleştirisi oldukça hafif."
+    },
+    {
+      "word_en": "unique",
+      "example_en": "Each snowflake is unique.",
+      "word_tr": "benzersiz",
+      "example_tr": "Her kar tanesi benzersizdir."
+    },
+    {
+      "word_en": "scary",
+      "example_en": "The movie was so scary, I couldn't sleep.",
+      "word_tr": "korkutucu",
+      "example_tr": "Film o kadar korkutucuydu ki uyuyamadım."
+    },
+    {
+      "word_en": "rude",
+      "example_en": "She can be quite rude when she's angry.",
+      "word_tr": "kaba",
+      "example_tr": "Kızgınken oldukça kaba olabilir."
+    },
+    {
+      "word_en": "tough",
+      "example_en": "He has a tough personality, but he's fair.",
+      "word_tr": "zorlu",
+      "example_tr": "Zorlu bir kişiliği var ama adil."
+    },
+    {
+      "word_en": "fair",
+      "example_en": "He believes in fair treatment for everyone.",
+      "word_tr": "adil",
+      "example_tr": "Herkes için adil muameleye inanır."
+    },
+    {
+      "word_en": "confident",
+      "example_en": "She's very confident in her abilities.",
+      "word_tr": "özgüvenli",
+      "example_tr": "Yeteneklerine çok güveniyor."
+    },
+    {
+      "word_en": "nice",
+      "example_en": "He's always nice to everyone.",
+      "word_tr": "güzel",
+      "example_tr": "Herkese karşı her zaman güzel."
+    },
+    {
+      "word_en": "great",
+      "example_en": "She has a great sense of humor.",
+      "word_tr": "harika",
+      "example_tr": "Harika bir mizah anlayışı var."
+    },
+    {
+      "word_en": "crazy",
+      "example_en": "Some of his ideas are just plain crazy.",
+      "word_tr": "çılgın",
+      "example_tr": "Fikirlerinden bazıları sırf çılgınca."
+    },
+    {
+      "word_en": "creative",
+      "example_en": "She has a very creative approach to problem-solving.",
+      "word_tr": "yaratıcı",
+      "example_tr": "Problem çözme konusunda çok yaratıcı bir yaklaşımı var."
+    },
+    {
+      "word_en": "brilliant",
+      "example_en": "He came up with a brilliant solution to the problem.",
+      "word_tr": "parlak",
+      "example_tr": "Probleme parlak bir çözüm buldu."
+    },
+    {
+      "word_en": "weakness",
+      "example_en": "Procrastination is his biggest weakness.",
+      "word_tr": "zayıflık",
+      "example_tr": "İşleri sonraya bırakma en büyük zayıflığıdır."
+    },
+    {
+      "word_en": "certain",
+      "example_en": "He seems quite certain about his decision.",
+      "word_tr": "kesin",
+      "example_tr": "Kararında oldukça kesin görünüyor."
+    },
+    {
+      "word_en": "strange",
+      "example_en": "His behavior was a bit strange yesterday.",
+      "word_tr": "garip",
+      "example_tr": "Davranışı dün biraz garip gibiydi."
+    },
+    {
+      "word_en": "foolish",
+      "example_en": "It was foolish of him to ignore the warning.",
+      "word_tr": "aptalca",
+      "example_tr": "Uyarıyı dikkate almamak onun için aptalca bir hareket oldu."
+    },
+    {
+      "word_en": "individual",
+      "example_en": "Each individual has their own unique personality.",
+      "word_tr": "bireysel",
+      "example_tr": "Her bireyin kendi benzersiz kişiliği vardır."
+    },
+    {
+      "word_en": "normal",
+      "example_en": "His behavior is perfectly normal.",
+      "word_tr": "normal",
+      "example_tr": "Davranışı tamamen normal."
+    },
+    {
+      "word_en": "certain",
+      "example_en": "He seems quite certain about his decision.",
+      "word_tr": "kesin",
+      "example_tr": "Kararında oldukça kesin görünüyor."
+    },
+    {
+      "word_en": "talkative",
+      "example_en": "She's very talkative at parties.",
+      "word_tr": "konuşkan",
+      "example_tr": "Partilerde çok konuşkan."
+    },
+    {
+      "word_en": "shy",
+      "example_en": "He's shy and doesn't talk much in public.",
+      "word_tr": "utangaç",
+      "example_tr": "Utangaç ve halka açık yerlerde pek konuşmaz."
+    },
+    {
+      "word_en": "serious",
+      "example_en": "She has a serious attitude towards her work.",
+      "word_tr": "ciddi",
+      "example_tr": "İşine karşı ciddi bir tavır sergiler."
+    },
+    {
+      "word_en": "kind",
+      "example_en": "She has a very kind heart.",
+      "word_tr": "nazik",
+      "example_tr": "Çok nazik bir kalbi var."
+    },
+    {
+      "word_en": "interesting",
+      "example_en": "She always has something interesting to say.",
+      "word_tr": "ilginç",
+      "example_tr": "Söyleyecek her zaman ilginç bir şeyi vardır."
+    },
+    {
+      "word_en": "boring",
+      "example_en": "The lecture was so boring, I fell asleep.",
+      "word_tr": "sıkıcı",
+      "example_tr": "Ders o kadar sıkıcıydı ki uyuyakaldım."
+    },
+    {
+      "word_en": "exciting",
+      "example_en": "Their trip to the amusement park was very exciting.",
+      "word_tr": "heyecan verici",
+      "example_tr": "Lunaparka giden yolculukları çok heyecan vericiydi."
+    },
+    {
+      "word_en": "wonderful",
+      "example_en": "They had a wonderful time on their vacation.",
+      "word_tr": "harika",
+      "example_tr": "Tatillerinde harika vakit geçirdiler."
+    },
+    {
+      "word_en": "amazing",
+      "example_en": "The performance was truly amazing.",
+      "word_tr": "şaşırtıcı",
+      "example_tr": "Performans gerçekten şaşırtıcıydı."
+    },
+    {
+      "word_en": "excellent",
+      "example_en": "She did an excellent job on the project.",
+      "word_tr": "mükemmel",
+      "example_tr": "Projede mükemmel bir iş çıkardı."
+    },
+    {
+      "word_en": "awesome",
+      "example_en": "The concert was awesome.",
+      "word_tr": "harika",
+      "example_tr": "Konser harikaydı."
+    },
+    {
+      "word_en": "weird",
+      "example_en": "His behavior is a bit weird sometimes.",
+      "word_tr": "tuhaf",
+      "example_tr": "Davranışı bazen biraz tuhaf."
+    },
+    {
+      "word_en": "personality",
+      "example_en": "Her personality is bubbly and outgoing.",
+      "word_tr": "kişilik",
+      "example_tr": "Kişiliği neşeli ve dışa dönüktür."
+    },
+    {
+      "word_en": "character",
+      "example_en": "She has a strong character.",
+      "word_tr": "karakter",
+      "example_tr": "Güçlü bir karakteri var."
+    }
+  ]
+}
 
