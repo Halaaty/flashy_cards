@@ -1,1 +1,95 @@
+{
+  "words": [
+    {
+      "word_en": "stupid",
+      "example_en": "He made a stupid mistake.",
+      "word_tr": "aptal",
+      "example_tr": "Aptalca bir hata yaptı."
+    },
+    {
+      "word_en": "fat",
+      "example_en": "She wants to lose weight because she feels fat.",
+      "word_tr": "şişman",
+      "example_tr": "Kilo vermek istiyor çünkü kendini şişman hissediyor."
+    },
+    {
+      "word_en": "smart",
+      "example_en": "He's a smart student.",
+      "word_tr": "zeki",
+      "example_tr": "O, zeki bir öğrenci."
+    },
+    {
+      "word_en": "tall",
+      "example_en": "He's very tall for his age.",
+      "word_tr": "uzun",
+      "example_tr": "Yaşına göre çok uzun."
+    },
+    {
+      "word_en": "thirsty",
+      "example_en": "I'm thirsty. Can I have some water?",
+      "word_tr": "susamış",
+      "example_tr": "Susadım. Biraz su alabilir miyim?"
+    },
+    {
+      "word_en": "thin",
+      "example_en": "She's very thin because she doesn't eat much.",
+      "word_tr": "zayıf",
+      "example_tr": "Çok az yediği için çok zayıf."
+    },
+    {
+      "word_en": "old",
+      "example_en": "My grandparents are old but healthy.",
+      "word_tr": "yaşlı",
+      "example_tr": "Büyükannem ve büyükbabam yaşlı ama sağlıklı."
+    },
+    {
+      "word_en": "young",
+      "example_en": "She's very talented for such a young age.",
+      "word_tr": "genç",
+      "example_tr": "Bu kadar genç bir yaşta çok yetenekli."
+    },
+    {
+      "word_en": "fine",
+      "example_en": "I'm feeling fine, thank you.",
+      "word_tr": "iyi",
+      "example_tr": "İyiyim, teşekkür ederim."
+    },
+    {
+      "word_en": "sad",
+      "example_en": "She looks sad today.",
+      "word_tr": "üzgün",
+      "example_tr": "Bugün üzgün görünüyor."
+    },
+    {
+      "word_en": "happy",
+      "example_en": "He's always happy and smiling.",
+      "word_tr": "mutlu",
+      "example_tr": "Her zaman mutlu ve gülümseyen."
+    },
+    {
+      "word_en": "hungry",
+      "example_en": "I'm hungry. Let's get some food.",
+      "word_tr": "aç",
+      "example_tr": "Açım. Biraz yemek alalım."
+    },
+    {
+      "word_en": "excited",
+      "example_en": "She's excited about her upcoming trip.",
+      "word_tr": "heyecanlı",
+      "example_tr": "Yaklaşan seyahatiyle ilgili heyecanlı."
+    },
+    {
+      "word_en": "ready",
+      "example_en": "Are you ready to go?",
+      "word_tr": "hazır",
+      "example_tr": "Gitmeye hazır mısın?"
+    },
+    {
+      "word_en": "angry",
+      "example_en": "He was angry because he lost the game.",
+      "word_tr": "kızgın",
+      "example_tr": "Oyunu kaybettiği için kızgındı."
+    }
+  ]
+}
 
