@@ -1,1 +1,161 @@
+{
+  "words": [
+    {
+      "word_en": "vegetarian",
+      "example_en": "She follows a vegetarian diet.",
+      "word_tr": "vejetaryen",
+      "example_tr": "Vejetaryen bir diyet uygular."
+    },
+    {
+      "word_en": "vegan",
+      "example_en": "He's been a vegan for five years.",
+      "word_tr": "vegan",
+      "example_tr": "Beş yıldır vegan."
+    },
+    {
+      "word_en": "taste",
+      "example_en": "The soup has a delicious taste.",
+      "word_tr": "tad",
+      "example_tr": "Çorbanın harika bir tadı var."
+    },
+    {
+      "word_en": "diet",
+      "example_en": "She's on a strict diet to lose weight.",
+      "word_tr": "diyet",
+      "example_tr": "Kilo vermek için sıkı bir diyet yapıyor."
+    },
+    {
+      "word_en": "grocery",
+      "example_en": "I need to go to the grocery store to buy some vegetables.",
+      "word_tr": "market",
+      "example_tr": "Bazı sebzeler almak için markete gitmem gerekiyor."
+    },
+    {
+      "word_en": "cookbook",
+      "example_en": "She bought a new cookbook with healthy recipes.",
+      "word_tr": "yemek kitabı",
+      "example_tr": "Sağlıklı tariflerle yeni bir yemek kitabı satın aldı."
+    },
+    {
+      "word_en": "rest",
+      "example_en": "The soup needs to rest for a few minutes before serving.",
+      "word_tr": "dinlenmek",
+      "example_tr": "Çorbanın servis edilmeden önce birkaç dakika dinlenmesi gerekiyor."
+    },
+    {
+      "word_en": "leftovers",
+      "example_en": "We had leftovers from last night's dinner for lunch today.",
+      "word_tr": "artıklar",
+      "example_tr": "Dünkü akşam yemeğinden kalanlarla bugün öğle yemeği yedik."
+    },
+    {
+      "word_en": "tip",
+      "example_en": "Here's a useful tip for cooking pasta.",
+      "word_tr": "tüyo",
+      "example_tr": "İşte makarna pişirme konusunda kullanışlı bir tüyo."
+    },
+    {
+      "word_en": "tip",
+      "example_en": "He gave the waiter a generous tip.",
+      "word_tr": "bahşiş",
+      "example_tr": "Garsona cömert bir bahşiş verdi."
+    },
+    {
+      "word_en": "watery",
+      "example_en": "The soup was too watery.",
+      "word_tr": "sulu",
+      "example_tr": "Çorba çok sulu oldu."
+    },
+    {
+      "word_en": "spicy",
+      "example_en": "I love spicy food.",
+      "word_tr": "baharatlı",
+      "example_tr": "Baharatlı yiyecekleri severim."
+    },
+    {
+      "word_en": "bitter",
+      "example_en": "The coffee was bitter.",
+      "word_tr": "acı",
+      "example_tr": "Kahve acıydı."
+    },
+    {
+      "word_en": "steak",
+      "example_en": "He ordered a steak cooked medium-rare.",
+      "word_tr": "biftek",
+      "example_tr": "Orta az pişmiş bir biftek sipariş etti."
+    },
+    {
+      "word_en": "rare",
+      "example_en": "She likes her steak cooked rare.",
+      "word_tr": "az pişmiş",
+      "example_tr": "Bifteklerini az pişmiş tercih eder."
+    },
+    {
+      "word_en": "medium",
+      "example_en": "He prefers his steak cooked medium.",
+      "word_tr": "orta",
+      "example_tr": "Bifteklerini orta pişmiş tercih eder."
+    },
+    {
+      "word_en": "well-done",
+      "example_en": "The steak was well-done and tender.",
+      "word_tr": "iyi pişmiş",
+      "example_tr": "Biftek iyi pişmiş ve yumuşaktı."
+    },
+    {
+      "word_en": "cabbage",
+      "example_en": "She made a delicious cabbage salad.",
+      "word_tr": "lahana",
+      "example_tr": "Lezzetli bir lahana salatası yaptı."
+    },
+    {
+      "word_en": "celery",
+      "example_en": "She adds celery to her smoothies for extra flavor.",
+      "word_tr": "kereviz",
+      "example_tr": "Ekstra lezzet için smoothielerine kereviz ekliyor."
+    },
+    {
+      "word_en": "eggplant",
+      "example_en": "She made eggplant parmesan for dinner.",
+      "word_tr": "patlıcan",
+      "example_tr": "Akşam yemeği için patlıcan parmesan yaptı."
+    },
+    {
+      "word_en": "broccoli",
+      "example_en": "He loves steamed broccoli with garlic.",
+      "word_tr": "brokoli",
+      "example_tr": "Sarımsaklı buharda pişmiş brokoliden hoşlanır."
+    },
+    {
+      "word_en": "tuna",
+      "example_en": "She made a tuna salad for lunch.",
+      "word_tr": "ton balığı",
+      "example_tr": "Öğle yemeği için ton balığı salatası yaptı."
+    },
+    {
+      "word_en": "omelet",
+      "example_en": "He makes a mean omelet for breakfast.",
+      "word_tr": "omlet",
+      "example_tr": "Kahvaltı için harika bir omlet yapar."
+    },
+    {
+      "word_en": "pork",
+      "example_en": "She doesn't eat pork for religious reasons.",
+      "word_tr": "domuz eti",
+      "example_tr": "Dini nedenlerle domuz eti yemez."
+    },
+    {
+      "word_en": "beef",
+      "example_en": "They had beef stew for dinner.",
+      "word_tr": "dana eti",
+      "example_tr": "Akşam yemeği için dana eti güveç yaptılar."
+    },
+    {
+      "word_en": "lamb",
+      "example_en": "Lamb curry is his favorite dish.",
+      "word_tr": "kuzu eti",
+      "example_tr": "Kuzu etli köri onun en sevdiği yemek."
+    }
+  ]
+}
 
