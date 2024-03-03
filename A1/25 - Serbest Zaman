@@ -1,1 +1,106 @@
-
+{
+  "words": [
+    {
+      "word_en": "soccer",
+      "example_en": "Playing soccer with friends is enjoyable.",
+      "word_tr": "futbol",
+      "example_tr": "Arkadaşlarla futbol oynamak keyiflidir."
+    },
+    {
+      "word_en": "hobby",
+      "example_en": "Watching movies is one of my hobbies.",
+      "word_tr": "hobi",
+      "example_tr": "Filmler izlemek benim hobilerimden biridir."
+    },
+    {
+      "word_en": "video game",
+      "example_en": "He spends hours playing video games.",
+      "word_tr": "video oyunu",
+      "example_tr": "Saatlerce video oyunları oynamak."
+    },
+    {
+      "word_en": "violin",
+      "example_en": "Learning to play the violin requires patience.",
+      "word_tr": "keman",
+      "example_tr": "Keman çalmayı öğrenmek sabır gerektirir."
+    },
+    {
+      "word_en": "tennis",
+      "example_en": "She's been playing tennis since she was young.",
+      "word_tr": "tenis",
+      "example_tr": "Küçük yaşlardan beri tenis oynuyor."
+    },
+    {
+      "word_en": "swimming",
+      "example_en": "Swimming is a fun and healthy hobby.",
+      "word_tr": "yüzme",
+      "example_tr": "Yüzme, eğlenceli ve sağlıklı bir hobidir."
+    },
+    {
+      "word_en": "game",
+      "example_en": "Playing board games is a fun hobby.",
+      "word_tr": "oyun",
+      "example_tr": "Masa oyunları oynamak eğlenceli bir hobidir."
+    },
+    {
+      "word_en": "music",
+      "example_en": "Listening to music helps me relax.",
+      "word_tr": "müzik",
+      "example_tr": "Müzik dinlemek rahatlamama yardımcı olur."
+    },
+    {
+      "word_en": "magazine",
+      "example_en": "She reads fashion magazines regularly.",
+      "word_tr": "dergi",
+      "example_tr": "Moda dergilerini düzenli olarak okur."
+    },
+    {
+      "word_en": "bicycle",
+      "example_en": "Riding a bicycle is a great hobby.",
+      "word_tr": "bisiklet",
+      "example_tr": "Bisiklet sürmek harika bir hobidir."
+    },
+    {
+      "word_en": "hiking",
+      "example_en": "Hiking in the mountains is refreshing.",
+      "word_tr": "doğa yürüyüşü",
+      "example_tr": "Dağlarda doğa yürüyüşü yapmak ferahlatıcıdır."
+    },
+    {
+      "word_en": "piano",
+      "example_en": "She practices the piano every day.",
+      "word_tr": "piyano",
+      "example_tr": "Her gün piyano çalışır."
+    },
+    {
+      "word_en": "movie",
+      "example_en": "I watched a great movie last night.",
+      "word_tr": "film",
+      "example_tr": "Dün gece harika bir film izledim."
+    },
+    {
+      "word_en": "guitar",
+      "example_en": "He plays the guitar very well.",
+      "word_tr": "gitar",
+      "example_tr": "O, gitar çalmayı çok iyi bilir."
+    },
+    {
+      "word_en": "sport",
+      "example_en": "Watching sports is a popular hobby.",
+      "word_tr": "spor",
+      "example_tr": "Spor izlemek popüler bir hobidir."
+    },
+    {
+      "word_en": "newspaper",
+      "example_en": "Reading newspapers is my morning routine.",
+      "word_tr": "gazete",
+      "example_tr": "Gazete okumak sabah rutinimdir."
+    },
+    {
+      "word_en": "volleyball",
+      "example_en": "They played volleyball on the beach.",
+      "word_tr": "voleybol",
+      "example_tr": "Plajda voleybol oynadılar."
+    }
+  ]
+}
