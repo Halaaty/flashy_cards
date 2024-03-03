@@ -1,1 +1,137 @@
+{
+  "words": [
+    {
+      "word_en": "with",
+      "example_en": "I went to the store with my friend.",
+      "word_tr": "ile",
+      "example_tr": "Arkadaşımla birlikte mağazaya gittim."
+    },
+    {
+      "word_en": "that",
+      "example_en": "I want the book that is on the table.",
+      "word_tr": "ki",
+      "example_tr": "Masada olan kitabı istiyorum."
+    },
+    {
+      "word_en": "this",
+      "example_en": "This is the house I grew up in.",
+      "word_tr": "bu",
+      "example_tr": "Bu, büyüdüğüm ev."
+    },
+    {
+      "word_en": "under",
+      "example_en": "The cat is hiding under the bed.",
+      "word_tr": "altında",
+      "example_tr": "Kedi yatağın altına saklanmış."
+    },
+    {
+      "word_en": "over",
+      "example_en": "The plane flew over the city.",
+      "word_tr": "üzerinde",
+      "example_tr": "Uçak şehrin üzerinden uçtu."
+    },
+    {
+      "word_en": "what",
+      "example_en": "What is the name of the restaurant?",
+      "word_tr": "ne",
+      "example_tr": "Restoranın adı ne?"
+    },
+    {
+      "word_en": "both",
+      "example_en": "They both like to swim.",
+      "word_tr": "her ikisi de",
+      "example_tr": "Her ikisi de yüzmeyi severler."
+    },
+    {
+      "word_en": "that",
+      "example_en": "I want the book that is on the table.",
+      "word_tr": "şu",
+      "example_tr": "Masada olan kitabı istiyorum."
+    },
+    {
+      "word_en": "to",
+      "example_en": "She went to the park.",
+      "word_tr": "e",
+      "example_tr": "Parka gitti."
+    },
+    {
+      "word_en": "with",
+      "example_en": "I went to the store with my friend.",
+      "word_tr": "ile",
+      "example_tr": "Arkadaşımla birlikte mağazaya gittim."
+    },
+    {
+      "word_en": "behind",
+      "example_en": "The car is parked behind the house.",
+      "word_tr": "arkasında",
+      "example_tr": "Araba evin arkasına park edilmiş."
+    },
+    {
+      "word_en": "next to",
+      "example_en": "The bank is next to the post office.",
+      "word_tr": "bitişiğinde",
+      "example_tr": "Banka postanenin yanında."
+    },
+    {
+      "word_en": "between",
+      "example_en": "The store is between the bank and the post office.",
+      "word_tr": "arasında",
+      "example_tr": "Mağaza banka ile postane arasında."
+    },
+    {
+      "word_en": "near",
+      "example_en": "The park is near the school.",
+      "word_tr": "yakınında",
+      "example_tr": "Park okulun yakınında."
+    },
+    {
+      "word_en": "across",
+      "example_en": "The bridge goes across the river.",
+      "word_tr": "karşısında",
+      "example_tr": "Köprü nehrin karşısına geçer."
+    },
+    {
+      "word_en": "above",
+      "example_en": "The bird is flying above the clouds.",
+      "word_tr": "üstünde",
+      "example_tr": "Kuş bulutların üstünde uçuyor."
+    },
+    {
+      "word_en": "below",
+      "example_en": "The fish is swimming below the surface.",
+      "word_tr": "altında",
+      "example_tr": "Balık yüzeyin altında yüzüyor."
+    },
+    {
+      "word_en": "on",
+      "example_en": "The book is on the table.",
+      "word_tr": "üzerinde",
+      "example_tr": "Kitap masanın üstünde."
+    },
+    {
+      "word_en": "in",
+      "example_en": "She is in the room.",
+      "word_tr": "içinde",
+      "example_tr": "O odanın içinde."
+    },
+    {
+      "word_en": "at",
+      "example_en": "They are waiting at the bus stop.",
+      "word_tr": "de",
+      "example_tr": "Onlar otobüs durağında bekliyorlar."
+    },
+    {
+      "word_en": "after",
+      "example_en": "I'll see you after the meeting.",
+      "word_tr": "sonra",
+      "example_tr": "Toplantıdan sonra seninle görüşeceğim."
+    },
+    {
+      "word_en": "before",
+      "example_en": "I'll see you before the meeting.",
+      "word_tr": "önce",
+      "example_tr": "Toplantıdan önce seninle görüşeceğim."
+    }
+  ]
+}
 
