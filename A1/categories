@@ -19,6 +19,114 @@
     {
       "name": "5 - Renkler",
       "id": "5"
+    },
+    {
+      "name": "6 - Aylar ve Mevsimler",
+      "id": "6"
+    },
+    {
+      "name": "7 - Saat ve Tarih",
+      "id": "7"
+    },
+    {
+      "name": "8 - Kişisel bilgi",
+      "id": "8"
+    },
+    {
+      "name": "9 - Vücut",
+      "id": "9"
+    },
+    {
+      "name": "10 - Baş ve Yüz",
+      "id": "10"
+    },
+    {
+      "name": "11 - Zıt Sıfatlar",
+      "id": "11"
+    },
+    {
+      "name": "12 - Ev ve Apartman",
+      "id": "12"
+    },
+    {
+      "name": "13 - Mobilya ve Ev Aletleri",
+      "id": "13"
+    },
+    {
+      "name": "14 - İş ve Meslek",
+      "id": "14"
+    },
+    {
+      "name": "15 - Kıyafetler ve ayakkabılar",
+      "id": "15"
+    },
+    {
+      "name": "16 - Hayvanlar",
+      "id": "16"
+    },
+    {
+      "name": "17 - Temel Fiiller 1",
+      "id": "17"
+    },
+    {
+      "name": "18 - Ev Eşyaları",
+      "id": "18"
+    },
+    {
+      "name": "19 - Yiyecek 1",
+      "id": "19"
+    },
+    {
+      "name": "20 - Yiyecek 2",
+      "id": "20"
+    },
+    {
+      "name": "21 - Hava ve Doğa",
+      "id": "21"
+    },
+    {
+      "name": "22 - Temel Fiiller 2",
+      "id": "22"
+    },
+    {
+      "name": "23 - Okul",
+      "id": "23"
+    },
+    {
+      "name": "24 - Şehir",
+      "id": "24"
+    },
+    {
+      "name": "25 - Serbest Zaman",
+      "id": "25"
+    },
+    {
+      "name": "26 - Ülkeler ve Milliyetler",
+      "id": "26"
+    },
+    {
+      "name": "27 - öbek fiiller",
+      "id": "27"
+    },
+    {
+      "name": "28 - Ulaşım",
+      "id": "28"
+    },
+    {
+      "name": "29 - Yol yönleri ve Kıtalar",
+      "id": "29"
+    },
+    {
+      "name": "30 - Zarflar ve Adıllar",
+      "id": "30"
+    },
+    {
+      "name": "31 - Edatlar ve Belirleyiciler",
+      "id": "31"
+    },
+    {
+      "name": "32 - İnsanları Tanımlamak",
+      "id": "32"
     }
   ]
 }
