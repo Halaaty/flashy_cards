@@ -1,1 +1,172 @@
-
+{
+  "words": [
+    {
+      "word_en": "farmer",
+      "example_en": "My grandfather was a farmer.",
+      "word_tr": "çiftçi",
+      "example_tr": "Dedem bir çiftçiydi."
+    },
+    {
+      "word_en": "scientist",
+      "example_en": "Marie Curie was a renowned scientist.",
+      "word_tr": "bilim insanı",
+      "example_tr": "Marie Curie ünlü bir bilim insanıydı."
+    },
+    {
+      "word_en": "head",
+      "example_en": "She's the head of the department.",
+      "word_tr": "baş",
+      "example_tr": "O departmanın başı."
+    },
+    {
+      "word_en": "title",
+      "example_en": "He holds the title of CEO.",
+      "word_tr": "ünvan",
+      "example_tr": "O, CEO unvanını taşıyor."
+    },
+    {
+      "word_en": "salesclerk",
+      "example_en": "She works as a salesclerk in a boutique.",
+      "word_tr": "satış görevlisi",
+      "example_tr": "O, bir butikte satış görevlisi olarak çalışıyor."
+    },
+    {
+      "word_en": "officer",
+      "example_en": "He serves as an officer in the army.",
+      "word_tr": "subay",
+      "example_tr": "O, ordu da bir subay olarak görev yapıyor."
+    },
+    {
+      "word_en": "staff",
+      "example_en": "The company hired new staff for the project.",
+      "word_tr": "personel",
+      "example_tr": "Şirket, projeye yeni personel aldı."
+    },
+    {
+      "word_en": "politician",
+      "example_en": "She's a respected politician in her community.",
+      "word_tr": "siyasetçi",
+      "example_tr": "Topluluğunda saygı gören bir siyasetçi."
+    },
+    {
+      "word_en": "organization",
+      "example_en": "He works for a non-profit organization.",
+      "word_tr": "kuruluş",
+      "example_tr": "Kâr amacı gütmeyen bir kuruluşta çalışıyor."
+    },
+    {
+      "word_en": "salary",
+      "example_en": "The company offers competitive salaries to its employees.",
+      "word_tr": "maaş",
+      "example_tr": "Şirket, çalışanlarına rekabetçi maaşlar sunuyor."
+    },
+    {
+      "word_en": "raise",
+      "example_en": "She received a raise after her performance review.",
+      "word_tr": "zam",
+      "example_tr": "Performans değerlendirmesinden sonra zam aldı."
+    },
+    {
+      "word_en": "overtime",
+      "example_en": "He often works overtime to meet deadlines.",
+      "word_tr": "mesai",
+      "example_tr": "Son teslim tarihlerine yetişmek için sık ​​sık mesai yapıyor."
+    },
+    {
+      "word_en": "hairstylist",
+      "example_en": "She's a talented hairstylist at the local salon.",
+      "word_tr": "kuaför",
+      "example_tr": "Yerel salonun yetenekli bir kuaförü."
+    },
+    {
+      "word_en": "chemist",
+      "example_en": "He's a chemist working in a pharmaceutical company.",
+      "word_tr": "kimyager",
+      "example_tr": "Bir ilaç şirketinde çalışan bir kimyager."
+    },
+    {
+      "word_en": "fashion designer",
+      "example_en": "She's a fashion designer for a famous clothing brand.",
+      "word_tr": "moda tasarımcısı",
+      "example_tr": "Ünlü bir giyim markası için moda tasarımcısı."
+    },
+    {
+      "word_en": "meeting",
+      "example_en": "They have a meeting scheduled for this afternoon.",
+      "word_tr": "toplantı",
+      "example_tr": "Bu öğleden sonra bir toplantıları var."
+    },
+    {
+      "word_en": "hire",
+      "example_en": "The company plans to hire more engineers next year.",
+      "word_tr": "işe almak",
+      "example_tr": "Şirket önümüzdeki yıl daha fazla mühendis işe almayı planlıyor."
+    },
+    {
+      "word_en": "promotion",
+      "example_en": "She got a promotion after years of hard work.",
+      "word_tr": "terfi",
+      "example_tr": "Yıllarca süren çalışmanın ardından terfi aldı."
+    },
+    {
+      "word_en": "break",
+      "example_en": "They took a short break after the morning meeting.",
+      "word_tr": "mola",
+      "example_tr": "Sabahki toplantının ardından kısa bir mola verdiler."
+    },
+    {
+      "word_en": "recommendation",
+      "example_en": "He received a recommendation from his previous employer.",
+      "word_tr": "öneri",
+      "example_tr": "Önceki işvereninden bir öneri aldı."
+    },
+    {
+      "word_en": "job interview",
+      "example_en": "She has a job interview tomorrow.",
+      "word_tr": "iş görüşmesi",
+      "example_tr": "Yarın iş görüşmesi var."
+    },
+    {
+      "word_en": "apprentice",
+      "example_en": "He started as an apprentice and learned the trade.",
+      "word_tr": "çırak",
+      "example_tr": "Çırak olarak başladı ve mesleği öğrendi."
+    },
+    {
+      "word_en": "retired",
+      "example_en": "He retired after working for forty years.",
+      "word_tr": "emekli",
+      "example_tr": "Kırk yıl çalıştıktan sonra emekli oldu."
+    },
+    {
+      "word_en": "fire",
+      "example_en": "They had to fire several employees due to budget cuts.",
+      "word_tr": "işten çıkarmak",
+      "example_tr": "Bütçe kesintileri nedeniyle birkaç çalışanı işten çıkarmak zorunda kaldılar."
+    },
+    {
+      "word_en": "earn",
+      "example_en": "She earns a high salary as a lawyer.",
+      "word_tr": "kazanmak",
+      "example_tr": "Avukat olarak yüksek bir maaş kazanıyor."
+    },
+    {
+      "word_en": "quit",
+      "example_en": "He decided to quit his job and travel the world.",
+      "word_tr": "istifa etmek",
+      "example_tr": "İşinden istifa etmeye ve dünyayı gezmeye karar verdi."
+    },
+    {
+      "word_en": "pay",
+      "example_en": "They agreed to increase his pay.",
+      "word_tr": "ödeme",
+      "example_tr": "Maaşını artırmaya karar verdiler."
+    },
+    {
+      "word_en": "resume",
+      "example_en": "She sent her resume to several companies.",
+      "word_tr": "özgeçmiş",
+      "example_tr": "Özgeçmişini birkaç şirkete gönderdi."
+    }
+  ]
+}
