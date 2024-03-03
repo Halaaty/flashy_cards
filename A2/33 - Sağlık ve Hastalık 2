@@ -1,1 +1,137 @@
+{
+  "words": [
+    {
+      "word_en": "dangerous",
+      "example_en": "It's dangerous to play near the cliff.",
+      "word_tr": "tehlikeli",
+      "example_tr": "Uçurum kenarında oynamak tehlikelidir."
+    },
+    {
+      "word_en": "appointment",
+      "example_en": "She has a doctor's appointment tomorrow.",
+      "word_tr": "randevu",
+      "example_tr": "Yarın doktor randevusu var."
+    },
+    {
+      "word_en": "test",
+      "example_en": "He needs to take a blood test to check his cholesterol level.",
+      "word_tr": "test",
+      "example_tr": "Kolesterol seviyesini kontrol etmek için bir kan testi yapması gerekiyor."
+    },
+    {
+      "word_en": "sickness",
+      "example_en": "The sickness kept him in bed for a week.",
+      "word_tr": "hastalık",
+      "example_tr": "Hastalık bir hafta boyunca yatağa bağladı."
+    },
+    {
+      "word_en": "injury",
+      "example_en": "He suffered a severe injury during the accident.",
+      "word_tr": "yaralanma",
+      "example_tr": "Kazada ciddi bir yaralanma geçirdi."
+    },
+    {
+      "word_en": "pain",
+      "example_en": "She felt a sharp pain in her leg.",
+      "word_tr": "ağrı",
+      "example_tr": "Bacağında keskin bir ağrı hissetti."
+    },
+    {
+      "word_en": "accident",
+      "example_en": "He had a car accident on the way to work.",
+      "word_tr": "kaza",
+      "example_tr": "İşe giderken bir araba kazası geçirdi."
+    },
+    {
+      "word_en": "broken",
+      "example_en": "Her arm was broken in the fall.",
+      "word_tr": "kırık",
+      "example_tr": "Düşüşte kolunu kırdı."
+    },
+    {
+      "word_en": "better",
+      "example_en": "He's feeling better after taking the medication.",
+      "word_tr": "daha iyi",
+      "example_tr": "İlaç aldıktan sonra daha iyi hissediyor."
+    },
+    {
+      "word_en": "sick",
+      "example_en": "She called in sick to work.",
+      "word_tr": "hasta",
+      "example_tr": "İşe hasta olduğunu bildirdi."
+    },
+    {
+      "word_en": "hurt",
+      "example_en": "He hurt his knee while playing soccer.",
+      "word_tr": "incinmek",
+      "example_tr": "Futbol oynarken dizini incitti."
+    },
+    {
+      "word_en": "serious",
+      "example_en": "The doctor said it's a serious condition.",
+      "word_tr": "ciddi",
+      "example_tr": "Doktor durumun ciddi olduğunu söyledi."
+    },
+    {
+      "word_en": "examine",
+      "example_en": "The doctor will examine your throat.",
+      "word_tr": "muayene etmek",
+      "example_tr": "Doktor boğazınızı muayene edecek."
+    },
+    {
+      "word_en": "break",
+      "example_en": "She broke her leg while skiing.",
+      "word_tr": "kırmak",
+      "example_tr": "Kayak yaparken ayağını kırdı."
+    },
+    {
+      "word_en": "cut",
+      "example_en": "He cut his finger while chopping vegetables.",
+      "word_tr": "kesmek",
+      "example_tr": "Sebzeleri doğrarken parmağını kesti."
+    },
+    {
+      "word_en": "injure",
+      "example_en": "He injured his ankle during the soccer game.",
+      "word_tr": "yaralamak",
+      "example_tr": "Futbol maçında bileğini incitti."
+    },
+    {
+      "word_en": "hit",
+      "example_en": "He hit his head on the door.",
+      "word_tr": "vurmak",
+      "example_tr": "Kafasını kapıya vurdu."
+    },
+    {
+      "word_en": "see",
+      "example_en": "You should see a doctor if the pain persists.",
+      "word_tr": "görmek",
+      "example_tr": "Ağrı devam ederse bir doktora gitmelisiniz."
+    },
+    {
+      "word_en": "catch",
+      "example_en": "He caught a cold from his coworker.",
+      "word_tr": "yakalamak",
+      "example_tr": "İş arkadaşından soğuk algınlığı kaptı."
+    },
+    {
+      "word_en": "prescribe",
+      "example_en": "The doctor prescribed antibiotics for the infection.",
+      "word_tr": "reçete yazmak",
+      "example_tr": "Doktor enfeksiyon için antibiyotik reçete etti."
+    },
+    {
+      "word_en": "sneeze",
+      "example_en": "She couldn't stop sneezing because of her allergies.",
+      "word_tr": "hapşırmak",
+      "example_tr": "Alerjilerinden dolayı hapşırmayı durduramadı."
+    },
+    {
+      "word_en": "cough",
+      "example_en": "He had a persistent cough for weeks.",
+      "word_tr": "öksürmek",
+      "example_tr": "Haftalar boyunca sürekli öksürüyordu."
+    }
+  ]
+}
 
