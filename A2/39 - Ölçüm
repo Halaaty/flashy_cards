@@ -1,1 +1,299 @@
+{
+  "words": [
+    {
+      "word_en": "unit",
+      "example_en": "The price is per unit, not per kilogram.",
+      "word_tr": "birim",
+      "example_tr": "Fiyat birim başına, kilogram başına değil."
+    },
+    {
+      "word_en": "yard",
+      "example_en": "She measured the length of the room in yards.",
+      "word_tr": "yarda",
+      "example_tr": "Oda uzunluğunu yarda cinsinden ölçtü."
+    },
+    {
+      "word_en": "increase",
+      "example_en": "There was an increase in the price of groceries.",
+      "word_tr": "artış",
+      "example_tr": "Market fiyatlarında bir artış oldu."
+    },
+    {
+      "word_en": "millimeter",
+      "example_en": "The thickness of the paper is measured in millimeters.",
+      "word_tr": "milimetre",
+      "example_tr": "Kağıdın kalınlığı milimetre cinsinden ölçülür."
+    },
+    {
+      "word_en": "weight",
+      "example_en": "She checked her weight on the bathroom scale.",
+      "word_tr": "ağırlık",
+      "example_tr": "Banyo tartısında ağırlığını kontrol etti."
+    },
+    {
+      "word_en": "quantity",
+      "example_en": "They ordered a large quantity of supplies for the project.",
+      "word_tr": "miktar",
+      "example_tr": "Proje için büyük miktarda malzeme sipariş ettiler."
+    },
+    {
+      "word_en": "average",
+      "example_en": "The average temperature in July is around 25 degrees Celsius.",
+      "word_tr": "ortalama",
+      "example_tr": "Temmuz ayındaki ortalama sıcaklık yaklaşık 25 derece santigrat."
+    },
+    {
+      "word_en": "milliliter",
+      "example_en": "She poured 200 milliliters of water into the glass.",
+      "word_tr": "mililitre",
+      "example_tr": "200 mililitre suyu bardağa döktü."
+    },
+    {
+      "word_en": "quality",
+      "example_en": "They take pride in the quality of their products.",
+      "word_tr": "kalite",
+      "example_tr": "Ürünlerinin kalitesinden gurur duyuyorlar."
+    },
+    {
+      "word_en": "meter",
+      "example_en": "The length of the room is measured in meters.",
+      "word_tr": "metre",
+      "example_tr": "Oda uzunluğu metre cinsinden ölçülür."
+    },
+    {
+      "word_en": "degree",
+      "example_en": "She adjusted the thermostat to 22 degrees Celsius.",
+      "word_tr": "derece",
+      "example_tr": "Termostatı 22 dereceye ayarladı."
+    },
+    {
+      "word_en": "measure",
+      "example_en": "He used a ruler to measure the length of the board.",
+      "word_tr": "ölçmek",
+      "example_tr": "Tahtanın uzunluğunu ölçmek için bir cetvel kullandı."
+    },
+    {
+      "word_en": "size",
+      "example_en": "She found the perfect size dress for the party.",
+      "word_tr": "boyut",
+      "example_tr": "Parti için mükemmel boyutta bir elbise buldu."
+    },
+    {
+      "word_en": "height",
+      "example_en": "The height of the mountain peak is over 4000 meters.",
+      "word_tr": "yükseklik",
+      "example_tr": "Dağın zirvesinin yüksekliği 4000 metrenin üzerinde."
+    },
+    {
+      "word_en": "foot",
+      "example_en": "He is six feet tall.",
+      "word_tr": "ayak",
+      "example_tr": "O, altı ayak uzunluğunda."
+    },
+    {
+      "word_en": "pound",
+      "example_en": "She bought a pound of apples at the market.",
+      "word_tr": "pound",
+      "example_tr": "Pazardan bir pound elma aldı."
+    },
+    {
+      "word_en": "depth",
+      "example_en": "The depth of the lake is unknown.",
+      "word_tr": "derinlik",
+      "example_tr": "Gölün derinliği bilinmiyor."
+    },
+    {
+      "word_en": "road",
+      "example_en": "They traveled down the winding road through the mountains.",
+      "word_tr": "yol",
+      "example_tr": "Dağlar arasındaki dolambaçlı yolda seyahat ettiler."
+    },
+    {
+      "word_en": "long",
+      "example_en": "The river is 150 kilometers long.",
+      "word_tr": "uzun",
+      "example_tr": "Nehir 150 kilometre uzunluğunda."
+    },
+    {
+      "word_en": "centimeter",
+      "example_en": "The width of the table is 60 centimeters.",
+      "word_tr": "santimetre",
+      "example_tr": "Masanın genişliği 60 santimetre."
+    },
+    {
+      "word_en": "thin",
+      "example_en": "She sliced the cucumber into thin strips.",
+      "word_tr": "ince",
+      "example_tr": "Salatalığı ince şeritler halinde kesti."
+    },
+    {
+      "word_en": "size",
+      "example_en": "She found the perfect size dress for the party.",
+      "word_tr": "boyut",
+      "example_tr": "Parti için mükemmel boyutta bir elbise buldu."
+    },
+    {
+      "word_en": "size",
+      "example_en": "She found the perfect size dress for the party.",
+      "word_tr": "boyut",
+      "example_tr": "Parti için mükemmel boyutta bir elbise buldu."
+    },
+    {
+      "word_en": "narrow",
+      "example_en": "The path through the woods is narrow.",
+      "word_tr": "dar",
+      "example_tr": "Ormandaki yol dar."
+    },
+    {
+      "word_en": "large",
+      "example_en": "They ordered a large pizza for the party.",
+      "word_tr": "büyük",
+      "example_tr": "Parti için büyük bir pizza sipariş ettiler."
+    },
+    {
+      "word_en": "width",
+      "example_en": "The width of the doorway is 1.2 meters.",
+      "word_tr": "genişlik",
+      "example_tr": "Kapının genişliği 1.2 metre."
+    },
+    {
+      "word_en": "thin",
+      "example_en": "She sliced the cucumber into thin strips.",
+      "word_tr": "ince",
+      "example_tr": "Salatalığı ince şeritler halinde kesti."
+    },
+    {
+      "word_en": "highway",
+      "example_en": "They took the highway to get to the city faster.",
+      "word_tr": "otoyol",
+      "example_tr": "Şehre daha hızlı ulaşmak için otoyolu kullandılar."
+    },
+    {
+      "word_en": "move",
+      "example_en": "They decided to move to a larger apartment.",
+      "word_tr": "taşınmak",
+      "example_tr": "Daha büyük bir daireye taşınmaya karar verdiler."
+    },
+    {
+      "word_en": "size",
+      "example_en": "She found the perfect size dress for the party.",
+      "word_tr": "boyut",
+      "example_tr": "Parti için mükemmel boyutta bir elbise buldu."
+    },
+    {
+      "word_en": "thick",
+      "example_en": "The fog was thick and obscured their view.",
+      "word_tr": "kalın",
+      "example_tr": "Sis kalındı ve görüşlerini engelledi."
+    },
+    {
+      "word_en": "depth",
+      "example_en": "The depth of the lake is unknown.",
+      "word_tr": "derinlik",
+      "example_tr": "Gölün derinliği bilinmiyor."
+    },
+    {
+      "word_en": "quantity",
+      "example_en": "They ordered a large quantity of supplies for the project.",
+      "word_tr": "miktar",
+      "example_tr": "Proje için büyük miktarda malzeme sipariş ettiler."
+    },
+    {
+      "word_en": "height",
+      "example_en": "The height of the mountain peak is over 4000 meters.",
+      "word_tr": "yükseklik",
+      "example_tr": "Dağın zirvesinin yüksekliği 4000 metrenin üzerinde."
+    },
+    {
+      "word_en": "mile",
+      "example_en": "They walked for miles along the beach.",
+      "word_tr": "mil",
+      "example_tr": "Kumsal boyunca milce yürüdüler."
+    },
+    {
+      "word_en": "pound",
+      "example_en": "She bought a pound of apples at the market.",
+      "word_tr": "pound",
+      "example_tr": "Pazardan bir pound elma aldı."
+    },
+    {
+      "word_en": "degree",
+      "example_en": "She adjusted the thermostat to 22 degrees Celsius.",
+      "word_tr": "derece",
+      "example_tr": "Termostatı 22 dereceye ayarladı."
+    },
+    {
+      "word_en": "centimeter",
+      "example_en": "The width of the table is 60 centimeters.",
+      "word_tr": "santimetre",
+      "example_tr": "Masanın genişliği 60 santimetre."
+    },
+    {
+      "word_en": "measure",
+      "example_en": "He used a ruler to measure the length of the board.",
+      "word_tr": "ölçmek",
+      "example_tr": "Tahtanın uzunluğunu ölçmek için bir cetvel kullandı."
+    },
+    {
+      "word_en": "foot",
+      "example_en": "He is six feet tall.",
+      "word_tr": "ayak",
+      "example_tr": "O, altı ayak uzunluğunda."
+    },
+    {
+      "word_en": "thin",
+      "example_en": "She sliced the cucumber into thin strips.",
+      "word_tr": "ince",
+      "example_tr": "Salatalığı ince şeritler halinde kesti."
+    },
+    {
+      "word_en": "size",
+      "example_en": "She found the perfect size dress for the party.",
+      "word_tr": "boyut",
+      "example_tr": "Parti için mükemmel boyutta bir elbise buldu."
+    },
+    {
+      "word_en": "size",
+      "example_en": "She found the perfect size dress for the party.",
+      "word_tr": "boyut",
+      "example_tr": "Parti için mükemmel boyutta bir elbise buldu."
+    },
+    {
+      "word_en": "narrow",
+      "example_en": "The path through the woods is narrow.",
+      "word_tr": "dar",
+      "example_tr": "Ormandaki yol dar."
+    },
+    {
+      "word_en": "large",
+      "example_en": "They ordered a large pizza for the party.",
+      "word_tr": "büyük",
+      "example_tr": "Parti için büyük bir pizza sipariş ettiler."
+    },
+    {
+      "word_en": "width",
+      "example_en": "The width of the doorway is 1.2 meters.",
+      "word_tr": "genişlik",
+      "example_tr": "Kapının genişliği 1.2 metre."
+    },
+    {
+      "word_en": "thin",
+      "example_en": "She sliced the cucumber into thin strips.",
+      "word_tr": "ince",
+      "example_tr": "Salatalığı ince şeritler halinde kesti."
+    },
+    {
+      "word_en": "move",
+      "example_en": "They decided to move to a larger apartment.",
+      "word_tr": "taşınmak",
+      "example_tr": "Daha büyük bir daireye taşınmaya karar verdiler."
+    },
+    {
+      "word_en": "thick",
+      "example_en": "The fog was thick and obscured their view.",
+      "word_tr": "kalın",
+      "example_tr": "Sis kalındı ve görüşlerini engelledi."
+    }
+  ]
+}
 
