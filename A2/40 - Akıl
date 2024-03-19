@@ -1,1 +1,197 @@
+{
+  "words": [
+    {
+      "word_en": "clear",
+      "example_en": "His instructions were clear and easy to follow.",
+      "word_tr": "açık",
+      "example_tr": "Talimatları açık ve takip etmesi kolaydı."
+    },
+    {
+      "word_en": "plan",
+      "example_en": "They made a plan for their vacation.",
+      "word_tr": "plan",
+      "example_tr": "Tatilleri için bir plan yaptılar."
+    },
+    {
+      "word_en": "idea",
+      "example_en": "She came up with a brilliant idea for the project.",
+      "word_tr": "fikir",
+      "example_tr": "Proje için parlak bir fikir buldu."
+    },
+    {
+      "word_en": "memory",
+      "example_en": "Her memory of the event was vivid.",
+      "word_tr": "bellek",
+      "example_tr": "Olayın belleği canlıydı."
+    },
+    {
+      "word_en": "decision",
+      "example_en": "They reached a decision after much deliberation.",
+      "word_tr": "karar",
+      "example_tr": "Uzun bir değerlendirmenin ardından bir karara vardılar."
+    },
+    {
+      "word_en": "favorite",
+      "example_en": "Pizza is his favorite food.",
+      "word_tr": "favori",
+      "example_tr": "Pizza onun favori yiyeceği."
+    },
+    {
+      "word_en": "power",
+      "example_en": "With great power comes great responsibility.",
+      "word_tr": "güç",
+      "example_tr": "Büyük güç büyük sorumluluk getirir."
+    },
+    {
+      "word_en": "knowledge",
+      "example_en": "She has extensive knowledge of ancient history.",
+      "word_tr": "bilgi",
+      "example_tr": "Antik tarih hakkında geniş bir bilgiye sahip."
+    },
+    {
+      "word_en": "suggest",
+      "example_en": "She suggested going to the beach for the weekend.",
+      "word_tr": "önermek",
+      "example_tr": "Hafta sonu için plaja gitmeyi önerdi."
+    },
+    {
+      "word_en": "skill",
+      "example_en": "He has excellent communication skills.",
+      "word_tr": "beceri",
+      "example_tr": "Mükemmel iletişim becerilerine sahip."
+    },
+    {
+      "word_en": "enjoy",
+      "example_en": "They enjoyed the concert last night.",
+      "word_tr": "keyif almak",
+      "example_tr": "Dün gece konserden keyif aldılar."
+    },
+    {
+      "word_en": "believe",
+      "example_en": "She believes in the power of positive thinking.",
+      "word_tr": "inanmak",
+      "example_tr": "Pozitif düşünmenin gücüne inanıyor."
+    },
+    {
+      "word_en": "guess",
+      "example_en": "Can you guess what I'm thinking?",
+      "word_tr": "tahmin",
+      "example_tr": "Ne düşündüğümü tahmin edebilir misin?"
+    },
+    {
+      "word_en": "mind",
+      "example_en": "He couldn't get her out of his mind.",
+      "word_tr": "akıl",
+      "example_tr": "Onu aklından çıkaramadı."
+    },
+    {
+      "word_en": "choose",
+      "example_en": "They had to choose between two options.",
+      "word_tr": "seçmek",
+      "example_tr": "İki seçenek arasında seçim yapmak zorundaydılar."
+    },
+    {
+      "word_en": "imagine",
+      "example_en": "She could imagine herself living in a beach house.",
+      "word_tr": "hayal etmek",
+      "example_tr": "Kendisini bir plaj evinde yaşarken hayal edebiliyordu."
+    },
+    {
+      "word_en": "dream",
+      "example_en": "His dream is to travel around the world.",
+      "word_tr": "rüya",
+      "example_tr": "Onun rüyası dünya turu yapmaktır."
+    },
+    {
+      "word_en": "experience",
+      "example_en": "She gained valuable experience working at the company.",
+      "word_tr": "deneyim",
+      "example_tr": "Şirkette çalışarak değerli deneyim kazandı."
+    },
+    {
+      "word_en": "suggestion",
+      "example_en": "Do you have any suggestions for improving the project?",
+      "word_tr": "öneri",
+      "example_tr": "Projenin geliştirilmesi için bir öneriniz var mı?"
+    },
+    {
+      "word_en": "hope",
+      "example_en": "They hope to finish the project by the end of the month.",
+      "word_tr": "umut",
+      "example_tr": "Ayın sonuna kadar projeyi bitirmeyi umuyorlar."
+    },
+    {
+      "word_en": "forget",
+      "example_en": "She couldn't forget the look on his face.",
+      "word_tr": "unutmak",
+      "example_tr": "Yüzündeki ifadeyi unutamadı."
+    },
+    {
+      "word_en": "nervous",
+      "example_en": "He felt nervous before his job interview.",
+      "word_tr": "sinirli",
+      "example_tr": "İş görüşmesinden önce sinirli hissetti."
+    },
+    {
+      "word_en": "remember",
+      "example_en": "She remembered her grandmother's advice.",
+      "word_tr": "hatırlamak",
+      "example_tr": "Büyükannesinin tavsiyesini hatırladı."
+    },
+    {
+      "word_en": "decide",
+      "example_en": "They need to decide on a date for the meeting.",
+      "word_tr": "karar vermek",
+      "example_tr": "Toplantı için bir tarih belirlemeleri gerekiyor."
+    },
+    {
+      "word_en": "worried",
+      "example_en": "She was worried about her exam results.",
+      "word_tr": "endişeli",
+      "example_tr": "Sınav sonuçları hakkında endişeliydi."
+    },
+    {
+      "word_en": "belief",
+      "example_en": "Their belief in each other helped them through tough times.",
+      "word_tr": "inanç",
+      "example_tr": "Birbirlerine olan inançları onları zor zamanlardan geçirdi."
+    },
+    {
+      "word_en": "choice",
+      "example_en": "They had to make a difficult choice.",
+      "word_tr": "seçim",
+      "example_tr": "Zor bir seçim yapmak zorundaydılar."
+    },
+    {
+      "word_en": "calm",
+      "example_en": "She took a few deep breaths to calm herself down.",
+      "word_tr": "sakin",
+      "example_tr": "Kendini sakinleştirmek için birkaç derin nefes aldı."
+    },
+    {
+      "word_en": "skill",
+      "example_en": "He has excellent communication skills.",
+      "word_tr": "beceri",
+      "example_tr": "Mükemmel iletişim becerilerine sahip."
+    },
+    {
+      "word_en": "remind",
+      "example_en": "The smell of fresh cookies reminded her of her childhood.",
+      "word_tr": "hatırlatmak",
+      "example_tr": "Taze kurabiyelerin kokusu ona çocukluğunu hatırlattı."
+    },
+    {
+      "word_en": "think",
+      "example_en": "She paused to think before answering.",
+      "word_tr": "düşünmek",
+      "example_tr": "Cevap vermeden önce düşünmek için duraksadı."
+    },
+    {
+      "word_en": "matter",
+      "example_en": "It doesn't matter what others think.",
+      "word_tr": "önemli olmak",
+      "example_tr": "Diğerlerinin ne düşündüğü önemli değil."
+    }
+  ]
+}
 
