@@ -1,1 +1,185 @@
+{
+  "words": [
+    {
+      "word_en": "trip",
+      "example_en": "We're planning a trip to Europe next summer.",
+      "word_tr": "seyahat",
+      "example_tr": "Gelecek yaz Avrupa'ya bir seyahat planlıyoruz."
+    },
+    {
+      "word_en": "adventure",
+      "example_en": "Their hiking adventure took them through the mountains.",
+      "word_tr": "macera",
+      "example_tr": "Yürüyüş macerası onları dağların arasından geçirdi."
+    },
+    {
+      "word_en": "reservation",
+      "example_en": "I made a reservation at the hotel for two nights.",
+      "word_tr": "rezervasyon",
+      "example_tr": "Otelde iki gece için rezervasyon yaptırdım."
+    },
+    {
+      "word_en": "foreign",
+      "example_en": "She loves trying foreign cuisine when she travels.",
+      "word_tr": "yabancı",
+      "example_tr": "Yolculuk yaparken yabancı mutfakları denemeyi çok seviyor."
+    },
+    {
+      "word_en": "sightsee",
+      "example_en": "We spent the day sightseeing in the city.",
+      "word_tr": "gezinti yapmak",
+      "example_tr": "Şehirde gezinti yaparak günü geçirdik."
+    },
+    {
+      "word_en": "visit",
+      "example_en": "They plan to visit the famous landmarks in the city.",
+      "word_tr": "ziyaret etmek",
+      "example_tr": "Şehirdeki ünlü simgeleri ziyaret etmeyi planlıyorlar."
+    },
+    {
+      "word_en": "stay",
+      "example_en": "We decided to stay at a bed and breakfast for the weekend.",
+      "word_tr": "kalmak",
+      "example_tr": "Hafta sonu için bir pansiyonda kalmaya karar verdik."
+    },
+    {
+      "word_en": "postcard",
+      "example_en": "He sent a postcard to his family from his trip.",
+      "word_tr": "kartpostal",
+      "example_tr": "Yolculuğundan ailesine bir kartpostal gönderdi."
+    },
+    {
+      "word_en": "cancelation",
+      "example_en": "They had to deal with a flight cancellation due to bad weather.",
+      "word_tr": "iptal",
+      "example_tr": "Kötü hava koşulları nedeniyle uçuş iptali ile uğraşmak zorunda kaldılar."
+    },
+    {
+      "word_en": "foreigner",
+      "example_en": "As a foreigner, he found it challenging to navigate the city.",
+      "word_tr": "yabancı",
+      "example_tr": "Yabancı olarak, şehirde gezinmeyi zor buldu."
+    },
+    {
+      "word_en": "cancel",
+      "example_en": "They had to cancel their vacation due to unforeseen circumstances.",
+      "word_tr": "iptal etmek",
+      "example_tr": "Beklenmeyen durumlar nedeniyle tatillerini iptal etmek zorunda kaldılar."
+    },
+    {
+      "word_en": "motel",
+      "example_en": "They stayed in a cozy motel on the outskirts of town.",
+      "word_tr": "motel",
+      "example_tr": "Şehrin dışında sıcak bir motelde kaldılar."
+    },
+    {
+      "word_en": "souvenir",
+      "example_en": "She bought a souvenir to remember her trip to Paris.",
+      "word_tr": "hediyelik eşya",
+      "example_tr": "Paris seyahatini hatırlamak için bir hediyelik eşya aldı."
+    },
+    {
+      "word_en": "abroad",
+      "example_en": "She spent a semester abroad studying art history.",
+      "word_tr": "yurt dışında",
+      "example_tr": "Sanat tarihini öğrenmek için bir dönemi yurt dışında geçirdi."
+    },
+    {
+      "word_en": "wander",
+      "example_en": "They wandered through the narrow streets of the old town.",
+      "word_tr": "dolaşmak",
+      "example_tr": "Eski şehirdeki dar sokaklarda dolaştılar."
+    },
+    {
+      "word_en": "visa",
+      "example_en": "He had to apply for a visa before traveling to the country.",
+      "word_tr": "vize",
+      "example_tr": "Ülkeye seyahat etmeden önce vize başvurusu yapmak zorunda kaldı."
+    },
+    {
+      "word_en": "check in",
+      "example_en": "They arrived early to check in at the hotel.",
+      "word_tr": "giriş yapmak",
+      "example_tr": "Otele giriş yapmak için erken geldiler."
+    },
+    {
+      "word_en": "check out",
+      "example_en": "We had to check out of the hotel before noon.",
+      "word_tr": "çıkış yapmak",
+      "example_tr": "Öğlen önce otelden çıkış yapmak zorunda kaldık."
+    },
+    {
+      "word_en": "fly",
+      "example_en": "They flew to Hawaii for their vacation.",
+      "word_tr": "uçmak",
+      "example_tr": "Tatilleri için Hawaii'ye uçtular."
+    },
+    {
+      "word_en": "foreign",
+      "example_en": "She needed to exchange her money for foreign currency.",
+      "word_tr": "yabancı",
+      "example_tr": "Parasını yabancı para birimine dönüştürmesi gerekiyordu."
+    },
+    {
+      "word_en": "cruise",
+      "example_en": "They went on a cruise to the Caribbean.",
+      "word_tr": "gemi yolculuğu",
+      "example_tr": "Karayipler'e gemi yolculuğuna gittiler."
+    },
+    {
+      "word_en": "land",
+      "example_en": "The plane will land in approximately 30 minutes.",
+      "word_tr": "iniş yapmak",
+      "example_tr": "Uçak yaklaşık 30 dakika içinde inecek."
+    },
+    {
+      "word_en": "take off",
+      "example_en": "The plane is scheduled to take off at 10 o'clock.",
+      "word_tr": "havalanmak",
+      "example_tr": "Uçak 10'da havalanacak şekilde planlandı."
+    },
+    {
+      "word_en": "schedule",
+      "example_en": "They need to schedule their flights for next month.",
+      "word_tr": "program",
+      "example_tr": "Gelecek ay için uçuşlarını programlamaları gerekiyor."
+    },
+    {
+      "word_en": "ride",
+      "example_en": "They took a camel ride through the desert.",
+      "word_tr": "binmek",
+      "example_tr": "Çölde deve binmek için gittiler."
+    },
+    {
+      "word_en": "departure",
+      "example_en": "The departure time for their flight is 3 p.m.",
+      "word_tr": "kalkış",
+      "example_tr": "Uçuşları için kalkış zamanı saat 3'te."
+    },
+    {
+      "word_en": "arrival",
+      "example_en": "The arrival of their train was delayed due to technical issues.",
+      "word_tr": "varış",
+      "example_tr": "Trenlerinin varışı teknik sorunlar nedeniyle gecikti."
+    },
+    {
+      "word_en": "journey",
+      "example_en": "Their journey through the mountains was breathtaking.",
+      "word_tr": "yolculuk",
+      "example_tr": "Dağlardaki yolculukları nefes kesiciydi."
+    },
+    {
+      "word_en": "customs",
+      "example_en": "They had to go through customs before entering the country.",
+      "word_tr": "gümrük",
+      "example_tr": "Ülkeye girmeden önce gümrüğe geçmek zorunda kaldılar."
+    },
+    {
+      "word_en": "leave",
+      "example_en": "They're planning to leave for their vacation next week.",
+      "word_tr": "ayrılmak",
+      "example_tr": "Tatilleri için gelecek hafta ayrılmayı planlıyorlar."
+    }
+  ]
+}
 
