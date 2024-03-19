@@ -1,1 +1,167 @@
+{
+  "words": [
+    {
+      "word_en": "sink",
+      "example_en": "She washed the dishes in the kitchen sink.",
+      "word_tr": "lavabo",
+      "example_tr": "Mutfak lavabosunda bulaşıkları yıkadı."
+    },
+    {
+      "word_en": "toothpaste",
+      "example_en": "He squeezed some toothpaste onto his toothbrush.",
+      "word_tr": "diş macunu",
+      "example_tr": "Diş fırçasına biraz diş macunu sıktı."
+    },
+    {
+      "word_en": "lock",
+      "example_en": "Don't forget to lock the door before you leave.",
+      "word_tr": "kilit",
+      "example_tr": "Ayrılmadan önce kapıyı kilitlediğinden emin ol."
+    },
+    {
+      "word_en": "trash bag",
+      "example_en": "She emptied the trash bag into the dumpster.",
+      "word_tr": "çöp poşeti",
+      "example_tr": "Çöp poşetini çöp konteynerine boşalttı."
+    },
+    {
+      "word_en": "mirror",
+      "example_en": "She checked her reflection in the mirror before leaving.",
+      "word_tr": "ayna",
+      "example_tr": "Ayrılmadan önce aynada yansımasını kontrol etti."
+    },
+    {
+      "word_en": "gutter",
+      "example_en": "The gutter overflowed during the heavy rain.",
+      "word_tr": "yağmur oluğu",
+      "example_tr": "Şiddetli yağmurda yağmur oluğu taştı."
+    },
+    {
+      "word_en": "scissors",
+      "example_en": "She used scissors to cut the wrapping paper.",
+      "word_tr": "makas",
+      "example_tr": "Hediye kağıdını kesmek için makas kullandı."
+    },
+    {
+      "word_en": "key",
+      "example_en": "He couldn't find his house key.",
+      "word_tr": "anahtar",
+      "example_tr": "Ev anahtarını bulamadı."
+    },
+    {
+      "word_en": "cushion",
+      "example_en": "She fluffed up the cushions on the couch.",
+      "word_tr": "yastık",
+      "example_tr": "Koltuktaki yastıkları kabarttı."
+    },
+    {
+      "word_en": "bookshelf",
+      "example_en": "He organized his books on the bookshelf.",
+      "word_tr": "kitaplık",
+      "example_tr": "Kitaplarını kitaplığa düzenledi."
+    },
+    {
+      "word_en": "fire extinguisher",
+      "example_en": "The fire extinguisher is located in the hallway.",
+      "word_tr": "yangın söndürücü",
+      "example_tr": "Yangın söndürücü koridorun içinde bulunuyor."
+    },
+    {
+      "word_en": "curtain",
+      "example_en": "She drew the curtains to block out the sunlight.",
+      "word_tr": "perde",
+      "example_tr": "Güneş ışığını kesmek için perdeleri kapattı."
+    },
+    {
+      "word_en": "switch",
+      "example_en": "He flicked the light switch to turn off the room light.",
+      "word_tr": "anahtar",
+      "example_tr": "Oda ışığını kapatmak için anahtarı çevirdi."
+    },
+    {
+      "word_en": "napkin",
+      "example_en": "He wiped his mouth with a napkin after dinner.",
+      "word_tr": "peçete",
+      "example_tr": "Akşam yemeğinden sonra ağzını peçeteyle sildi."
+    },
+    {
+      "word_en": "outlet",
+      "example_en": "He plugged his phone charger into the electrical outlet.",
+      "word_tr": "priz",
+      "example_tr": "Telefon şarjını elektrik prizine taktı."
+    },
+    {
+      "word_en": "shower",
+      "example_en": "She took a long shower to relax after work.",
+      "word_tr": "duş",
+      "example_tr": "İşten sonra rahatlamak için uzun bir duş aldı."
+    },
+    {
+      "word_en": "bottle opener",
+      "example_en": "He used a bottle opener to open the beer bottle.",
+      "word_tr": "şişe açacağı",
+      "example_tr": "Bira şişesini açmak için bir şişe açacağı kullandı."
+    },
+    {
+      "word_en": "doormat",
+      "example_en": "She wiped her feet on the doormat before entering the house.",
+      "word_tr": "paspas",
+      "example_tr": "Eve girerken ayaklarını paspasa sildi."
+    },
+    {
+      "word_en": "bathtub",
+      "example_en": "She relaxed in the bathtub with a book.",
+      "word_tr": "küvet",
+      "example_tr": "Bir kitapla küvette rahatladı."
+    },
+    {
+      "word_en": "razor",
+      "example_en": "He shaved with a razor before going to the job interview.",
+      "word_tr": "jilet",
+      "example_tr": "İş mülakatına gitmeden önce jiletle tıraş oldu."
+    },
+    {
+      "word_en": "light bulb",
+      "example_en": "The light bulb in the lamp needed replacing.",
+      "word_tr": "ampul",
+      "example_tr": "Lambadaki ampulü değiştirmesi gerekiyordu."
+    },
+    {
+      "word_en": "schedule",
+      "example_en": "They need to schedule their shower for the morning.",
+      "word_tr": "program",
+      "example_tr": "Sabah için duşlarını programlamaları gerekiyor."
+    },
+    {
+      "word_en": "shower",
+      "example_en": "She took a quick shower before heading to bed.",
+      "word_tr": "duş",
+      "example_tr": "Yatmadan önce hızlı bir duş aldı."
+    },
+    {
+      "word_en": "departure",
+      "example_en": "The departure time for their flight is 3 p.m.",
+      "word_tr": "kalkış",
+      "example_tr": "Uçuşları için kalkış zamanı saat 3'te."
+    },
+    {
+      "word_en": "foreign",
+      "example_en": "She needed to exchange her money for foreign currency.",
+      "word_tr": "yabancı",
+      "example_tr": "Parasını yabancı para birimine dönüştürmesi gerekiyordu."
+    },
+    {
+      "word_en": "can opener",
+      "example_en": "He used a can opener to open the tin of beans.",
+      "word_tr": "konserve açacağı",
+      "example_tr": "Fasulye kutusunu açmak için bir konserve açacağı kullandı."
+    },
+    {
+      "word_en": "arrival",
+      "example_en": "The arrival of their train was delayed due to technical issues.",
+      "word_tr": "varış",
+      "example_tr": "Trenlerinin varışı teknik sorunlar nedeniyle gecikti."
+    }
+  ]
+}
 
