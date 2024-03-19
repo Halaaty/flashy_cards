@@ -1,1 +1,197 @@
+{
+  "words": [
+    {
+      "word_en": "market",
+      "example_en": "She bought fresh vegetables from the local market.",
+      "word_tr": "pazar",
+      "example_tr": "Yerel pazardan taze sebzeler satın aldı."
+    },
+    {
+      "word_en": "countryside",
+      "example_en": "They enjoyed a peaceful weekend in the countryside.",
+      "word_tr": "kırsal alan",
+      "example_tr": "Kırsal alanda huzurlu bir hafta sonu geçirdiler."
+    },
+    {
+      "word_en": "bridge",
+      "example_en": "They crossed the bridge to reach the other side of the river.",
+      "word_tr": "köprü",
+      "example_tr": "Nehrin diğer tarafına ulaşmak için köprüyü geçtiler."
+    },
+    {
+      "word_en": "library",
+      "example_en": "He spent hours studying at the local library.",
+      "word_tr": "kütüphane",
+      "example_tr": "Yerel kütüphanede saatlerce çalıştı."
+    },
+    {
+      "word_en": "alley",
+      "example_en": "They walked down a narrow alley between the buildings.",
+      "word_tr": "aralık",
+      "example_tr": "Binalar arasında dar bir aralıkta yürüdüler."
+    },
+    {
+      "word_en": "mosque",
+      "example_en": "They visited the mosque during their trip to Istanbul.",
+      "word_tr": "camii",
+      "example_tr": "İstanbul'a yaptıkları seyahatte camiyi ziyaret ettiler."
+    },
+    {
+      "word_en": "amusement park",
+      "example_en": "They spent the whole day at the amusement park riding roller coasters.",
+      "word_tr": "eğlence parkı",
+      "example_tr": "Bütün gün eğlence parkında dönme dolapta dolaştılar."
+    },
+    {
+      "word_en": "prison",
+      "example_en": "He was sentenced to five years in prison for his crimes.",
+      "word_tr": "hapishane",
+      "example_tr": "Suçlarından dolayı beş yıl hapis cezasına çarptırıldı."
+    },
+    {
+      "word_en": "temple",
+      "example_en": "They visited a Buddhist temple during their trip to Thailand.",
+      "word_tr": "tapınak",
+      "example_tr": "Tayland seyahatleri sırasında bir Budist tapınağını ziyaret ettiler."
+    },
+    {
+      "word_en": "traffic",
+      "example_en": "They got stuck in traffic for hours.",
+      "word_tr": "trafik",
+      "example_tr": "Saatlerce trafikte sıkışıp kaldılar."
+    },
+    {
+      "word_en": "rural",
+      "example_en": "She grew up in a rural area surrounded by farmland.",
+      "word_tr": "kırsal",
+      "example_tr": "Tarım arazileriyle çevrili bir kırsal alanda büyüdü."
+    },
+    {
+      "word_en": "police station",
+      "example_en": "They reported the theft to the police station.",
+      "word_tr": "polis karakolu",
+      "example_tr": "Hırsızlığı polis karakoluna bildirdiler."
+    },
+    {
+      "word_en": "underpass",
+      "example_en": "They walked through the underpass to avoid the busy intersection.",
+      "word_tr": "alt geçit",
+      "example_tr": "Yoğun kavşaktan kaçınmak için alt geçitten geçtiler."
+    },
+    {
+      "word_en": "cross",
+      "example_en": "They waited for the signal to cross the street.",
+      "word_tr": "karşıya geçmek",
+      "example_tr": "Sokağı karşıya geçmek için sinyali beklediler."
+    },
+    {
+      "word_en": "square",
+      "example_en": "They sat in the square and enjoyed the sunshine.",
+      "word_tr": "meydan",
+      "example_tr": "Meydanda oturup güneşin tadını çıkardılar."
+    },
+    {
+      "word_en": "road",
+      "example_en": "They took a scenic road trip through the countryside.",
+      "word_tr": "yol",
+      "example_tr": "Kırsal alanlarda manzara dolu bir yolculuk yaptılar."
+    },
+    {
+      "word_en": "city hall",
+      "example_en": "They went to city hall to apply for a business license.",
+      "word_tr": "belediye binası",
+      "example_tr": "İş lisansı için belediye binasına başvuruya gittiler."
+    },
+    {
+      "word_en": "gas station",
+      "example_en": "They stopped at the gas station to refuel.",
+      "word_tr": "benzin istasyonu",
+      "example_tr": "Yakıt almak için benzin istasyonunda durdular."
+    },
+    {
+      "word_en": "move",
+      "example_en": "They decided to move to the countryside for a quieter life.",
+      "word_tr": "taşınmak",
+      "example_tr": "Daha sakin bir yaşam için kırsala taşınmaya karar verdiler."
+    },
+    {
+      "word_en": "boulevard",
+      "example_en": "They took a stroll down the boulevard lined with trees.",
+      "word_tr": "bulvar",
+      "example_tr": "Ağaçlarla çevrili bulvarda yürüyüşe çıktılar."
+    },
+    {
+      "word_en": "path",
+      "example_en": "They walked along the winding path through the forest.",
+      "word_tr": "yol",
+      "example_tr": "Ormandaki dolambaçlı yolda yürüdüler."
+    },
+    {
+      "word_en": "urban",
+      "example_en": "He preferred the urban lifestyle over rural living.",
+      "word_tr": "kentsel",
+      "example_tr": "Kentsel yaşam tarzını kırsal yaşama tercih etti."
+    },
+    {
+      "word_en": "church",
+      "example_en": "They attended Sunday service at the local church.",
+      "word_tr": "kilise",
+      "example_tr": "Yerel kilisede Pazar ayinine katıldılar."
+    },
+    {
+      "word_en": "across",
+      "example_en": "They walked across the field to reach the other side.",
+      "word_tr": "karşıya",
+      "example_tr": "Diğer tarafa ulaşmak için tarladan karşıya geçtiler."
+    },
+    {
+      "word_en": "traffic jam",
+      "example_en": "They were stuck in a traffic jam for hours.",
+      "word_tr": "trafik sıkışıklığı",
+      "example_tr": "Saatlerce trafik sıkışıklığında kaldılar."
+    },
+    {
+      "word_en": "noisy",
+      "example_en": "They couldn't sleep because of the noisy neighbors.",
+      "word_tr": "gürültülü",
+      "example_tr": "Gürültülü komşuları yüzünden uyuyamadılar."
+    },
+    {
+      "word_en": "local",
+      "example_en": "She visited the local bakery for fresh bread.",
+      "word_tr": "yerel",
+      "example_tr": "Taze ekmek için yerel fırını ziyaret etti."
+    },
+    {
+      "word_en": "expressway",
+      "example_en": "They took the expressway to get to the airport faster.",
+      "word_tr": "otoyol",
+      "example_tr": "Havaalanına daha hızlı varmak için otoyolu kullandılar."
+    },
+    {
+      "word_en": "noise",
+      "example_en": "They complained to the landlord about the noise from the construction site.",
+      "word_tr": "gürültü",
+      "example_tr": "İnşaat alanından gelen gürültü hakkında ev sahibine şikayet ettiler."
+    },
+    {
+      "word_en": "district",
+      "example_en": "They lived in the downtown district of the city.",
+      "word_tr": "bölge",
+      "example_tr": "Şehrin merkezi bölgesinde yaşıyorlardı."
+    },
+    {
+      "word_en": "downtown",
+      "example_en": "They went shopping in downtown after lunch.",
+      "word_tr": "şehir merkezi",
+      "example_tr": "Öğle yemeğinden sonra şehir merkezinde alışverişe gittiler."
+    },
+    {
+      "word_en": "avenue",
+      "example_en": "They walked along the avenue lined with shops and cafes.",
+      "word_tr": "cadde",
+      "example_tr": "Dükkanlar ve kafelerle çevrili cadde boyunca yürüdüler."
+    }
+  ]
+}
 
