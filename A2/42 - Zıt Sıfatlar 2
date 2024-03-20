@@ -1,1 +1,173 @@
+{
+  "words": [
+    {
+      "word_en": "full",
+      "example_en": "The glass is full of water.",
+      "word_tr": "dolu",
+      "example_tr": "Bardak su dolu."
+    },
+    {
+      "word_en": "empty",
+      "example_en": "The bottle is empty.",
+      "word_tr": "boş",
+      "example_tr": "Şişe boş."
+    },
+    {
+      "word_en": "necessary",
+      "example_en": "Sleep is necessary for good health.",
+      "word_tr": "gerekli",
+      "example_tr": "İyi sağlık için uyku gerekli."
+    },
+    {
+      "word_en": "unnecessary",
+      "example_en": "His comment was unnecessary.",
+      "word_tr": "gereksiz",
+      "example_tr": "Yorumu gereksizdi."
+    },
+    {
+      "word_en": "simple",
+      "example_en": "The instructions are simple to follow.",
+      "word_tr": "basit",
+      "example_tr": "Talimatları takip etmek basit."
+    },
+    {
+      "word_en": "hard",
+      "example_en": "Learning a new language can be hard.",
+      "word_tr": "zor",
+      "example_tr": "Yeni bir dil öğrenmek zor olabilir."
+    },
+    {
+      "word_en": "near",
+      "example_en": "The store is near my house.",
+      "word_tr": "yakın",
+      "example_tr": "Mağaza evime yakın."
+    },
+    {
+      "word_en": "far",
+      "example_en": "The airport is far from here.",
+      "word_tr": "uzak",
+      "example_tr": "Havalimanı buradan uzak."
+    },
+    {
+      "word_en": "common",
+      "example_en": "It's common for people to take breaks during work.",
+      "word_tr": "sık",
+      "example_tr": "İnsanların iş sırasında ara vermesi yaygındır."
+    },
+    {
+      "word_en": "uncommon",
+      "example_en": "Seeing a shooting star is uncommon.",
+      "word_tr": "sıradışı",
+      "example_tr": "Bir yıldız kaymasını görmek sıradışıdır."
+    },
+    {
+      "word_en": "busy",
+      "example_en": "I'm too busy to go out tonight.",
+      "word_tr": "meşgul",
+      "example_tr": "Bu akşam dışarı çıkmak için çok meşgulüm."
+    },
+    {
+      "word_en": "free",
+      "example_en": "She's free this weekend.",
+      "word_tr": "boş",
+      "example_tr": "Bu hafta sonu boş."
+    },
+    {
+      "word_en": "lazy",
+      "example_en": "He's too lazy to clean his room.",
+      "word_tr": "tembel",
+      "example_tr": "Odasını temizlemek için çok tembel."
+    },
+    {
+      "word_en": "hardworking",
+      "example_en": "She's a hardworking student.",
+      "word_tr": "çalışkan",
+      "example_tr": "O, çalışkan bir öğrenci."
+    },
+    {
+      "word_en": "relaxing",
+      "example_en": "Taking a bath can be relaxing.",
+      "word_tr": "rahatlatıcı",
+      "example_tr": "Bir banyo yapmak rahatlatıcı olabilir."
+    },
+    {
+      "word_en": "stressful",
+      "example_en": "Preparing for exams can be stressful.",
+      "word_tr": "stresli",
+      "example_tr": "Sınavlara hazırlanmak stresli olabilir."
+    },
+    {
+      "word_en": "dumb",
+      "example_en": "He felt dumb after forgetting his keys.",
+      "word_tr": "aptal",
+      "example_tr": "Anahtarlarını unuttuktan sonra aptal hissetti."
+    },
+    {
+      "word_en": "clever",
+      "example_en": "She's a clever problem solver.",
+      "word_tr": "zeki",
+      "example_tr": "O, zeki bir problem çözücüdür."
+    },
+    {
+      "word_en": "comfortable",
+      "example_en": "This chair is very comfortable.",
+      "word_tr": "rahat",
+      "example_tr": "Bu sandalye çok rahat."
+    },
+    {
+      "word_en": "uncomfortable",
+      "example_en": "The room was uncomfortably warm.",
+      "word_tr": "rahat olmayan",
+      "example_tr": "Oda rahat olmayacak şekilde sıcaktı."
+    },
+    {
+      "word_en": "direct",
+      "example_en": "Please give me direct answers.",
+      "word_tr": "doğrudan",
+      "example_tr": "Lütfen bana doğrudan cevaplar verin."
+    },
+    {
+      "word_en": "indirect",
+      "example_en": "He provided indirect hints about the surprise.",
+      "word_tr": "dolaylı",
+      "example_tr": "Sürprizle ilgili dolaylı ipuçları verdi."
+    },
+    {
+      "word_en": "special",
+      "example_en": "Today is a special day.",
+      "word_tr": "özel",
+      "example_tr": "Bugün özel bir gün."
+    },
+    {
+      "word_en": "ordinary",
+      "example_en": "It was just an ordinary day.",
+      "word_tr": "sıradan",
+      "example_tr": "Sadece sıradan bir gündü."
+    },
+    {
+      "word_en": "famous",
+      "example_en": "She became famous after her viral video.",
+      "word_tr": "ünlü",
+      "example_tr": "Viral videosundan sonra ünlü oldu."
+    },
+    {
+      "word_en": "unknown",
+      "example_en": "The identity of the thief is still unknown.",
+      "word_tr": "bilinmeyen",
+      "example_tr": "Hırsızın kimliği hala bilinmiyor."
+    },
+    {
+      "word_en": "deep",
+      "example_en": "The ocean is very deep.",
+      "word_tr": "derin",
+      "example_tr": "Okyanus çok derin."
+    },
+    {
+      "word_en": "shallow",
+      "example_en": "The water in the pool is shallow.",
+      "word_tr": "sığ",
+      "example_tr": "Havuzdaki su sığ."
+    }
+  ]
+}
 
