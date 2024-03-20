@@ -1,1 +1,197 @@
+{
+  "words": [
+    {
+      "word_en": "no one",
+      "example_en": "No one knows the answer.",
+      "word_tr": "hiç kimse",
+      "example_tr": "Hiç kimse cevabı bilmiyor."
+    },
+    {
+      "word_en": "nothing",
+      "example_en": "There is nothing in the box.",
+      "word_tr": "hiçbir şey",
+      "example_tr": "Kutuda hiçbir şey yok."
+    },
+    {
+      "word_en": "nowhere",
+      "example_en": "She could find her keys nowhere.",
+      "word_tr": "hiçbir yer",
+      "example_tr": "Anahtarlarını hiçbir yerde bulamadı."
+    },
+    {
+      "word_en": "anyone",
+      "example_en": "Has anyone seen my glasses?",
+      "word_tr": "herhangi biri",
+      "example_tr": "Gözlüklerimi herhangi biri gördü mü?"
+    },
+    {
+      "word_en": "anything",
+      "example_en": "She can eat anything except peanuts.",
+      "word_tr": "herhangi bir şey",
+      "example_tr": "Fıstık hariç herhangi bir şey yiyebilir."
+    },
+    {
+      "word_en": "anywhere",
+      "example_en": "He couldn't find his book anywhere.",
+      "word_tr": "herhangi bir yer",
+      "example_tr": "Kitabını herhangi bir yerde bulamadı."
+    },
+    {
+      "word_en": "other",
+      "example_en": "She wants the other pair of shoes.",
+      "word_tr": "diğer",
+      "example_tr": "Diğer ayakkabı çiftini istiyor."
+    },
+    {
+      "word_en": "no",
+      "example_en": "She said no to the invitation.",
+      "word_tr": "hayır",
+      "example_tr": "Davete hayır dedi."
+    },
+    {
+      "word_en": "any",
+      "example_en": "Do you have any questions?",
+      "word_tr": "herhangi bir",
+      "example_tr": "Herhangi bir sorunuz var mı?"
+    },
+    {
+      "word_en": "none",
+      "example_en": "None of the students passed the test.",
+      "word_tr": "hiçbiri",
+      "example_tr": "Öğrencilerin hiçbiri sınavı geçemedi."
+    },
+    {
+      "word_en": "some",
+      "example_en": "She bought some fruits from the market.",
+      "word_tr": "bazı",
+      "example_tr": "Pazardan bazı meyveler aldı."
+    },
+    {
+      "word_en": "every",
+      "example_en": "He reads the newspaper every morning.",
+      "word_tr": "her",
+      "example_tr": "Her sabah gazete okur."
+    },
+    {
+      "word_en": "either",
+      "example_en": "You can choose either option.",
+      "word_tr": "her ikisi",
+      "example_tr": "Her iki seçeneği de seçebilirsiniz."
+    },
+    {
+      "word_en": "several",
+      "example_en": "She has several friends in the city.",
+      "word_tr": "birkaç",
+      "example_tr": "Şehirde birkaç arkadaşı var."
+    },
+    {
+      "word_en": "whose",
+      "example_en": "Whose book is this?",
+      "word_tr": "kime ait",
+      "example_tr": "Bu kitap kime ait?"
+    },
+    {
+      "word_en": "which",
+      "example_en": "Which movie do you want to watch?",
+      "word_tr": "hangi",
+      "example_tr": "Hangi filmi izlemek istiyorsunuz?"
+    },
+    {
+      "word_en": "no one",
+      "example_en": "No one knows the answer.",
+      "word_tr": "hiç kimse",
+      "example_tr": "Hiç kimse cevabı bilmiyor."
+    },
+    {
+      "word_en": "nothing",
+      "example_en": "There is nothing in the box.",
+      "word_tr": "hiçbir şey",
+      "example_tr": "Kutuda hiçbir şey yok."
+    },
+    {
+      "word_en": "nowhere",
+      "example_en": "She could find her keys nowhere.",
+      "word_tr": "hiçbir yer",
+      "example_tr": "Anahtarlarını hiçbir yerde bulamadı."
+    },
+    {
+      "word_en": "anyone",
+      "example_en": "Has anyone seen my glasses?",
+      "word_tr": "herhangi biri",
+      "example_tr": "Gözlüklerimi herhangi biri gördü mü?"
+    },
+    {
+      "word_en": "anything",
+      "example_en": "She can eat anything except peanuts.",
+      "word_tr": "herhangi bir şey",
+      "example_tr": "Fıstık hariç herhangi bir şey yiyebilir."
+    },
+    {
+      "word_en": "anywhere",
+      "example_en": "He couldn't find his book anywhere.",
+      "word_tr": "herhangi bir yer",
+      "example_tr": "Kitabını herhangi bir yerde bulamadı."
+    },
+    {
+      "word_en": "other",
+      "example_en": "She wants the other pair of shoes.",
+      "word_tr": "diğer",
+      "example_tr": "Diğer ayakkabı çiftini istiyor."
+    },
+    {
+      "word_en": "no",
+      "example_en": "She said no to the invitation.",
+      "word_tr": "hayır",
+      "example_tr": "Davete hayır dedi."
+    },
+    {
+      "word_en": "any",
+      "example_en": "Do you have any questions?",
+      "word_tr": "herhangi bir",
+      "example_tr": "Herhangi bir sorunuz var mı?"
+    },
+    {
+      "word_en": "none",
+      "example_en": "None of the students passed the test.",
+      "word_tr": "hiçbiri",
+      "example_tr": "Öğrencilerin hiçbiri sınavı geçemedi."
+    },
+    {
+      "word_en": "some",
+      "example_en": "She bought some fruits from the market.",
+      "word_tr": "bazı",
+      "example_tr": "Pazardan bazı meyveler aldı."
+    },
+    {
+      "word_en": "every",
+      "example_en": "He reads the newspaper every morning.",
+      "word_tr": "her",
+      "example_tr": "Her sabah gazete okur."
+    },
+    {
+      "word_en": "either",
+      "example_en": "You can choose either option.",
+      "word_tr": "her ikisi",
+      "example_tr": "Her iki seçeneği de seçebilirsiniz."
+    },
+    {
+      "word_en": "several",
+      "example_en": "She has several friends in the city.",
+      "word_tr": "birkaç",
+      "example_tr": "Şehirde birkaç arkadaşı var."
+    },
+    {
+      "word_en": "whose",
+      "example_en": "Whose book is this?",
+      "word_tr": "kime ait",
+      "example_tr": "Bu kitap kime ait?"
+    },
+    {
+      "word_en": "which",
+      "example_en": "Which movie do you want to watch?",
+      "word_tr": "hangi",
+      "example_tr": "Hangi filmi izlemek istiyorsunuz?"
+    }
+  ]
+}
 
