@@ -1,1 +1,197 @@
+{
+  "words": [
+    {
+      "word_en": "maybe",
+      "example_en": "Maybe we should go to the beach tomorrow.",
+      "word_tr": "belki",
+      "example_tr": "Belki yarın plaja gitmeliyiz."
+    },
+    {
+      "word_en": "probably",
+      "example_en": "It will probably rain later today.",
+      "word_tr": "muhtemelen",
+      "example_tr": "Bugün daha sonra muhtemelen yağmur yağacak."
+    },
+    {
+      "word_en": "around",
+      "example_en": "Let's meet around 3 o'clock.",
+      "word_tr": "etrafında",
+      "example_tr": "Saat 3 civarında buluşalım."
+    },
+    {
+      "word_en": "out",
+      "example_en": "The fire went out after we put water on it.",
+      "word_tr": "dışarı",
+      "example_tr": "Suyu koyduktan sonra ateş sönüp gitti."
+    },
+    {
+      "word_en": "in",
+      "example_en": "There's a lot of sugar in this drink.",
+      "word_tr": "içinde",
+      "example_tr": "Bu içecekte çok şeker var."
+    },
+    {
+      "word_en": "also",
+      "example_en": "I want to go to the concert, and also to the party afterward.",
+      "word_tr": "ayrıca",
+      "example_tr": "Konsere gitmek istiyorum, ve ayrıca sonra partiye de."
+    },
+    {
+      "word_en": "actually",
+      "example_en": "Actually, I've changed my mind about going out tonight.",
+      "word_tr": "aslında",
+      "example_tr": "Aslında, bu gece dışarı çıkmaya karar verdim."
+    },
+    {
+      "word_en": "exactly",
+      "example_en": "That's exactly what I was thinking.",
+      "word_tr": "tam olarak",
+      "example_tr": "Tam olarak ne düşündüğüm buydu."
+    },
+    {
+      "word_en": "almost",
+      "example_en": "I've almost finished reading this book.",
+      "word_tr": "neredeyse",
+      "example_tr": "Bu kitabı neredeyse bitirdim."
+    },
+    {
+      "word_en": "greatly",
+      "example_en": "I greatly appreciate your help.",
+      "word_tr": "büyük ölçüde",
+      "example_tr": "Yardımınızı büyük ölçüde takdir ediyorum."
+    },
+    {
+      "word_en": "especially",
+      "example_en": "I love all kinds of fruits, especially strawberries.",
+      "word_tr": "özellikle",
+      "example_tr": "Tüm meyveleri severim, özellikle çilekleri."
+    },
+    {
+      "word_en": "generally",
+      "example_en": "Generally, people enjoy spending time with their families.",
+      "word_tr": "genellikle",
+      "example_tr": "Genellikle, insanlar aileleriyle vakit geçirmekten hoşlanır."
+    },
+    {
+      "word_en": "finally",
+      "example_en": "Finally, we reached the top of the mountain.",
+      "word_tr": "sonunda",
+      "example_tr": "Sonunda, dağın zirvesine ulaştık."
+    },
+    {
+      "word_en": "only",
+      "example_en": "I only have one dollar left.",
+      "word_tr": "sadece",
+      "example_tr": "Sadece bir dolarım kaldı."
+    },
+    {
+      "word_en": "just",
+      "example_en": "I'm just going to grab a quick snack.",
+      "word_tr": "sadece",
+      "example_tr": "Sadece hızlı bir atıştırmalık alacağım."
+    },
+    {
+      "word_en": "over",
+      "example_en": "He jumped over the fence.",
+      "word_tr": "üzerinden",
+      "example_tr": "Tel örgünün üzerinden atladı."
+    },
+    {
+      "word_en": "at least",
+      "example_en": "You should brush your teeth at least twice a day.",
+      "word_tr": "en azından",
+      "example_tr": "En azından günde iki kez dişlerini fırçalamalısın."
+    },
+    {
+      "word_en": "at last",
+      "example_en": "We finally arrived at last night's destination.",
+      "word_tr": "nihayetinde",
+      "example_tr": "Sonunda dün geceki hedefimize vardık."
+    },
+    {
+      "word_en": "ahead",
+      "example_en": "We're ahead of schedule.",
+      "word_tr": "önünde",
+      "example_tr": "Programın önündeyiz."
+    },
+    {
+      "word_en": "past",
+      "example_en": "We drove past the old school.",
+      "word_tr": "geçmiş",
+      "example_tr": "Eski okulun yanından geçtik."
+    },
+    {
+      "word_en": "easily",
+      "example_en": "With his help, we finished the project easily.",
+      "word_tr": "kolayca",
+      "example_tr": "Onun yardımıyla projeyi kolayca bitirdik."
+    },
+    {
+      "word_en": "carefully",
+      "example_en": "She placed the fragile vase carefully on the shelf.",
+      "word_tr": "dikkatlice",
+      "example_tr": "Kırılgan vazoyu dikkatlice rafa yerleştirdi."
+    },
+    {
+      "word_en": "well",
+      "example_en": "The team performed well in the championship.",
+      "word_tr": "iyi",
+      "example_tr": "Takım şampiyonada iyi performans sergiledi."
+    },
+    {
+      "word_en": "still",
+      "example_en": "I'm still waiting for her to call.",
+      "word_tr": "hala",
+      "example_tr": "Hala aramasını bekliyorum."
+    },
+    {
+      "word_en": "then",
+      "example_en": "We went to the park, and then we had lunch.",
+      "word_tr": "sonra",
+      "example_tr": "Parka gittik, sonra öğle yemeği yedik."
+    },
+    {
+      "word_en": "sadly",
+      "example_en": "Sadly, she couldn't attend the wedding due to illness.",
+      "word_tr": "ne yazık ki",
+      "example_tr": "Ne yazık ki, hastalık nedeniyle düğüne katılamadı."
+    },
+    {
+      "word_en": "slowly",
+      "example_en": "He walked slowly along the path, enjoying the scenery.",
+      "word_tr": "yavaşça",
+      "example_tr": "Manzaranın tadını çıkararak yol boyunca yavaşça yürüdü."
+    },
+    {
+      "word_en": "once",
+      "example_en": "Once, I had the opportunity to travel around Europe.",
+      "word_tr": "bir kere",
+      "example_tr": "Bir kere Avrupa'yı gezmek fırsatım oldu."
+    },
+    {
+      "word_en": "wherever",
+      "example_en": "She would follow him wherever he went.",
+      "word_tr": "nereye giderse",
+      "example_tr": "Nereye giderse, onu takip ederdi."
+    },
+    {
+      "word_en": "twice",
+      "example_en": "I've only been to Paris twice in my life.",
+      "word_tr": "iki kez",
+      "example_tr": "Hayatımda sadece iki kez Paris'e gittim."
+    },
+    {
+      "word_en": "anytime",
+      "example_en": "You can call me anytime if you need help.",
+      "word_tr": "herhangi bir zamanda",
+      "example_tr": "Yardıma ihtiyacın olursa herhangi bir zamanda beni arayabilirsin."
+    },
+    {
+      "word_en": "fast",
+      "example_en": "He drove fast to catch the last train.",
+      "word_tr": "hızlı",
+      "example_tr": "Son treni yakalamak için hızlıca araba kullandı."
+    }
+  ]
+}
 
