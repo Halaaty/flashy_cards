@@ -1,1 +1,143 @@
+{
+  "words": [
+    {
+      "word_en": "journaling",
+      "example_en": "She finds solace in journaling her thoughts and experiences.",
+      "word_tr": "günlük tutma",
+      "example_tr": "Düşüncelerini ve deneyimlerini günlük tutarak huzur buluyor."
+    },
+    {
+      "word_en": "karting",
+      "example_en": "He enjoys karting with his friends on weekends.",
+      "word_tr": "karting",
+      "example_tr": "Hafta sonları arkadaşlarıyla karting yapmaktan keyif alıyor."
+    },
+    {
+      "word_en": "knitting",
+      "example_en": "She finds knitting to be a relaxing hobby.",
+      "word_tr": "örme",
+      "example_tr": "Örmenin rahatlatıcı bir hobi olduğunu düşünüyor."
+    },
+    {
+      "word_en": "meditation",
+      "example_en": "He practices meditation to clear his mind.",
+      "word_tr": "meditasyon",
+      "example_tr": "Zihnini boşaltmak için meditasyon yapıyor."
+    },
+    {
+      "word_en": "mountain biking",
+      "example_en": "Mountain biking is his favorite outdoor activity.",
+      "word_tr": "dağ bisikleti",
+      "example_tr": "Dağ bisikleti onun favori açık hava aktivitesidir."
+    },
+    {
+      "word_en": "origami",
+      "example_en": "She enjoys making intricate designs with origami.",
+      "word_tr": "origami",
+      "example_tr": "Origami ile karmaşık tasarımlar yapmaktan keyif alıyor."
+    },
+    {
+      "word_en": "pottery",
+      "example_en": "Pottery allows her to express her creativity.",
+      "word_tr": "seramik",
+      "example_tr": "Seramik, yaratıcılığını ifade etmesine izin veriyor."
+    },
+    {
+      "word_en": "scuba diving",
+      "example_en": "She explores the depths of the ocean through scuba diving.",
+      "word_tr": "scuba dalışı",
+      "example_tr": "Scuba dalışıyla okyanusun derinliklerini keşfediyor."
+    },
+    {
+      "word_en": "sketching",
+      "example_en": "Sketching helps him capture moments in his travels.",
+      "word_tr": "eskiz yapma",
+      "example_tr": "Eskiz yapmak, seyahatlerindeki anları yakalamasına yardımcı oluyor."
+    },
+    {
+      "word_en": "skydiving",
+      "example_en": "Skydiving gives her an adrenaline rush like no other.",
+      "word_tr": "paraşütle atlama",
+      "example_tr": "Paraşütle atlama, ona hiçbir şeyin vermediği bir adrenalin patlaması sağlıyor."
+    },
+    {
+      "word_en": "traveling",
+      "example_en": "Traveling allows her to experience different cultures.",
+      "word_tr": "seyahat etme",
+      "example_tr": "Seyahat etmek, farklı kültürleri deneyimlemesine izin veriyor."
+    },
+    {
+      "word_en": "windsurfing",
+      "example_en": "Windsurfing is his favorite water sport.",
+      "word_tr": "rüzgar sörfü",
+      "example_tr": "Rüzgar sörfü, onun favori su sporudur."
+    },
+    {
+      "word_en": "pastime",
+      "example_en": "Reading is her favorite pastime.",
+      "word_tr": "boş zaman etkinliği",
+      "example_tr": "Okumak onun favori boş zaman etkinliğidir."
+    },
+    {
+      "word_en": "leisure",
+      "example_en": "She enjoys spending her leisure time in nature.",
+      "word_tr": "boş zaman",
+      "example_tr": "Boş zamanını doğada geçirmekten keyif alıyor."
+    },
+    {
+      "word_en": "backpacking",
+      "example_en": "Backpacking allows him to explore remote places.",
+      "word_tr": "sırt çantasıyla seyahat etme",
+      "example_tr": "Sırt çantasıyla seyahat etmek, uzak yerleri keşfetmesine olanak tanır."
+    },
+    {
+      "word_en": "birdwatching",
+      "example_en": "Birdwatching is a relaxing hobby for many.",
+      "word_tr": "kuş izleme",
+      "example_tr": "Kuş izleme birçok insan için rahatlatıcı bir hobidir."
+    },
+    {
+      "word_en": "blogging",
+      "example_en": "She shares her travel experiences through blogging.",
+      "word_tr": "blog yazma",
+      "example_tr": "Seyahat deneyimlerini blog yazarak paylaşıyor."
+    },
+    {
+      "word_en": "cheerleading",
+      "example_en": "She joined the cheerleading squad to support her school's team.",
+      "word_tr": "tezahürat",
+      "example_tr": "Okul takımını desteklemek için tezahürat takımına katıldı."
+    },
+    {
+      "word_en": "clubbing",
+      "example_en": "He enjoys clubbing with his friends on weekends.",
+      "word_tr": "gece kulübüne gitme",
+      "example_tr": "Hafta sonları arkadaşlarıyla gece kulübüne gitmekten keyif alıyor."
+    },
+    {
+      "word_en": "collecting",
+      "example_en": "Stamp collecting is his favorite hobby.",
+      "word_tr": "koleksiyon yapma",
+      "example_tr": "Pul koleksiyonu yapmak onun favori hobisidir."
+    },
+    {
+      "word_en": "doodle",
+      "example_en": "She doodles in her notebook when bored.",
+      "word_tr": "karalama yapma",
+      "example_tr": "Sıkıldığında defterine karalama yapar."
+    },
+    {
+      "word_en": "gambling",
+      "example_en": "He lost a lot of money due to his gambling addiction.",
+      "word_tr": "kumar oynamak",
+      "example_tr": "Kumar bağımlılığından dolayı çok para kaybetti."
+    },
+    {
+      "word_en": "hunting",
+      "example_en": "Hunting is a traditional activity in many cultures.",
+      "word_tr": "avlanma",
+      "example_tr": "Avlanma, birçok kültürde geleneksel bir etkinliktir."
+    }
+  ]
+}
 
