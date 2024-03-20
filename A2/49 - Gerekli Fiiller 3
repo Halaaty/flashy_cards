@@ -1,1 +1,179 @@
+{
+  "words": [
+    {
+      "word_en": "rise",
+      "example_en": "The sun will rise in the east.",
+      "word_tr": "yükselmek",
+      "example_tr": "Güneş doğuda yükselecek."
+    },
+    {
+      "word_en": "sail",
+      "example_en": "They will sail across the ocean.",
+      "word_tr": "yelken açmak",
+      "example_tr": "Okyanusu boyunca yelken açacaklar."
+    },
+    {
+      "word_en": "seem",
+      "example_en": "She will seem tired after the long journey.",
+      "word_tr": "gibi görünmek",
+      "example_tr": "Uzun yolculuktan sonra yorgun görünecek."
+    },
+    {
+      "word_en": "shake",
+      "example_en": "Please shake the bottle before using.",
+      "word_tr": "sallamak",
+      "example_tr": "Kullanmadan önce lütfen şişeyi sallayın."
+    },
+    {
+      "word_en": "shout",
+      "example_en": "Please don't shout in the library.",
+      "word_tr": "bağırmak",
+      "example_tr": "Lütfen kütüphanede bağırmayın."
+    },
+    {
+      "word_en": "shut",
+      "example_en": "Please shut the window before leaving.",
+      "word_tr": "kapatmak",
+      "example_tr": "Ayrılırken lütfen pencereyi kapatın."
+    },
+    {
+      "word_en": "sign",
+      "example_en": "He will sign the contract.",
+      "word_tr": "imzalamak",
+      "example_tr": "Sözleşmeyi imzalayacak."
+    },
+    {
+      "word_en": "ski",
+      "example_en": "They will ski in the mountains.",
+      "word_tr": "kayak yapmak",
+      "example_tr": "Dağlarda kayak yapacaklar."
+    },
+    {
+      "word_en": "star",
+      "example_en": "She will star in the new movie.",
+      "word_tr": "başrolde oynamak",
+      "example_tr": "Yeni filmin başrolünde oynayacak."
+    },
+    {
+      "word_en": "steal",
+      "example_en": "Please don't steal from the store.",
+      "word_tr": "çalmak",
+      "example_tr": "Lütfen mağazadan çalmayın."
+    },
+    {
+      "word_en": "suppose",
+      "example_en": "She will suppose that you are coming.",
+      "word_tr": "varsaymak",
+      "example_tr": "Senin geleceğini varsayacak."
+    },
+    {
+      "word_en": "text",
+      "example_en": "He will text you the details.",
+      "word_tr": "mesaj atmak",
+      "example_tr": "Sana detayları mesaj olarak atacak."
+    },
+    {
+      "word_en": "tie",
+      "example_en": "Please tie your shoes before running.",
+      "word_tr": "bağlamak",
+      "example_tr": "Koşmaya başlamadan önce ayakkabılarınızı bağlayın."
+    },
+    {
+      "word_en": "train",
+      "example_en": "She will train for the marathon.",
+      "word_tr": "antrenman yapmak",
+      "example_tr": "Maratona antrenman yapacak."
+    },
+    {
+      "word_en": "attend",
+      "example_en": "They will attend the meeting tomorrow.",
+      "word_tr": "katılmak",
+      "example_tr": "Yarın toplantıya katılacaklar."
+    },
+    {
+      "word_en": "search",
+      "example_en": "He will search for his lost keys.",
+      "word_tr": "aramak",
+      "example_tr": "Kayıp anahtarlarını arayacak."
+    },
+    {
+      "word_en": "keep",
+      "example_en": "Please keep the door closed.",
+      "word_tr": "saklamak",
+      "example_tr": "Lütfen kapıyı kapalı tutun."
+    },
+    {
+      "word_en": "raise",
+      "example_en": "She will raise her hand to ask a question.",
+      "word_tr": "kaldırmak",
+      "example_tr": "Soru sormak için elini kaldıracak."
+    },
+    {
+      "word_en": "react",
+      "example_en": "He will react quickly in an emergency.",
+      "word_tr": "tepki vermek",
+      "example_tr": "Acil durumlarda hızlı tepki verecek."
+    },
+    {
+      "word_en": "realize",
+      "example_en": "She will realize her mistake.",
+      "word_tr": "farkına varmak",
+      "example_tr": "Hatasının farkına varacak."
+    },
+    {
+      "word_en": "recognize",
+      "example_en": "He will recognize her from the photograph.",
+      "word_tr": "tanımak",
+      "example_tr": "Fotoğraftan onu tanıyacak."
+    },
+    {
+      "word_en": "recommend",
+      "example_en": "She will recommend this book to her friends.",
+      "word_tr": "tavsiye etmek",
+      "example_tr": "Bu kitabı arkadaşlarına tavsiye edecek."
+    },
+    {
+      "word_en": "record",
+      "example_en": "He will record the meeting for future reference.",
+      "word_tr": "kaydetmek",
+      "example_tr": "Toplantıyı gelecekte başvuru için kaydedecek."
+    },
+    {
+      "word_en": "refer",
+      "example_en": "Please refer to the manual for instructions.",
+      "word_tr": "başvurmak",
+      "example_tr": "Talimatlar için lütfen kılavuza başvurun."
+    },
+    {
+      "word_en": "remove",
+      "example_en": "She will remove the old furniture.",
+      "word_tr": "çıkarmak",
+      "example_tr": "Eski mobilyaları çıkaracak."
+    },
+    {
+      "word_en": "replace",
+      "example_en": "He will replace the broken window.",
+      "word_tr": "değiştirmek",
+      "example_tr": "Kırık pencereyi değiştirecek."
+    },
+    {
+      "word_en": "report",
+      "example_en": "Please report any suspicious activity.",
+      "word_tr": "bildirmek",
+      "example_tr": "Lütfen herhangi şüpheli aktiviteyi bildirin."
+    },
+    {
+      "word_en": "respond",
+      "example_en": "She will respond to the email tomorrow.",
+      "word_tr": "cevap vermek",
+      "example_tr": "Yarın e-maile cevap verecek."
+    },
+    {
+      "word_en": "ring",
+      "example_en": "He will ring the doorbell.",
+      "word_tr": "çalmak",
+      "example_tr": "Kapı zilini çalacak."
+    }
+  ]
+}
 
