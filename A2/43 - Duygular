@@ -1,1 +1,161 @@
+{
+  "words": [
+    {
+      "word_en": "fear",
+      "example_en": "She couldn't move, paralyzed by fear.",
+      "word_tr": "korku",
+      "example_tr": "Korkudan felç olmuş gibi hareket edemedi."
+    },
+    {
+      "word_en": "anger",
+      "example_en": "His anger was evident from his clenched fists.",
+      "word_tr": "öfke",
+      "example_tr": "Öfkesi yumruk sıkmasından belli oluyordu."
+    },
+    {
+      "word_en": "sadness",
+      "example_en": "She couldn't hide her sadness.",
+      "word_tr": "üzüntü",
+      "example_tr": "Üzüntüsünü gizleyemedi."
+    },
+    {
+      "word_en": "happiness",
+      "example_en": "The happiness in her eyes was contagious.",
+      "word_tr": "mutluluk",
+      "example_tr": "Gözlerindeki mutluluk bulaşıcıydı."
+    },
+    {
+      "word_en": "joy",
+      "example_en": "The children's laughter filled the room with joy.",
+      "word_tr": "neşe",
+      "example_tr": "Çocukların kahkahaları odayı neşeyle doldurdu."
+    },
+    {
+      "word_en": "disgust",
+      "example_en": "The sight of the rotten food filled her with disgust.",
+      "word_tr": "iğrenme",
+      "example_tr": "Çürümüş yiyeceklerin görüntüsü onu iğrenmeyle doldurdu."
+    },
+    {
+      "word_en": "surprise",
+      "example_en": "Her surprise birthday party brought tears to her eyes.",
+      "word_tr": "şaşkınlık",
+      "example_tr": "Onun sürpriz doğum günü partisi gözlerinde yaş getirdi."
+    },
+    {
+      "word_en": "trust",
+      "example_en": "Their long history together built a foundation of trust.",
+      "word_tr": "güven",
+      "example_tr": "Birlikte geçirdikleri uzun tarih güven temeli oluşturdu."
+    },
+    {
+      "word_en": "calmness",
+      "example_en": "His calmness in the face of adversity was admirable.",
+      "word_tr": "sakinlik",
+      "example_tr": "Zorluklar karşısında sergilediği sakinlik takdire şayandı."
+    },
+    {
+      "word_en": "shame",
+      "example_en": "He felt a deep sense of shame for his actions.",
+      "word_tr": "utanç",
+      "example_tr": "Yaptıkları için derin bir utanç hissetti."
+    },
+    {
+      "word_en": "hatred",
+      "example_en": "Her eyes burned with hatred towards her betrayer.",
+      "word_tr": "nefret",
+      "example_tr": "Gözleri ihanet edenine karşı doluydu."
+    },
+    {
+      "word_en": "love",
+      "example_en": "Their love for each other was evident in every gesture.",
+      "word_tr": "aşk",
+      "example_tr": "Birbirlerine olan aşkları her hareketlerinde belli oluyordu."
+    },
+    {
+      "word_en": "kindness",
+      "example_en": "His kindness towards strangers was heartwarming.",
+      "word_tr": "iyilik",
+      "example_tr": "Yabancılara karşı sergilediği iyilik yürek ısıtıcıydı."
+    },
+    {
+      "word_en": "sympathy",
+      "example_en": "She expressed sympathy for his loss.",
+      "word_tr": "empati",
+      "example_tr": "Kaybı için empati gösterdi."
+    },
+    {
+      "word_en": "amusement",
+      "example_en": "His jokes provided much amusement to the audience.",
+      "word_tr": "eğlence",
+      "example_tr": "Şakaları izleyiciye çok eğlence sağladı."
+    },
+    {
+      "word_en": "confusion",
+      "example_en": "The instructions caused confusion among the students.",
+      "word_tr": "kafa karışıklığı",
+      "example_tr": "Talimatlar öğrenciler arasında kafa karışıklığına neden oldu."
+    },
+    {
+      "word_en": "laugh",
+      "example_en": "We all had a good laugh at the joke.",
+      "word_tr": "gülmek",
+      "example_tr": "Şakaya hepimiz iyi güldük."
+    },
+    {
+      "word_en": "cry",
+      "example_en": "She couldn't help but cry at the sad news.",
+      "word_tr": "ağlamak",
+      "example_tr": "Üzücü haberi duyunca ağlamaktan kendini alamadı."
+    },
+    {
+      "word_en": "smile",
+      "example_en": "She greeted everyone with a warm smile.",
+      "word_tr": "gülümseme",
+      "example_tr": "Herkesi sıcak bir gülümsemeyle karşıladı."
+    },
+    {
+      "word_en": "frown",
+      "example_en": "He had a frown on his face when he heard the news.",
+      "word_tr": "kaşlarını çatma",
+      "example_tr": "Haberleri duyduğunda yüzünde bir kaş çatması vardı."
+    },
+    {
+      "word_en": "miss",
+      "example_en": "I miss my family when I'm away.",
+      "word_tr": "özlemek",
+      "example_tr": "Uzakta olduğumda ailemi özlüyorum."
+    },
+    {
+      "word_en": "worry",
+      "example_en": "She couldn't sleep due to worry about her exam.",
+      "word_tr": "endişe",
+      "example_tr": "Sınavıyla ilgili endişe nedeniyle uyuyamadı."
+    },
+    {
+      "word_en": "surprise",
+      "example_en": "The unexpected gift was a pleasant surprise.",
+      "word_tr": "sürpriz",
+      "example_tr": "Beklenmeyen hediye hoş bir sürprizdi."
+    },
+    {
+      "word_en": "surprised",
+      "example_en": "She was pleasantly surprised by the party.",
+      "word_tr": "şaşırmış",
+      "example_tr": "Partiden hoş bir şekilde şaşırmıştı."
+    },
+    {
+      "word_en": "annoy",
+      "example_en": "The constant noise from the construction site annoyed her.",
+      "word_tr": "sinirlendirmek",
+      "example_tr": "İnşaat alanından gelen sürekli gürültü onu sinirlendirdi."
+    },
+    {
+      "word_en": "scared",
+      "example_en": "He's scared of spiders.",
+      "word_tr": "korkmuş",
+      "example_tr": "Örümceklerden korkuyor."
+    }
+  ]
+}
 
