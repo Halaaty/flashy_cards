@@ -1,1 +1,209 @@
+{
+  "words": [
+    {
+      "word_en": "lonely",
+      "example_en": "He feels lonely without his friends.",
+      "word_tr": "yalnız",
+      "example_tr": "Arkadaşları olmadan yalnız hissediyor."
+    },
+    {
+      "word_en": "mad",
+      "example_en": "She gets mad when things don't go her way.",
+      "word_tr": "sinirli",
+      "example_tr": "İşler yolunda gitmediğinde sinirlenir."
+    },
+    {
+      "word_en": "pleasure",
+      "example_en": "He takes pleasure in reading.",
+      "word_tr": "zevk",
+      "example_tr": "Okumaktan zevk alır."
+    },
+    {
+      "word_en": "bully",
+      "example_en": "He bullies smaller kids in the playground.",
+      "word_tr": "zorba",
+      "example_tr": "Oyun alanında daha küçük çocuklara zorbalık yapar."
+    },
+    {
+      "word_en": "sadden",
+      "example_en": "The news of his friend's death saddened him.",
+      "word_tr": "üzülmek",
+      "example_tr": "Arkadaşının ölüm haberi onu üzdü."
+    },
+    {
+      "word_en": "satisfaction",
+      "example_en": "She finds satisfaction in her work.",
+      "word_tr": "memnuniyet",
+      "example_tr": "İşinde memnuniyet bulur."
+    },
+    {
+      "word_en": "scare",
+      "example_en": "The sudden noise scared her.",
+      "word_tr": "korkutmak",
+      "example_tr": "Aniden gelen gürültü onu korkuttu."
+    },
+    {
+      "word_en": "satisfy",
+      "example_en": "Eating a good meal can satisfy hunger.",
+      "word_tr": "tatmin etmek",
+      "example_tr": "İyi bir yemek yemek açlığı tatmin edebilir."
+    },
+    {
+      "word_en": "stressed",
+      "example_en": "He's feeling stressed because of work.",
+      "word_tr": "gergin",
+      "example_tr": "İşten dolayı gergin hissediyor."
+    },
+    {
+      "word_en": "calm",
+      "example_en": "She finds calm in nature.",
+      "word_tr": "sakin",
+      "example_tr": "Doğada sakinlik bulur."
+    },
+    {
+      "word_en": "shock",
+      "example_en": "The unexpected news shocked everyone.",
+      "word_tr": "şok",
+      "example_tr": "Beklenmedik haber herkesi şok etti."
+    },
+    {
+      "word_en": "frighten",
+      "example_en": "The loud noise frightened the children.",
+      "word_tr": "korkutmak",
+      "example_tr": "Yüksek sesli gürültü çocukları korkuttu."
+    },
+    {
+      "word_en": "hunger",
+      "example_en": "She felt hunger after skipping lunch.",
+      "word_tr": "açlık",
+      "example_tr": "Öğle yemeğini atladıktan sonra açlık hissetti."
+    },
+    {
+      "word_en": "self-respect",
+      "example_en": "He values his self-respect above all else.",
+      "word_tr": "özsaygı",
+      "example_tr": "Kendine saygısını her şeyin üstünde tutar."
+    },
+    {
+      "word_en": "horror",
+      "example_en": "The movie filled her with horror.",
+      "word_tr": "korku",
+      "example_tr": "Film onu korkuyla doldurdu."
+    },
+    {
+      "word_en": "exhausted",
+      "example_en": "She felt exhausted after a long day at work.",
+      "word_tr": "yorgun",
+      "example_tr": "Uzun bir iş gününden sonra yorgun hissetti."
+    },
+    {
+      "word_en": "amazed",
+      "example_en": "She was amazed by the magician's trick.",
+      "word_tr": "şaşırmış",
+      "example_tr": "Sihirbazın numarasından şaşırmıştı."
+    },
+    {
+      "word_en": "anger",
+      "example_en": "His constant teasing finally ignited her anger.",
+      "word_tr": "öfke",
+      "example_tr": "Sürekli takılması sonunda onun öfkesini ateşledi."
+    },
+    {
+      "word_en": "anxious",
+      "example_en": "She feels anxious before exams.",
+      "word_tr": "endişeli",
+      "example_tr": "Sınavlardan önce endişeli hisseder."
+    },
+    {
+      "word_en": "anxiety",
+      "example_en": "He struggles with anxiety attacks.",
+      "word_tr": "anksiyete",
+      "example_tr": "Anksiyete ataklarıyla mücadele ediyor."
+    },
+    {
+      "word_en": "approval",
+      "example_en": "He seeks approval from his parents.",
+      "word_tr": "onay",
+      "example_tr": "Ebeveynlerinden onay arıyor."
+    },
+    {
+      "word_en": "ashamed",
+      "example_en": "She felt ashamed of her mistake.",
+      "word_tr": "utanmış",
+      "example_tr": "Hatasından dolayı utanmıştı."
+    },
+    {
+      "word_en": "boredom",
+      "example_en": "He yawned out of boredom.",
+      "word_tr": "sıkılmışlık",
+      "example_tr": "Sıkılmışlıkla esnedi."
+    },
+    {
+      "word_en": "cheerful",
+      "example_en": "She greeted everyone with a cheerful smile.",
+      "word_tr": "neşeli",
+      "example_tr": "Herkesi neşeli bir gülümseme ile karşıladı."
+    },
+    {
+      "word_en": "depressed",
+      "example_en": "He feels depressed during the winter months.",
+      "word_tr": "depresif",
+      "example_tr": "Kış aylarında depresif hisseder."
+    },
+    {
+      "word_en": "desire",
+      "example_en": "She has a strong desire to travel the world.",
+      "word_tr": "arzu",
+      "example_tr": "Dünyayı gezmek için güçlü bir arzusu var."
+    },
+    {
+      "word_en": "eager",
+      "example_en": "He was eager to start the new project.",
+      "word_tr": "istekli",
+      "example_tr": "Yeni projeye başlamak için istekliydi."
+    },
+    {
+      "word_en": "embarrassed",
+      "example_en": "She felt embarrassed by her mistake.",
+      "word_tr": "utangaç",
+      "example_tr": "Hatasından dolayı utangaç hissetti."
+    },
+    {
+      "word_en": "excitement",
+      "example_en": "There was excitement in the air as they waited for the results.",
+      "word_tr": "heyecan",
+      "example_tr": "Sonuçları beklerken havada heyecan vardı."
+    },
+    {
+      "word_en": "frightened",
+      "example_en": "She was frightened by the sudden noise.",
+      "word_tr": "korkmuş",
+      "example_tr": "Aniden gelen gürültüden korkmuştu."
+    },
+    {
+      "word_en": "glad",
+      "example_en": "He was glad to hear the good news.",
+      "word_tr": "memnun",
+      "example_tr": "İyi haberleri duymaktan memnundu."
+    },
+    {
+      "word_en": "grateful",
+      "example_en": "She was grateful for their help.",
+      "word_tr": "minnettar",
+      "example_tr": "Yardımları için minnettar."
+    },
+    {
+      "word_en": "hate",
+      "example_en": "He hates waking up early.",
+      "word_tr": "nefret etmek",
+      "example_tr": "Erken uyanmaktan nefret eder."
+    },
+    {
+      "word_en": "guilty",
+      "example_en": "She feels guilty for forgetting his birthday.",
+      "word_tr": "suçlu",
+      "example_tr": "Doğum gününü unuttuğu için suçlu hissediyor."
+    }
+  ]
+}
 
