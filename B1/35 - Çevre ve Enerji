@@ -1,1 +1,233 @@
+{
+  "words": [
+    {
+      "word_en": "pollute",
+      "example_en": "Factory waste can pollute rivers and harm wildlife.",
+      "word_tr": "kirletmek",
+      "example_tr": "Fabrika atıkları nehirleri kirletebilir ve doğal yaşamı zararlı etkileyebilir."
+    },
+    {
+      "word_en": "consume",
+      "example_en": "We must consume resources responsibly to protect the environment.",
+      "word_tr": "tüketmek",
+      "example_tr": "Çevreyi korumak için kaynakları sorumlu bir şekilde tüketmeliyiz."
+    },
+    {
+      "word_en": "climate crisis",
+      "example_en": "The climate crisis requires urgent action to mitigate its effects.",
+      "word_tr": "iklim krizi",
+      "example_tr": "İklim krizi, etkilerini azaltmak için acil bir eylem gerektirir."
+    },
+    {
+      "word_en": "natural disaster",
+      "example_en": "Preparation is key to minimizing the impact of natural disasters.",
+      "word_tr": "doğal felaket",
+      "example_tr": "Doğal felaketlerin etkisini en aza indirmenin anahtarı hazırlıktır."
+    },
+    {
+      "word_en": "volcanic eruption",
+      "example_en": "The volcanic eruption covered the nearby area in ash.",
+      "word_tr": "volkanik patlama",
+      "example_tr": "Volkanik patlama, yakındaki alanı külle kapladı."
+    },
+    {
+      "word_en": "garbage",
+      "example_en": "Proper disposal of garbage is essential for environmental health.",
+      "word_tr": "çöp",
+      "example_tr": "Çöplerin uygun bir şekilde bertaraf edilmesi, çevresel sağlık için önemlidir."
+    },
+    {
+      "word_en": "waste",
+      "example_en": "Reducing waste is crucial for sustainable living.",
+      "word_tr": "atık",
+      "example_tr": "Atık miktarını azaltmak, sürdürülebilir bir yaşam için hayati öneme sahiptir."
+    },
+    {
+      "word_en": "greenhouse gas",
+      "example_en": "Carbon dioxide is a greenhouse gas that contributes to global warming.",
+      "word_tr": "sera gazı",
+      "example_tr": "Karbon dioksit, küresel ısınmaya katkıda bulunan bir sera gazıdır."
+    },
+    {
+      "word_en": "greenhouse effect",
+      "example_en": "The greenhouse effect traps heat in the Earth's atmosphere.",
+      "word_tr": "sera etkisi",
+      "example_tr": "Sera etkisi, atmosferdeki ısıyı hapseder."
+    },
+    {
+      "word_en": "toxic",
+      "example_en": "Exposure to toxic chemicals can have serious health consequences.",
+      "word_tr": "toksik",
+      "example_tr": "Toksik kimyasallara maruz kalmak ciddi sağlık sonuçlarına yol açabilir."
+    },
+    {
+      "word_en": "poisonous",
+      "example_en": "Some mushrooms are poisonous and should not be consumed.",
+      "word_tr": "zehirli",
+      "example_tr": "Bazı mantarlar zehirli olup tüketilmemelidir."
+    },
+    {
+      "word_en": "air pollution",
+      "example_en": "Air pollution is a major environmental concern in urban areas.",
+      "word_tr": "hava kirliliği",
+      "example_tr": "Hava kirliliği, kentsel alanlarda önemli bir çevre endişesidir."
+    },
+    {
+      "word_en": "smoke",
+      "example_en": "Smoke from wildfires can pose health risks to nearby communities.",
+      "word_tr": "duman",
+      "example_tr": "Ormangülü dumanı, yakındaki topluluklar için sağlık riski oluşturabilir."
+    },
+    {
+      "word_en": "power plant",
+      "example_en": "The power plant generates electricity for the entire city.",
+      "word_tr": "enerji santrali",
+      "example_tr": "Enerji santrali, tüm şehre elektrik üretir."
+    },
+    {
+      "word_en": "recycle",
+      "example_en": "Recycling helps reduce the amount of waste sent to landfills.",
+      "word_tr": "geri dönüşüm",
+      "example_tr": "Geri dönüşüm, çöplüklere gönderilen atık miktarını azaltmaya yardımcı olur."
+    },
+    {
+      "word_en": "recycling",
+      "example_en": "Many materials can be repurposed through recycling.",
+      "word_tr": "geri dönüşüm",
+      "example_tr": "Birçok malzeme, geri dönüşüm yoluyla yeniden amaçlanabilir."
+    },
+    {
+      "word_en": "renewable",
+      "example_en": "Solar energy is a renewable source of power.",
+      "word_tr": "yenilenebilir",
+      "example_tr": "Güneş enerjisi, yenilenebilir bir güç kaynağıdır."
+    },
+    {
+      "word_en": "planet",
+      "example_en": "Earth is the third planet from the sun.",
+      "word_tr": "gezegen",
+      "example_tr": "Dünya, güneşten üçüncü gezegendir."
+    },
+    {
+      "word_en": "atmosphere",
+      "example_en": "The atmosphere protects life on Earth by trapping heat.",
+      "word_tr": "atmosfer",
+      "example_tr": "Atmosfer, ısıyı hapsederek Dünya'daki yaşamı korur."
+    },
+    {
+      "word_en": "habitat",
+      "example_en": "The rainforest is a habitat for many species of plants and animals.",
+      "word_tr": "yaşam alanı",
+      "example_tr": "Yağmur ormanı, birçok bitki ve hayvan türü için bir yaşam alanıdır."
+    },
+    {
+      "word_en": "resource",
+      "example_en": "Water is a vital resource for all living organisms.",
+      "word_tr": "kaynak",
+      "example_tr": "Su, tüm canlı organizmalar için hayati bir kaynaktır."
+    },
+    {
+      "word_en": "power",
+      "example_en": "Solar power is becoming increasingly popular as a renewable energy source.",
+      "word_tr": "güç",
+      "example_tr": "Güneş enerjisi, yenilenebilir bir enerji kaynağı olarak giderek daha popüler hale geliyor."
+    },
+    {
+      "word_en": "fuel",
+      "example_en": "Gasoline is a common fuel for automobiles.",
+      "word_tr": "yakıt",
+      "example_tr": "Benzin, otomobiller için yaygın bir yakıttır."
+    },
+    {
+      "word_en": "fossil fuel",
+      "example_en": "Burning fossil fuels releases greenhouse gases into the atmosphere.",
+      "word_tr": "fosil yakıt",
+      "example_tr": "Fosil yakıtların yakılması, sera gazlarını atmosfere salar."
+    },
+    {
+      "word_en": "coal",
+      "example_en": "Coal mining can have serious environmental impacts.",
+      "word_tr": "kömür",
+      "example_tr": "Kömür madenciliği ciddi çevresel etkilere yol açabilir."
+    },
+    {
+      "word_en": "oil",
+      "example_en": "Oil spills can devastate marine ecosystems.",
+      "word_tr": "petrol",
+      "example_tr": "Petrol sızıntıları deniz ekosistemlerini tahrip edebilir."
+    },
+    {
+      "word_en": "energy",
+      "example_en": "Renewable energy sources are crucial for reducing carbon emissions.",
+      "word_tr": "enerji",
+      "example_tr": "Yenilenebilir enerji kaynakları, karbon emisyonlarını azaltmak için hayati öneme sahiptir."
+    },
+    {
+      "word_en": "atomic energy",
+      "example_en": "Nuclear power plants generate atomic energy.",
+      "word_tr": "atom enerjisi",
+      "example_tr": "Nükleer santraller, atom enerjisi üretir."
+    },
+    {
+      "word_en": "carbon footprint",
+      "example_en": "Reducing your carbon footprint can help combat climate change.",
+      "word_tr": "karbon ayak izi",
+      "example_tr": "Karbon ayak izinizi azaltmak, iklim değişikliğiyle mücadeleye yardımcı olabilir."
+    },
+    {
+      "word_en": "carbon dioxide",
+      "example_en": "Plants absorb carbon dioxide during photosynthesis.",
+      "word_tr": "karbon dioksit",
+      "example_tr": "Bitkiler, fotosentez sırasında karbon dioksiti emer."
+    },
+    {
+      "word_en": "clean",
+      "example_en": "Clean energy sources do not produce harmful emissions.",
+      "word_tr": "temiz",
+      "example_tr": "Temiz enerji kaynakları zararlı emisyonlar üretmez."
+    },
+    {
+      "word_en": "cleanup",
+      "example_en": "Volunteers participated in a beach cleanup to protect marine life.",
+      "word_tr": "temizlik",
+      "example_tr": "Gönüllüler, deniz yaşamını korumak için bir plaj temizliğine katıldı."
+    },
+    {
+      "word_en": "eco-friendly",
+      "example_en": "Using eco-friendly products helps reduce environmental impact.",
+      "word_tr": "çevre dostu",
+      "example_tr": "Çevre dostu ürünler kullanmak, çevresel etkiyi azaltmaya yardımcı olur."
+    },
+    {
+      "word_en": "green",
+      "example_en": "Planting trees is a green initiative to combat deforestation.",
+      "word_tr": "yeşil",
+      "example_tr": "Ağaç dikmek, ormansızlaşmayla mücadele etmek için yeşil bir girişimdir."
+    },
+    {
+      "word_en": "protect",
+      "example_en": "It's important to protect endangered species from extinction.",
+      "word_tr": "koruma",
+      "example_tr": "Soyu tükenmekte olan türleri yok olmaktan korumak önemlidir."
+    },
+    {
+      "word_en": "recycle",
+      "example_en": "Recycling paper helps save trees and reduces waste.",
+      "word_tr": "geri dönüşüm",
+      "example_tr": "Kağıt geri dönüşümü, ağaçları korur ve atığı azaltmaya yardımcı olur."
+    },
+    {
+      "word_en": "recycling",
+      "example_en": "Many materials can be repurposed through recycling.",
+      "word_tr": "geri dönüşüm",
+      "example_tr": "Birçok malzeme, geri dönüşüm yoluyla yeniden amaçlanabilir."
+    },
+    {
+      "word_en": "renewable",
+      "example_en": "Solar energy is a renewable source of power.",
+      "word_tr": "yenilenebilir",
+      "example_tr": "Güneş enerjisi, yenilenebilir bir güç kaynağıdır."
+    }
+  ]
+}
 
