@@ -1,1 +1,197 @@
+{
+  "words": [
+    {
+      "word_en": "depend",
+      "example_en": "The success of the project depends on teamwork.",
+      "word_tr": "bağlı olmak",
+      "example_tr": "Projenin başarısı, ekip çalışmasına bağlıdır."
+    },
+    {
+      "word_en": "destroy",
+      "example_en": "The hurricane can destroy homes and buildings.",
+      "word_tr": "yok etmek",
+      "example_tr": "Kasırga evleri ve binaları yok edebilir."
+    },
+    {
+      "word_en": "develop",
+      "example_en": "The company plans to develop new software.",
+      "word_tr": "geliştirmek",
+      "example_tr": "Şirket yeni yazılım geliştirmeyi planlıyor."
+    },
+    {
+      "word_en": "dry",
+      "example_en": "Please hang the clothes outside to dry.",
+      "word_tr": "kurutmak",
+      "example_tr": "Lütfen kıyafetleri dışarı asıp kurutun."
+    },
+    {
+      "word_en": "exist",
+      "example_en": "Many species of animals exist in the jungle.",
+      "word_tr": "var olmak",
+      "example_tr": "Ormanda birçok hayvan türü var."
+    },
+    {
+      "word_en": "expect",
+      "example_en": "I expect him to arrive before noon.",
+      "word_tr": "beklemek",
+      "example_tr": "Onun öğleden önce varmasını bekliyorum."
+    },
+    {
+      "word_en": "express",
+      "example_en": "She expressed her gratitude for the help.",
+      "word_tr": "ifade etmek",
+      "example_tr": "Yardım için minnettarlığını ifade etti."
+    },
+    {
+      "word_en": "fight",
+      "example_en": "The soldiers will fight bravely for their country.",
+      "word_tr": "savaşmak",
+      "example_tr": "Askerler ülkeleri için cesurca savaşacaklar."
+    },
+    {
+      "word_en": "fix",
+      "example_en": "I need to fix the broken window.",
+      "word_tr": "tamir etmek",
+      "example_tr": "Kırık pencereyi tamir etmem lazım."
+    },
+    {
+      "word_en": "greet",
+      "example_en": "They greet each other warmly every morning.",
+      "word_tr": "selamlaşmak",
+      "example_tr": "Her sabah birbirlerini samimi bir şekilde selamlarlar."
+    },
+    {
+      "word_en": "produce",
+      "example_en": "The factory produces cars.",
+      "word_tr": "üretmek",
+      "example_tr": "Fabrika arabalar üretir."
+    },
+    {
+      "word_en": "carry out",
+      "example_en": "We need to carry out the experiment carefully.",
+      "word_tr": "gerçekleştirmek",
+      "example_tr": "Deneyi dikkatlice gerçekleştirmemiz gerekiyor."
+    },
+    {
+      "word_en": "look",
+      "example_en": "Look both ways before crossing the street.",
+      "word_tr": "bakmak",
+      "example_tr": "Caddeyi geçmeden önce her iki tarafa bakın."
+    },
+    {
+      "word_en": "stop",
+      "example_en": "Please stop talking and listen.",
+      "word_tr": "durmak",
+      "example_tr": "Lütfen konuşmayı durdurun ve dinleyin."
+    },
+    {
+      "word_en": "disappear",
+      "example_en": "The magician made the rabbit disappear.",
+      "word_tr": "ortadan kaybolmak",
+      "example_tr": "Sihirbaz tavşanı ortadan kaybetti."
+    },
+    {
+      "word_en": "act",
+      "example_en": "She had to act quickly in the emergency.",
+      "word_tr": "hareket etmek",
+      "example_tr": "Acil durumda hızlı hareket etmek zorundaydı."
+    },
+    {
+      "word_en": "affect",
+      "example_en": "The change in weather will affect the crops.",
+      "word_tr": "etkilemek",
+      "example_tr": "Hava değişikliği tarımı etkileyecek."
+    },
+    {
+      "word_en": "analyze",
+      "example_en": "The scientist will analyze the data.",
+      "word_tr": "analiz etmek",
+      "example_tr": "Bilim adamı verileri analiz edecek."
+    },
+    {
+      "word_en": "apply",
+      "example_en": "You need to apply pressure to stop the bleeding.",
+      "word_tr": "uygulamak",
+      "example_tr": "Kanamayı durdurmak için baskı uygulamanız gerekiyor."
+    },
+    {
+      "word_en": "arrange",
+      "example_en": "She will arrange the books on the shelf.",
+      "word_tr": "düzenlemek",
+      "example_tr": "Kitapları rafta düzenleyecek."
+    },
+    {
+      "word_en": "avoid",
+      "example_en": "You should avoid eating too much sugar.",
+      "word_tr": "kaçınmak",
+      "example_tr": "Çok fazla şeker yemekten kaçınmalısınız."
+    },
+    {
+      "word_en": "beat",
+      "example_en": "The drummer will beat the drums.",
+      "word_tr": "vurmak",
+      "example_tr": "Davulcu davulları vuracak."
+    },
+    {
+      "word_en": "behave",
+      "example_en": "You need to behave properly at the dinner party.",
+      "word_tr": "davranmak",
+      "example_tr": "Akşam yemeğinde uygun şekilde davranmanız gerekiyor."
+    },
+    {
+      "word_en": "blow",
+      "example_en": "The wind will blow fiercely tonight.",
+      "word_tr": "esmek",
+      "example_tr": "Rüzgar bu gece şiddetli esecek."
+    },
+    {
+      "word_en": "boil",
+      "example_en": "Please boil the water before drinking.",
+      "word_tr": "kaynatmak",
+      "example_tr": "İçmeden önce suyu kaynatın."
+    },
+    {
+      "word_en": "burn",
+      "example_en": "Be careful not to burn yourself on the stove.",
+      "word_tr": "yanmak",
+      "example_tr": "Ocakta kendinizi yakmamaya dikkat edin."
+    },
+    {
+      "word_en": "cause",
+      "example_en": "The storm caused damage to the houses.",
+      "word_tr": "neden olmak",
+      "example_tr": "Fırtına evlere zarar verdi."
+    },
+    {
+      "word_en": "collect",
+      "example_en": "He will collect donations for the charity.",
+      "word_tr": "toplamak",
+      "example_tr": "Hayır kurumu için bağış toplayacak."
+    },
+    {
+      "word_en": "connect",
+      "example_en": "Please connect the wires to the socket.",
+      "word_tr": "bağlamak",
+      "example_tr": "Lütfen telleri prizle bağlayın."
+    },
+    {
+      "word_en": "consider",
+      "example_en": "You should consider all options before making a decision.",
+      "word_tr": "düşünmek",
+      "example_tr": "Karar vermeden önce tüm seçenekleri düşünmelisiniz."
+    },
+    {
+      "word_en": "control",
+      "example_en": "He needs to control his anger.",
+      "word_tr": "kontrol etmek",
+      "example_tr": "Öfkesini kontrol etmesi gerekiyor."
+    },
+    {
+      "word_en": "cover",
+      "example_en": "Please cover the food to keep it warm.",
+      "word_tr": "örtmek",
+      "example_tr": "Yemeği sıcak tutmak için üzerini örtün."
+    }
+  ]
+}
 
