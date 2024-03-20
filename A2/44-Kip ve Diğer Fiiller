@@ -1,1 +1,239 @@
+{
+  "words": [
+    {
+      "word_en": "prefer",
+      "example_en": "I prefer tea over coffee.",
+      "word_tr": "tercih etmek",
+      "example_tr": "Kahveden daha çok çayı tercih ederim."
+    },
+    {
+      "word_en": "repeat",
+      "example_en": "Please repeat what you just said.",
+      "word_tr": "tekrarlamak",
+      "example_tr": "Lütfen az önce söylediğini tekrar et."
+    },
+    {
+      "word_en": "follow",
+      "example_en": "I will follow you to the store.",
+      "word_tr": "takip etmek",
+      "example_tr": "Seni mağazaya kadar takip edeceğim."
+    },
+    {
+      "word_en": "allow",
+      "example_en": "The teacher will allow us to leave early today.",
+      "word_tr": "izin vermek",
+      "example_tr": "Öğretmen bize bugün erken çıkmamıza izin verecek."
+    },
+    {
+      "word_en": "hurry",
+      "example_en": "We need to hurry to catch the train.",
+      "word_tr": "acele etmek",
+      "example_tr": "Trene yetişmek için acele etmemiz gerekiyor."
+    },
+    {
+      "word_en": "count",
+      "example_en": "Please count the number of chairs in the room.",
+      "word_tr": "saymak",
+      "example_tr": "Lütfen odadaki sandalyelerin sayısını sayın."
+    },
+    {
+      "word_en": "change",
+      "example_en": "I need to change my clothes before we leave.",
+      "word_tr": "değiştirmek",
+      "example_tr": "Ayrılmadan önce kıyafetimi değiştirmem lazım."
+    },
+    {
+      "word_en": "complete",
+      "example_en": "We need to complete the project by Friday.",
+      "word_tr": "tamamlamak",
+      "example_tr": "Projeyi Cuma'ya kadar tamamlamamız gerekiyor."
+    },
+    {
+      "word_en": "pick",
+      "example_en": "Let's pick some flowers for the table.",
+      "word_tr": "seçmek",
+      "example_tr": "Masaya koymak için birkaç çiçek seçelim."
+    },
+    {
+      "word_en": "drop",
+      "example_en": "He accidentally dropped his phone on the floor.",
+      "word_tr": "düşürmek",
+      "example_tr": "Telefonunu kazara yere düşürdü."
+    },
+    {
+      "word_en": "reduce",
+      "example_en": "We need to reduce our expenses this month.",
+      "word_tr": "azaltmak",
+      "example_tr": "Bu ay giderlerimizi azaltmamız gerekiyor."
+    },
+    {
+      "word_en": "continue",
+      "example_en": "We will continue with the next chapter tomorrow.",
+      "word_tr": "devam etmek",
+      "example_tr": "Yarın bir sonraki bölümle devam edeceğiz."
+    },
+    {
+      "word_en": "stay",
+      "example_en": "I will stay at home tonight.",
+      "word_tr": "kalmak",
+      "example_tr": "Bu gece evde kalacağım."
+    },
+    {
+      "word_en": "point",
+      "example_en": "He raised a valid point during the meeting.",
+      "word_tr": "işaret etmek",
+      "example_tr": "Toplantı sırasında geçerli bir noktaya işaret etti."
+    },
+    {
+      "word_en": "enter",
+      "example_en": "Please enter your password to log in.",
+      "word_tr": "girmek",
+      "example_tr": "Giriş yapmak için lütfen şifrenizi girin."
+    },
+    {
+      "word_en": "refuse",
+      "example_en": "She had to refuse the offer due to prior commitments.",
+      "word_tr": "reddetmek",
+      "example_tr": "Önceden yapılacak işler nedeniyle teklifi reddetmek zorunda kaldı."
+    },
+    {
+      "word_en": "return",
+      "example_en": "He will return the book to the library tomorrow.",
+      "word_tr": "geri vermek",
+      "example_tr": "Yarın kitabı kütüphaneye geri verecek."
+    },
+    {
+      "word_en": "have to",
+      "example_en": "I have to finish this assignment by tomorrow.",
+      "word_tr": "zorunda olmak",
+      "example_tr": "Bu ödevi yarına kadar bitirmem lazım."
+    },
+    {
+      "word_en": "break",
+      "example_en": "He took a short break from work.",
+      "word_tr": "mola vermek",
+      "example_tr": "İşten kısa bir mola aldı."
+    },
+    {
+      "word_en": "take care",
+      "example_en": "Take care of yourself while I'm away.",
+      "word_tr": "dikkat etmek",
+      "example_tr": "Uzakta olduğum süre boyunca kendine dikkat et."
+    },
+    {
+      "word_en": "worsen",
+      "example_en": "His condition worsened overnight.",
+      "word_tr": "kötüleşmek",
+      "example_tr": "Durumu bir gecede kötüleşti."
+    },
+    {
+      "word_en": "can",
+      "example_en": "I can swim.",
+      "word_tr": "yapabilmek",
+      "example_tr": "Yüzme yapabilirim."
+    },
+    {
+      "word_en": "may",
+      "example_en": "May I come in?",
+      "word_tr": "olabilir",
+      "example_tr": "İçeri girebilir miyim?"
+    },
+    {
+      "word_en": "must",
+      "example_en": "You must finish your homework before dinner.",
+      "word_tr": "gerekmek",
+      "example_tr": "Akşam yemeğinden önce ödevini bitirmen gerekiyor."
+    },
+    {
+      "word_en": "will",
+      "example_en": "I will go to the gym tomorrow.",
+      "word_tr": "olacak",
+      "example_tr": "Yarın spor salonuna gideceğim."
+    },
+    {
+      "word_en": "could",
+      "example_en": "She could speak French fluently when she was younger.",
+      "word_tr": "olabilir",
+      "example_tr": "Daha gençken akıcı bir şekilde Fransızca konuşabilirdi."
+    },
+    {
+      "word_en": "could",
+      "example_en": "Could you please pass me the salt?",
+      "word_tr": "olabilir",
+      "example_tr": "Lütfen bana tuzu uzatabilir misiniz?"
+    },
+    {
+      "word_en": "would",
+      "example_en": "I would like to have a cup of tea.",
+      "word_tr": "istemek",
+      "example_tr": "Bir fincan çay istiyorum."
+    },
+    {
+      "word_en": "should",
+      "example_en": "You should apologize for what you said.",
+      "word_tr": "yapmalı",
+      "example_tr": "Söylediğin şey için özür dilemelisin."
+    },
+    {
+      "word_en": "used to",
+      "example_en": "I used to play the piano when I was younger.",
+      "word_tr": "eskiden",
+      "example_tr": "Daha gençken piyano çalardım."
+    },
+    {
+      "word_en": "shall",
+      "example_en": "Shall we go for a walk?",
+      "word_tr": "olalım",
+      "example_tr": "Yürüyüşe çıkalım mı?"
+    },
+    {
+      "word_en": "mean",
+      "example_en": "What does this word mean?",
+      "word_tr": "anlamına gelmek",
+      "example_tr": "Bu kelime ne anlama geliyor?"
+    },
+    {
+      "word_en": "check",
+      "example_en": "Please check the spelling of this word.",
+      "word_tr": "kontrol etmek",
+      "example_tr": "Lütfen bu kelimenin yazımını kontrol edin."
+    },
+    {
+      "word_en": "carry",
+      "example_en": "She always carries a book with her.",
+      "word_tr": "taşımak",
+      "example_tr": "Her zaman yanında bir kitap taşır."
+    },
+    {
+      "word_en": "keep",
+      "example_en": "Keep the door closed.",
+      "word_tr": "saklamak",
+      "example_tr": "Kapıyı kapalı tutun."
+    },
+    {
+      "word_en": "wait",
+      "example_en": "Please wait for me here.",
+      "word_tr": "beklemek",
+      "example_tr": "Lütfen beni burada bekleyin."
+    },
+    {
+      "word_en": "compare",
+      "example_en": "Let's compare prices before buying.",
+      "word_tr": "karşılaştırmak",
+      "example_tr": "Satın almadan önce fiyatları karşılaştıralım."
+    },
+    {
+      "word_en": "improve",
+      "example_en": "He wants to improve his English skills.",
+      "word_tr": "iyileştirmek",
+      "example_tr": "İngilizce becerilerini geliştirmek istiyor."
+    },
+    {
+      "word_en": "try",
+      "example_en": "I will try my best to finish on time.",
+      "word_tr": "denemek",
+      "example_tr": "Zamanında bitirmek için elimden geleni yapacağım."
+    }
+  ]
+}
 
