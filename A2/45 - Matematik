@@ -1,1 +1,173 @@
+{
+  "words": [
+    {
+      "word_en": "billion",
+      "example_en": "The company earned billions of dollars in profit.",
+      "word_tr": "milyar",
+      "example_tr": "Şirket kar olarak milyarlarca dolar kazandı."
+    },
+    {
+      "word_en": "minus sign",
+      "example_en": "To indicate subtraction, use the minus sign (-).",
+      "word_tr": "eksi işareti",
+      "example_tr": "Çıkarma işlemini belirtmek için eksi işaretini (-) kullanın."
+    },
+    {
+      "word_en": "plus sign",
+      "example_en": "To indicate addition, use the plus sign (+).",
+      "word_tr": "artı işareti",
+      "example_tr": "Toplama işlemini belirtmek için artı işaretini (+) kullanın."
+    },
+    {
+      "word_en": "negative",
+      "example_en": "The temperature is negative ten degrees Celsius.",
+      "word_tr": "negatif",
+      "example_tr": "Sıcaklık eksi on derece Santigrat."
+    },
+    {
+      "word_en": "positive",
+      "example_en": "Having a positive attitude can improve your life.",
+      "word_tr": "pozitif",
+      "example_tr": "Pozitif bir tutuma sahip olmak hayatınızı iyileştirebilir."
+    },
+    {
+      "word_en": "number",
+      "example_en": "Please write your phone number on this form.",
+      "word_tr": "numara",
+      "example_tr": "Lütfen bu formdaki telefon numaranızı yazın."
+    },
+    {
+      "word_en": "operation",
+      "example_en": "The doctor will perform a surgical operation tomorrow.",
+      "word_tr": "operasyon",
+      "example_tr": "Doktor yarın cerrahi bir operasyon yapacak."
+    },
+    {
+      "word_en": "sign",
+      "example_en": "The sign indicates the way to the nearest hospital.",
+      "word_tr": "işaret",
+      "example_tr": "İşaret en yakın hastanenin yolunu gösterir."
+    },
+    {
+      "word_en": "symbol",
+      "example_en": "The dollar sign ($) represents the currency.",
+      "word_tr": "sembol",
+      "example_tr": "Dolar işareti ($), para birimini temsil eder."
+    },
+    {
+      "word_en": "solution",
+      "example_en": "He found a solution to the math problem.",
+      "word_tr": "çözüm",
+      "example_tr": "Matematik problemine bir çözüm buldu."
+    },
+    {
+      "word_en": "sum",
+      "example_en": "The sum of 5 and 3 is 8.",
+      "word_tr": "toplam",
+      "example_tr": "5 ile 3'ün toplamı 8'dir."
+    },
+    {
+      "word_en": "total",
+      "example_en": "The total cost of the project exceeded expectations.",
+      "word_tr": "toplam",
+      "example_tr": "Projenin toplam maliyeti beklentileri aştı."
+    },
+    {
+      "word_en": "amount",
+      "example_en": "The amount of sugar in the recipe is too much.",
+      "word_tr": "miktar",
+      "example_tr": "Tarifteki şeker miktarı fazla."
+    },
+    {
+      "word_en": "percent",
+      "example_en": "She scored 90 percent on the exam.",
+      "word_tr": "yüzde",
+      "example_tr": "Sınavda %90 aldı."
+    },
+    {
+      "word_en": "calculate",
+      "example_en": "You need to calculate the total cost before making a decision.",
+      "word_tr": "hesaplamak",
+      "example_tr": "Karar vermeden önce toplam maliyeti hesaplamanız gerekiyor."
+    },
+    {
+      "word_en": "calculation",
+      "example_en": "Her calculation was accurate.",
+      "word_tr": "hesaplama",
+      "example_tr": "Her hesaplama doğruydu."
+    },
+    {
+      "word_en": "add",
+      "example_en": "Please add 5 and 3.",
+      "word_tr": "eklemek",
+      "example_tr": "Lütfen 5 ile 3'ü ekleyin."
+    },
+    {
+      "word_en": "add up",
+      "example_en": "Can you add up these numbers for me?",
+      "word_tr": "toplamak",
+      "example_tr": "Bu sayıları toplayabilir misiniz?"
+    },
+    {
+      "word_en": "subtract",
+      "example_en": "Subtract 3 from 8.",
+      "word_tr": "çıkarmak",
+      "example_tr": "8'den 3 çıkar."
+    },
+    {
+      "word_en": "multiply",
+      "example_en": "Multiply 5 by 4.",
+      "word_tr": "çarpmak",
+      "example_tr": "5'i 4 ile çarp."
+    },
+    {
+      "word_en": "divide",
+      "example_en": "Divide 10 by 2.",
+      "word_tr": "bölmek",
+      "example_tr": "10'u 2'ye böl."
+    },
+    {
+      "word_en": "average",
+      "example_en": "Calculate the average of these numbers.",
+      "word_tr": "ortalama",
+      "example_tr": "Bu sayıların ortalamasını hesaplayın."
+    },
+    {
+      "word_en": "count",
+      "example_en": "Count how many apples are in the basket.",
+      "word_tr": "saymak",
+      "example_tr": "Sepette kaç elma olduğunu sayın."
+    },
+    {
+      "word_en": "equal",
+      "example_en": "3 plus 5 equals 8.",
+      "word_tr": "eşit",
+      "example_tr": "3 artı 5, 8'e eşittir."
+    },
+    {
+      "word_en": "figure",
+      "example_en": "Can you figure out this math problem?",
+      "word_tr": "hesaplamak",
+      "example_tr": "Bu matematik problemi üzerinde düşünebilir misiniz?"
+    },
+    {
+      "word_en": "mathematics",
+      "example_en": "She loves studying mathematics.",
+      "word_tr": "matematik",
+      "example_tr": "Matematik çalışmayı sever."
+    },
+    {
+      "word_en": "thousand",
+      "example_en": "There are a thousand reasons to be happy.",
+      "word_tr": "bin",
+      "example_tr": "Mutlu olmak için binlerce neden var."
+    },
+    {
+      "word_en": "million",
+      "example_en": "The population of the city is over two million.",
+      "word_tr": "milyon",
+      "example_tr": "Şehrin nüfusu iki milyonun üzerinde."
+    }
+  ]
+}
 
