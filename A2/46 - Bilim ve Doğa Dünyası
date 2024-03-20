@@ -1,1 +1,221 @@
+{
+  "words": [
+    {
+      "word_en": "silver",
+      "example_en": "She wore a necklace made of silver.",
+      "word_tr": "gümüş",
+      "example_tr": "Gümüşten yapılmış bir kolye takıyordu."
+    },
+    {
+      "word_en": "carbon",
+      "example_en": "Carbon is an essential element in organic compounds.",
+      "word_tr": "karbon",
+      "example_tr": "Karbon, organik bileşiklerde temel bir elementtir."
+    },
+    {
+      "word_en": "oxygen",
+      "example_en": "Oxygen is necessary for human survival.",
+      "word_tr": "oksijen",
+      "example_tr": "Oksijen, insanların hayatta kalması için gereklidir."
+    },
+    {
+      "word_en": "chemical element",
+      "example_en": "Gold is a chemical element with the symbol Au.",
+      "word_tr": "kimyasal element",
+      "example_tr": "Altın, sembolü Au olan bir kimyasal elementtir."
+    },
+    {
+      "word_en": "stone",
+      "example_en": "She skipped a stone across the water.",
+      "word_tr": "taş",
+      "example_tr": "Suya bir taş attı."
+    },
+    {
+      "word_en": "research",
+      "example_en": "The scientist conducted research on cancer.",
+      "word_tr": "araştırma",
+      "example_tr": "Bilim adamı kanser üzerine araştırma yaptı."
+    },
+    {
+      "word_en": "method",
+      "example_en": "The scientific method involves observation and experimentation.",
+      "word_tr": "metod",
+      "example_tr": "Bilimsel metod gözlem ve deneyi içerir."
+    },
+    {
+      "word_en": "example",
+      "example_en": "Can you provide an example of this concept?",
+      "word_tr": "örnek",
+      "example_tr": "Bu kavramın bir örneğini verebilir misiniz?"
+    },
+    {
+      "word_en": "invent",
+      "example_en": "Thomas Edison invented the lightbulb.",
+      "word_tr": "icat etmek",
+      "example_tr": "Thomas Edison, ampulü icat etti."
+    },
+    {
+      "word_en": "inventor",
+      "example_en": "Alexander Graham Bell is the inventor of the telephone.",
+      "word_tr": "icatçı",
+      "example_tr": "Alexander Graham Bell, telefonun icatçısıdır."
+    },
+    {
+      "word_en": "discover",
+      "example_en": "Scientists discovered a new species of fish in the ocean.",
+      "word_tr": "keşfetmek",
+      "example_tr": "Bilim adamları okyanusta yeni bir balık türü keşfetti."
+    },
+    {
+      "word_en": "discovery",
+      "example_en": "The discovery of penicillin revolutionized medicine.",
+      "word_tr": "keşif",
+      "example_tr": "Penisilinin keşfi tıbbı devrim niteliğinde değiştirdi."
+    },
+    {
+      "word_en": "tool",
+      "example_en": "A hammer is a useful tool for building.",
+      "word_tr": "araç",
+      "example_tr": "Çekiç, inşaat için kullanışlı bir araçtır."
+    },
+    {
+      "word_en": "fact",
+      "example_en": "It is a fact that the Earth orbits the Sun.",
+      "word_tr": "gerçek",
+      "example_tr": "Dünya'nın Güneş'in etrafında döndüğü bir gerçektir."
+    },
+    {
+      "word_en": "reason",
+      "example_en": "There is a reason behind every decision.",
+      "word_tr": "sebep",
+      "example_tr": "Her kararın bir sebebi vardır."
+    },
+    {
+      "word_en": "technology",
+      "example_en": "Advancements in technology have changed our lives.",
+      "word_tr": "teknoloji",
+      "example_tr": "Teknolojideki ilerlemeler hayatlarımızı değiştirdi."
+    },
+    {
+      "word_en": "data",
+      "example_en": "The scientist collected data from the experiments.",
+      "word_tr": "veri",
+      "example_tr": "Bilim adamı deneylerden veri topladı."
+    },
+    {
+      "word_en": "atom",
+      "example_en": "An atom is the smallest unit of matter.",
+      "word_tr": "atom",
+      "example_tr": "Atom, maddenin en küçük birimidir."
+    },
+    {
+      "word_en": "organism",
+      "example_en": "Humans are complex organisms.",
+      "word_tr": "organizma",
+      "example_tr": "İnsanlar kompleks organizmalardır."
+    },
+    {
+      "word_en": "chemical",
+      "example_en": "The scientist conducted chemical experiments.",
+      "word_tr": "kimyasal",
+      "example_tr": "Bilim adamı kimyasal deneyler yaptı."
+    },
+    {
+      "word_en": "gas",
+      "example_en": "Oxygen is a gas at room temperature.",
+      "word_tr": "gaz",
+      "example_tr": "Oksijen oda sıcaklığında bir gazdır."
+    },
+    {
+      "word_en": "liquid",
+      "example_en": "Water is a common example of a liquid.",
+      "word_tr": "sıvı",
+      "example_tr": "Su, bir sıvının yaygın bir örneğidir."
+    },
+    {
+      "word_en": "solid",
+      "example_en": "Ice is the solid form of water.",
+      "word_tr": "katı",
+      "example_tr": "Buz, suyun katı formudur."
+    },
+    {
+      "word_en": "material",
+      "example_en": "Wood is a common material used in construction.",
+      "word_tr": "malzeme",
+      "example_tr": "Ahşap, inşaatta kullanılan yaygın bir malzemedir."
+    },
+    {
+      "word_en": "substance",
+      "example_en": "Salt is a substance composed of sodium and chlorine.",
+      "word_tr": "madde",
+      "example_tr": "Tuz, sodyum ve klorürden oluşan bir maddedir."
+    },
+    {
+      "word_en": "electric",
+      "example_en": "Electric cars are becoming more popular.",
+      "word_tr": "elektrikli",
+      "example_tr": "Elektrikli arabalar daha popüler hale geliyor."
+    },
+    {
+      "word_en": "real",
+      "example_en": "The diamond necklace was real, not fake.",
+      "word_tr": "gerçek",
+      "example_tr": "Elmas kolye gerçekti, sahte değildi."
+    },
+    {
+      "word_en": "systematic",
+      "example_en": "The scientist followed a systematic approach in the research.",
+      "word_tr": "sistematik",
+      "example_tr": "Bilim adamı araştırmada sistematik bir yaklaşım izledi."
+    },
+    {
+      "word_en": "metal",
+      "example_en": "Iron is a common metal used in construction.",
+      "word_tr": "metal",
+      "example_tr": "Demir, inşaatta kullanılan yaygın bir metaldır."
+    },
+    {
+      "word_en": "plastic",
+      "example_en": "Plastic is a versatile material.",
+      "word_tr": "plastik",
+      "example_tr": "Plastik, çok yönlü bir malzemedir."
+    },
+    {
+      "word_en": "iron",
+      "example_en": "Iron is a metal used in making tools.",
+      "word_tr": "demir",
+      "example_tr": "Demir, araç yapımında kullanılan bir metaldır."
+    },
+    {
+      "word_en": "gold",
+      "example_en": "Gold is a precious metal.",
+      "word_tr": "altın",
+      "example_tr": "Altın, değerli bir metaldır."
+    },
+    {
+      "word_en": "focus",
+      "example_en": "She needs to focus on her studies.",
+      "word_tr": "odaklanmak",
+      "example_tr": "Derslerine odaklanması gerekiyor."
+    },
+    {
+      "word_en": "sound",
+      "example_en": "The sound of birds chirping was soothing.",
+      "word_tr": "ses",
+      "example_tr": "Kuşların cıvıltısı, huzur vericiydi."
+    },
+    {
+      "word_en": "laboratory",
+      "example_en": "The experiment was conducted in the laboratory.",
+      "word_tr": "laboratuvar",
+      "example_tr": "Deney laboratuvarda yapıldı."
+    },
+    {
+      "word_en": "result",
+      "example_en": "The experiment produced unexpected results.",
+      "word_tr": "sonuç",
+      "example_tr": "Deney beklenmedik sonuçlar verdi."
+    }
+  ]
+}
 
