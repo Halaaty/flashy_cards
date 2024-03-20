@@ -1,1 +1,251 @@
+{
+  "words": [
+    {
+      "word_en": "right",
+      "example_en": "Freedom of speech is a fundamental human right.",
+      "word_tr": "hak",
+      "example_tr": "Konuşma özgürlüğü, temel bir insan hakkıdır."
+    },
+    {
+      "word_en": "senate",
+      "example_en": "The Senate is one of the two chambers of the United States Congress.",
+      "word_tr": "senato",
+      "example_tr": "Senato, Amerika Birleşik Devletleri Kongresi'nin iki meclisinden biridir."
+    },
+    {
+      "word_en": "arrest",
+      "example_en": "The police made an arrest in connection with the robbery.",
+      "word_tr": "gözaltı",
+      "example_tr": "Polis, soygunla bağlantılı olarak bir gözaltı gerçekleştirdi."
+    },
+    {
+      "word_en": "ban",
+      "example_en": "The government imposed a ban on smoking in public places.",
+      "word_tr": "yasak",
+      "example_tr": "Hükümet, kamusal alanlarda sigara içmeyi yasakladı."
+    },
+    {
+      "word_en": "state",
+      "example_en": "Each state in the United States has its own government.",
+      "word_tr": "eyalet",
+      "example_tr": "Amerika Birleşik Devletleri'nde her eyaletin kendi hükümeti vardır."
+    },
+    {
+      "word_en": "commit",
+      "example_en": "She was accused of committing a crime.",
+      "word_tr": "işlemek",
+      "example_tr": "Bir suç işlemekle suçlandı."
+    },
+    {
+      "word_en": "escape",
+      "example_en": "The prisoner managed to escape from custody.",
+      "word_tr": "kaçmak",
+      "example_tr": "Mahkum, nezaretten kaçmayı başardı."
+    },
+    {
+      "word_en": "investigate",
+      "example_en": "The police are investigating the cause of the accident.",
+      "word_tr": "araştırmak",
+      "example_tr": "Polis, kazanın nedenini araştırıyor."
+    },
+    {
+      "word_en": "murder",
+      "example_en": "The suspect was charged with murder.",
+      "word_tr": "cinayet",
+      "example_tr": "Şüpheli cinayetle suçlandı."
+    },
+    {
+      "word_en": "punish",
+      "example_en": "The judge decided to punish the defendant with a fine.",
+      "word_tr": "cezalandırmak",
+      "example_tr": "Hakim, davalıyı bir para cezası ile cezalandırmaya karar verdi."
+    },
+    {
+      "word_en": "rule",
+      "example_en": "The judge's ruling favored the plaintiff.",
+      "word_tr": "kural",
+      "example_tr": "Hakimin kararı davacı lehineydi."
+    },
+    {
+      "word_en": "thief",
+      "example_en": "The thief stole money from the bank.",
+      "word_tr": "hırsız",
+      "example_tr": "Hırsız bankadan para çaldı."
+    },
+    {
+      "word_en": "vote",
+      "example_en": "Citizens have the right to vote in elections.",
+      "word_tr": "oy",
+      "example_tr": "Vatandaşlar seçimlerde oy kullanma hakkına sahiptir."
+    },
+    {
+      "word_en": "conference",
+      "example_en": "The conference brought together experts from around the world.",
+      "word_tr": "konferans",
+      "example_tr": "Konferans, dünyanın dört bir yanından uzmanları bir araya getirdi."
+    },
+    {
+      "word_en": "statement",
+      "example_en": "The suspect made a statement to the police.",
+      "word_tr": "açıklama",
+      "example_tr": "Şüpheli, polise bir açıklama yaptı."
+    },
+    {
+      "word_en": "flag",
+      "example_en": "The flag of a country is a symbol of its identity.",
+      "word_tr": "bayrak",
+      "example_tr": "Bir ülkenin bayrağı, kimliğinin bir sembolüdür."
+    },
+    {
+      "word_en": "blood money",
+      "example_en": "In some cultures, blood money is paid to compensate for a crime.",
+      "word_tr": "diyet",
+      "example_tr": "Bazı kültürlerde, bir suçu telafi etmek için diyet ödenir."
+    },
+    {
+      "word_en": "free",
+      "example_en": "Everyone has the right to freedom of expression.",
+      "word_tr": "özgür",
+      "example_tr": "Herkes ifade özgürlüğüne sahiptir."
+    },
+    {
+      "word_en": "death penalty",
+      "example_en": "The death penalty is a controversial form of punishment.",
+      "word_tr": "ölüm cezası",
+      "example_tr": "Ölüm cezası tartışmalı bir ceza biçimidir."
+    },
+    {
+      "word_en": "politics",
+      "example_en": "Politics often involves debates and negotiations.",
+      "word_tr": "siyaset",
+      "example_tr": "Siyaset genellikle tartışmaları ve müzakereleri içerir."
+    },
+    {
+      "word_en": "candidate",
+      "example_en": "The candidate promised to improve healthcare if elected.",
+      "word_tr": "aday",
+      "example_tr": "Aday, seçilirse sağlık hizmetlerini iyileştireceğini vaat etti."
+    },
+    {
+      "word_en": "border",
+      "example_en": "The border between two countries is often a point of contention.",
+      "word_tr": "sınır",
+      "example_tr": "İki ülke arasındaki sınır genellikle bir anlaşmazlık noktasıdır."
+    },
+    {
+      "word_en": "congress",
+      "example_en": "The United States Congress is the legislative branch of the federal government.",
+      "word_tr": "kongre",
+      "example_tr": "Amerika Birleşik Devletleri Kongresi, federal hükümetin yasama organıdır."
+    },
+    {
+      "word_en": "council",
+      "example_en": "The city council passed a new ordinance to address traffic issues.",
+      "word_tr": "konsey",
+      "example_tr": "Şehir konseyi, trafik sorunlarını ele almak için yeni bir tüzük geçirdi."
+    },
+    {
+      "word_en": "county",
+      "example_en": "The county government manages local services and infrastructure.",
+      "word_tr": "ilçe",
+      "example_tr": "İlçe hükümeti, yerel hizmetleri ve altyapıyı yönetir."
+    },
+    {
+      "word_en": "diplomacy",
+      "example_en": "Diplomacy plays a crucial role in international relations.",
+      "word_tr": "diplomasi",
+      "example_tr": "Diplomasi, uluslararası ilişkilerde hayati bir rol oynar."
+    },
+    {
+      "word_en": "court",
+      "example_en": "The case will be decided by the court.",
+      "word_tr": "mahkeme",
+      "example_tr": "Dava, mahkeme tarafından karara bağlanacak."
+    },
+    {
+      "word_en": "election",
+      "example_en": "Citizens participate in elections to choose their leaders.",
+      "word_tr": "seçim",
+      "example_tr": "Vatandaşlar, liderlerini seçmek için seçimlere katılırlar."
+    },
+    {
+      "word_en": "elect",
+      "example_en": "The people elected him as their representative.",
+      "word_tr": "seçmek",
+      "example_tr": "Halk, onu temsilcileri olarak seçti."
+    },
+    {
+      "word_en": "embassy",
+      "example_en": "The embassy provides services to citizens living abroad.",
+      "word_tr": "büyükelçilik",
+      "example_tr": "Büyükelçilik, yurtdışında yaşayan vatandaşlara hizmetler sunar."
+    },
+    {
+      "word_en": "government",
+      "example_en": "The government is responsible for making and enforcing laws.",
+      "word_tr": "hükümet",
+      "example_tr": "Hükümet, yasaları yapma ve uygulama konusunda sorumludur."
+    },
+    {
+      "word_en": "local government",
+      "example_en": "Local government is responsible for providing services to residents.",
+      "word_tr": "yerel yönetim",
+      "example_tr": "Yerel yönetim, sakinlere hizmet sunmaktan sorumludur."
+    },
+    {
+      "word_en": "governor",
+      "example_en": "The governor of the state announced new economic initiatives.",
+      "word_tr": "vali",
+      "example_tr": "Eyalet valisi, yeni ekonomik girişimleri duyurdu."
+    },
+    {
+      "word_en": "law",
+      "example_en": "Breaking the law can lead to legal consequences.",
+      "word_tr": "kanun",
+      "example_tr": "Kanunu ihlal etmek yasal sonuçlara yol açabilir."
+    },
+    {
+      "word_en": "mayor",
+      "example_en": "The mayor addressed the city's budget concerns in a public speech.",
+      "word_tr": "belediye başkanı",
+      "example_tr": "Belediye başkanı, şehrin bütçe endişelerini bir halk konuşmasında ele aldı."
+    },
+    {
+      "word_en": "parliament",
+      "example_en": "The parliament is responsible for making laws in many countries.",
+      "word_tr": "parlamento",
+      "example_tr": "Parlamento, birçok ülkede yasaları yapmaktan sorumludur."
+    },
+    {
+      "word_en": "party",
+      "example_en": "There are several political parties competing in the upcoming election.",
+      "word_tr": "parti",
+      "example_tr": "Yaklaşan seçimde birçok siyasi parti yarışıyor."
+    },
+    {
+      "word_en": "political",
+      "example_en": "The candidate made several political promises during the campaign.",
+      "word_tr": "siyasi",
+      "example_tr": "Aday, kampanya sırasında birçok siyasi vaatte bulundu."
+    },
+    {
+      "word_en": "president",
+      "example_en": "The president delivered a speech to the nation on Independence Day.",
+      "word_tr": "başkan",
+      "example_tr": "Başkan, Bağımsızlık Günü'nde ulusa bir konuşma yaptı."
+    },
+    {
+      "word_en": "public",
+      "example_en": "The public protested against the new tax law.",
+      "word_tr": "halk",
+      "example_tr": "Halk, yeni vergi kanununa karşı protesto etti."
+    },
+    {
+      "word_en": "punishment",
+      "example_en": "The punishment for theft is severe in this country.",
+      "word_tr": "ceza",
+      "example_tr": "Bu ülkede hırsızlık için ceza çok ağırdır."
+    }
+  ]
+}
 
