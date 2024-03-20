@@ -1,1 +1,184 @@
-
+{
+  "words": [
+    {
+      "word_en": "mind",
+      "example_en": "Please mind your manners.",
+      "word_tr": "dikkat etmek",
+      "example_tr": "Lütfen görgünüze dikkat edin."
+    },
+    {
+      "word_en": "number",
+      "example_en": "The number of students in the class is twenty.",
+      "word_tr": "sayı",
+      "example_tr": "Sınıftaki öğrenci sayısı yirmi."
+    },
+    {
+      "word_en": "organize",
+      "example_en": "She will organize the files on her computer.",
+      "word_tr": "düzenlemek",
+      "example_tr": "Bilgisayarındaki dosyaları düzenleyecek."
+    },
+    {
+      "word_en": "own",
+      "example_en": "He will own a car soon.",
+      "word_tr": "sahip olmak",
+      "example_tr": "Yakında bir araba sahibi olacak."
+    },
+    {
+      "word_en": "pack",
+      "example_en": "Please pack your bags for the trip.",
+      "word_tr": "paketlemek",
+      "example_tr": "Seyahat için çantalarınızı paketleyin."
+    },
+    {
+      "word_en": "photograph",
+      "example_en": "He will photograph the landscape.",
+      "word_tr": "fotoğraf çekmek",
+      "example_tr": "Manzarayı fotoğraflayacak."
+    },
+    {
+      "word_en": "predict",
+      "example_en": "The weather forecast predicts rain tomorrow.",
+      "word_tr": "tahmin etmek",
+      "example_tr": "Hava durumu tahmini yarın yağmur bekliyor."
+    },
+    {
+      "word_en": "present",
+      "example_en": "She will present her findings at the conference.",
+      "word_tr": "sunmak",
+      "example_tr": "Buluşlarını konferansta sunacak."
+    },
+    {
+      "word_en": "prevent",
+      "example_en": "You should prevent accidents by driving carefully.",
+      "word_tr": "önlemek",
+      "example_tr": "Dikkatli araba kullanarak kazaları önlemelisiniz."
+    },
+    {
+      "word_en": "print",
+      "example_en": "Please print this document for me.",
+      "word_tr": "yazdırmak",
+      "example_tr": "Lütfen bu belgeyi benim için yazdırın."
+    },
+    {
+      "word_en": "promise",
+      "example_en": "He will promise to come on time.",
+      "word_tr": "söz vermek",
+      "example_tr": "Zamanında gelmeyi söz verecek."
+    },
+    {
+      "word_en": "race",
+      "example_en": "They will race against each other.",
+      "word_tr": "yarışmak",
+      "example_tr": "Birbirleriyle yarışacaklar."
+    },
+    {
+      "word_en": "shut",
+      "example_en": "Please shut the door behind you.",
+      "word_tr": "kapatmak",
+      "example_tr": "Lütfen arkanda kapıyı kapat."
+    },
+    {
+      "word_en": "guide",
+      "example_en": "He will guide them through the forest.",
+      "word_tr": "rehberlik etmek",
+      "example_tr": "Onları ormanın içinden rehberlik edecek."
+    },
+    {
+      "word_en": "kill",
+      "example_en": "The lion will kill its prey.",
+      "word_tr": "öldürmek",
+      "example_tr": "Aslan avını öldürecek."
+    },
+    {
+      "word_en": "set",
+      "example_en": "She will set the table for dinner.",
+      "word_tr": "ayarlamak",
+      "example_tr": "Akşam yemeği için masayı kuracak."
+    },
+    {
+      "word_en": "park",
+      "example_en": "Please park your car in the designated area.",
+      "word_tr": "park etmek",
+      "example_tr": "Lütfen arabanızı belirlenen alana park edin."
+    },
+    {
+      "word_en": "hold",
+      "example_en": "Please hold the door open for me.",
+      "word_tr": "tutmak",
+      "example_tr": "Lütfen kapıyı benim için açık tutun."
+    },
+    {
+      "word_en": "identify",
+      "example_en": "She will identify the suspect in the lineup.",
+      "word_tr": "belirlemek",
+      "example_tr": "Şüpheliyi kadroda belirleyecek."
+    },
+    {
+      "word_en": "involve",
+      "example_en": "The project will involve many different teams.",
+      "word_tr": "dahil etmek",
+      "example_tr": "Proje birçok farklı ekibi içerecek."
+    },
+    {
+      "word_en": "joke",
+      "example_en": "He will joke to lighten the mood.",
+      "word_tr": "şaka yapmak",
+      "example_tr": "Havayı hafifletmek için şaka yapacak."
+    },
+    {
+      "word_en": "knock",
+      "example_en": "Please knock before entering.",
+      "word_tr": "vurmak",
+      "example_tr": "Girmeden önce lütfen vurun."
+    },
+    {
+      "word_en": "lead",
+      "example_en": "She will lead the team to victory.",
+      "word_tr": "yönetmek",
+      "example_tr": "Takımı zaferle yönetecek."
+    },
+    {
+      "word_en": "lift",
+      "example_en": "He will lift the heavy box.",
+      "word_tr": "kaldırmak",
+      "example_tr": "Ağır kutuyu kaldıracak."
+    },
+    {
+      "word_en": "light",
+      "example_en": "She will light the candles for the dinner.",
+      "word_tr": "ışık tutmak",
+      "example_tr": "Akşam yemeği için mumları yakacak."
+    },
+    {
+      "word_en": "link",
+      "example_en": "The article will link to relevant sources.",
+      "word_tr": "bağlantı kurmak",
+      "example_tr": "Makale ilgili kaynaklara bağlantı kuracak."
+    },
+    {
+      "word_en": "lock",
+      "example_en": "Please lock the door when you leave.",
+      "word_tr": "kilitlemek",
+      "example_tr": "Ayrılırken lütfen kapıyı kilitleyin."
+    },
+    {
+      "word_en": "mark",
+      "example_en": "He will mark the important points in the document.",
+      "word_tr": "işaretlemek",
+      "example_tr": "Belgedeki önemli noktaları işaretleyecek."
+    },
+    {
+      "word_en": "matter",
+      "example_en": "Your opinion does matter to us.",
+      "word_tr": "önemli olmak",
+      "example_tr": "Görüşünüz bizim için önemlidir."
+    },
+    {
+      "word_en": "mention",
+      "example_en": "Please mention your preferences when ordering.",
+      "word_tr": "bahsetmek",
+      "example_tr": "Sipariş verirken tercihlerinizi bahsedin."
+    }
+  ]
+}
