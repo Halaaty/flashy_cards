@@ -1,1 +1,161 @@
+{
+  "words": [
+    {
+      "word_en": "linguistics",
+      "example_en": "She studied linguistics in college and now works as a language teacher.",
+      "word_tr": "dilbilim",
+      "example_tr": "Üniversitede dilbilim okudu ve şimdi dil öğretmeni olarak çalışıyor."
+    },
+    {
+      "word_en": "logic",
+      "example_en": "His argument was based on sound logic.",
+      "word_tr": "mantık",
+      "example_tr": "Argümanı sağlam bir mantığa dayanıyordu."
+    },
+    {
+      "word_en": "management",
+      "example_en": "She has a degree in management and works as a manager at a large corporation.",
+      "word_tr": "yönetim",
+      "example_tr": "Yönetim alanında bir dereceye sahip ve büyük bir şirkette yönetici olarak çalışıyor."
+    },
+    {
+      "word_en": "marketing",
+      "example_en": "The company hired a marketing agency to promote their new product.",
+      "word_tr": "pazarlama",
+      "example_tr": "Şirket, yeni ürünlerini tanıtmak için bir pazarlama ajansı kiraladı."
+    },
+    {
+      "word_en": "medicine",
+      "example_en": "He studied medicine and became a doctor.",
+      "word_tr": "tıp",
+      "example_tr": "Tıp okudu ve doktor oldu."
+    },
+    {
+      "word_en": "nutrition",
+      "example_en": "She has a keen interest in nutrition and healthy eating.",
+      "word_tr": "beslenme",
+      "example_tr": "Beslenme ve sağlıklı beslenme konusunda büyük bir ilgisi var."
+    },
+    {
+      "word_en": "philosophy",
+      "example_en": "Studying philosophy helps one develop critical thinking skills.",
+      "word_tr": "felsefe",
+      "example_tr": "Felsefe okumak, eleştirel düşünme becerilerini geliştirmeye yardımcı olur."
+    },
+    {
+      "word_en": "physiology",
+      "example_en": "Physiology explores how the body's systems work.",
+      "word_tr": "fizyoloji",
+      "example_tr": "Fizyoloji, vücudun sistemlerinin nasıl çalıştığını araştırır."
+    },
+    {
+      "word_en": "political science",
+      "example_en": "She majored in political science and now works for a government agency.",
+      "word_tr": "siyaset bilimi",
+      "example_tr": "Siyaset bilimi ana dalı yapmış ve şimdi bir devlet kurumunda çalışıyor."
+    },
+    {
+      "word_en": "psychiatry",
+      "example_en": "He specializes in psychiatry and treats patients with mental health disorders.",
+      "word_tr": "psikiyatri",
+      "example_tr": "Psikiyatri alanında uzmanlaştı ve ruh sağlığı bozuklukları olan hastalara tedavi uygular."
+    },
+    {
+      "word_en": "psychology",
+      "example_en": "She has always been fascinated by the human mind and pursued a degree in psychology.",
+      "word_tr": "psikoloji",
+      "example_tr": "İnsan zihnine her zaman ilgi duymuş ve psikoloji alanında bir derece takip etmiştir."
+    },
+    {
+      "word_en": "robotics",
+      "example_en": "The university offers courses in robotics engineering.",
+      "word_tr": "robotik",
+      "example_tr": "Üniversite robotik mühendisliği dersleri sunuyor."
+    },
+    {
+      "word_en": "sociology",
+      "example_en": "He conducted research in sociology to understand social dynamics.",
+      "word_tr": "sosyoloji",
+      "example_tr": "Sosyal dinamikleri anlamak için sosyoloji alanında araştırma yaptı."
+    },
+    {
+      "word_en": "statistics",
+      "example_en": "Statistics play a crucial role in analyzing data.",
+      "word_tr": "istatistik",
+      "example_tr": "İstatistikler, verileri analiz etmede hayati bir rol oynar."
+    },
+    {
+      "word_en": "accounting",
+      "example_en": "She works in accounting and manages the company's financial records.",
+      "word_tr": "muhasebe",
+      "example_tr": "Muhasebede çalışıyor ve şirketin mali kayıtlarını yönetiyor."
+    },
+    {
+      "word_en": "art history",
+      "example_en": "Studying art history helps one understand the cultural context of artworks.",
+      "word_tr": "sanat tarihi",
+      "example_tr": "Sanat tarihini incelemek, sanat eserlerinin kültürel bağlamını anlamayı sağlar."
+    },
+    {
+      "word_en": "communication",
+      "example_en": "Good communication skills are essential in the workplace.",
+      "word_tr": "iletişim",
+      "example_tr": "İyi iletişim becerileri iş yerinde önemlidir."
+    },
+    {
+      "word_en": "computer science",
+      "example_en": "Computer science involves the study of algorithms and data structures.",
+      "word_tr": "bilgisayar bilimi",
+      "example_tr": "Bilgisayar bilimi, algoritmaların ve veri yapılarının incelenmesini içerir."
+    },
+    {
+      "word_en": "cultural studies",
+      "example_en": "Cultural studies explore various aspects of society and culture.",
+      "word_tr": "kültürel çalışmalar",
+      "example_tr": "Kültürel çalışmalar, toplum ve kültürün çeşitli yönlerini araştırır."
+    },
+    {
+      "word_en": "dentistry",
+      "example_en": "She specializes in dentistry and runs her own dental clinic.",
+      "word_tr": "diş hekimliği",
+      "example_tr": "Diş hekimliği alanında uzmanlaştı ve kendi diş kliniğini işletiyor."
+    },
+    {
+      "word_en": "economics",
+      "example_en": "He has a degree in economics and works as an economist for a bank.",
+      "word_tr": "ekonomi",
+      "example_tr": "Ekonomi alanında bir dereceye sahip ve bir bankada ekonomist olarak çalışıyor."
+    },
+    {
+      "word_en": "engineering",
+      "example_en": "Engineering involves the application of scientific principles to design and build structures.",
+      "word_tr": "mühendislik",
+      "example_tr": "Mühendislik, bilimsel prensiplerin yapı tasarımı ve inşası için uygulanmasını içerir."
+    },
+    {
+      "word_en": "finance",
+      "example_en": "She works in finance and analyzes investment opportunities.",
+      "word_tr": "finans",
+      "example_tr": "Finansta çalışıyor ve yatırım fırsatlarını analiz ediyor."
+    },
+    {
+      "word_en": "geology",
+      "example_en": "Geology explores the Earth's structure and history.",
+      "word_tr": "jeoloji",
+      "example_tr": "Jeoloji, Dünya'nın yapısını ve tarihini inceler."
+    },
+    {
+      "word_en": "information technology",
+      "example_en": "Information technology plays a crucial role in modern society.",
+      "word_tr": "bilgi teknolojisi",
+      "example_tr": "Bilgi teknolojisi, modern toplumda hayati bir rol oynar."
+    },
+    {
+      "word_en": "law",
+      "example_en": "She studied law and now works as a lawyer.",
+      "word_tr": "hukuk",
+      "example_tr": "Hukuk okudu ve şimdi avukat olarak çalışıyor."
+    }
+  ]
+}
 
