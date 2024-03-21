@@ -1,1 +1,221 @@
+{
+  "words": [
+    {
+      "word_en": "drunk",
+      "example_en": "He got drunk at the party last night.",
+      "word_tr": "sarhoş",
+      "example_tr": "Dün gece partide sarhoş oldu."
+    },
+    {
+      "word_en": "eastern",
+      "example_en": "They traveled to explore the eastern region of the country.",
+      "word_tr": "doğu",
+      "example_tr": "Ülkenin doğu bölgesini keşfetmek için seyahat ettiler."
+    },
+    {
+      "word_en": "embarrassing",
+      "example_en": "She felt embarrassed after tripping and falling in public.",
+      "word_tr": "utanç verici",
+      "example_tr": "Kamusal alanda tökezleyip düşünce utanç verici hissetti."
+    },
+    {
+      "word_en": "equal",
+      "example_en": "All citizens should be treated as equals.",
+      "word_tr": "eşit",
+      "example_tr": "Tüm vatandaşlar eşit şekilde muamele görmelidir."
+    },
+    {
+      "word_en": "huge",
+      "example_en": "They bought a huge house in the countryside.",
+      "word_tr": "büyük",
+      "example_tr": "Kırsal alanda büyük bir ev satın aldılar."
+    },
+    {
+      "word_en": "essential",
+      "example_en": "Water is essential for life.",
+      "word_tr": "önemli",
+      "example_tr": "Su yaşam için önemlidir."
+    },
+    {
+      "word_en": "familiar",
+      "example_en": "She found the neighborhood familiar from her childhood.",
+      "word_tr": "tanıdık",
+      "example_tr": "Mahallenin çocukluğundan tanıdık geldiğini fark etti."
+    },
+    {
+      "word_en": "fixed",
+      "example_en": "He fixed the broken chair with glue.",
+      "word_tr": "sabit",
+      "example_tr": "Kırık sandalyeyi yapıştırıcı ile tamir etti."
+    },
+    {
+      "word_en": "global",
+      "example_en": "The company has a global presence with offices in many countries.",
+      "word_tr": "küresel",
+      "example_tr": "Şirket, birçok ülkede ofislere sahip küresel bir varlığa sahiptir."
+    },
+    {
+      "word_en": "historical",
+      "example_en": "They visited historical landmarks during their trip.",
+      "word_tr": "tarihi",
+      "example_tr": "Seyahatleri sırasında tarihi yerleri ziyaret ettiler."
+    },
+    {
+      "word_en": "imaginary",
+      "example_en": "She had an imaginary friend when she was young.",
+      "word_tr": "hayali",
+      "example_tr": "Küçükken hayali bir arkadaşı vardı."
+    },
+    {
+      "word_en": "indoor",
+      "example_en": "They decided to have an indoor picnic due to bad weather.",
+      "word_tr": "kapalı",
+      "example_tr": "Kötü hava koşulları nedeniyle kapalı bir piknik yapmaya karar verdiler."
+    },
+    {
+      "word_en": "injured",
+      "example_en": "He was injured in a car accident.",
+      "word_tr": "yaralı",
+      "example_tr": "Trafik kazasında yaralandı."
+    },
+    {
+      "word_en": "innocent",
+      "example_en": "She believed he was innocent until proven guilty.",
+      "word_tr": "masum",
+      "example_tr": "Suçlu bulunana kadar masum olduğuna inanıyordu."
+    },
+    {
+      "word_en": "legal",
+      "example_en": "They sought legal advice before signing the contract.",
+      "word_tr": "yasal",
+      "example_tr": "Sözleşmeyi imzalamadan önce yasal danışmanlık aradılar."
+    },
+    {
+      "word_en": "magic",
+      "example_en": "She performed a magic trick that amazed the audience.",
+      "word_tr": "büyü",
+      "example_tr": "İzleyicileri şaşırtan bir sihir numarası gerçekleştirdi."
+    },
+    {
+      "word_en": "native",
+      "example_en": "He is a native of Australia.",
+      "word_tr": "yerli",
+      "example_tr": "O Avustralya yerlisidir."
+    },
+    {
+      "word_en": "northern",
+      "example_en": "They traveled to see the northern lights.",
+      "word_tr": "kuzey",
+      "example_tr": "Kuzey ışıklarını görmek için seyahat ettiler."
+    },
+    {
+      "word_en": "traditional",
+      "example_en": "They celebrated the holiday with traditional food and customs.",
+      "word_tr": "geleneksel",
+      "example_tr": "Tatili geleneksel yiyecek ve geleneklerle kutladılar."
+    },
+    {
+      "word_en": "ancient",
+      "example_en": "They visited the ruins of an ancient civilization.",
+      "word_tr": "antik",
+      "example_tr": "Bir antik medeniyetin kalıntılarını ziyaret ettiler."
+    },
+    {
+      "word_en": "secret",
+      "example_en": "She shared her secret with her best friend.",
+      "word_tr": "gizli",
+      "example_tr": "Sırrını en iyi arkadaşıyla paylaştı."
+    },
+    {
+      "word_en": "big",
+      "example_en": "They saw a big elephant at the zoo.",
+      "word_tr": "büyük",
+      "example_tr": "Hayvanat bahçesinde büyük bir fil gördüler."
+    },
+    {
+      "word_en": "hidden",
+      "example_en": "There was a hidden passage behind the bookshelf.",
+      "word_tr": "gizli",
+      "example_tr": "Kitaplığın arkasında gizli bir geçit vardı."
+    },
+    {
+      "word_en": "annoyed",
+      "example_en": "She was annoyed by the constant noise outside her window.",
+      "word_tr": "sinirli",
+      "example_tr": "Penceresinin dışındaki sürekli gürültüden sinirlendi."
+    },
+    {
+      "word_en": "automatic",
+      "example_en": "The doors opened automatically as they approached.",
+      "word_tr": "otomatik",
+      "example_tr": "Yaklaştıkça kapılar otomatik olarak açıldı."
+    },
+    {
+      "word_en": "aware",
+      "example_en": "She became aware of the importance of exercise for health.",
+      "word_tr": "farkında",
+      "example_tr": "Sağlık için egzersizin öneminin farkına vardı."
+    },
+    {
+      "word_en": "human",
+      "example_en": "We are all human and make mistakes.",
+      "word_tr": "insan",
+      "example_tr": "Hepimiz insanız ve hata yaparız."
+    },
+    {
+      "word_en": "basic",
+      "example_en": "She taught him the basic rules of chess.",
+      "word_tr": "temel",
+      "example_tr": "Ona satrançın temel kurallarını öğretti."
+    },
+    {
+      "word_en": "central",
+      "example_en": "The city's central location makes it convenient for commuters.",
+      "word_tr": "merkezi",
+      "example_tr": "Şehrin merkezi konumu, işe gidenler için uygun bir yer yapar."
+    },
+    {
+      "word_en": "complex",
+      "example_en": "The problem was too complex to solve quickly.",
+      "word_tr": "karmaşık",
+      "example_tr": "Sorun hızlıca çözülmek için çok karmaşıktı."
+    },
+    {
+      "word_en": "confused",
+      "example_en": "He felt confused by the sudden change in plans.",
+      "word_tr": "kafası karışmış",
+      "example_tr": "Planlardaki ani değişiklikten dolayı kafası karışmış hissetti."
+    },
+    {
+      "word_en": "convenient",
+      "example_en": "The new location is convenient for both employees and customers.",
+      "word_tr": "uygun",
+      "example_tr": "Yeni konum hem çalışanlar hem de müşteriler için uygun."
+    },
+    {
+      "word_en": "criminal",
+      "example_en": "The police arrested the criminal for robbery.",
+      "word_tr": "suçlu",
+      "example_tr": "Polis, hırsızlık suçundan dolayı suçluyu tutukladı."
+    },
+    {
+      "word_en": "cultural",
+      "example_en": "They experienced the cultural traditions of the local people.",
+      "word_tr": "kültürel",
+      "example_tr": "Yerel halkın kültürel geleneklerini deneyimlediler."
+    },
+    {
+      "word_en": "current",
+      "example_en": "The current situation requires immediate action.",
+      "word_tr": "güncel",
+      "example_tr": "Mevcut durum anında hareket gerektiriyor."
+    },
+    {
+      "word_en": "disappointed",
+      "example_en": "She was disappointed by the outcome of the competition.",
+      "word_tr": "hayal kırıklığına uğramış",
+      "example_tr": "Yarışmanın sonucundan hayal kırıklığına uğradı."
+    }
+  ]
+}
 
