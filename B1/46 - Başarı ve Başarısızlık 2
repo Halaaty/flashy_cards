@@ -1,1 +1,161 @@
+{
+  "words": [
+    {
+      "word_en": "promote",
+      "example_en": "The company plans to promote the new product through social media advertising.",
+      "word_tr": "tanıtmak",
+      "example_tr": "Şirket, yeni ürünü sosyal medya reklamları aracılığıyla tanıtmayı planlıyor."
+    },
+    {
+      "word_en": "respect",
+      "example_en": "Respect for others' opinions is important in a civilized society.",
+      "word_tr": "saygı",
+      "example_tr": "Medeni bir toplumda diğerlerinin görüşlerine saygı önemlidir."
+    },
+    {
+      "word_en": "secret",
+      "example_en": "She shared her deepest secret with her best friend.",
+      "word_tr": "sır",
+      "example_tr": "En derin sırrını en iyi arkadaşıyla paylaştı."
+    },
+    {
+      "word_en": "support",
+      "example_en": "Family support is crucial during difficult times.",
+      "word_tr": "destek",
+      "example_tr": "Zor zamanlarda aile desteği hayati öneme sahiptir."
+    },
+    {
+      "word_en": "work on",
+      "example_en": "He needs to work on his presentation skills.",
+      "word_tr": "üzerinde çalışmak",
+      "example_tr": "Sunum becerileri üzerinde çalışması gerekiyor."
+    },
+    {
+      "word_en": "dream",
+      "example_en": "She has a dream of traveling the world.",
+      "word_tr": "hayal",
+      "example_tr": "Dünya seyahati yapma hayali var."
+    },
+    {
+      "word_en": "hopeful",
+      "example_en": "Despite the challenges, she remained hopeful about the future.",
+      "word_tr": "umutlu",
+      "example_tr": "Zorluklara rağmen, gelecek konusunda umutlu kaldı."
+    },
+    {
+      "word_en": "progress",
+      "example_en": "The project is making good progress.",
+      "word_tr": "ilerleme",
+      "example_tr": "Proje iyi bir ilerleme kaydediyor."
+    },
+    {
+      "word_en": "intend",
+      "example_en": "She intends to start her own business next year.",
+      "word_tr": "niyet etmek",
+      "example_tr": "Gelecek yıl kendi işini kurmayı niyet ediyor."
+    },
+    {
+      "word_en": "go",
+      "example_en": "Let's go to the park tomorrow.",
+      "word_tr": "gitmek",
+      "example_tr": "Yarın parka gidelim."
+    },
+    {
+      "word_en": "fight",
+      "example_en": "She fought for equal rights for all people.",
+      "word_tr": "savaşmak",
+      "example_tr": "Tüm insanlar için eşit haklar için savaştı."
+    },
+    {
+      "word_en": "fortunately",
+      "example_en": "Fortunately, no one was injured in the accident.",
+      "word_tr": "neyse ki",
+      "example_tr": "Neyse ki, kazada kimse yaralanmadı."
+    },
+    {
+      "word_en": "unfortunately",
+      "example_en": "Unfortunately, the event had to be canceled due to bad weather.",
+      "word_tr": "ne yazık ki",
+      "example_tr": "Ne yazık ki, etkinlik kötü hava nedeniyle iptal edilmek zorunda kaldı."
+    },
+    {
+      "word_en": "successfully",
+      "example_en": "She completed the project successfully and received praise from her supervisor.",
+      "word_tr": "başarıyla",
+      "example_tr": "Projeyi başarıyla tamamladı ve gözetmeninden övgü aldı."
+    },
+    {
+      "word_en": "result",
+      "example_en": "The result of the experiment was unexpected.",
+      "word_tr": "sonuç",
+      "example_tr": "Deneyin sonucu beklenmedikti."
+    },
+    {
+      "word_en": "secure",
+      "example_en": "He worked hard to secure a promotion at his job.",
+      "word_tr": "güvenceye almak",
+      "example_tr": "İşinde terfi almak için çok çalıştı."
+    },
+    {
+      "word_en": "wish",
+      "example_en": "She made a wish upon a shooting star.",
+      "word_tr": "dilek",
+      "example_tr": "Bir yıldız kayarken bir dilek tuttu."
+    },
+    {
+      "word_en": "achievement",
+      "example_en": "Winning the championship was a great achievement for the team.",
+      "word_tr": "başarı",
+      "example_tr": "Şampiyonluğu kazanmak takım için büyük bir başarıydı."
+    },
+    {
+      "word_en": "aim",
+      "example_en": "Her aim is to become a successful entrepreneur.",
+      "word_tr": "amaç",
+      "example_tr": "Amacı, başarılı bir girişimci olmaktır."
+    },
+    {
+      "word_en": "ambition",
+      "example_en": "His ambition is to become a world-renowned scientist.",
+      "word_tr": "hırs",
+      "example_tr": "Hırsı, dünya çapında tanınmış bir bilim insanı olmaktır."
+    },
+    {
+      "word_en": "bright",
+      "example_en": "The future looks bright for the company.",
+      "word_tr": "parlak",
+      "example_tr": "Şirket için gelecek parlak görünüyor."
+    },
+    {
+      "word_en": "effective",
+      "example_en": "The new marketing strategy proved to be very effective.",
+      "word_tr": "etkili",
+      "example_tr": "Yeni pazarlama stratejisi çok etkili olduğunu kanıtladı."
+    },
+    {
+      "word_en": "effort",
+      "example_en": "She put a lot of effort into preparing for the exam.",
+      "word_tr": "çaba",
+      "example_tr": "Sınav için hazırlık yapmaya çok çaba harcadı."
+    },
+    {
+      "word_en": "manage",
+      "example_en": "He has to manage his time effectively to balance work and family.",
+      "word_tr": "yönetmek",
+      "example_tr": "İş ve aile hayatını dengelemek için zamanını etkili bir şekilde yönetmesi gerekiyor."
+    },
+    {
+      "word_en": "positive",
+      "example_en": "She has a positive outlook on life.",
+      "word_tr": "olumlu",
+      "example_tr": "Hayata olumlu bakış açısıyla yaklaşıyor."
+    },
+    {
+      "word_en": "negative",
+      "example_en": "He tries to avoid negative thinking.",
+      "word_tr": "olumsuz",
+      "example_tr": "Olumsuz düşünmekten kaçınmaya çalışıyor."
+    }
+  ]
+}
 
