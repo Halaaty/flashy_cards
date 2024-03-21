@@ -1,1 +1,155 @@
+{
+  "words": [
+    {
+      "word_en": "fake",
+      "example_en": "The painting turned out to be a fake.",
+      "word_tr": "sahte",
+      "example_tr": "Tablo sahte olduğu ortaya çıktı."
+    },
+    {
+      "word_en": "finger-painting",
+      "example_en": "Children enjoy finger-painting as a fun activity.",
+      "word_tr": "parmak boyama",
+      "example_tr": "Çocuklar, eğlenceli bir aktivite olarak parmak boyamayı severler."
+    },
+    {
+      "word_en": "frame",
+      "example_en": "They selected an ornate frame for the artwork.",
+      "word_tr": "çerçeve",
+      "example_tr": "Sanat eseri için süslü bir çerçeve seçtiler."
+    },
+    {
+      "word_en": "graffiti",
+      "example_en": "The city streets were filled with colorful graffiti.",
+      "word_tr": "duvar resmi",
+      "example_tr": "Şehir sokakları renkli duvar resimleriyle doluydu."
+    },
+    {
+      "word_en": "illustrate",
+      "example_en": "The book is beautifully illustrated with vibrant images.",
+      "word_tr": "resimlemek",
+      "example_tr": "Kitap, canlı görüntülerle güzel bir şekilde resimlenmiştir."
+    },
+    {
+      "word_en": "illustration",
+      "example_en": "The magazine features stunning illustrations.",
+      "word_tr": "illüstrasyon",
+      "example_tr": "Dergi, etkileyici illüstrasyonlar içeriyor."
+    },
+    {
+      "word_en": "paint",
+      "example_en": "She likes to paint landscapes in her free time.",
+      "word_tr": "boya",
+      "example_tr": "Boş zamanlarında manzara resimleri yapmayı sever."
+    },
+    {
+      "word_en": "portrait",
+      "example_en": "The artist painted a portrait of the famous actor.",
+      "word_tr": "portre",
+      "example_tr": "Sanatçı, ünlü aktörün bir portresini çizdi."
+    },
+    {
+      "word_en": "statue",
+      "example_en": "The park is adorned with several statues.",
+      "word_tr": "heykel",
+      "example_tr": "Park birkaç heykelle süslenmiş."
+    },
+    {
+      "word_en": "studio",
+      "example_en": "She set up a small studio in her garage.",
+      "word_tr": "atölye",
+      "example_tr": "Garajında küçük bir atölye kurdu."
+    },
+    {
+      "word_en": "symbol",
+      "example_en": "The dove is often used as a symbol of peace.",
+      "word_tr": "sembol",
+      "example_tr": "Güvercin genellikle barışın sembolü olarak kullanılır."
+    },
+    {
+      "word_en": "master",
+      "example_en": "He studied under a master painter for many years.",
+      "word_tr": "usta",
+      "example_tr": "Uzun yıllar boyunca bir usta ressamın yanında çalıştı."
+    },
+    {
+      "word_en": "style",
+      "example_en": "Her artwork is characterized by a unique style.",
+      "word_tr": "tarz",
+      "example_tr": "Sanat eserleri benzersiz bir tarzla karakterize edilir."
+    },
+    {
+      "word_en": "collage",
+      "example_en": "She created a collage using magazine clippings.",
+      "word_tr": "kolaaj",
+      "example_tr": "Dergi kupürleri kullanarak bir kolaaj oluşturdu."
+    },
+    {
+      "word_en": "visual arts",
+      "example_en": "The school offers classes in visual arts.",
+      "word_tr": "görsel sanatlar",
+      "example_tr": "Okul, görsel sanatlar dersleri sunuyor."
+    },
+    {
+      "word_en": "artwork",
+      "example_en": "Her artwork is displayed in galleries around the world.",
+      "word_tr": "sanat eseri",
+      "example_tr": "Onun sanat eserleri dünya genelinde galerilerde sergilenmektedir."
+    },
+    {
+      "word_en": "art form",
+      "example_en": "Poetry is a traditional art form.",
+      "word_tr": "sanat biçimi",
+      "example_tr": "Şiir geleneksel bir sanat biçimidir."
+    },
+    {
+      "word_en": "architecture",
+      "example_en": "The city is known for its stunning architecture.",
+      "word_tr": "mimarlık",
+      "example_tr": "Şehir, etkileyici mimarisiyle tanınır."
+    },
+    {
+      "word_en": "sculpture",
+      "example_en": "The park features several modern sculptures.",
+      "word_tr": "heykel",
+      "example_tr": "Parkta birkaç modern heykel bulunmaktadır."
+    },
+    {
+      "word_en": "graphic arts",
+      "example_en": "She specializes in graphic arts, particularly digital illustration.",
+      "word_tr": "grafik sanatlar",
+      "example_tr": "Özellikle dijital illüstrasyon alanında grafik sanatlarda uzmanlaşmıştır."
+    },
+    {
+      "word_en": "the performing arts",
+      "example_en": "The performing arts include theater, dance, and music.",
+      "word_tr": "sahne sanatları",
+      "example_tr": "Sahne sanatları tiyatro, dans ve müziği içerir."
+    },
+    {
+      "word_en": "decorate",
+      "example_en": "She likes to decorate her room with colorful artwork.",
+      "word_tr": "süslemek",
+      "example_tr": "Odasını renkli sanat eserleri ile süslemekten hoşlanır."
+    },
+    {
+      "word_en": "design",
+      "example_en": "He studied design at university and now works as an interior designer.",
+      "word_tr": "tasarım",
+      "example_tr": "Üniversitede tasarım okudu ve şimdi iç mekan tasarımcısı olarak çalışıyor."
+    },
+    {
+      "word_en": "sketch",
+      "example_en": "She made a quick sketch of the landscape before painting it.",
+      "word_tr": "eskiz",
+      "example_tr": "Manzarayı boyamadan önce hızlı bir eskiz yaptı."
+    },
+    {
+      "word_en": "exhibition",
+      "example_en": "The artist's work is on display at the museum exhibition.",
+      "word_tr": "sergi",
+      "example_tr": "Sanatçının eserleri müze sergisinde sergilenmektedir."
+    }
+  ]
+}
 
