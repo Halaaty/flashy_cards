@@ -1,1 +1,167 @@
+{
+  "words": [
+    {
+      "word_en": "wise",
+      "example_en": "He is a wise old man, always offering sage advice.",
+      "word_tr": "bilge",
+      "example_tr": "O, her zaman bilge tavsiyeler sunan bilge bir ihtiyardır."
+    },
+    {
+      "word_en": "slow",
+      "example_en": "The turtle moved at a slow pace across the sand.",
+      "word_tr": "yavaş",
+      "example_tr": "Kaplumbağa kumun üstünde yavaş bir hızda ilerledi."
+    },
+    {
+      "word_en": "trick",
+      "example_en": "She used a clever trick to solve the puzzle.",
+      "word_tr": "hile",
+      "example_tr": "O, bulmacayı çözmek için akıllıca bir hile kullandı."
+    },
+    {
+      "word_en": "weak",
+      "example_en": "The bridge collapsed because it was built on weak foundations.",
+      "word_tr": "zayıf",
+      "example_tr": "Köprü, zayıf temeller üzerine inşa edildiği için çöktü."
+    },
+    {
+      "word_en": "mean",
+      "example_en": "It's not nice to say mean things to others.",
+      "word_tr": "kötü",
+      "example_tr": "Diğerlerine kötü şeyler söylemek hoş değil."
+    },
+    {
+      "word_en": "childish",
+      "example_en": "His childish behavior often annoyed his classmates.",
+      "word_tr": "çocuksu",
+      "example_tr": "Onun çocuksu davranışları sık sık sınıf arkadaşlarını sinirlendirirdi."
+    },
+    {
+      "word_en": "loyal",
+      "example_en": "She remained loyal to her friends even in difficult times.",
+      "word_tr": "sadık",
+      "example_tr": "Zor zamanlarda bile arkadaşlarına sadık kaldı."
+    },
+    {
+      "word_en": "open",
+      "example_en": "The door swung open, revealing a bright room inside.",
+      "word_tr": "açık",
+      "example_tr": "Kapı açıldı ve içeride parlak bir oda ortaya çıktı."
+    },
+    {
+      "word_en": "evil",
+      "example_en": "The villain's evil plan was finally foiled by the hero.",
+      "word_tr": "kötü",
+      "example_tr": "Kötü planı nihayet kahraman tarafından engellendi."
+    },
+    {
+      "word_en": "responsible",
+      "example_en": "As the team leader, he felt responsible for the project's success.",
+      "word_tr": "sorumlu",
+      "example_tr": "Takım lideri olarak, proje başarısı için sorumlu hissetti."
+    },
+    {
+      "word_en": "mysterious",
+      "example_en": "The old mansion had a mysterious aura surrounding it.",
+      "word_tr": "gizemli",
+      "example_tr": "Eski malikanenin etrafında gizemli bir hava vardı."
+    },
+    {
+      "word_en": "determined",
+      "example_en": "Despite facing many obstacles, she was determined to succeed.",
+      "word_tr": "kararlı",
+      "example_tr": "Birçok engelle karşılaşmasına rağmen, başarılı olmaya kararlıydı."
+    },
+    {
+      "word_en": "concern",
+      "example_en": "Her main concern was the well-being of her family.",
+      "word_tr": "endişe",
+      "example_tr": "Ana endişesi ailesinin refahıydı."
+    },
+    {
+      "word_en": "appreciate",
+      "example_en": "I appreciate all the help you've given me.",
+      "word_tr": "takdir etmek",
+      "example_tr": "Bana verdiğiniz tüm yardımları takdir ediyorum."
+    },
+    {
+      "word_en": "horrible",
+      "example_en": "The movie was so horrible that I couldn't finish watching it.",
+      "word_tr": "korkunç",
+      "example_tr": "Film o kadar korkunçtu ki izlemeyi bitiremedim."
+    },
+    {
+      "word_en": "dependent",
+      "example_en": "As a newborn, babies are dependent on their parents for everything.",
+      "word_tr": "bağımlı",
+      "example_tr": "Yeni doğan bebekler her şey için ebeveynlerine bağımlıdır."
+    },
+    {
+      "word_en": "organized",
+      "example_en": "Her desk was so organized that she could find anything in seconds.",
+      "word_tr": "düzenli",
+      "example_tr": "Masası o kadar düzenliydi ki her şeyi saniyeler içinde bulabilirdi."
+    },
+    {
+      "word_en": "outgoing",
+      "example_en": "She's very outgoing, always making new friends wherever she goes.",
+      "word_tr": "dışa dönük",
+      "example_tr": "O, çok dışa dönük, gittiği her yerde daima yeni arkadaşlar ediniyor."
+    },
+    {
+      "word_en": "pretend",
+      "example_en": "Children often pretend to be superheroes when playing games.",
+      "word_tr": "rol yapmak",
+      "example_tr": "Çocuklar genellikle oyun oynarken süper kahraman gibi rol yaparlar."
+    },
+    {
+      "word_en": "quality",
+      "example_en": "The quality of the product was excellent; it lasted for years.",
+      "word_tr": "kalite",
+      "example_tr": "Ürünün kalitesi mükemmeldi; yıllarca dayandı."
+    },
+    {
+      "word_en": "characteristic",
+      "example_en": "One characteristic of a good leader is the ability to listen.",
+      "word_tr": "özellik",
+      "example_tr": "İyi bir liderin özelliklerinden biri dinleme yeteneğidir."
+    },
+    {
+      "word_en": "personal",
+      "example_en": "Your personal space should be respected by others.",
+      "word_tr": "kişisel",
+      "example_tr": "Kişisel alanınız başkaları tarafından saygı gösterilmelidir."
+    },
+    {
+      "word_en": "relaxed",
+      "example_en": "After a long day at work, she likes to unwind in a relaxed atmosphere.",
+      "word_tr": "rahat",
+      "example_tr": "Uzun bir iş gününden sonra, rahat bir ortamda gevşemeyi sever."
+    },
+    {
+      "word_en": "easy",
+      "example_en": "The math problem was so easy that she solved it in seconds.",
+      "word_tr": "kolay",
+      "example_tr": "Matematik problemi o kadar kolaydı ki saniyeler içinde çözdü."
+    },
+    {
+      "word_en": "reliable",
+      "example_en": "He's a reliable friend; you can always count on him.",
+      "word_tr": "güvenilir",
+      "example_tr": "O, güvenilir bir arkadaş; her zaman ona güvenebilirsiniz."
+    },
+    {
+      "word_en": "nature",
+      "example_en": "The nature of his work requires attention to detail.",
+      "word_tr": "doğa",
+      "example_tr": "Çalışmasının doğası detaylara dikkat gerektirir."
+    },
+    {
+      "word_en": "individual",
+      "example_en": "Each individual has their own unique talents.",
+      "word_tr": "birey",
+      "example_tr": "Her bireyin kendi benzersiz yetenekleri vardır."
+    }
+  ]
+}
 
