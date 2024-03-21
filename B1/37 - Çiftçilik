@@ -1,1 +1,137 @@
+{
+  "words": [
+    {
+      "word_en": "pest",
+      "example_en": "Farmers often use pesticides to control pests and protect their crops.",
+      "word_tr": "zararlı böcek",
+      "example_tr": "Çiftçiler genellikle zararlı böcekleri kontrol etmek ve mahsullerini korumak için böcek ilaçları kullanır."
+    },
+    {
+      "word_en": "plow",
+      "example_en": "The farmer used a plow to till the soil before planting the seeds.",
+      "word_tr": "pulluk",
+      "example_tr": "Çiftçi tohumları ekmeye başlamadan önce toprağı sürmek için pulluk kullandı."
+    },
+    {
+      "word_en": "ranch",
+      "example_en": "They own a large cattle ranch in the western part of the state.",
+      "word_tr": "çiftlik",
+      "example_tr": "Eyaletin batı kısmında büyük bir sığır çiftlikleri var."
+    },
+    {
+      "word_en": "scarecrow",
+      "example_en": "The scarecrow stood in the middle of the field, deterring birds from eating the crops.",
+      "word_tr": "korkuluk",
+      "example_tr": "Korkuluk tarlanın ortasında duruyordu, kuşların mahsulleri yemesini engelliyordu."
+    },
+    {
+      "word_en": "seed",
+      "example_en": "Before planting, make sure to choose high-quality seeds for better crop yield.",
+      "word_tr": "tohum",
+      "example_tr": "Ekmeden önce, daha iyi bir mahsul verimi için yüksek kaliteli tohumları seçtiğinizden emin olun."
+    },
+    {
+      "word_en": "shepherd",
+      "example_en": "The shepherd guided the flock of sheep across the meadow.",
+      "word_tr": "çoban",
+      "example_tr": "Çoban sürüyü çayırların üzerinden yönlendirdi."
+    },
+    {
+      "word_en": "sow",
+      "example_en": "In spring, farmers sow seeds in the fields to prepare for the growing season.",
+      "word_tr": "ekmek",
+      "example_tr": "İlkbaharda çiftçiler, büyüme mevsimine hazırlık olarak tarlalara tohum ekerler."
+    },
+    {
+      "word_en": "stable",
+      "example_en": "The horses were kept in the stable overnight.",
+      "word_tr": "ahır",
+      "example_tr": "Atlara gece boyunca ahırda tutuldu."
+    },
+    {
+      "word_en": "tractor",
+      "example_en": "The farmer used a tractor to plow the fields efficiently.",
+      "word_tr": "traktör",
+      "example_tr": "Çiftçi tarlaları verimli bir şekilde sürmek için traktör kullandı."
+    },
+    {
+      "word_en": "vineyard",
+      "example_en": "They own a small vineyard where they grow grapes for wine production.",
+      "word_tr": "bağ",
+      "example_tr": "Şarap üretimi için üzüm yetiştirdikleri küçük bir bağları var."
+    },
+    {
+      "word_en": "windmill",
+      "example_en": "The old windmill still generates power for the farmhouse.",
+      "word_tr": "rüzgar değirmeni",
+      "example_tr": "Eski rüzgar değirmeni hala çiftlik evi için enerji üretiyor."
+    },
+    {
+      "word_en": "barn",
+      "example_en": "The farmer stored hay and equipment in the barn.",
+      "word_tr": "ahır",
+      "example_tr": "Çiftçi saman ve ekipmanı ahırda depoladı."
+    },
+    {
+      "word_en": "cattle",
+      "example_en": "The rancher raised cattle for beef production.",
+      "word_tr": "sığır",
+      "example_tr": "Çiftçi, et üretimi için sığır yetiştirdi."
+    },
+    {
+      "word_en": "crop",
+      "example_en": "The farmer's crop of wheat was ready for harvest.",
+      "word_tr": "mahsul",
+      "example_tr": "Çiftçinin buğday mahsulü hasada hazırdı."
+    },
+    {
+      "word_en": "farmhouse",
+      "example_en": "The farmhouse was surrounded by fields of corn and soybeans.",
+      "word_tr": "çiftlik evi",
+      "example_tr": "Çiftlik evi, mısır ve soya fasulyesi tarlalarıyla çevriliydi."
+    },
+    {
+      "word_en": "fish farm",
+      "example_en": "The fish farm produced a variety of seafood for local markets.",
+      "word_tr": "balık çiftliği",
+      "example_tr": "Balık çiftliği, yerel pazarlar için çeşitli deniz ürünleri üretiyordu."
+    },
+    {
+      "word_en": "grain",
+      "example_en": "Grain is a major crop grown in this region.",
+      "word_tr": "tahıl",
+      "example_tr": "Bu bölgede yetiştirilen başlıca mahsul tahıldır."
+    },
+    {
+      "word_en": "greenhouse",
+      "example_en": "The tomatoes were grown in a greenhouse to control temperature and humidity.",
+      "word_tr": "sera",
+      "example_tr": "Domatesler sıcaklık ve nem kontrolü için bir sera içinde yetiştirildi."
+    },
+    {
+      "word_en": "harvest",
+      "example_en": "During the harvest season, farmers work long hours in the fields.",
+      "word_tr": "hasat",
+      "example_tr": "Hasat mevsiminde çiftçiler tarlalarda uzun saatler çalışırlar."
+    },
+    {
+      "word_en": "land",
+      "example_en": "The farmer purchased more land to expand his operations.",
+      "word_tr": "arazi",
+      "example_tr": "Çiftçi, operasyonlarını genişletmek için daha fazla arazi satın aldı."
+    },
+    {
+      "word_en": "milk",
+      "example_en": "The dairy farmer milks the cows twice a day.",
+      "word_tr": "süt",
+      "example_tr": "Süt çiftçisi inekleri günde iki kez sağar."
+    },
+    {
+      "word_en": "organic",
+      "example_en": "They prefer to buy organic produce from local farms.",
+      "word_tr": "organik",
+      "example_tr": "Onlar organik ürünleri yerel çiftliklerden satın almayı tercih ederler."
+    }
+  ]
+}
 
