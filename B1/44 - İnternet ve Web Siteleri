@@ -1,1 +1,125 @@
+{
+  "words": [
+    {
+      "word_en": "account",
+      "example_en": "You need to create an account to access the premium features.",
+      "word_tr": "hesap",
+      "example_tr": "Premium özelliklere erişmek için bir hesap oluşturmanız gerekiyor."
+    },
+    {
+      "word_en": "address bar",
+      "example_en": "You can type the website address in the address bar.",
+      "word_tr": "adres çubuğu",
+      "example_tr": "Web sitesinin adresini adres çubuğuna yazabilirsiniz."
+    },
+    {
+      "word_en": "attach",
+      "example_en": "Please attach the file to your email before sending it.",
+      "word_tr": "eklemek",
+      "example_tr": "Lütfen dosyayı e-postanıza ekleyip sonra gönderin."
+    },
+    {
+      "word_en": "blog",
+      "example_en": "She writes a blog about her travels around the world.",
+      "word_tr": "blog",
+      "example_tr": "Dünya çapındaki seyahatlerini konu alan bir blog yazıyor."
+    },
+    {
+      "word_en": "blogger",
+      "example_en": "The blogger shares fashion tips and trends on her blog.",
+      "word_tr": "blog yazarı",
+      "example_tr": "Blog yazarı, blogunda moda ipuçları ve trendleri paylaşıyor."
+    },
+    {
+      "word_en": "blog post",
+      "example_en": "Her latest blog post received hundreds of comments.",
+      "word_tr": "blog gönderisi",
+      "example_tr": "En son blog gönderisi yüzlerce yorum aldı."
+    },
+    {
+      "word_en": "bookmark",
+      "example_en": "Don't forget to bookmark your favorite websites for easy access.",
+      "word_tr": "yer işareti",
+      "example_tr": "Kolay erişim için favori web sitelerinizi yer imi olarak kaydetmeyi unutmayın."
+    },
+    {
+      "word_en": "browser",
+      "example_en": "He prefers using a browser with built-in privacy features.",
+      "word_tr": "tarayıcı",
+      "example_tr": "Dahili gizlilik özelliklerine sahip bir tarayıcı kullanmayı tercih ediyor."
+    },
+    {
+      "word_en": "chat",
+      "example_en": "They like to chat with their friends online in the evenings.",
+      "word_tr": "sohbet",
+      "example_tr": "Akşamları çevrimiçi olarak arkadaşlarıyla sohbet etmeyi severler."
+    },
+    {
+      "word_en": "chat room",
+      "example_en": "They met in an online chat room dedicated to gardening enthusiasts.",
+      "word_tr": "sohbet odası",
+      "example_tr": "Bahçe meraklılarına adanmış bir çevrimiçi sohbet odasında tanıştılar."
+    },
+    {
+      "word_en": "follow",
+      "example_en": "You can follow your favorite influencers on social media.",
+      "word_tr": "takip etmek",
+      "example_tr": "Sosyal medyada favori etkileyicilerinizi takip edebilirsiniz."
+    },
+    {
+      "word_en": "forward",
+      "example_en": "Please forward the email to the relevant department.",
+      "word_tr": "iletmek",
+      "example_tr": "Lütfen e-postayı ilgili bölüme iletilmesini sağlayın."
+    },
+    {
+      "word_en": "inbox",
+      "example_en": "Her inbox is always full of emails.",
+      "word_tr": "gelen kutusu",
+      "example_tr": "Onun gelen kutusu her zaman e-postalarla doludur."
+    },
+    {
+      "word_en": "log in",
+      "example_en": "You need to log in to access your account.",
+      "word_tr": "oturum açmak",
+      "example_tr": "Hesabınıza erişmek için oturum açmanız gerekiyor."
+    },
+    {
+      "word_en": "offline",
+      "example_en": "You can read articles offline using the app.",
+      "word_tr": "çevrimdışı",
+      "example_tr": "Uygulamayı kullanarak makaleleri çevrimdışı okuyabilirsiniz."
+    },
+    {
+      "word_en": "outbox",
+      "example_en": "The email is still in the outbox waiting to be sent.",
+      "word_tr": "giden kutusu",
+      "example_tr": "E-posta hala gönderilmeyi bekleyen giden kutusunda."
+    },
+    {
+      "word_en": "page",
+      "example_en": "He bookmarked the page so he could find it later.",
+      "word_tr": "sayfa",
+      "example_tr": "Sayfayı daha sonra bulabilmek için yer imi olarak kaydetti."
+    },
+    {
+      "word_en": "server",
+      "example_en": "The website is hosted on a powerful server.",
+      "word_tr": "sunucu",
+      "example_tr": "Web sitesi güçlü bir sunucuda barındırılıyor."
+    },
+    {
+      "word_en": "surf",
+      "example_en": "She likes to surf the internet in her free time.",
+      "word_tr": "sörf yapmak",
+      "example_tr": "Boş zamanlarında internet üzerinde sörf yapmayı sever."
+    },
+    {
+      "word_en": "visit",
+      "example_en": "They plan to visit several websites to gather information.",
+      "word_tr": "ziyaret etmek",
+      "example_tr": "Bilgi toplamak için birkaç web sitesini ziyaret etmeyi planlıyorlar."
+    }
+  ]
+}
 
