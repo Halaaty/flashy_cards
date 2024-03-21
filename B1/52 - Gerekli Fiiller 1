@@ -1,1 +1,221 @@
+{
+  "words": [
+    {
+      "word_en": "compliment",
+      "example_en": "She received a compliment on her new haircut.",
+      "word_tr": "iltifat",
+      "example_tr": "Yeni saç kesimi için bir iltifat aldı."
+    },
+    {
+      "word_en": "concentrate",
+      "example_en": "He needed to concentrate on his studies to pass the exam.",
+      "word_tr": "konsantre olmak",
+      "example_tr": "Sınavı geçmek için çalışmalarına konsantre olması gerekiyordu."
+    },
+    {
+      "word_en": "conclude",
+      "example_en": "They will conclude the meeting with a summary of the decisions.",
+      "word_tr": "sonuçlandırmak",
+      "example_tr": "Toplantıyı kararların özetiyle sonuçlandıracaklar."
+    },
+    {
+      "word_en": "confirm",
+      "example_en": "Please confirm your reservation by replying to this email.",
+      "word_tr": "onaylamak",
+      "example_tr": "Lütfen bu e-postaya yanıtlayarak rezervasyonunuzu onaylayın."
+    },
+    {
+      "word_en": "confuse",
+      "example_en": "The instructions were unclear and confused the students.",
+      "word_tr": "kafasını karıştırmak",
+      "example_tr": "Talimatlar belirsizdi ve öğrencilerin kafasını karıştırdı."
+    },
+    {
+      "word_en": "consist",
+      "example_en": "The salad consists of lettuce, tomatoes, and cucumbers.",
+      "word_tr": "oluşmak",
+      "example_tr": "Salata, marul, domates ve salatalıktan oluşur."
+    },
+    {
+      "word_en": "contact",
+      "example_en": "Please contact us if you have any further questions.",
+      "word_tr": "iletişime geçmek",
+      "example_tr": "Daha fazla sorunuz varsa lütfen bizimle iletişime geçin."
+    },
+    {
+      "word_en": "contrast",
+      "example_en": "The bright colors of the flowers contrasted with the green leaves.",
+      "word_tr": "karşılaştırmak",
+      "example_tr": "Çiçeklerin parlak renkleri yeşil yapraklarla karşılaştırıldı."
+    },
+    {
+      "word_en": "convince",
+      "example_en": "She tried to convince him to change his mind.",
+      "word_tr": "ikna etmek",
+      "example_tr": "Onu fikrini değiştirmeye ikna etmeye çalıştı."
+    },
+    {
+      "word_en": "define",
+      "example_en": "It's important to define the key terms before starting the project.",
+      "word_tr": "tanımlamak",
+      "example_tr": "Projeye başlamadan önce anahtar terimleri tanımlamak önemlidir."
+    },
+    {
+      "word_en": "deliver",
+      "example_en": "The courier will deliver the package tomorrow.",
+      "word_tr": "teslim etmek",
+      "example_tr": "Kurye yarın paketi teslim edecek."
+    },
+    {
+      "word_en": "determine",
+      "example_en": "They will conduct tests to determine the cause of the problem.",
+      "word_tr": "belirlemek",
+      "example_tr": "Sorunun nedenini belirlemek için testler yapacaklar."
+    },
+    {
+      "word_en": "divide",
+      "example_en": "They agreed to divide the tasks evenly among the team members.",
+      "word_tr": "bölmek",
+      "example_tr": "Görevleri ekip üyeleri arasında eşit olarak bölmeye karar verdiler."
+    },
+    {
+      "word_en": "doubt",
+      "example_en": "She expressed doubt about the accuracy of the report.",
+      "word_tr": "şüphe etmek",
+      "example_tr": "Raporun doğruluğu hakkında şüphe ifade etti."
+    },
+    {
+      "word_en": "encourage",
+      "example_en": "Her parents always encourage her to pursue her dreams.",
+      "word_tr": "cesaretlendirmek",
+      "example_tr": "Ebeveynleri her zaman hayallerini gerçekleştirmesi için onu cesaretlendirir."
+    },
+    {
+      "word_en": "belong",
+      "example_en": "The lost wallet belongs to the woman sitting over there.",
+      "word_tr": "ait olmak",
+      "example_tr": "Kayıp cüzdan, orada oturan kadına aittir."
+    },
+    {
+      "word_en": "expand",
+      "example_en": "The company plans to expand its operations to new markets.",
+      "word_tr": "genişletmek",
+      "example_tr": "Şirket, faaliyetlerini yeni pazarlara genişletmeyi planlıyor."
+    },
+    {
+      "word_en": "complain",
+      "example_en": "He decided to complain to the manager about the poor service.",
+      "word_tr": "şikayet etmek",
+      "example_tr": "Zayıf hizmetten dolayı müdüre şikayet etmeye karar verdi."
+    },
+    {
+      "word_en": "admit",
+      "example_en": "He had to admit that he was wrong.",
+      "word_tr": "itiraf etmek",
+      "example_tr": "Yanlış olduğunu itiraf etmek zorunda kaldı."
+    },
+    {
+      "word_en": "advise",
+      "example_en": "She advised him to take a break and relax.",
+      "word_tr": "tavsiye etmek",
+      "example_tr": "Ona bir mola verip rahatlamasını tavsiye etti."
+    },
+    {
+      "word_en": "aim",
+      "example_en": "They aimed to finish the project by the end of the month.",
+      "word_tr": "amaçlamak",
+      "example_tr": "Projeyi ayın sonuna kadar bitirmeyi amaçladılar."
+    },
+    {
+      "word_en": "announce",
+      "example_en": "The company will announce its new product next week.",
+      "word_tr": "duyurmak",
+      "example_tr": "Şirket gelecek hafta yeni ürününü duyuracak."
+    },
+    {
+      "word_en": "apologize",
+      "example_en": "He apologized for being late to the meeting.",
+      "word_tr": "özür dilemek",
+      "example_tr": "Toplantıya geç kalması için özür diledi."
+    },
+    {
+      "word_en": "assist",
+      "example_en": "She will assist you with any questions you may have.",
+      "word_tr": "yardım etmek",
+      "example_tr": "Sorularınızla ilgili size yardımcı olacak."
+    },
+    {
+      "word_en": "attach",
+      "example_en": "Please attach the document to your email.",
+      "word_tr": "eklemek",
+      "example_tr": "Lütfen belgeyi e-postanıza ekleyin."
+    },
+    {
+      "word_en": "award",
+      "example_en": "She won an award for her outstanding performance.",
+      "word_tr": "ödül vermek",
+      "example_tr": "Olağanüstü performansı için bir ödül kazandı."
+    },
+    {
+      "word_en": "bake",
+      "example_en": "She likes to bake cookies on the weekends.",
+      "word_tr": "fırında pişirmek",
+      "example_tr": "Hafta sonları kurabiye pişirmeyi sever."
+    },
+    {
+      "word_en": "bend",
+      "example_en": "He had to bend down to pick up the keys.",
+      "word_tr": "eğmek",
+      "example_tr": "Anahtarları almak için eğilmek zorunda kaldı."
+    },
+    {
+      "word_en": "benefit",
+      "example_en": "Regular exercise has many health benefits.",
+      "word_tr": "fayda sağlamak",
+      "example_tr": "Düzenli egzersizin birçok sağlık faydası vardır."
+    },
+    {
+      "word_en": "block",
+      "example_en": "The protesters blocked the road to demand change.",
+      "word_tr": "engellemek",
+      "example_tr": "Değişiklik talep etmek için protestocular yolun kapanmasını sağladı."
+    },
+    {
+      "word_en": "bother",
+      "example_en": "He didn't want to bother his friends with his problems.",
+      "word_tr": "rahatsız etmek",
+      "example_tr": "Sorunlarıyla arkadaşlarını rahatsız etmek istemiyordu."
+    },
+    {
+      "word_en": "bury",
+      "example_en": "They decided to bury the treasure in the backyard.",
+      "word_tr": "gömme",
+      "example_tr": "Hazinesini arka bahçeye gömmeye karar verdiler."
+    },
+    {
+      "word_en": "center",
+      "example_en": "The town center is the main gathering place for events.",
+      "word_tr": "merkez",
+      "example_tr": "Şehir merkezi etkinlikler için ana toplanma yeridir."
+    },
+    {
+      "word_en": "claim",
+      "example_en": "He made a claim for compensation after the accident.",
+      "word_tr": "iddia etmek",
+      "example_tr": "Kazadan sonra tazminat talebinde bulundu."
+    },
+    {
+      "word_en": "clear",
+      "example_en": "She needed to clear her desk before leaving.",
+      "word_tr": "temizlemek",
+      "example_tr": "Ayrılmadan önce masasını temizlemesi gerekiyordu."
+    },
+    {
+      "word_en": "combine",
+      "example_en": "They decided to combine their resources for the project.",
+      "word_tr": "birleştirmek",
+      "example_tr": "Projeleri için kaynaklarını birleştirmeye karar verdiler."
+    }
+  ]
+}
 
