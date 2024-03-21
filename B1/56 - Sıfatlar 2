@@ -1,1 +1,203 @@
+{
+  "words": [
+    {
+      "word_en": "silent",
+      "example_en": "The library was silent except for the sound of pages turning.",
+      "word_tr": "sessiz",
+      "example_tr": "Kütüphane, sayfaların çevrilmesi dışında sessizdi."
+    },
+    {
+      "word_en": "smooth",
+      "example_en": "She enjoyed the smooth texture of the silk fabric.",
+      "word_tr": "pürüzsüz",
+      "example_tr": "İpek kumaşın pürüzsüz dokusundan keyif aldı."
+    },
+    {
+      "word_en": "southern",
+      "example_en": "They traveled to the southern coast for their vacation.",
+      "word_tr": "güney",
+      "example_tr": "Tatilleri için güney sahiline seyahat ettiler."
+    },
+    {
+      "word_en": "primary",
+      "example_en": "Learning to read is a primary skill for children.",
+      "word_tr": "ana",
+      "example_tr": "Okumayı öğrenmek çocuklar için ana bir beceridir."
+    },
+    {
+      "word_en": "spoken",
+      "example_en": "Spanish is widely spoken in South America.",
+      "word_tr": "konuşulan",
+      "example_tr": "İspanyolca Güney Amerika'da geniş çapta konuşulmaktadır."
+    },
+    {
+      "word_en": "standard",
+      "example_en": "The hotel offers standard amenities such as free Wi-Fi.",
+      "word_tr": "standart",
+      "example_tr": "Otel ücretsiz Wi-Fi gibi standart olanaklar sunar."
+    },
+    {
+      "word_en": "still",
+      "example_en": "The lake was still in the early morning.",
+      "word_tr": "hala",
+      "example_tr": "Göl sabahın erken saatlerinde hala gibiydi."
+    },
+    {
+      "word_en": "suitable",
+      "example_en": "They found a suitable location for the picnic.",
+      "word_tr": "uygun",
+      "example_tr": "Piknik için uygun bir yer buldular."
+    },
+    {
+      "word_en": "total",
+      "example_en": "The total cost of the project exceeded their budget.",
+      "word_tr": "toplam",
+      "example_tr": "Projenin toplam maliyeti bütçelerini aştı."
+    },
+    {
+      "word_en": "unlikely",
+      "example_en": "It is unlikely that it will rain tomorrow.",
+      "word_tr": "olası olmayan",
+      "example_tr": "Yarın yağmur yağması olası değil."
+    },
+    {
+      "word_en": "upset",
+      "example_en": "She was upset by the news of the accident.",
+      "word_tr": "üzgün",
+      "example_tr": "Kazayla ilgili haberler onu üzdü."
+    },
+    {
+      "word_en": "used",
+      "example_en": "The car was used but still in good condition.",
+      "word_tr": "kullanılmış",
+      "example_tr": "Araba kullanılmış ama hala iyi durumda."
+    },
+    {
+      "word_en": "valuable",
+      "example_en": "She inherited valuable jewelry from her grandmother.",
+      "word_tr": "değerli",
+      "example_tr": "Büyükannesinden değerli mücevherler miras aldı."
+    },
+    {
+      "word_en": "western",
+      "example_en": "They watched the sunset over the western horizon.",
+      "word_tr": "batı",
+      "example_tr": "Batı ufuklarında günbatımını izlediler."
+    },
+    {
+      "word_en": "written",
+      "example_en": "He wrote a heartfelt letter to his parents.",
+      "word_tr": "yazılı",
+      "example_tr": "Ebeveynlerine içten bir mektup yazdı."
+    },
+    {
+      "word_en": "specific",
+      "example_en": "She gave him specific instructions on how to assemble the furniture.",
+      "word_tr": "belirli",
+      "example_tr": "Mobilyaları nasıl monte edeceğine dair ona belirli talimatlar verdi."
+    },
+    {
+      "word_en": "firm",
+      "example_en": "She works for a law firm in the city.",
+      "word_tr": "sıkı",
+      "example_tr": "Şehirde bir hukuk firmasında çalışıyor."
+    },
+    {
+      "word_en": "middle",
+      "example_en": "They sat in the middle row of the theater.",
+      "word_tr": "orta",
+      "example_tr": "Tiyatronun orta sırasına oturdular."
+    },
+    {
+      "word_en": "thoughtful",
+      "example_en": "She gave him a thoughtful gift for his birthday.",
+      "word_tr": "düşünceli",
+      "example_tr": "Doğum günü için ona düşünceli bir hediye verdi."
+    },
+    {
+      "word_en": "obvious",
+      "example_en": "The answer was obvious to everyone.",
+      "word_tr": "açık",
+      "example_tr": "Cevap herkes için açıktı."
+    },
+    {
+      "word_en": "odd",
+      "example_en": "It was odd to see him wearing a suit at the beach.",
+      "word_tr": "garip",
+      "example_tr": "Onu plajda takım elbise giyerken görmek garip oldu."
+    },
+    {
+      "word_en": "official",
+      "example_en": "They received an official invitation to the event.",
+      "word_tr": "resmi",
+      "example_tr": "Etkinliğe resmi bir davet aldılar."
+    },
+    {
+      "word_en": "old-fashioned",
+      "example_en": "She prefers old-fashioned furniture in her house.",
+      "word_tr": "eski moda",
+      "example_tr": "Evine eski moda mobilyaları tercih ediyor."
+    },
+    {
+      "word_en": "outdoor",
+      "example_en": "They enjoyed outdoor activities such as hiking and camping.",
+      "word_tr": "açık hava",
+      "example_tr": "Yürüyüş ve kamp gibi açık hava etkinliklerinden keyif aldılar."
+    },
+    {
+      "word_en": "powerful",
+      "example_en": "The president has powerful influence over policy decisions.",
+      "word_tr": "güçlü",
+      "example_tr": "Başkanın politika kararları üzerinde güçlü etkisi var."
+    },
+    {
+      "word_en": "previous",
+      "example_en": "He mentioned his previous experience in a similar role.",
+      "word_tr": "önceki",
+      "example_tr": "Benzer bir roldeki önceki deneyiminden bahsetti."
+    },
+    {
+      "word_en": "rare",
+      "example_en": "It's rare to find such a valuable coin.",
+      "word_tr": "nadir",
+      "example_tr": "Böyle değerli bir madeni bulmak nadirdir."
+    },
+    {
+      "word_en": "relative",
+      "example_en": "The price of the product is relative to its quality.",
+      "word_tr": "göreceli",
+      "example_tr": "Ürünün fiyatı kalitesine göre görecelidir."
+    },
+    {
+      "word_en": "rough",
+      "example_en": "The road was rough and bumpy.",
+      "word_tr": "kaba",
+      "example_tr": "Yol kaba ve engebeliydi."
+    },
+    {
+      "word_en": "scientific",
+      "example_en": "They conducted scientific experiments to test their hypothesis.",
+      "word_tr": "bilimsel",
+      "example_tr": "Hipotezlerini test etmek için bilimsel deneyler yaptılar."
+    },
+    {
+      "word_en": "secondary",
+      "example_en": "She focused on her secondary goals after achieving her primary objectives.",
+      "word_tr": "ikincil",
+      "example_tr": "Temel hedeflerini başardıktan sonra ikincil hedeflerine odaklandı."
+    },
+    {
+      "word_en": "sexual",
+      "example_en": "They discussed sexual health in their biology class.",
+      "word_tr": "cinsel",
+      "example_tr": "Biyoloji derslerinde cinsel sağlık konusunu tartıştılar."
+    },
+    {
+      "word_en": "sharp",
+      "example_en": "She has a sharp mind and quickly grasps new concepts.",
+      "word_tr": "keskin",
+      "example_tr": "Keskin bir zekaya sahip ve hızlı bir şekilde yeni kavramları kavrıyor."
+    }
+  ]
+}
 
