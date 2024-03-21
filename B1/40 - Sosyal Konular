@@ -1,1 +1,221 @@
+{
+  "words": [
+    {
+      "word_en": "overpopulation",
+      "example_en": "Overpopulation is a significant challenge in many urban areas.",
+      "word_tr": "aşırı nüfus",
+      "example_tr": "Aşırı nüfus, birçok kentsel alanda önemli bir sorundur."
+    },
+    {
+      "word_en": "peer pressure",
+      "example_en": "Teenagers often face peer pressure to conform to certain behaviors.",
+      "word_tr": "akran baskısı",
+      "example_tr": "Gençler genellikle belirli davranışlara uymak için akran baskısıyla karşılaşırlar."
+    },
+    {
+      "word_en": "poverty",
+      "example_en": "The government implemented programs to alleviate poverty.",
+      "word_tr": "yoksulluk",
+      "example_tr": "Hükümet, yoksulluğu hafifletmek için programlar uyguladı."
+    },
+    {
+      "word_en": "racism",
+      "example_en": "There is a need to address systemic racism in society.",
+      "word_tr": "ırkçılık",
+      "example_tr": "Toplumdaki sistemik ırkçılığı ele almaya ihtiyaç var."
+    },
+    {
+      "word_en": "security",
+      "example_en": "National security is a top priority for many governments.",
+      "word_tr": "güvenlik",
+      "example_tr": "Ulusal güvenlik, birçok hükümet için öncelikli bir konudur."
+    },
+    {
+      "word_en": "sexism",
+      "example_en": "Efforts are being made to combat sexism in the workplace.",
+      "word_tr": "cinsiyetçilik",
+      "example_tr": "İş yerinde cinsiyetçilikle mücadele etmek için çaba sarfediliyor."
+    },
+    {
+      "word_en": "shortage",
+      "example_en": "There is a shortage of clean water in many parts of the world.",
+      "word_tr": "kıtlık",
+      "example_tr": "Dünyanın birçok yerinde temiz su kıtlığı var."
+    },
+    {
+      "word_en": "modern slavery",
+      "example_en": "Efforts to combat modern slavery have intensified in recent years.",
+      "word_tr": "modern kölelik",
+      "example_tr": "Son yıllarda modern köleliğe karşı mücadele çabaları yoğunlaştı."
+    },
+    {
+      "word_en": "social inequality",
+      "example_en": "Social inequality remains a significant challenge worldwide.",
+      "word_tr": "sosyal eşitsizlik",
+      "example_tr": "Sosyal eşitsizlik, dünya çapında önemli bir sorun olmaya devam ediyor."
+    },
+    {
+      "word_en": "stability",
+      "example_en": "Political stability is essential for economic development.",
+      "word_tr": "istikrar",
+      "example_tr": "Ekonomik kalkınma için siyasi istikrar önemlidir."
+    },
+    {
+      "word_en": "social service",
+      "example_en": "She volunteers at a local social service organization.",
+      "word_tr": "sosyal hizmet",
+      "example_tr": "Yerel bir sosyal hizmet kuruluşunda gönüllü olarak çalışır."
+    },
+    {
+      "word_en": "welfare",
+      "example_en": "The government provides welfare programs for low-income families.",
+      "word_tr": "refah",
+      "example_tr": "Hükümet, düşük gelirli aileler için refah programları sağlar."
+    },
+    {
+      "word_en": "protest",
+      "example_en": "Thousands of people joined the protest against government policies.",
+      "word_tr": "protesto",
+      "example_tr": "Binlerce kişi, hükümet politikalarına karşı protestoya katıldı."
+    },
+    {
+      "word_en": "war",
+      "example_en": "The country suffered greatly during the war.",
+      "word_tr": "savaş",
+      "example_tr": "Ülke savaş sırasında büyük zarar gördü."
+    },
+    {
+      "word_en": "drug",
+      "example_en": "Efforts to combat drug trafficking have been ongoing.",
+      "word_tr": "uçucu",
+      "example_tr": "Uyuşturucu kaçakçılığıyla mücadele çabaları devam ediyor."
+    },
+    {
+      "word_en": "damage",
+      "example_en": "The hurricane caused extensive damage to homes and infrastructure.",
+      "word_tr": "hasar",
+      "example_tr": "Kasırga evlere ve altyapıya geniş çapta hasara yol açtı."
+    },
+    {
+      "word_en": "brain drain",
+      "example_en": "The country experienced a brain drain as skilled workers migrated.",
+      "word_tr": "beyin göçü",
+      "example_tr": "Ülkede yetenekli işçilerin göç etmesiyle bir beyin göçü yaşandı."
+    },
+    {
+      "word_en": "ignorant",
+      "example_en": "She was ignorant of the situation and its complexities.",
+      "word_tr": "cahil",
+      "example_tr": "Durumdan ve karmaşıklıklarından habersizdi."
+    },
+    {
+      "word_en": "social",
+      "example_en": "Social interactions are important for mental well-being.",
+      "word_tr": "sosyal",
+      "example_tr": "Sosyal etkileşimler, zihinsel refah için önemlidir."
+    },
+    {
+      "word_en": "racial",
+      "example_en": "The country faces challenges related to racial discrimination.",
+      "word_tr": "ırksal",
+      "example_tr": "Ülke, ırksal ayrımcılıkla ilgili zorluklarla karşı karşıyadır."
+    },
+    {
+      "word_en": "right",
+      "example_en": "Everyone has the right to freedom of speech.",
+      "word_tr": "hak",
+      "example_tr": "Herkesin konuşma özgürlüğüne sahip olma hakkı vardır."
+    },
+    {
+      "word_en": "wrong",
+      "example_en": "Stealing is morally wrong.",
+      "word_tr": "yanlış",
+      "example_tr": "Çalmak ahlaki olarak yanlıştır."
+    },
+    {
+      "word_en": "addiction",
+      "example_en": "Efforts to address addiction require a multi-faceted approach.",
+      "word_tr": "bağımlılık",
+      "example_tr": "Bağımlılığı ele almak için çok yönlü bir yaklaşım gereklidir."
+    },
+    {
+      "word_en": "abuse",
+      "example_en": "Domestic abuse is a serious issue that needs attention.",
+      "word_tr": "istismar",
+      "example_tr": "Ev içi istismar dikkate alınması gereken ciddi bir sorundur."
+    },
+    {
+      "word_en": "awareness",
+      "example_en": "Increasing awareness about mental health is crucial.",
+      "word_tr": "farkındalık",
+      "example_tr": "Mental sağlık konusunda farkındalığın artması önemlidir."
+    },
+    {
+      "word_en": "bullying",
+      "example_en": "Schools should have measures in place to prevent bullying.",
+      "word_tr": "zorbalık",
+      "example_tr": "Okulların zorbalığı önlemek için tedbirleri olmalıdır."
+    },
+    {
+      "word_en": "corruption",
+      "example_en": "Corruption undermines trust in government institutions.",
+      "word_tr": "yolsuzluk",
+      "example_tr": "Yolsuzluk, hükümet kurumlarına olan güveni zayıflatır."
+    },
+    {
+      "word_en": "crisis",
+      "example_en": "The pandemic has exacerbated the economic crisis.",
+      "word_tr": "kriz",
+      "example_tr": "Salgın ekonomik krizi daha da kötüleştirdi."
+    },
+    {
+      "word_en": "equality",
+      "example_en": "Equality before the law is a fundamental principle.",
+      "word_tr": "eşitlik",
+      "example_tr": "Hukuk önünde eşitlik temel bir prensiptir."
+    },
+    {
+      "word_en": "freedom",
+      "example_en": "Freedom of expression is a fundamental human right.",
+      "word_tr": "özgürlük",
+      "example_tr": "İfade özgürlüğü temel bir insan hakkıdır."
+    },
+    {
+      "word_en": "gender gap",
+      "example_en": "Efforts to close the gender gap in wages are ongoing.",
+      "word_tr": "cinsiyet farkı",
+      "example_tr": "Ücretlerdeki cinsiyet farkını kapatma çabaları devam ediyor."
+    },
+    {
+      "word_en": "homelessness",
+      "example_en": "The city has a significant homelessness problem.",
+      "word_tr": "evsizlik",
+      "example_tr": "Şehirde önemli bir evsizlik sorunu var."
+    },
+    {
+      "word_en": "immigration",
+      "example_en": "Immigration policies have become a contentious issue.",
+      "word_tr": "göç",
+      "example_tr": "Göç politikaları tartışmalı bir konu haline geldi."
+    },
+    {
+      "word_en": "issue",
+      "example_en": "Climate change is a pressing global issue.",
+      "word_tr": "sorun",
+      "example_tr": "İklim değişikliği, acil bir küresel sorundur."
+    },
+    {
+      "word_en": "malnutrition",
+      "example_en": "Malnutrition remains a significant problem in many parts of the world.",
+      "word_tr": "beslenme bozukluğu",
+      "example_tr": "Beslenme bozukluğu, dünyanın birçok yerinde önemli bir sorun olmaya devam ediyor."
+    },
+    {
+      "word_en": "obesity",
+      "example_en": "Obesity rates have been steadily increasing in recent years.",
+      "word_tr": "obezite",
+      "example_tr": "Obezite oranları son yıllarda istikrarlı bir şekilde artıyor."
+    }
+  ]
+}
 
