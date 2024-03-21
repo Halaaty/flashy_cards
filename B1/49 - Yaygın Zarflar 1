@@ -1,1 +1,185 @@
+{
+  "words": [
+    {
+      "word_en": "naturally",
+      "example_en": "She was naturally talented at playing the piano.",
+      "word_tr": "doğal olarak",
+      "example_tr": "Piyano çalmada doğal olarak yetenekliydi."
+    },
+    {
+      "word_en": "all",
+      "example_en": "All of the students passed the exam with flying colors.",
+      "word_tr": "hepsi",
+      "example_tr": "Tüm öğrenciler sınavı parlak bir şekilde geçti."
+    },
+    {
+      "word_en": "anymore",
+      "example_en": "I don't eat meat anymore; I've become a vegetarian.",
+      "word_tr": "artık",
+      "example_tr": "Artık et yemiyorum; bir vejetaryen oldum."
+    },
+    {
+      "word_en": "anyway",
+      "example_en": "I didn't want to go to the party anyway.",
+      "word_tr": "neyse ki",
+      "example_tr": "Zaten partiye gitmek istememiştim."
+    },
+    {
+      "word_en": "clearly",
+      "example_en": "He spoke clearly so that everyone could understand him.",
+      "word_tr": "açıkça",
+      "example_tr": "Herkesin onu anlayabilmesi için açıkça konuştu."
+    },
+    {
+      "word_en": "commonly",
+      "example_en": "It's commonly known that smoking is bad for your health.",
+      "word_tr": "genellikle",
+      "example_tr": "Sigaranın sağlığınıza zararlı olduğu genellikle bilinir."
+    },
+    {
+      "word_en": "correctly",
+      "example_en": "She answered all the questions correctly on the exam.",
+      "word_tr": "doğru bir şekilde",
+      "example_tr": "Sınavda tüm sorulara doğru bir şekilde cevap verdi."
+    },
+    {
+      "word_en": "definitely",
+      "example_en": "I will definitely attend the meeting tomorrow.",
+      "word_tr": "kesinlikle",
+      "example_tr": "Yarın kesinlikle toplantıya katılacağım."
+    },
+    {
+      "word_en": "double",
+      "example_en": "She doubled her savings by investing wisely.",
+      "word_tr": "iki katına çıkarmak",
+      "example_tr": "Akıllıca yatırım yaparak birikimini iki katına çıkardı."
+    },
+    {
+      "word_en": "each",
+      "example_en": "Each student received a certificate for their hard work.",
+      "word_tr": "her biri",
+      "example_tr": "Her öğrenci, çalışmaları için bir sertifika aldı."
+    },
+    {
+      "word_en": "apart",
+      "example_en": "The two brothers were inseparable; they did everything together.",
+      "word_tr": "ayrı",
+      "example_tr": "İki kardeş birbirinden ayrılmazdı; her şeyi birlikte yaparlardı."
+    },
+    {
+      "word_en": "certainly",
+      "example_en": "I can certainly help you with your homework.",
+      "word_tr": "kesinlikle",
+      "example_tr": "Kesinlikle ödevinize yardımcı olabilirim."
+    },
+    {
+      "word_en": "absolutely",
+      "example_en": "I absolutely love chocolate; it's my favorite treat.",
+      "word_tr": "kesinlikle",
+      "example_tr": "Çikolatayı kesinlikle seviyorum; en sevdiğim ikram."
+    },
+    {
+      "word_en": "about",
+      "example_en": "The meeting will start in about ten minutes.",
+      "word_tr": "hakkında",
+      "example_tr": "Toplantı yaklaşık on dakika içinde başlayacak."
+    },
+    {
+      "word_en": "ago",
+      "example_en": "He left the house an hour ago.",
+      "word_tr": "önce",
+      "example_tr": "Evden bir saat önce ayrıldı."
+    },
+    {
+      "word_en": "effectively",
+      "example_en": "He managed the team effectively, leading them to success.",
+      "word_tr": "etkili bir şekilde",
+      "example_tr": "Takımı etkili bir şekilde yöneterek onları başarıya taşıdı."
+    },
+    {
+      "word_en": "enough",
+      "example_en": "There is enough food for everyone at the party.",
+      "word_tr": "yeterli",
+      "example_tr": "Partide herkes için yeterli yiyecek var."
+    },
+    {
+      "word_en": "equally",
+      "example_en": "Both candidates are equally qualified for the job.",
+      "word_tr": "eşit şekilde",
+      "example_tr": "Her iki aday da iş için eşit derecede niteliklidir."
+    },
+    {
+      "word_en": "even",
+      "example_en": "The distribution of resources should be fair and even.",
+      "word_tr": "bile",
+      "example_tr": "Kaynakların dağıtımı adil ve eşit olmalıdır."
+    },
+    {
+      "word_en": "first",
+      "example_en": "She arrived at the party first.",
+      "word_tr": "ilk",
+      "example_tr": "Partiye ilk olarak o geldi."
+    },
+    {
+      "word_en": "frequently",
+      "example_en": "He frequently visits his grandmother on weekends.",
+      "word_tr": "sık sık",
+      "example_tr": "Hafta sonları sık sık büyükannesini ziyaret eder."
+    },
+    {
+      "word_en": "fully",
+      "example_en": "She was fully aware of the consequences of her actions.",
+      "word_tr": "tamamen",
+      "example_tr": "Eylemlerinin sonuçlarının tamamen farkındaydı."
+    },
+    {
+      "word_en": "hardly",
+      "example_en": "She could hardly contain her excitement.",
+      "word_tr": "neredeyse hiç",
+      "example_tr": "Heyecanını neredeyse hiç dizginleyemezdi."
+    },
+    {
+      "word_en": "heavily",
+      "example_en": "The rain fell heavily all night.",
+      "word_tr": "ağır bir şekilde",
+      "example_tr": "Yağmur tüm gece ağır bir şekilde yağdı."
+    },
+    {
+      "word_en": "however",
+      "example_en": "She studied hard; however, she still failed the exam.",
+      "word_tr": "ancak",
+      "example_tr": "Sıkı çalıştı; ancak yine de sınavı geçemedi."
+    },
+    {
+      "word_en": "incredibly",
+      "example_en": "The view from the mountaintop was incredibly beautiful.",
+      "word_tr": "inanılmaz derecede",
+      "example_tr": "Dağın zirvesinden manzara inanılmaz derecede güzeldi."
+    },
+    {
+      "word_en": "indeed",
+      "example_en": "The food was indeed delicious, just as she had promised.",
+      "word_tr": "gerçekten",
+      "example_tr": "Yemek gerçekten lezzetliydi, söz verdiği gibi."
+    },
+    {
+      "word_en": "least",
+      "example_en": "He tried his best, but at least he made an effort.",
+      "word_tr": "en az",
+      "example_tr": "En azından çaba gösterdi, en azından bir çaba gösterdi."
+    },
+    {
+      "word_en": "mainly",
+      "example_en": "She mainly works from home.",
+      "word_tr": "genellikle",
+      "example_tr": "Genellikle evden çalışır."
+    },
+    {
+      "word_en": "mostly",
+      "example_en": "The room was mostly empty except for a few chairs.",
+      "word_tr": "çoğunlukla",
+      "example_tr": "Oda çoğunlukla boştu, sadece birkaç sandalye vardı."
+    }
+  ]
+}
 
