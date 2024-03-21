@@ -1,1 +1,155 @@
+{
+  "words": [
+    {
+      "word_en": "chopstick",
+      "example_en": "She picked up the sushi with a pair of chopsticks.",
+      "word_tr": "çubuk",
+      "example_tr": "Sushiyi bir çift çubukla aldı."
+    },
+    {
+      "word_en": "ladle",
+      "example_en": "The chef used a ladle to serve the soup.",
+      "word_tr": "kepçe",
+      "example_tr": "Şef çorbayı servis etmek için bir kepçe kullandı."
+    },
+    {
+      "word_en": "spatula",
+      "example_en": "He flipped the pancakes with a spatula.",
+      "word_tr": "spatula",
+      "example_tr": "Pankekleri bir spatula ile çevirdi."
+    },
+    {
+      "word_en": "mower",
+      "example_en": "He mowed the lawn with a lawn mower.",
+      "word_tr": "çim biçme makinesi",
+      "example_tr": "Çimleri bir çim biçme makinesi ile biçti."
+    },
+    {
+      "word_en": "faucet",
+      "example_en": "She turned on the faucet to fill the sink with water.",
+      "word_tr": "musluk",
+      "example_tr": "Lavaboyu suyla doldurmak için musluğu açtı."
+    },
+    {
+      "word_en": "vase",
+      "example_en": "She placed a bouquet of flowers in the vase.",
+      "word_tr": "vazo",
+      "example_tr": "Çiçek buketini vazoya yerleştirdi."
+    },
+    {
+      "word_en": "blind",
+      "example_en": "He pulled down the blinds to block out the sunlight.",
+      "word_tr": "perde",
+      "example_tr": "Güneş ışığını kesmek için perdeleri indirdi."
+    },
+    {
+      "word_en": "couch",
+      "example_en": "They sat on the couch and watched a movie.",
+      "word_tr": "kanepe",
+      "example_tr": "Kanepede oturup film izlediler."
+    },
+    {
+      "word_en": "sofa bed",
+      "example_en": "The sofa converts into a comfortable sofa bed for guests.",
+      "word_tr": "kanepe yatak",
+      "example_tr": "Kanepe misafirler için rahat bir kanepe yatağa dönüşür."
+    },
+    {
+      "word_en": "hair straighteners",
+      "example_en": "She used hair straighteners to style her hair.",
+      "word_tr": "saç düzleştirici",
+      "example_tr": "Saçını şekillendirmek için saç düzleştirici kullandı."
+    },
+    {
+      "word_en": "thermostat",
+      "example_en": "He adjusted the thermostat to control the room temperature.",
+      "word_tr": "termostat",
+      "example_tr": "Oda sıcaklığını kontrol etmek için termostatı ayarladı."
+    },
+    {
+      "word_en": "pillow",
+      "example_en": "She fluffed up the pillow before going to bed.",
+      "word_tr": "yastık",
+      "example_tr": "Yatağa gitmeden önce yastığı kabarttı."
+    },
+    {
+      "word_en": "brush",
+      "example_en": "He used a brush to paint the walls.",
+      "word_tr": "fırça",
+      "example_tr": "Duvarları boyamak için bir fırça kullandı."
+    },
+    {
+      "word_en": "microwave",
+      "example_en": "She heated up the leftovers in the microwave.",
+      "word_tr": "mikrodalga fırın",
+      "example_tr": "Artıkları mikrodalga fırında ısıttı."
+    },
+    {
+      "word_en": "bed sheet",
+      "example_en": "She changed the bed sheets every week.",
+      "word_tr": "yatak çarşafı",
+      "example_tr": "Her hafta yatak çarşaflarını değiştirdi."
+    },
+    {
+      "word_en": "linen",
+      "example_en": "They prefer linen bedding for its breathability and durability.",
+      "word_tr": "keten",
+      "example_tr": "Nefes alabilirliği ve dayanıklılığı nedeniyle keten yatak takımlarını tercih ederler."
+    },
+    {
+      "word_en": "mattress",
+      "example_en": "She bought a new mattress for her bed.",
+      "word_tr": "yatak",
+      "example_tr": "Yatağı için yeni bir yatak aldı."
+    },
+    {
+      "word_en": "radiator",
+      "example_en": "They installed a radiator to keep the room warm in winter.",
+      "word_tr": "radyatör",
+      "example_tr": "Kışın odanın sıcak kalması için bir radyatör taktılar."
+    },
+    {
+      "word_en": "freezer",
+      "example_en": "She stored the ice cream in the freezer.",
+      "word_tr": "dondurucu",
+      "example_tr": "Dondurucuda dondurmaları sakladı."
+    },
+    {
+      "word_en": "kitchen hood",
+      "example_en": "The kitchen hood removes smoke and odors while cooking.",
+      "word_tr": "mutfak davlumbazı",
+      "example_tr": "Mutfak davlumbazı yemek pişirirken duman ve kokuları uzaklaştırır."
+    },
+    {
+      "word_en": "garbage disposal",
+      "example_en": "She used the garbage disposal to get rid of food scraps.",
+      "word_tr": "çöp öğütücü",
+      "example_tr": "Yemek artıklarından kurtulmak için çöp öğütücüyü kullandı."
+    },
+    {
+      "word_en": "pressure cooker",
+      "example_en": "She cooked beans quickly using a pressure cooker.",
+      "word_tr": "tencere düdüklü",
+      "example_tr": "Fasulyeleri hızlıca pişirmek için bir tencere düdüklü kullandı."
+    },
+    {
+      "word_en": "food processor",
+      "example_en": "She used a food processor to chop vegetables.",
+      "word_tr": "mutfak robotu",
+      "example_tr": "Sebzeleri doğramak için mutfak robotu kullandı."
+    },
+    {
+      "word_en": "juicer",
+      "example_en": "He made fresh orange juice with a juicer.",
+      "word_tr": "sıkacağı",
+      "example_tr": "Taze portakal suyu sıkacağı ile yaptı."
+    },
+    {
+      "word_en": "flatware",
+      "example_en": "They set the table with elegant flatware for the dinner party.",
+      "word_tr": "sofra takımı",
+      "example_tr": "Davet sofrasını şık bir sofra takımıyla donattılar."
+    }
+  ]
+}
 
