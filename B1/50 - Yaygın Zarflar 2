@@ -1,1 +1,161 @@
+{
+  "words": [
+    {
+      "word_en": "possibly",
+      "example_en": "She could possibly come to the party later.",
+      "word_tr": "muhtemelen",
+      "example_tr": "Muhtemelen daha sonra partiye gelebilir."
+    },
+    {
+      "word_en": "properly",
+      "example_en": "Please make sure to tie your shoelaces properly.",
+      "word_tr": "düzgün bir şekilde",
+      "example_tr": "Lütfen bağcıklarınızı düzgün bir şekilde bağladığınızdan emin olun."
+    },
+    {
+      "word_en": "quickly",
+      "example_en": "She finished her homework quickly and went to bed.",
+      "word_tr": "hızlı bir şekilde",
+      "example_tr": "Ödevini hızlı bir şekilde bitirdi ve yatağa gitti."
+    },
+    {
+      "word_en": "quietly",
+      "example_en": "Please walk quietly in the library.",
+      "word_tr": "sessizce",
+      "example_tr": "Lütfen kütüphanede sessizce yürüyün."
+    },
+    {
+      "word_en": "rapidly",
+      "example_en": "The company is growing rapidly due to increased demand.",
+      "word_tr": "hızla",
+      "example_tr": "Şirket, artan talepten dolayı hızla büyüyor."
+    },
+    {
+      "word_en": "similarly",
+      "example_en": "She similarly enjoys hiking and camping.",
+      "word_tr": "benzer şekilde",
+      "example_tr": "O, yürüyüş yapmayı ve kamp yapmayı benzer şekilde seviyor."
+    },
+    {
+      "word_en": "simply",
+      "example_en": "To solve the problem, simply follow these steps.",
+      "word_tr": "basitçe",
+      "example_tr": "Sorunu çözmek için, basitçe bu adımları izleyin."
+    },
+    {
+      "word_en": "slightly",
+      "example_en": "The temperature dropped slightly overnight.",
+      "word_tr": "biraz",
+      "example_tr": "Sıcaklık gece boyunca biraz düştü."
+    },
+    {
+      "word_en": "specifically",
+      "example_en": "The instructions were specifically for beginners.",
+      "word_tr": "özellikle",
+      "example_tr": "Talimatlar özellikle acemiler içindi."
+    },
+    {
+      "word_en": "strongly",
+      "example_en": "He felt strongly about protecting the environment.",
+      "word_tr": "güçlü bir şekilde",
+      "example_tr": "Çevreyi koruma konusunda güçlü bir şekilde hissediyordu."
+    },
+    {
+      "word_en": "surely",
+      "example_en": "She surely knows the answer to this question.",
+      "word_tr": "kesinlikle",
+      "example_tr": "Bu sorunun cevabını kesinlikle biliyordur."
+    },
+    {
+      "word_en": "therefore",
+      "example_en": "He missed the bus; therefore, he was late for work.",
+      "word_tr": "bu nedenle",
+      "example_tr": "Otobüsü kaçırdı; bu nedenle işe geç kaldı."
+    },
+    {
+      "word_en": "though",
+      "example_en": "She studied hard, though she still failed the exam.",
+      "word_tr": "rağmen",
+      "example_tr": "Sıkı çalıştı, rağmen hala sınavı geçemedi."
+    },
+    {
+      "word_en": "typically",
+      "example_en": "He typically arrives at the office at 9 a.m.",
+      "word_tr": "genellikle",
+      "example_tr": "Genellikle 9'da ofise gelir."
+    },
+    {
+      "word_en": "today",
+      "example_en": "Today is Monday, the start of the workweek.",
+      "word_tr": "bugün",
+      "example_tr": "Bugün pazartesi, iş haftasının başlangıcı."
+    },
+    {
+      "word_en": "likely",
+      "example_en": "It's likely to rain tomorrow, so bring an umbrella.",
+      "word_tr": "olası",
+      "example_tr": "Yarın yağmur olası, bu yüzden bir şemsiye getir."
+    },
+    {
+      "word_en": "nearly",
+      "example_en": "She nearly missed the train, but she made it just in time.",
+      "word_tr": "neredeyse",
+      "example_tr": "Trene neredeyse geç kalıyordu, ama tam zamanında yetişti."
+    },
+    {
+      "word_en": "necessarily",
+      "example_en": "Just because it's cold doesn't necessarily mean it will snow.",
+      "word_tr": "zorunlu olarak",
+      "example_tr": "Soğuk olması hemen kar yağacağı anlamına gelmez."
+    },
+    {
+      "word_en": "next",
+      "example_en": "Our next meeting is scheduled for Friday.",
+      "word_tr": "sonraki",
+      "example_tr": "Sonraki toplantımız Cuma günü planlanmıştır."
+    },
+    {
+      "word_en": "normally",
+      "example_en": "She normally wakes up at 7 a.m. every day.",
+      "word_tr": "normalde",
+      "example_tr": "Normalde her gün saat 7'de uyanır."
+    },
+    {
+      "word_en": "obviously",
+      "example_en": "She was obviously upset by the news.",
+      "word_tr": "açıkça",
+      "example_tr": "Haberlerden açıkça üzüldüğü belliydi."
+    },
+    {
+      "word_en": "originally",
+      "example_en": "The story was originally written in French.",
+      "word_tr": "aslen",
+      "example_tr": "Hikaye aslen Fransızca olarak yazılmıştı."
+    },
+    {
+      "word_en": "particularly",
+      "example_en": "He was particularly interested in ancient history.",
+      "word_tr": "özellikle",
+      "example_tr": "Özellikle antik tarihle ilgileniyordu."
+    },
+    {
+      "word_en": "perfectly",
+      "example_en": "She executed the task perfectly.",
+      "word_tr": "mükemmel bir şekilde",
+      "example_tr": "Görevi mükemmel bir şekilde yerine getirdi."
+    },
+    {
+      "word_en": "perhaps",
+      "example_en": "Perhaps we should consider another approach.",
+      "word_tr": "belki",
+      "example_tr": "Belki başka bir yaklaşım düşünmeliyiz."
+    },
+    {
+      "word_en": "personally",
+      "example_en": "I can't speak for everyone, but personally, I enjoyed the movie.",
+      "word_tr": "şahsen",
+      "example_tr": "Herkes adına konuşamam ama şahsen filmi beğendim."
+    }
+  ]
+}
 
