@@ -1,1 +1,209 @@
+{
+  "words": [
+    {
+      "word_en": "doorman",
+      "example_en": "The doorman greeted guests as they entered the hotel.",
+      "word_tr": "kapıcı",
+      "example_tr": "Kapıcı, misafirleri otel'e girdiklerinde selamladı."
+    },
+    {
+      "word_en": "double",
+      "example_en": "The hotel room had a double bed.",
+      "word_tr": "çift kişilik",
+      "example_tr": "Otel odasında çift kişilik bir yatak vardı."
+    },
+    {
+      "word_en": "family room",
+      "example_en": "The family room had enough space for parents and children.",
+      "word_tr": "aile odası",
+      "example_tr": "Aile odasında ebeveynler ve çocuklar için yeterli alan vardı."
+    },
+    {
+      "word_en": "exchange",
+      "example_en": "You can exchange currency at the front desk.",
+      "word_tr": "değişim",
+      "example_tr": "Paranızı resepsiyonda değiştirebilirsiniz."
+    },
+    {
+      "word_en": "explore",
+      "example_en": "They planned to explore the city's landmarks during their vacation.",
+      "word_tr": "keşfetmek",
+      "example_tr": "Tatilleri sırasında şehrin simgelerini keşfetmeyi planladılar."
+    },
+    {
+      "word_en": "front desk",
+      "example_en": "Guests can inquire at the front desk for tourist information.",
+      "word_tr": "resepsiyon",
+      "example_tr": "Misafirler turist bilgisi için resepsiyonda bilgi alabilirler."
+    },
+    {
+      "word_en": "tour guide",
+      "example_en": "The tour guide led the group through the historic city center.",
+      "word_tr": "rehber",
+      "example_tr": "Rehber, grubu tarihi şehir merkezinden geçirdi."
+    },
+    {
+      "word_en": "hostel",
+      "example_en": "They stayed in a hostel during their backpacking trip.",
+      "word_tr": "yurt",
+      "example_tr": "Sırt çantalı gezileri sırasında bir yurtta kaldılar."
+    },
+    {
+      "word_en": "minibar",
+      "example_en": "The hotel room had a stocked minibar.",
+      "word_tr": "minibar",
+      "example_tr": "Otel odasında dolu bir minibar vardı."
+    },
+    {
+      "word_en": "luggage",
+      "example_en": "Please store your luggage in the designated area.",
+      "word_tr": "bagaj",
+      "example_tr": "Lütfen bagajınızı belirlenen alana yerleştirin."
+    },
+    {
+      "word_en": "visitor",
+      "example_en": "The museum welcomed many visitors each day.",
+      "word_tr": "ziyaretçi",
+      "example_tr": "Müze her gün birçok ziyaretçiyi ağırladı."
+    },
+    {
+      "word_en": "sunbathe",
+      "example_en": "They enjoyed sunbathing on the beach during their vacation.",
+      "word_tr": "güneşlenmek",
+      "example_tr": "Tatilleri sırasında plajda güneşlenmekten keyif aldılar."
+    },
+    {
+      "word_en": "stay",
+      "example_en": "They planned a two-week stay at the resort.",
+      "word_tr": "kalış",
+      "example_tr": "Tatil köyünde iki haftalık bir kalış planladılar."
+    },
+    {
+      "word_en": "seaside",
+      "example_en": "They rented a cottage by the seaside for the summer.",
+      "word_tr": "deniz kenarı",
+      "example_tr": "Yaz için deniz kenarında bir kır evi kiraladılar."
+    },
+    {
+      "word_en": "safari",
+      "example_en": "They went on a safari to observe wildlife.",
+      "word_tr": "safari",
+      "example_tr": "Vahşi yaşamı gözlemlemek için bir safariye gittiler."
+    },
+    {
+      "word_en": "single",
+      "example_en": "The hotel room had a single bed.",
+      "word_tr": "tek kişilik",
+      "example_tr": "Otel odasında tek kişilik bir yatak vardı."
+    },
+    {
+      "word_en": "sight",
+      "example_en": "The city's famous sights attract many tourists.",
+      "word_tr": "görüntü",
+      "example_tr": "Şehrin ünlü görüntüleri birçok turisti cezbeder."
+    },
+    {
+      "word_en": "tour",
+      "example_en": "They booked a guided tour of the historic landmarks.",
+      "word_tr": "tur",
+      "example_tr": "Tarihi simgelerin rehberli bir turunu rezerve ettiler."
+    },
+    {
+      "word_en": "cottage",
+      "example_en": "They stayed in a cozy cottage in the countryside.",
+      "word_tr": "kır evi",
+      "example_tr": "Kırsalda hoş bir kır evinde kaldılar."
+    },
+    {
+      "word_en": "backpack",
+      "example_en": "He packed his clothes and toiletries in his backpack.",
+      "word_tr": "sırt çantası",
+      "example_tr": "Kıyafetlerini ve tuvalet malzemelerini sırt çantasına paketledi."
+    },
+    {
+      "word_en": "bed and breakfast",
+      "example_en": "They stayed at a charming bed and breakfast in the countryside.",
+      "word_tr": "yatak ve kahvaltı",
+      "example_tr": "Kırsalda hoş bir yatak ve kahvaltı tesiste kaldılar."
+    },
+    {
+      "word_en": "holiday",
+      "example_en": "They went on a holiday to the beach for relaxation.",
+      "word_tr": "tatil",
+      "example_tr": "Rahatlama için plaja bir tatil yaptılar."
+    },
+    {
+      "word_en": "booking",
+      "example_en": "She made a booking for a hotel room online.",
+      "word_tr": "rezervasyon",
+      "example_tr": "Otel odası için bir rezervasyon online yaptı."
+    },
+    {
+      "word_en": "brochure",
+      "example_en": "They picked up a brochure to learn about local attractions.",
+      "word_tr": "broşür",
+      "example_tr": "Yerel cazibe merkezleri hakkında bilgi edinmek için bir broşür aldılar."
+    },
+    {
+      "word_en": "affordable",
+      "example_en": "They chose an affordable hotel for their budget.",
+      "word_tr": "uygun fiyatlı",
+      "example_tr": "Bütçelerine uygun bir otel seçtiler."
+    },
+    {
+      "word_en": "camp",
+      "example_en": "They pitched their tent and camped in the forest.",
+      "word_tr": "kamp",
+      "example_tr": "Çadırlarını kurup ormanda kamp yaptılar."
+    },
+    {
+      "word_en": "campfire",
+      "example_en": "They gathered around the campfire and roasted marshmallows.",
+      "word_tr": "kamp ateşi",
+      "example_tr": "Kamp ateşinin etrafında toplandılar ve marshmallowları kızarttılar."
+    },
+    {
+      "word_en": "outdoors",
+      "example_en": "They enjoyed hiking and other outdoor activities.",
+      "word_tr": "açık hava",
+      "example_tr": "Yürüyüş ve diğer açık hava etkinliklerinden keyif aldılar."
+    },
+    {
+      "word_en": "keycard",
+      "example_en": "They used a keycard to access their hotel room.",
+      "word_tr": "anahtar kartı",
+      "example_tr": "Otel odasına erişmek için bir anahtar kartı kullandılar."
+    },
+    {
+      "word_en": "check-in",
+      "example_en": "Check-in at the hotel is at 3:00 PM.",
+      "word_tr": "giriş",
+      "example_tr": "Otelde giriş saati 15:00'te."
+    },
+    {
+      "word_en": "checkout",
+      "example_en": "Checkout time is at 11:00 AM.",
+      "word_tr": "çıkış",
+      "example_tr": "Çıkış saati 11:00'de."
+    },
+    {
+      "word_en": "reception desk",
+      "example_en": "Guests can inquire at the reception desk for assistance.",
+      "word_tr": "resepsiyon",
+      "example_tr": "Misafirler yardım için resepsiyona danışabilirler."
+    },
+    {
+      "word_en": "desk clerk",
+      "example_en": "The desk clerk checked them into their hotel room.",
+      "word_tr": "resepsiyon görevlisi",
+      "example_tr": "Resepsiyon görevlisi onları otel odalarına yerleştirdi."
+    },
+    {
+      "word_en": "day trip",
+      "example_en": "They went on a day trip to explore the nearby town.",
+      "word_tr": "günlük gezi",
+      "example_tr": "Yakındaki kasabayı keşfetmek için günlük bir geziye çıktılar."
+    }
+  ]
+}
 
