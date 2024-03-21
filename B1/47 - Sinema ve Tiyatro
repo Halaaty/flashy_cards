@@ -1,1 +1,215 @@
+{
+  "words": [
+    {
+      "word_en": "melodrama",
+      "example_en": "The play was criticized for its excessive melodrama.",
+      "word_tr": "melodram",
+      "example_tr": "Oyun, aşırı melodramı nedeniyle eleştirildi."
+    },
+    {
+      "word_en": "movie maker",
+      "example_en": "He dreams of becoming a successful movie maker.",
+      "word_tr": "film yapımcısı",
+      "example_tr": "Başarılı bir film yapımcısı olmayı hayal ediyor."
+    },
+    {
+      "word_en": "musical",
+      "example_en": "She enjoys watching musicals on Broadway.",
+      "word_tr": "müzikal",
+      "example_tr": "Broadway'deki müzikalleri izlemekten keyif alıyor."
+    },
+    {
+      "word_en": "script",
+      "example_en": "The script for the movie underwent several revisions.",
+      "word_tr": "senaryo",
+      "example_tr": "Film için senaryo birkaç revizyondan geçti."
+    },
+    {
+      "word_en": "scriptwriter",
+      "example_en": "The scriptwriter spent months crafting the screenplay.",
+      "word_tr": "senarist",
+      "example_tr": "Senarist, senaryoyu hazırlamak için aylarını harcadı."
+    },
+    {
+      "word_en": "silent",
+      "example_en": "Silent films were popular in the early 20th century.",
+      "word_tr": "sessiz",
+      "example_tr": "Sessiz filmler 20. yüzyılın başlarında popülerdi."
+    },
+    {
+      "word_en": "special effects",
+      "example_en": "The movie's special effects were groundbreaking.",
+      "word_tr": "özel efektler",
+      "example_tr": "Filmin özel efektleri çığır açıcıydı."
+    },
+    {
+      "word_en": "stage",
+      "example_en": "She performs regularly on the stage.",
+      "word_tr": "sahne",
+      "example_tr": "Düzenli olarak sahnede performans sergiliyor."
+    },
+    {
+      "word_en": "star",
+      "example_en": "He became a Hollywood star overnight.",
+      "word_tr": "yıldız",
+      "example_tr": "Bir gecede Hollywood yıldızı oldu."
+    },
+    {
+      "word_en": "superhero",
+      "example_en": "Children often dress up as their favorite superhero for Halloween.",
+      "word_tr": "süper kahraman",
+      "example_tr": "Çocuklar genellikle Halloween için en sevdikleri süper kahraman olarak giyinirler."
+    },
+    {
+      "word_en": "superstar",
+      "example_en": "She is a pop superstar with millions of fans.",
+      "word_tr": "süperstar",
+      "example_tr": "Milyonlarca hayranı olan bir pop süperstarıdır."
+    },
+    {
+      "word_en": "demigod",
+      "example_en": "In mythology, demigods are often depicted as having extraordinary powers.",
+      "word_tr": "yarı tanrı",
+      "example_tr": "Mitolojide, yarı tanrılar genellikle olağanüstü güçlere sahip olarak tasvir edilir."
+    },
+    {
+      "word_en": "thriller",
+      "example_en": "The thriller kept audiences on the edge of their seats.",
+      "word_tr": "gerilim",
+      "example_tr": "Gerilim, izleyicileri koltuklarının kenarında tuttu."
+    },
+    {
+      "word_en": "tragedy",
+      "example_en": "The play was a Greek tragedy with a heartbreaking ending.",
+      "word_tr": "trajedi",
+      "example_tr": "Oyun, yürek burkan bir sonla biten bir Yunan trajedisiydi."
+    },
+    {
+      "word_en": "trailer",
+      "example_en": "The trailer for the movie was released last week.",
+      "word_tr": "fragman",
+      "example_tr": "Film fragmanı geçen hafta yayınlandı."
+    },
+    {
+      "word_en": "villain",
+      "example_en": "He played the villain in the movie.",
+      "word_tr": "kötü adam",
+      "example_tr": "Filmin kötü adamını oynadı."
+    },
+    {
+      "word_en": "Western",
+      "example_en": "Western films often depict life in the American Old West.",
+      "word_tr": "batı",
+      "example_tr": "Batı filmleri genellikle Amerikan Eski Batı'daki yaşamı tasvir eder."
+    },
+    {
+      "word_en": "action",
+      "example_en": "The movie is packed with thrilling action sequences.",
+      "word_tr": "aksiyon",
+      "example_tr": "Film, heyecan verici aksiyon sahneleriyle dolu."
+    },
+    {
+      "word_en": "animation",
+      "example_en": "She enjoys watching animated movies with her children.",
+      "word_tr": "animasyon",
+      "example_tr": "Çocuklarıyla animasyon filmler izlemekten keyif alıyor."
+    },
+    {
+      "word_en": "box office",
+      "example_en": "The movie performed well at the box office.",
+      "word_tr": "gişe",
+      "example_tr": "Film gişede iyi bir performans sergiledi."
+    },
+    {
+      "word_en": "cast",
+      "example_en": "The cast of the movie includes several Hollywood stars.",
+      "word_tr": "oyuncu kadrosu",
+      "example_tr": "Filmin oyuncu kadrosunda birkaç Hollywood yıldızı yer alıyor."
+    },
+    {
+      "word_en": "classic",
+      "example_en": "The movie is considered a classic of the genre.",
+      "word_tr": "klasik",
+      "example_tr": "Film, türünün klasikleri arasında kabul ediliyor."
+    },
+    {
+      "word_en": "clown",
+      "example_en": "The clown in the circus makes everyone laugh.",
+      "word_tr": "palyaço",
+      "example_tr": "Sirkteki palyaço herkesi güldürür."
+    },
+    {
+      "word_en": "critic",
+      "example_en": "The movie received mixed reviews from critics.",
+      "word_tr": "eleştirmen",
+      "example_tr": "Film, eleştirmenlerden karışık eleştiriler aldı."
+    },
+    {
+      "word_en": "criticism",
+      "example_en": "The movie faced criticism for its lack of originality.",
+      "word_tr": "eleştiri",
+      "example_tr": "Film, özgünlük eksikliği nedeniyle eleştiriye maruz kaldı."
+    },
+    {
+      "word_en": "direct",
+      "example_en": "He plans to direct his first feature film next year.",
+      "word_tr": "yönetmek",
+      "example_tr": "Gelecek yıl ilk uzun metrajlı filmini yönetmeyi planlıyor."
+    },
+    {
+      "word_en": "audition",
+      "example_en": "She has an audition for a role in the upcoming movie.",
+      "word_tr": "seçme",
+      "example_tr": "Yaklaşan filmde bir rol için seçmelere girecek."
+    },
+    {
+      "word_en": "dramatic",
+      "example_en": "The movie has several dramatic twists.",
+      "word_tr": "dramatik",
+      "example_tr": "Filmde birkaç dramatik dönemeç var."
+    },
+    {
+      "word_en": "edit",
+      "example_en": "The editor worked tirelessly to perfect the final cut of the film.",
+      "word_tr": "kurgulamak",
+      "example_tr": "Editör, filmin final kurgusunu mükemmelleştirmek için gayretle çalıştı."
+    },
+    {
+      "word_en": "editor",
+      "example_en": "The editor is responsible for shaping the narrative of the film.",
+      "word_tr": "editör",
+      "example_tr": "Editör, filmin anlatısını şekillendirmekten sorumludur."
+    },
+    {
+      "word_en": "entertaining",
+      "example_en": "The movie was highly entertaining and kept the audience engaged throughout.",
+      "word_tr": "eğlenceli",
+      "example_tr": "Film çok eğlenceliydi ve izleyiciyi başından sonuna kadar bağlı tuttu."
+    },
+    {
+      "word_en": "film festival",
+      "example_en": "The movie premiered at a prestigious film festival.",
+      "word_tr": "film festivali",
+      "example_tr": "Film prestijli bir film festivalinde prömiyerini yaptı."
+    },
+    {
+      "word_en": "genre",
+      "example_en": "He enjoys movies of the horror genre.",
+      "word_tr": "tür",
+      "example_tr": "Korku türündeki filmleri seviyor."
+    },
+    {
+      "word_en": "part",
+      "example_en": "She plays a significant part in the movie.",
+      "word_tr": "rol",
+      "example_tr": "Filmin önemli bir rolünü oynuyor."
+    },
+    {
+      "word_en": "produce",
+      "example_en": "The studio plans to produce a sequel to the successful movie.",
+      "word_tr": "üretmek",
+      "example_tr": "Stüdyo, başarılı film için bir devam filmi üretmeyi planlıyor."
+    }
+  ]
+}
 
