@@ -1,1 +1,203 @@
+{
+  "words": [
+    {
+      "word_en": "store",
+      "example_en": "She went to the store to buy some groceries.",
+      "word_tr": "mağaza",
+      "example_tr": "Birkaç market alışverişi yapmak için mağazaya gitti."
+    },
+    {
+      "word_en": "summarize",
+      "example_en": "He summarized the main points of the presentation.",
+      "word_tr": "özetlemek",
+      "example_tr": "Sunumun ana noktalarını özetledi."
+    },
+    {
+      "word_en": "supply",
+      "example_en": "The company needs to supply more products to meet demand.",
+      "word_tr": "tedarik etmek",
+      "example_tr": "Şirket, talebi karşılamak için daha fazla ürün tedarik etmelidir."
+    },
+    {
+      "word_en": "survive",
+      "example_en": "He had to survive in the wilderness for a week.",
+      "word_tr": "hayatta kalmak",
+      "example_tr": "Bir hafta boyunca vahşi doğada hayatta kalmak zorundaydı."
+    },
+    {
+      "word_en": "switch",
+      "example_en": "She switched off the lights before leaving the room.",
+      "word_tr": "değiştirmek",
+      "example_tr": "Odadan çıkmadan önce ışıkları kapattı."
+    },
+    {
+      "word_en": "tend",
+      "example_en": "She tends to her garden every morning.",
+      "word_tr": "bakmak",
+      "example_tr": "Her sabah bahçesine bakar."
+    },
+    {
+      "word_en": "translate",
+      "example_en": "He translated the document from English to Spanish.",
+      "word_tr": "çevirmek",
+      "example_tr": "Belgeyi İngilizceden İspanyolcaya çevirdi."
+    },
+    {
+      "word_en": "upset",
+      "example_en": "She was upset by the news of the accident.",
+      "word_tr": "üzgün",
+      "example_tr": "Kazayla ilgili haberler onu üzdü."
+    },
+    {
+      "word_en": "view",
+      "example_en": "They have a beautiful view of the mountains from their house.",
+      "word_tr": "manzara",
+      "example_tr": "Evlerinden dağların güzel bir manzarası var."
+    },
+    {
+      "word_en": "yawn",
+      "example_en": "He couldn't help but yawn during the boring lecture.",
+      "word_tr": "esnemek",
+      "example_tr": "Sıkıcı ders sırasında esnemekten kendini alamadı."
+    },
+    {
+      "word_en": "warm",
+      "example_en": "She warmed her hands by the fire.",
+      "word_tr": "ısınmak",
+      "example_tr": "Elini ateşin yanında ısıttı."
+    },
+    {
+      "word_en": "warn",
+      "example_en": "She warned him about the icy roads.",
+      "word_tr": "uyarmak",
+      "example_tr": "Buzlu yollar hakkında onu uyardı."
+    },
+    {
+      "word_en": "waste",
+      "example_en": "They try not to waste food by only buying what they need.",
+      "word_tr": "israf etmek",
+      "example_tr": "Sadece ihtiyaç duyduklarını alarak gıda israf etmemeye çalışırlar."
+    },
+    {
+      "word_en": "wave",
+      "example_en": "He waved goodbye as the train pulled out of the station.",
+      "word_tr": "el sallamak",
+      "example_tr": "Tren istasyondan ayrılırken el salladı."
+    },
+    {
+      "word_en": "wonder",
+      "example_en": "She wondered about the meaning of life.",
+      "word_tr": "merak etmek",
+      "example_tr": "Hayatın anlamı hakkında merak etti."
+    },
+    {
+      "word_en": "pause",
+      "example_en": "He paused for a moment to collect his thoughts.",
+      "word_tr": "duraklatmak",
+      "example_tr": "Düşüncelerini toplamak için bir an duraksadı."
+    },
+    {
+      "word_en": "notice",
+      "example_en": "She noticed a strange sound coming from the basement.",
+      "word_tr": "fark etmek",
+      "example_tr": "Bodrumdan garip bir ses duyduğunu fark etti."
+    },
+    {
+      "word_en": "raise",
+      "example_en": "She raised her hand to ask a question.",
+      "word_tr": "kaldırmak",
+      "example_tr": "Soru sormak için elini kaldırdı."
+    },
+    {
+      "word_en": "respond",
+      "example_en": "He didn't respond to her text messages.",
+      "word_tr": "cevap vermek",
+      "example_tr": "Onun mesajlarına cevap vermedi."
+    },
+    {
+      "word_en": "request",
+      "example_en": "She sent a request for more information about the job.",
+      "word_tr": "istek",
+      "example_tr": "İş hakkında daha fazla bilgi isteği gönderdi."
+    },
+    {
+      "word_en": "require",
+      "example_en": "The job requires strong communication skills.",
+      "word_tr": "gerekmek",
+      "example_tr": "İş güçlü iletişim becerileri gerektirir."
+    },
+    {
+      "word_en": "revise",
+      "example_en": "She revised her essay before submitting it.",
+      "word_tr": "gözden geçirmek",
+      "example_tr": "Makalesini göndermeden önce gözden geçirdi."
+    },
+    {
+      "word_en": "risk",
+      "example_en": "They took a risk by investing in the new company.",
+      "word_tr": "risk",
+      "example_tr": "Yeni şirkete yatırım yaparak bir risk aldılar."
+    },
+    {
+      "word_en": "roll",
+      "example_en": "She rolled the dice and moved her game piece.",
+      "word_tr": "yuvarlamak",
+      "example_tr": "Zarları attı ve oyun parçasını hareket ettirdi."
+    },
+    {
+      "word_en": "scan",
+      "example_en": "He used the scanner to scan the document.",
+      "word_tr": "taramak",
+      "example_tr": "Belgeyi tarlamak için tarayıcıyı kullandı."
+    },
+    {
+      "word_en": "separate",
+      "example_en": "She used dividers to separate the different sections of her notebook.",
+      "word_tr": "ayırmak",
+      "example_tr": "Defterinin farklı bölümlerini ayırmak için bölmeler kullandı."
+    },
+    {
+      "word_en": "set",
+      "example_en": "She set the table for dinner.",
+      "word_tr": "ayarlamak",
+      "example_tr": "Akşam yemeği için masayı hazırladı."
+    },
+    {
+      "word_en": "signal",
+      "example_en": "He gave a signal to start the race.",
+      "word_tr": "sinyal",
+      "example_tr": "Yarışı başlatmak için bir sinyal verdi."
+    },
+    {
+      "word_en": "sink",
+      "example_en": "The ship began to sink after hitting an iceberg.",
+      "word_tr": "batmak",
+      "example_tr": "Buzdağına çarptıktan sonra gemi batmaya başladı."
+    },
+    {
+      "word_en": "sort",
+      "example_en": "She sorted her clothes into different piles.",
+      "word_tr": "sınıflandırmak",
+      "example_tr": "Kıyafetlerini farklı yığınlar halinde sınıflandırdı."
+    },
+    {
+      "word_en": "snore",
+      "example_en": "He snores loudly when he sleeps.",
+      "word_tr": "horlamak",
+      "example_tr": "Uyurken yüksek sesle horlar."
+    },
+    {
+      "word_en": "sniff",
+      "example_en": "She sniffed the flowers to smell their fragrance.",
+      "word_tr": "koklamak",
+      "example_tr": "Kokularını almak için çiçekleri kokladı."
+    },
+    {
+      "word_en": "stick",
+      "example_en": "She used glue to stick the pieces together.",
+      "word_tr": "yapıştırmak",
+      "example_tr": "Parçaları bir araya yapıştırmak için yapıştırıcı kullandı."
+    }
+  ]
+}
 
