@@ -1,1 +1,221 @@
+{
+  "words": [
+    {
+      "word_en": "limit",
+      "example_en": "There is a speed limit on this road.",
+      "word_tr": "sınır",
+      "example_tr": "Bu yolda bir hız sınırı var."
+    },
+    {
+      "word_en": "mess",
+      "example_en": "He made a mess in the kitchen while cooking.",
+      "word_tr": "dağınıklık",
+      "example_tr": "Yemek yaparken mutfakta bir dağınıklık yaptı."
+    },
+    {
+      "word_en": "mix",
+      "example_en": "She likes to mix different spices in her dishes.",
+      "word_tr": "karıştırmak",
+      "example_tr": "Yemeklerine farklı baharatlar karıştırmayı sever."
+    },
+    {
+      "word_en": "note",
+      "example_en": "Please make a note of the meeting time.",
+      "word_tr": "not",
+      "example_tr": "Toplantı saatinin notunu alın lütfen."
+    },
+    {
+      "word_en": "occur",
+      "example_en": "The accident occurred on the highway.",
+      "word_tr": "meydana gelmek",
+      "example_tr": "Kaza otoyolda meydana geldi."
+    },
+    {
+      "word_en": "persuade",
+      "example_en": "She tried to persuade him to go to the party.",
+      "word_tr": "ikna etmek",
+      "example_tr": "Onu partiye gitmeye ikna etmeye çalıştı."
+    },
+    {
+      "word_en": "place",
+      "example_en": "She found a quiet place to read her book.",
+      "word_tr": "yer",
+      "example_tr": "Kitabını okumak için sessiz bir yer buldu."
+    },
+    {
+      "word_en": "poison",
+      "example_en": "The poison was hidden in the food.",
+      "word_tr": "zehir",
+      "example_tr": "Zehir yiyeceğin içine gizlenmişti."
+    },
+    {
+      "word_en": "pour",
+      "example_en": "She poured some milk into her coffee.",
+      "word_tr": "dökmek",
+      "example_tr": "Kahvesine biraz süt döktü."
+    },
+    {
+      "word_en": "press",
+      "example_en": "He pressed the button to start the machine.",
+      "word_tr": "basmak",
+      "example_tr": "Makineyi çalıştırmak için düğmeye bastı."
+    },
+    {
+      "word_en": "program",
+      "example_en": "She is learning how to program computers.",
+      "word_tr": "programlamak",
+      "example_tr": "Bilgisayarları programlamayı öğreniyor."
+    },
+    {
+      "word_en": "prove",
+      "example_en": "The evidence will prove his innocence.",
+      "word_tr": "kanıtlamak",
+      "example_tr": "Kanıtlar onun masumiyetini kanıtlayacak."
+    },
+    {
+      "word_en": "qualify",
+      "example_en": "He needed to qualify for the final round of the competition.",
+      "word_tr": "kalifiye olmak",
+      "example_tr": "Yarışmanın final turuna katılmak için kalifiye olması gerekiyordu."
+    },
+    {
+      "word_en": "reflect",
+      "example_en": "The moonlight reflected off the surface of the lake.",
+      "word_tr": "yansıtmak",
+      "example_tr": "Ay ışığı gölün yüzeyinden yansıdı."
+    },
+    {
+      "word_en": "relate",
+      "example_en": "She could relate to his experience.",
+      "word_tr": "ilgili olmak",
+      "example_tr": "Onun deneyimine ilgili olabilirdi."
+    },
+    {
+      "word_en": "release",
+      "example_en": "The movie will be released next month.",
+      "word_tr": "yayınlamak",
+      "example_tr": "Film gelecek ay yayınlanacak."
+    },
+    {
+      "word_en": "remain",
+      "example_en": "Only a few cookies remain in the jar.",
+      "word_tr": "kalmak",
+      "example_tr": "Kavanozda sadece birkaç kurabiye kaldı."
+    },
+    {
+      "word_en": "remind",
+      "example_en": "She set an alarm to remind her of the meeting.",
+      "word_tr": "hatırlatmak",
+      "example_tr": "Toplantıyı hatırlatması için bir alarm kurdu."
+    },
+    {
+      "word_en": "represent",
+      "example_en": "He will represent the company at the conference.",
+      "word_tr": "temsil etmek",
+      "example_tr": "Konferansta şirketi temsil edecek."
+    },
+    {
+      "word_en": "experience",
+      "example_en": "She had a wonderful experience on her trip to Paris.",
+      "word_tr": "deneyim",
+      "example_tr": "Paris seyahatinde harika bir deneyim yaşadı."
+    },
+    {
+      "word_en": "face",
+      "example_en": "He had to face his fears to overcome them.",
+      "word_tr": "yüzleşmek",
+      "example_tr": "Korkularıyla yüzleşmek zorundaydı onları yenmek için."
+    },
+    {
+      "word_en": "fold",
+      "example_en": "She folded the letter and put it in an envelope.",
+      "word_tr": "katlamak",
+      "example_tr": "Mektubu katladı ve bir zarfa koydu."
+    },
+    {
+      "word_en": "force",
+      "example_en": "They had to use force to open the locked door.",
+      "word_tr": "zorlamak",
+      "example_tr": "Kilitli kapıyı açmak için zorlama yapmak zorunda kaldılar."
+    },
+    {
+      "word_en": "hand",
+      "example_en": "He extended his hand for a handshake.",
+      "word_tr": "el",
+      "example_tr": "Tokalaşmak için elini uzattı."
+    },
+    {
+      "word_en": "hang",
+      "example_en": "She hung her coat on the hook by the door.",
+      "word_tr": "asmak",
+      "example_tr": "Kapının yanındaki askıya ceketini astı."
+    },
+    {
+      "word_en": "head",
+      "example_en": "They headed towards the beach for a day of relaxation.",
+      "word_tr": "yönelmek",
+      "example_tr": "Rahatlamak için bir gün boyunca plaja yöneldiler."
+    },
+    {
+      "word_en": "hold on",
+      "example_en": "Please hold on to the railing while going down the stairs.",
+      "word_tr": "tutmak",
+      "example_tr": "Merdivenlerden inerken lütfen korkuluklara tutunun."
+    },
+    {
+      "word_en": "hug",
+      "example_en": "She hugged her friend tightly when they met after a long time.",
+      "word_tr": "kucaklamak",
+      "example_tr": "Uzun bir aradan sonra arkadaşını sıkı sıkı kucakladı."
+    },
+    {
+      "word_en": "ignore",
+      "example_en": "He chose to ignore the negative comments and focus on his goals.",
+      "word_tr": "aldırmamak",
+      "example_tr": "Negatif yorumları görmezden gelmeyi seçti ve hedeflerine odaklandı."
+    },
+    {
+      "word_en": "impact",
+      "example_en": "The new policy will have a significant impact on the economy.",
+      "word_tr": "etki",
+      "example_tr": "Yeni politikanın ekonomi üzerinde önemli bir etkisi olacak."
+    },
+    {
+      "word_en": "indicate",
+      "example_en": "The signs indicate the direction to the nearest exit.",
+      "word_tr": "belirtmek",
+      "example_tr": "İşaretler en yakın çıkışın yönünü belirtir."
+    },
+    {
+      "word_en": "influence",
+      "example_en": "Her parents' love of music influenced her own musical tastes.",
+      "word_tr": "etkilemek",
+      "example_tr": "Ebeveynlerinin müziğe olan ilgisi kendi müzikal zevklerini etkiledi."
+    },
+    {
+      "word_en": "iron",
+      "example_en": "She ironed her clothes before going to the party.",
+      "word_tr": "ütülemek",
+      "example_tr": "Partiye gitmeden önce kıyafetlerini ütüledi."
+    },
+    {
+      "word_en": "label",
+      "example_en": "He labeled the boxes to indicate their contents.",
+      "word_tr": "etiketlemek",
+      "example_tr": "İçeriklerini belirtmek için kutuları etiketledi."
+    },
+    {
+      "word_en": "lack",
+      "example_en": "They lack the necessary resources to complete the project.",
+      "word_tr": "eksiklik",
+      "example_tr": "Projeyi tamamlamak için gerekli kaynakları eksik."
+    },
+    {
+      "word_en": "lay",
+      "example_en": "She lay the baby down for a nap.",
+      "word_tr": "yatırmak",
+      "example_tr": "Bebeği bir şekerleme için yatırdı."
+    }
+  ]
+}
 
