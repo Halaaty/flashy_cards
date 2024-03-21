@@ -1,1 +1,209 @@
+{
+  "words": [
+    {
+      "word_en": "listener",
+      "example_en": "The radio station has many loyal listeners.",
+      "word_tr": "dinleyici",
+      "example_tr": "Radyo istasyonunun çok sayıda sadık dinleyicisi var."
+    },
+    {
+      "word_en": "live",
+      "example_en": "The concert was broadcast live on television.",
+      "word_tr": "canlı",
+      "example_tr": "Konser televizyonda canlı olarak yayınlandı."
+    },
+    {
+      "word_en": "network",
+      "example_en": "She works for a large television network.",
+      "word_tr": "ağ",
+      "example_tr": "Büyük bir televizyon ağında çalışıyor."
+    },
+    {
+      "word_en": "station",
+      "example_en": "He listens to the news on the radio station every morning.",
+      "word_tr": "istasyon",
+      "example_tr": "Her sabah radyo istasyonunda haberleri dinler."
+    },
+    {
+      "word_en": "piece",
+      "example_en": "She wrote a thoughtful piece on climate change.",
+      "word_tr": "parça",
+      "example_tr": "İklim değişikliği üzerine düşünceli bir yazı yazdı."
+    },
+    {
+      "word_en": "podcast",
+      "example_en": "She listens to podcasts on her way to work.",
+      "word_tr": "podcast",
+      "example_tr": "İşe giderken podcast'leri dinler."
+    },
+    {
+      "word_en": "press",
+      "example_en": "The press covered the event extensively.",
+      "word_tr": "basın",
+      "example_tr": "Basın etkinliği geniş kapsamda ele aldı."
+    },
+    {
+      "word_en": "reader",
+      "example_en": "She's an avid reader of mystery novels.",
+      "word_tr": "okuyucu",
+      "example_tr": "O, polisiye romanların tutkulu bir okuyucusudur."
+    },
+    {
+      "word_en": "report",
+      "example_en": "The journalist filed a report on the city's infrastructure.",
+      "word_tr": "rapor",
+      "example_tr": "Gazeteci, şehrin altyapısı hakkında bir rapor sundu."
+    },
+    {
+      "word_en": "show",
+      "example_en": "The TV show airs every Monday evening.",
+      "word_tr": "gösteri",
+      "example_tr": "Televizyon gösterisi her pazartesi akşamı yayınlanır."
+    },
+    {
+      "word_en": "soap opera",
+      "example_en": "She enjoys watching soap operas in the evenings.",
+      "word_tr": "dizi",
+      "example_tr": "Akşamları dizi izlemekten keyif alır."
+    },
+    {
+      "word_en": "view",
+      "example_en": "The documentary provides a unique view on wildlife conservation.",
+      "word_tr": "görünüm",
+      "example_tr": "Belgesel, vahşi yaşamın korunması konusunda benzersiz bir görünüm sunar."
+    },
+    {
+      "word_en": "viewer",
+      "example_en": "The TV show attracted millions of viewers.",
+      "word_tr": "izleyici",
+      "example_tr": "Televizyon programı milyonlarca izleyiciyi cezbetti."
+    },
+    {
+      "word_en": "advertisement",
+      "example_en": "They placed an advertisement in the local newspaper.",
+      "word_tr": "reklam",
+      "example_tr": "Yerel gazetede bir reklam yayınladılar."
+    },
+    {
+      "word_en": "subscribe",
+      "example_en": "She subscribed to a monthly magazine.",
+      "word_tr": "abone olmak",
+      "example_tr": "Aylık bir dergiye abone oldu."
+    },
+    {
+      "word_en": "advertise",
+      "example_en": "The company advertises its products on social media.",
+      "word_tr": "reklam yapmak",
+      "example_tr": "Şirket ürünlerini sosyal medyada reklam eder."
+    },
+    {
+      "word_en": "the media",
+      "example_en": "The media plays a significant role in shaping public opinion.",
+      "word_tr": "medya",
+      "example_tr": "Medya, kamuoyunu şekillendirmede önemli bir rol oynar."
+    },
+    {
+      "word_en": "advice column",
+      "example_en": "She enjoys reading the advice column in the newspaper.",
+      "word_tr": "danışma köşesi",
+      "example_tr": "Gazetede danışma köşesini okumaktan keyif alır."
+    },
+    {
+      "word_en": "break",
+      "example_en": "The news of the scandal was a big break for the journalist.",
+      "word_tr": "fırsat",
+      "example_tr": "Skandal haberleri, gazeteci için büyük bir fırsattı."
+    },
+    {
+      "word_en": "broadcast",
+      "example_en": "The interview was broadcast live on television.",
+      "word_tr": "yayın",
+      "example_tr": "Röportaj televizyonda canlı yayınlandı."
+    },
+    {
+      "word_en": "channel",
+      "example_en": "She switched to a different channel to watch the news.",
+      "word_tr": "kanal",
+      "example_tr": "Haberleri izlemek için farklı bir kanala geçti."
+    },
+    {
+      "word_en": "commercial",
+      "example_en": "They aired a commercial during the Super Bowl.",
+      "word_tr": "reklam",
+      "example_tr": "Süper Bowl sırasında bir reklam yayınladılar."
+    },
+    {
+      "word_en": "edition",
+      "example_en": "The latest edition of the magazine includes an interview with the author.",
+      "word_tr": "baskı",
+      "example_tr": "Derginin son baskısı yazarla yapılan bir röportajı içeriyor."
+    },
+    {
+      "word_en": "publish",
+      "example_en": "The newspaper will publish the article tomorrow.",
+      "word_tr": "yayımlamak",
+      "example_tr": "Gazete yarın makaleyi yayımlayacak."
+    },
+    {
+      "word_en": "edit",
+      "example_en": "She works as an editor for a publishing company.",
+      "word_tr": "düzenlemek",
+      "example_tr": "Bir yayınevi için editör olarak çalışıyor."
+    },
+    {
+      "word_en": "episode",
+      "example_en": "They watched the latest episode of their favorite TV show.",
+      "word_tr": "bölüm",
+      "example_tr": "En sevdikleri televizyon programının son bölümünü izlediler."
+    },
+    {
+      "word_en": "front page",
+      "example_en": "The scandal made headlines on the front page of the newspaper.",
+      "word_tr": "ön sayfa",
+      "example_tr": "Skandal, gazetenin ön sayfasında manşet oldu."
+    },
+    {
+      "word_en": "cover",
+      "example_en": "The magazine cover features a famous actress.",
+      "word_tr": "kapak",
+      "example_tr": "Derginin kapağında ünlü bir aktris var."
+    },
+    {
+      "word_en": "headline",
+      "example_en": "The headline of the article caught her attention.",
+      "word_tr": "manşet",
+      "example_tr": "Makalenin manşeti dikkatini çekti."
+    },
+    {
+      "word_en": "host",
+      "example_en": "He is the host of a popular talk show.",
+      "word_tr": "sunucu",
+      "example_tr": "O, popüler bir talk şovunun sunucusu."
+    },
+    {
+      "word_en": "interview",
+      "example_en": "She conducted an interview with the president.",
+      "word_tr": "röportaj",
+      "example_tr": "Başkanla bir röportaj gerçekleştirdi."
+    },
+    {
+      "word_en": "introduce",
+      "example_en": "The host will introduce the next guest on the show.",
+      "word_tr": "tanıtmak",
+      "example_tr": "Sunucu, programda bir sonraki konuğu tanıtacak."
+    },
+    {
+      "word_en": "item",
+      "example_en": "The news program covered several important items today.",
+      "word_tr": "madde",
+      "example_tr": "Haber programı bugün birkaç önemli konuyu ele aldı."
+    },
+    {
+      "word_en": "journal",
+      "example_en": "She keeps a journal to document her thoughts and experiences.",
+      "word_tr": "günlük",
+      "example_tr": "Düşüncelerini ve deneyimlerini belgelemek için bir günlük tutar."
+    }
+  ]
+}
 
