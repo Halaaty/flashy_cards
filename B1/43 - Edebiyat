@@ -1,1 +1,173 @@
+{
+  "words": [
+    {
+      "word_en": "review",
+      "example_en": "The movie received a positive review from critics.",
+      "word_tr": "inceleme",
+      "example_tr": "Film, eleştirmenlerden olumlu bir inceleme aldı."
+    },
+    {
+      "word_en": "setting",
+      "example_en": "The novel's setting is a quaint village in the countryside.",
+      "word_tr": "ortam",
+      "example_tr": "Romanın ortamı, kırsalda şirin bir köydür."
+    },
+    {
+      "word_en": "short story",
+      "example_en": "She wrote a captivating short story about time travel.",
+      "word_tr": "kısa hikaye",
+      "example_tr": "Zaman yolculuğu hakkında etkileyici bir kısa hikaye yazdı."
+    },
+    {
+      "word_en": "storyline",
+      "example_en": "The storyline of the novel was intriguing and unpredictable.",
+      "word_tr": "hikaye çizgisi",
+      "example_tr": "Romanın hikaye çizgisi ilginç ve öngörülemezdi."
+    },
+    {
+      "word_en": "storyteller",
+      "example_en": "She was a master storyteller, captivating her audience with every tale.",
+      "word_tr": "hikaye anlatıcısı",
+      "example_tr": "Her hikaye ile izleyicisini büyüleyen bir usta hikaye anlatıcısıydı."
+    },
+    {
+      "word_en": "tale",
+      "example_en": "The old man told a tale of his adventures in the mountains.",
+      "word_tr": "masal",
+      "example_tr": "Yaşlı adam, dağlardaki maceralarından bir masal anlattı."
+    },
+    {
+      "word_en": "title",
+      "example_en": "The title of the book hinted at its mysterious theme.",
+      "word_tr": "başlık",
+      "example_tr": "Kitabın başlığı, gizemli temasına işaret ediyordu."
+    },
+    {
+      "word_en": "verse",
+      "example_en": "She recited a beautiful verse from her favorite poem.",
+      "word_tr": "dize",
+      "example_tr": "En sevdiği şiirden güzel bir dize okudu."
+    },
+    {
+      "word_en": "writing",
+      "example_en": "His writing style was eloquent and evocative.",
+      "word_tr": "yazma",
+      "example_tr": "Yazma tarzı etkileyici ve çağrışımlıydı."
+    },
+    {
+      "word_en": "Gothic",
+      "example_en": "The novel had a dark and atmospheric Gothic setting.",
+      "word_tr": "Gotik",
+      "example_tr": "Roman, karanlık ve atmosferik bir Gotik ortama sahipti."
+    },
+    {
+      "word_en": "literary",
+      "example_en": "He appreciated the literary references woven into the novel.",
+      "word_tr": "edebi",
+      "example_tr": "Romanın içine işlenmiş edebi göndermelere değer verdi."
+    },
+    {
+      "word_en": "poetic",
+      "example_en": "Her poetic descriptions painted vivid images in the reader's mind.",
+      "word_tr": "şiirsel",
+      "example_tr": "Onun şiirsel betimlemeleri, okuyucunun zihninde canlı resimler oluşturuyordu."
+    },
+    {
+      "word_en": "young adult",
+      "example_en": "The novel is targeted at young adult readers, exploring themes relevant to that demographic.",
+      "word_tr": "genç yetişkin",
+      "example_tr": "Roman, bu demografikle ilgili temaları keşfeden genç yetişkin okuyucuları hedefliyor."
+    },
+    {
+      "word_en": "play",
+      "example_en": "The play was a comedic masterpiece, leaving the audience in stitches.",
+      "word_tr": "oyun",
+      "example_tr": "Oyun, izleyicileri kıkırdatarak bir komedi şaheseri oldu."
+    },
+    {
+      "word_en": "author",
+      "example_en": "The author of the book will be signing copies at the bookstore tomorrow.",
+      "word_tr": "yazar",
+      "example_tr": "Kitabın yazarı yarın kitapçıda imza günü yapacak."
+    },
+    {
+      "word_en": "bestseller",
+      "example_en": "Her latest novel became a bestseller within a week of its release.",
+      "word_tr": "çok satan",
+      "example_tr": "Son romanı, yayımlanmasının ardından bir hafta içinde çok satanlar listesine girdi."
+    },
+    {
+      "word_en": "biography",
+      "example_en": "She wrote a biography of the famous artist.",
+      "word_tr": "biyografi",
+      "example_tr": "Ünlü sanatçının bir biyografisini yazdı."
+    },
+    {
+      "word_en": "fairy tale",
+      "example_en": "Children love to hear fairy tales before bedtime.",
+      "word_tr": "peri masalı",
+      "example_tr": "Çocuklar yatmadan önce peri masallarını dinlemeyi severler."
+    },
+    {
+      "word_en": "fiction",
+      "example_en": "His favorite genre to read is science fiction.",
+      "word_tr": "kurgu",
+      "example_tr": "Okumayı en çok sevdiği tür bilim kurgudur."
+    },
+    {
+      "word_en": "non-fiction",
+      "example_en": "She prefers non-fiction books because she enjoys learning about real events.",
+      "word_tr": "gerçek dışı",
+      "example_tr": "Gerçek olaylar hakkında bilgi edinmeyi sevdiği için kurgu olmayan kitapları tercih ediyor."
+    },
+    {
+      "word_en": "introduction",
+      "example_en": "The introduction of the novel sets the stage for the story.",
+      "word_tr": "giriş",
+      "example_tr": "Romanın girişi, hikayenin sahnesini belirler."
+    },
+    {
+      "word_en": "metaphor",
+      "example_en": "Using the metaphor of the river, he described the passage of time.",
+      "word_tr": "metafor",
+      "example_tr": "Nehir metaforunu kullanarak, zamanın geçişini tanımladı."
+    },
+    {
+      "word_en": "mystery",
+      "example_en": "The mystery novel kept readers guessing until the very end.",
+      "word_tr": "gizem",
+      "example_tr": "Gizem romanı, okuyucuları son ana kadar merakta bıraktı."
+    },
+    {
+      "word_en": "myth",
+      "example_en": "Mythology often involves gods and heroes.",
+      "word_tr": "mit",
+      "example_tr": "Mitoloji genellikle tanrılar ve kahramanlar içerir."
+    },
+    {
+      "word_en": "plot",
+      "example_en": "The plot of the novel thickened with each chapter.",
+      "word_tr": "konu",
+      "example_tr": "Romanın konusu her bölümde karmaşıklaştı."
+    },
+    {
+      "word_en": "poem",
+      "example_en": "She recited a beautiful poem at the poetry reading.",
+      "word_tr": "şiir",
+      "example_tr": "Şiir dinletisinde güzel bir şiir okudu."
+    },
+    {
+      "word_en": "poetry",
+      "example_en": "She has a deep appreciation for poetry.",
+      "word_tr": "şiir",
+      "example_tr": "Şiire derin bir ilgisi var."
+    },
+    {
+      "word_en": "quotation",
+      "example_en": "She began her speech with a famous quotation.",
+      "word_tr": "alıntı",
+      "example_tr": "Konuşmasını ünlü bir alıntıyla başlattı."
+    }
+  ]
+}
 
