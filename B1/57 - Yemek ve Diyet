@@ -1,1 +1,185 @@
+{
+  "words": [
+    {
+      "word_en": "plant-based",
+      "example_en": "She prefers a plant-based diet for its health benefits.",
+      "word_tr": "bitki bazlı",
+      "example_tr": "Sağlık faydaları için bitki bazlı bir diyeti tercih ediyor."
+    },
+    {
+      "word_en": "popcorn",
+      "example_en": "They enjoyed watching movies with a bowl of popcorn.",
+      "word_tr": "patlamış mısır",
+      "example_tr": "Bir kase patlamış mısır eşliğinde filmleri izlemekten keyif aldılar."
+    },
+    {
+      "word_en": "pickle",
+      "example_en": "She added pickles to her sandwich for extra flavor.",
+      "word_tr": "turşu",
+      "example_tr": "Ekstra lezzet için sandviçine turşu ekledi."
+    },
+    {
+      "word_en": "raw",
+      "example_en": "He enjoys eating raw vegetables as snacks.",
+      "word_tr": "çiğ",
+      "example_tr": "Atıştırmalık olarak çiğ sebzeler yemekten hoşlanır."
+    },
+    {
+      "word_en": "ripe",
+      "example_en": "The fruit is ripe and ready to eat.",
+      "word_tr": "olgun",
+      "example_tr": "Meyve olgun ve yenmeye hazır."
+    },
+    {
+      "word_en": "take-away",
+      "example_en": "They ordered take-away pizza for dinner.",
+      "word_tr": "pakete almak",
+      "example_tr": "Akşam yemeği için paket servis pizza siparişi verdiler."
+    },
+    {
+      "word_en": "sugar-free",
+      "example_en": "She prefers sugar-free drinks to reduce her sugar intake.",
+      "word_tr": "şekersiz",
+      "example_tr": "Şeker alımını azaltmak için şeker içermeyen içecekleri tercih ediyor."
+    },
+    {
+      "word_en": "mashed potato",
+      "example_en": "Mashed potatoes are a classic side dish.",
+      "word_tr": "püre patates",
+      "example_tr": "Püre patates klasik bir yan yemektir."
+    },
+    {
+      "word_en": "croissant",
+      "example_en": "She enjoyed a warm croissant with her coffee.",
+      "word_tr": "kruvasan",
+      "example_tr": "Kahvesiyle sıcak bir kruvasanın tadını çıkardı."
+    },
+    {
+      "word_en": "wrap",
+      "example_en": "She ordered a chicken wrap for lunch.",
+      "word_tr": "sarma",
+      "example_tr": "Öğle yemeği için tavuklu sarma siparişi verdi."
+    },
+    {
+      "word_en": "cupcake",
+      "example_en": "She baked cupcakes for her friend's birthday.",
+      "word_tr": "kek",
+      "example_tr": "Arkadaşının doğum günü için cupcake pişirdi."
+    },
+    {
+      "word_en": "cheesecake",
+      "example_en": "They indulged in a slice of cheesecake for dessert.",
+      "word_tr": "peynirli kek",
+      "example_tr": "Tatlı olarak bir dilim peynirli kekin tadını çıkardılar."
+    },
+    {
+      "word_en": "donut",
+      "example_en": "She treated herself to a glazed donut.",
+      "word_tr": "donut",
+      "example_tr": "Kendine glazurlu bir donut ikram etti."
+    },
+    {
+      "word_en": "calorie",
+      "example_en": "She tracks her calorie intake to maintain a healthy weight.",
+      "word_tr": "kalori",
+      "example_tr": "Sağlıklı bir ağırlıkta kalmak için kalori alımını takip ediyor."
+    },
+    {
+      "word_en": "nutrition",
+      "example_en": "They learned about nutrition in their health class.",
+      "word_tr": "beslenme",
+      "example_tr": "Sağlık derslerinde beslenme hakkında bilgi edindiler."
+    },
+    {
+      "word_en": "chocolate",
+      "example_en": "She enjoys dark chocolate as a treat.",
+      "word_tr": "çikolata",
+      "example_tr": "Tatlı olarak bitter çikolatadan keyif alır."
+    },
+    {
+      "word_en": "pepper",
+      "example_en": "He added pepper to his soup for extra flavor.",
+      "word_tr": "biber",
+      "example_tr": "Ekstra lezzet için çorbasına biber ekledi."
+    },
+    {
+      "word_en": "Jell-O",
+      "example_en": "They made Jell-O for the kids' party.",
+      "word_tr": "jöle",
+      "example_tr": "Çocukların partisi için jöle yaptılar."
+    },
+    {
+      "word_en": "black pepper",
+      "example_en": "She sprinkled some black pepper on her pasta.",
+      "word_tr": "karabiber",
+      "example_tr": "Makarnasına biraz karabiber serpti."
+    },
+    {
+      "word_en": "bread roll",
+      "example_en": "She ordered a bread roll with her soup.",
+      "word_tr": "ekmek topu",
+      "example_tr": "Çorbasıyla birlikte bir ekmek topu sipariş etti."
+    },
+    {
+      "word_en": "cheeseburger",
+      "example_en": "He ordered a cheeseburger with fries.",
+      "word_tr": "peynirli hamburger",
+      "example_tr": "Patates kızartmasıyla birlikte bir peynirli hamburger sipariş etti."
+    },
+    {
+      "word_en": "curry",
+      "example_en": "She cooked a delicious chicken curry for dinner.",
+      "word_tr": "körü",
+      "example_tr": "Akşam yemeği için lezzetli bir tavuk körü pişirdi."
+    },
+    {
+      "word_en": "fruit salad",
+      "example_en": "They enjoyed a refreshing fruit salad on a hot day.",
+      "word_tr": "meyve salatası",
+      "example_tr": "Sıcak bir günde ferahlatıcı bir meyve salatasının tadını çıkardılar."
+    },
+    {
+      "word_en": "garlic",
+      "example_en": "She chopped some garlic for the pasta sauce.",
+      "word_tr": "sarımsak",
+      "example_tr": "Makarna sosu için biraz sarımsak doğradı."
+    },
+    {
+      "word_en": "green bean",
+      "example_en": "She cooked green beans as a side dish.",
+      "word_tr": "yeşil fasulye",
+      "example_tr": "Yan yemek olarak yeşil fasulye pişirdi."
+    },
+    {
+      "word_en": "lettuce",
+      "example_en": "She added lettuce to her sandwich for extra crunch.",
+      "word_tr": "marul",
+      "example_tr": "Ekstra çıtırlık için sandviçine marul ekledi."
+    },
+    {
+      "word_en": "loaf",
+      "example_en": "She bought a loaf of bread from the bakery.",
+      "word_tr": "ekmek",
+      "example_tr": "Fırından bir ekmek satın aldı."
+    },
+    {
+      "word_en": "mint",
+      "example_en": "She enjoys the refreshing taste of mint in her tea.",
+      "word_tr": "nane",
+      "example_tr": "Çayındaki ferahlatıcı nane tadını seviyor."
+    },
+    {
+      "word_en": "pancake",
+      "example_en": "She made pancakes for breakfast.",
+      "word_tr": "pankek",
+      "example_tr": "Kahvaltı için pankek yaptı."
+    },
+    {
+      "word_en": "peanut butter",
+      "example_en": "She spread peanut butter on her toast.",
+      "word_tr": "fıstık ezmesi",
+      "example_tr": "Tostuna fıstık ezmesi sürdü."
+    }
+  ]
+}
 
