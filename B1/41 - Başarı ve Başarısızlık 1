@@ -1,1 +1,191 @@
+{
+  "words": [
+    {
+      "word_en": "hard",
+      "example_en": "Success often requires hard work and dedication.",
+      "word_tr": "zor",
+      "example_tr": "Başarı genellikle zor çalışma ve özveri gerektirir."
+    },
+    {
+      "word_en": "lost",
+      "example_en": "After getting lost in the forest, they had to find their way back.",
+      "word_tr": "kayıp",
+      "example_tr": "Ormanda kaybolduktan sonra, yollarını geri bulmak zorunda kaldılar."
+    },
+    {
+      "word_en": "miss",
+      "example_en": "She missed her train and had to wait for the next one.",
+      "word_tr": "kaçırmak",
+      "example_tr": "Trenini kaçırdı ve bir sonraki treni beklemek zorunda kaldı."
+    },
+    {
+      "word_en": "overcome",
+      "example_en": "Despite facing many obstacles, they were able to overcome them.",
+      "word_tr": "üstesinden gelmek",
+      "example_tr": "Birçok engelle karşılaşmalarına rağmen, onların üstesinden gelebildiler."
+    },
+    {
+      "word_en": "purpose",
+      "example_en": "Finding purpose in life can bring fulfillment.",
+      "word_tr": "amaç",
+      "example_tr": "Hayatta bir amaç bulmak tatmin getirebilir."
+    },
+    {
+      "word_en": "achieve",
+      "example_en": "With determination, she was able to achieve her goals.",
+      "word_tr": "başarmak",
+      "example_tr": "Azimle, hedeflerine ulaşmayı başardı."
+    },
+    {
+      "word_en": "unsuccessful",
+      "example_en": "Despite his efforts, he was unsuccessful in his job interview.",
+      "word_tr": "başarısız",
+      "example_tr": "Çabalarına rağmen, iş mülakatında başarılı olamadı."
+    },
+    {
+      "word_en": "work",
+      "example_en": "Hard work is often key to success.",
+      "word_tr": "çalışma",
+      "example_tr": "Zor çalışmak genellikle başarının anahtarıdır."
+    },
+    {
+      "word_en": "obstacle",
+      "example_en": "They encountered many obstacles on their journey to success.",
+      "word_tr": "engel",
+      "example_tr": "Başarıya giden yolculuklarında birçok engelle karşılaştılar."
+    },
+    {
+      "word_en": "go on",
+      "example_en": "Despite the setbacks, they decided to go on with their plans.",
+      "word_tr": "devam etmek",
+      "example_tr": "Engellere rağmen, planlarına devam etmeye karar verdiler."
+    },
+    {
+      "word_en": "give up",
+      "example_en": "He refused to give up despite the challenges he faced.",
+      "word_tr": "vazgeçmek",
+      "example_tr": "Karşılaştığı zorluklara rağmen pes etmeyi reddetti."
+    },
+    {
+      "word_en": "abandon",
+      "example_en": "She abandoned her old habits and adopted healthier ones.",
+      "word_tr": "terk etmek",
+      "example_tr": "Eski alışkanlıklarını terk etti ve daha sağlıklı olanları benimsedi."
+    },
+    {
+      "word_en": "fight",
+      "example_en": "They fought against all odds to achieve their dreams.",
+      "word_tr": "mücadele etmek",
+      "example_tr": "Hayallerine ulaşmak için tüm zorluklara karşı mücadele ettiler."
+    },
+    {
+      "word_en": "accomplish",
+      "example_en": "She was determined to accomplish her goals no matter what.",
+      "word_tr": "başarmak",
+      "example_tr": "Ne olursa olsun hedeflerini başarmaya kararlıydı."
+    },
+    {
+      "word_en": "success",
+      "example_en": "Success is often the result of perseverance.",
+      "word_tr": "başarı",
+      "example_tr": "Başarı genellikle azimle çalışmanın bir sonucudur."
+    },
+    {
+      "word_en": "succeed",
+      "example_en": "Despite the odds, they managed to succeed.",
+      "word_tr": "başarılı olmak",
+      "example_tr": "Zorluklara rağmen başarılı olmayı başardılar."
+    },
+    {
+      "word_en": "try",
+      "example_en": "He will try his best to succeed in the competition.",
+      "word_tr": "denemek",
+      "example_tr": "Yarışmada başarılı olmak için elinden geleni yapacak."
+    },
+    {
+      "word_en": "attempt",
+      "example_en": "She made an attempt to solve the puzzle but failed.",
+      "word_tr": "girişim",
+      "example_tr": "Bulmacayı çözmeye bir girişimde bulundu ama başarısız oldu."
+    },
+    {
+      "word_en": "cost",
+      "example_en": "The cost of the project exceeded their budget.",
+      "word_tr": "maliyet",
+      "example_tr": "Projenin maliyeti bütçelerini aştı."
+    },
+    {
+      "word_en": "difficulty",
+      "example_en": "She faced many difficulties while learning a new language.",
+      "word_tr": "zorluk",
+      "example_tr": "Yeni bir dil öğrenirken birçok zorlukla karşılaştı."
+    },
+    {
+      "word_en": "advantage",
+      "example_en": "One advantage of living in the city is easy access to amenities.",
+      "word_tr": "avantaj",
+      "example_tr": "Şehirde yaşamanın bir avantajı, olanaklara kolay erişimdir."
+    },
+    {
+      "word_en": "disadvantage",
+      "example_en": "A major disadvantage of public transportation is its unreliability.",
+      "word_tr": "dezavantaj",
+      "example_tr": "Toplu taşımanın önemli bir dezavantajı güvenilmezliğidir."
+    },
+    {
+      "word_en": "disappointing",
+      "example_en": "The exam results were disappointing.",
+      "word_tr": "hayal kırıklığı",
+      "example_tr": "Sınav sonuçları hayal kırıklığıydı."
+    },
+    {
+      "word_en": "expectation",
+      "example_en": "Her performance exceeded everyone's expectations.",
+      "word_tr": "beklenti",
+      "example_tr": "Performansı herkesin beklentisini aştı."
+    },
+    {
+      "word_en": "enemy",
+      "example_en": "They considered poverty as their worst enemy.",
+      "word_tr": "düşman",
+      "example_tr": "Yoksulluğu en kötü düşmanları olarak görüyorlardı."
+    },
+    {
+      "word_en": "fail",
+      "example_en": "Despite their efforts, they failed to reach the deadline.",
+      "word_tr": "başarısız olmak",
+      "example_tr": "Çabalarına rağmen, son teslim tarihine ulaşamadılar."
+    },
+    {
+      "word_en": "failure",
+      "example_en": "His failure taught him valuable lessons.",
+      "word_tr": "başarısızlık",
+      "example_tr": "Başarısızlığı ona değerli dersler verdi."
+    },
+    {
+      "word_en": "trouble",
+      "example_en": "The project ran into trouble due to unforeseen complications.",
+      "word_tr": "sorun",
+      "example_tr": "Proje, beklenmedik komplikasyonlar nedeniyle sorun yaşadı."
+    },
+    {
+      "word_en": "well-paid",
+      "example_en": "He took up a well-paid job offer in the city.",
+      "word_tr": "iyi ücretli",
+      "example_tr": "Şehirdeki iyi ücretli bir iş teklifini kabul etti."
+    },
+    {
+      "word_en": "trouble",
+      "example_en": "She had trouble understanding the instructions.",
+      "word_tr": "sorun",
+      "example_tr": "Talimatları anlamakta sorun yaşıyordu."
+    },
+    {
+      "word_en": "mistake",
+      "example_en": "Making mistakes is a natural part of the learning process.",
+      "word_tr": "hata",
+      "example_tr": "Hata yapmak, öğrenme sürecinin doğal bir parçasıdır."
+    }
+  ]
+}
 
