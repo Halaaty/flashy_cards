@@ -1,89 +1,76 @@
 {
-  "words": [
-    {
-      "word_en": "black",
-      "word_tr": "siyah",
-      "example_en": "She wore a black dress to the party.",
-      "example_tr": "Partiye siyah bir elbise giydi."
-    },
-    {
-      "word_en": "white",
-      "word_tr": "beyaz",
-      "example_en": "The walls of the room are painted white.",
-      "example_tr": "Odanın duvarları beyaza boyalı."
-    },
-    {
-      "word_en": "blue",
-      "word_tr": "mavi",
-      "example_en": "The sky is blue on a clear day.",
-      "example_tr": "Bir açık gününde gökyüzü mavi."
-    },
-    {
-      "word_en": "green",
-      "word_tr": "yeşil",
-      "example_en": "The leaves on the trees turn green in the spring.",
-      "example_tr": "Ağaçlardaki yapraklar ilkbaharda yeşerir."
-    },
-    {
-      "word_en": "yellow",
-      "word_tr": "sarı",
-      "example_en": "She picked a bouquet of yellow flowers.",
-      "example_tr": "Sarı çiçeklerden bir buket seçti."
-    },
-    {
-      "word_en": "red",
-      "word_tr": "kırmızı",
-      "example_en": "The stop sign is red.",
-      "example_tr": "Dur işareti kırmızıdır."
-    },
-    {
-      "word_en": "pink",
-      "word_tr": "pembe",
-      "example_en": "She painted her room pink.",
-      "example_tr": "Odasını pembe boyadı."
-    },
-    {
-      "word_en": "orange",
-      "word_tr": "turuncu",
-      "example_en": "The sunset painted the sky orange.",
-      "example_tr": "Günbatımı gökyüzünü turuncuya boyadı."
-    },
-    {
-      "word_en": "purple",
-      "word_tr": "mor",
-      "example_en": "She wore a purple scarf.",
-      "example_tr": "Mor bir atkı taktı."
-    },
-    {
-      "word_en": "gray",
-      "word_tr": "gri",
-      "example_en": "The sky was gray and overcast.",
-      "example_tr": "Gökyüzü gri ve bulutlu idi."
-    },
-    {
-      "word_en": "brown",
-      "word_tr": "kahverengi",
-      "example_en": "He has brown eyes.",
-      "example_tr": "Onun kahverengi gözleri var."
-    },
-    {
-      "word_en": "dark",
-      "word_tr": "koyu reng",
-      "example_en": "The room was dark because the lights were off.",
-      "example_tr": "Işıklar kapalı olduğu için oda koyuydu."
-    },
-    {
-      "word_en": "light",
-      "word_tr": "açık reng",
-      "example_en": "She prefers light colors for her bedroom.",
-      "example_tr": "Yatak odası için açık renkleri tercih eder."
-    },
-    {
-      "word_en": "color",
-      "word_tr": "renk",
-      "example_en": "What's your favorite color?",
-      "example_tr": "En sevdiğin renk nedir?"
-    }
-  ]
+    "words": [
+        {
+            "word_en": "black",
+            "word_tr": "siyah",
+            "example_en": "The cat is black.",
+            "example_tr": "Kedi siyah renktedir."
+        },
+        {
+            "word_en": "blue",
+            "word_tr": "mavi",
+            "example_en": "The sky is blue.",
+            "example_tr": "Gökyüzü mavi renktedir."
+        },
+        {
+            "word_en": "brown",
+            "word_tr": "kahverengi",
+            "example_en": "She has brown hair.",
+            "example_tr": "Saçları kahverengidir."
+        },
+        {
+            "word_en": "colour",
+            "word_tr": "renk",
+            "example_en": "What's your favorite colour?",
+            "example_tr": "En sevdiğiniz renk nedir?"
+        },
+        {
+            "word_en": "green",
+            "word_tr": "yeşil",
+            "example_en": "The grass is green.",
+            "example_tr": "Çimen yeşildir."
+        },
+        {
+            "word_en": "grey",
+            "word_tr": "gri",
+            "example_en": "The clouds are grey.",
+            "example_tr": "Bulutlar gri renktedir."
+        },
+        {
+            "word_en": "orange",
+            "word_tr": "turuncu",
+            "example_en": "She's wearing an orange dress.",
+            "example_tr": "Turuncu bir elbise giyiyor."
+        },
+        {
+            "word_en": "pink",
+            "word_tr": "pembe",
+            "example_en": "Her room is painted pink.",
+            "example_tr": "Onun odası pembe boyalıdır."
+        },
+        {
+            "word_en": "purple",
+            "word_tr": "mor",
+            "example_en": "She loves purple flowers.",
+            "example_tr": "Mor çiçekleri sever."
+        },
+        {
+            "word_en": "red",
+            "word_tr": "kırmızı",
+            "example_en": "Stop signs are red.",
+            "example_tr": "Dur işaretleri kırmızıdır."
+        },
+        {
+            "word_en": "white",
+            "word_tr": "beyaz",
+            "example_en": "The snow is white.",
+            "example_tr": "Kar beyazdır."
+        },
+        {
+            "word_en": "yellow",
+            "word_tr": "sarı",
+            "example_en": "The sun is yellow.",
+            "example_tr": "Güneş sarıdır."
+        }
+    ]
 }
-
